@@ -1,6 +1,6 @@
 ---
 id: 10552
-title: "David Ortiz - "This is our fucking city. Nobody is going to dictate our freedom. Stay strong.""
+title: "David Ortiz - 'This is our fucking city. Nobody is going to dictate our freedom. Stay strong.'"
 date: 2013-04-20T12:42:31+00:00
 author: Matt B.
 layout: post

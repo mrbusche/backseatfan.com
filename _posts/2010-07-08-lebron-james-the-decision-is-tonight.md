@@ -1,6 +1,6 @@
 ---
 id: 6703
-title: "LeBron James "The Decision" is Tonight"
+title: "LeBron James 'The Decision' is Tonight"
 date: 2010-07-08T07:23:43+00:00
 author: Ryan M.
 layout: post

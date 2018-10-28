@@ -1,6 +1,6 @@
 ---
 id: 10459
-title: "Anthony "Spice" Adams starring in Stuff NFL Free Agents Say"
+title: "Anthony 'Spice' Adams starring in Stuff NFL Free Agents Say"
 date: 2012-08-01T14:40:38+00:00
 author: Matt B.
 layout: post

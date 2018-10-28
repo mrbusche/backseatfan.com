@@ -6,8 +6,6 @@ author: Ryan M.
 layout: post
 guid: https://backseatfan.com/?p=8442
 permalink: /2010/09/daily-spin-reggie-bush-to-lose-heisman-dan-hampton-apologizes-for-katrina-comments-houshmandzadeh-signs-with-ravens/
-ply_custom:
-  - 'a:3:{s:9:"ply-title";s:0:"";s:8:"ply-desc";s:0:"";s:7:"noindex";s:0:"";}'
 image: /images/2010/09/ReggieBushheisman.jpg
 categories:
   - Daily Spin

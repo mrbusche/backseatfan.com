@@ -1,6 +1,6 @@
 ---
 id: 10377
-title: "Really ESPN? A "Chink in the Armor"?"
+title: "Really ESPN? A 'Chink in the Armor'?"
 date: 2012-02-18T06:39:08+00:00
 author: Matt B.
 layout: post

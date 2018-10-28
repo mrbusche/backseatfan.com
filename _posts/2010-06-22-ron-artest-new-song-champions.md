@@ -1,6 +1,6 @@
 ---
 id: 6365
-title: "Ron Artest new song "Champions""
+title: "Ron Artest new song 'Champions'"
 date: 2010-06-22T10:26:39+00:00
 author: Ryan M.
 layout: post
