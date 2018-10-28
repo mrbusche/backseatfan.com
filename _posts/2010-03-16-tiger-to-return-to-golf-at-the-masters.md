@@ -22,11 +22,11 @@ tags:
   </p>
 
   <p>
-    &#8220;The Masters is where I won my first major and I view this tournament with great respect. After a long and necessary time away from the game, I feel like I'm ready to start my season at Augusta,&#8221; Woods said in a statement.
+    "The Masters is where I won my first major and I view this tournament with great respect. After a long and necessary time away from the game, I feel like I'm ready to start my season at Augusta," Woods said in a statement.
   </p>
 
   <p>
-    &#8220;The major championships have always been a special focus in my career and, as a professional, I think Augusta is where I need to be, even though it's been a while since I last played.&#8221;
+    "The major championships have always been a special focus in my career and, as a professional, I think Augusta is where I need to be, even though it's been a while since I last played."
   </p>
 
   <p>
@@ -34,15 +34,15 @@ tags:
   </p>
 
   <p>
-    &#8220;I have undergone almost two months of inpatient therapy and I am continuing my treatment,&#8221; Woods said. &#8220;Although I'm returning to competition, I still have a lot of work to do in my personal life.
+    "I have undergone almost two months of inpatient therapy and I am continuing my treatment," Woods said. "Although I'm returning to competition, I still have a lot of work to do in my personal life.
   </p>
 
   <p>
-    &#8220;When I finally got into a position to think about competitive golf again, it became apparent to me that the Masters would be the earliest I could play. I called both Joe Lewis and Arnold Palmer and expressed my regrets for not attending the Tavistock Cup and the Arnold Palmer Invitational. I again want to thank them both for their support and their understanding. Those are fantastic tournaments and I look forward to competing in them again.
+    "When I finally got into a position to think about competitive golf again, it became apparent to me that the Masters would be the earliest I could play. I called both Joe Lewis and Arnold Palmer and expressed my regrets for not attending the Tavistock Cup and the Arnold Palmer Invitational. I again want to thank them both for their support and their understanding. Those are fantastic tournaments and I look forward to competing in them again.
   </p>
 
   <p>
-    &#8220;I would also like to thank the Augusta National members and staff for their support. I have deep appreciation for everything that they do to create a wonderful event for the benefit of the game.&#8221;
+    "I would also like to thank the Augusta National members and staff for their support. I have deep appreciation for everything that they do to create a wonderful event for the benefit of the game."
   </p>
 
   <p>

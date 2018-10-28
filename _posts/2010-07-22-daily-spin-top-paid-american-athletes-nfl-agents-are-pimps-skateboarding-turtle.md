@@ -27,27 +27,27 @@ tags:
 
 <div class="entry">
   <p>
-    <em>Daily Spin is pretty late today, sorry about that, better late than never I guess&#8230; But don't forget to check out our </em><a href="http://www.backseatfan.com/madden11"><em>Madden 11 giveaway</em></a><em>!</em>
+    <em>Daily Spin is pretty late today, sorry about that, better late than never I guess? But don't forget to check out our </em><a href="http://www.backseatfan.com/madden11"><em>Madden 11 giveaway</em></a><em>!</em>
   </p>
 
   <p>
-    <a href="http://sportsillustrated.cnn.com/specials/fortunate50-2010/?eref=sihp">Top Paid American Athletes</a>&#8230; Tiger is still on top, Rookies shouldn't even be on the list, but they are there because of their giant rookie contracts&#8230;  [via <a href="http://sportsillustrated.cnn.com/specials/fortunate50-2010/?eref=sihp">SI.com</a>]
+    <a href="http://sportsillustrated.cnn.com/specials/fortunate50-2010/?eref=sihp">Top Paid American Athletes</a>? Tiger is still on top, Rookies shouldn't even be on the list, but they are there because of their giant rookie contracts?  [via <a href="http://sportsillustrated.cnn.com/specials/fortunate50-2010/?eref=sihp">SI.com</a>]
   </p>
 
   <p>
-    <a href="http://www.tmz.com/2010/07/22/shaun-rogers-cleveland-browns-911-call-dui-drunk-driver/">Shaun Rodgers calls in a DUI</a> to the police&#8230;  We all thought he was an idiot when he had a gun in his bag, but he is turning out to be a model citizen&#8230; [via <a href="http://www.tmz.com/2010/07/22/shaun-rogers-cleveland-browns-911-call-dui-drunk-driver/">TMZ</a>]
+    <a href="http://www.tmz.com/2010/07/22/shaun-rogers-cleveland-browns-911-call-dui-drunk-driver/">Shaun Rodgers calls in a DUI</a> to the police?  We all thought he was an idiot when he had a gun in his bag, but he is turning out to be a model citizen? [via <a href="http://www.tmz.com/2010/07/22/shaun-rogers-cleveland-browns-911-call-dui-drunk-driver/">TMZ</a>]
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/ncb/columns/story?columnist=oneil_dana&id=5398415">20 NCAA basketball coaches anonymously talk </a>about what's wrong with college basketball&#8230; Turns out the Big 10 is the cleanest and the SEC is the dirties conference&#8230; [via <a href="http://sports.espn.go.com/ncb/columns/story?columnist=oneil_dana&id=5398415">ESPN</a>]
+    <a href="http://sports.espn.go.com/ncb/columns/story?columnist=oneil_dana&id=5398415">20 NCAA basketball coaches anonymously talk </a>about what's wrong with college basketball? Turns out the Big 10 is the cleanest and the SEC is the dirties conference? [via <a href="http://sports.espn.go.com/ncb/columns/story?columnist=oneil_dana&id=5398415">ESPN</a>]
   </p>
 
   <p>
-    <a href="http://www.sportingnews.com/mlb/article/2010-07-22/mlb-begins-testing-for-hgh-minor-leagues">Minor League Baseball will start HGH testing</a>&#8230; Isn't this going to ruin all of the prospects chances of getting to the majors? [via <a href="http://www.sportingnews.com/mlb/article/2010-07-22/mlb-begins-testing-for-hgh-minor-leagues">Sporting News</a>]
+    <a href="http://www.sportingnews.com/mlb/article/2010-07-22/mlb-begins-testing-for-hgh-minor-leagues">Minor League Baseball will start HGH testing</a>? Isn't this going to ruin all of the prospects chances of getting to the majors? [via <a href="http://www.sportingnews.com/mlb/article/2010-07-22/mlb-begins-testing-for-hgh-minor-leagues">Sporting News</a>]
   </p>
 
   <p>
-    <a href="http://ncaafootball.fanhouse.com/2010/07/22/nick-saban-owes-pimps-an-apology/">Nick Saban compares NFL agents to pimps</a>.. Some think that gives pimps a bad name, I think they are probably about equal&#8230;  [via <a href="http://ncaafootball.fanhouse.com/2010/07/22/nick-saban-owes-pimps-an-apology/">Fanhouse</a>]
+    <a href="http://ncaafootball.fanhouse.com/2010/07/22/nick-saban-owes-pimps-an-apology/">Nick Saban compares NFL agents to pimps</a>.. Some think that gives pimps a bad name, I think they are probably about equal?  [via <a href="http://ncaafootball.fanhouse.com/2010/07/22/nick-saban-owes-pimps-an-apology/">Fanhouse</a>]
   </p>
 
   <p>

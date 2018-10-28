@@ -26,7 +26,7 @@ categories:
   </p>
 
   <p>
-    <a href="http://twitter.com/ddockett/status/6425786535">Darnell Dockett</a> - <span><span>I want to send a shout outfor Ej henderson, #56 from the vikings, my prayers are with ya homie &#8212; he got hurt really bad in tonights game!</span></span>
+    <a href="http://twitter.com/ddockett/status/6425786535">Darnell Dockett</a> - <span><span>I want to send a shout outfor Ej henderson, #56 from the vikings, my prayers are with ya homie - he got hurt really bad in tonights game!</span></span>
   </p>
 
   <p>
@@ -38,7 +38,7 @@ categories:
   </p>
 
   <p>
-    <span><span><a href="http://twitter.com/vshiancoe/status/6424014826">Visanthe Shiancoe</a> - </span></span><span><span>My prayers go out to E.J Henderson and his family. GOD please be with him.. We play an extremely violent sport&#8230;</span></span>
+    <span><span><a href="http://twitter.com/vshiancoe/status/6424014826">Visanthe Shiancoe</a> - </span></span><span><span>My prayers go out to E.J Henderson and his family. GOD please be with him.. We play an extremely violent sport?</span></span>
   </p>
 
   <p>

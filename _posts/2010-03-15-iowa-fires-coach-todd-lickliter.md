@@ -33,6 +33,6 @@ tags:
   </p>
 
   <p>
-    I heard that New Mexico coach was pretty good, but the Hawkeyes aren't interested&#8230;
+    I heard that New Mexico coach was pretty good, but the Hawkeyes aren't interested?
   </p>
 </div>

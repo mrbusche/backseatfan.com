@@ -27,15 +27,15 @@ tags:
   </p>
 
   <p>
-    Recently released Quarterback <a href="http://www.azcentral.com/sports/cardinals/articles/2010/09/06/20100906matt-leinart-houston-texans.html">Matt Leinart agrees to one-year deal with the Houston Texans</a>&#8230;.  Looks like Leinart isn't going to compete for a starting job, he will be competing to be the back up to Matt Schaub. I guess that is better than being the back up to Derek Anderson.  [via <a href="http://www.azcentral.com/sports/cardinals/articles/2010/09/06/20100906matt-leinart-houston-texans.html">AZ Central</a>]
+    Recently released Quarterback <a href="http://www.azcentral.com/sports/cardinals/articles/2010/09/06/20100906matt-leinart-houston-texans.html">Matt Leinart agrees to one-year deal with the Houston Texans</a>?.  Looks like Leinart isn't going to compete for a starting job, he will be competing to be the back up to Matt Schaub. I guess that is better than being the back up to Derek Anderson.  [via <a href="http://www.azcentral.com/sports/cardinals/articles/2010/09/06/20100906matt-leinart-houston-texans.html">AZ Central</a>]
   </p>
 
   <p>
-    <a href="http://www.profootballweekly.com/2010/09/06/dan-hamptons-statement-and-apology-for-katrina-com">Dan Hampton apologizes</a> for saying that the &#8220;<a href="https://backseatfan.com/2010/09/dan-hampton-vikings-should-hit-new-orleans-like-katrina/">Vikings should Hit New Orleans like Katrina</a>&#8220;&#8230;  I don't think that comment will ever be acceptable to say, you don't hear people in the media  commenting like that about other tragedies. [ via <a href="http://www.profootballweekly.com/2010/09/06/dan-hamptons-statement-and-apology-for-katrina-com">Pro Football Weekly</a>]
+    <a href="http://www.profootballweekly.com/2010/09/06/dan-hamptons-statement-and-apology-for-katrina-com">Dan Hampton apologizes</a> for saying that the "<a href="https://backseatfan.com/2010/09/dan-hampton-vikings-should-hit-new-orleans-like-katrina/">Vikings should Hit New Orleans like Katrina</a>"?  I don't think that comment will ever be acceptable to say, you don't hear people in the media  commenting like that about other tragedies. [ via <a href="http://www.profootballweekly.com/2010/09/06/dan-hamptons-statement-and-apology-for-katrina-com">Pro Football Weekly</a>]
   </p>
 
   <p>
-    <a href="http://content.usatoday.com/communities/thehuddle/post/2010/09/tj-houshmandzadeh-ray-lewis-recruiting-him-to-ravens-to-help-win-super-bowl/1?loc=interstitialskip">T.J. Houshmandzadeh was lured to the Ravens by Ray Lewis</a>&#8230;  This is a good move for both Housh and the Ravens.  Why not add another weapon?  It is a slow risk move, and he can help the team win.  The Ravens are at the top of my list to make the Super Bowl, must be at the top for Housh as well&#8230; [ via <a href="http://content.usatoday.com/communities/thehuddle/post/2010/09/tj-houshmandzadeh-ray-lewis-recruiting-him-to-ravens-to-help-win-super-bowl/1?loc=interstitialskip">USA Today</a>]
+    <a href="http://content.usatoday.com/communities/thehuddle/post/2010/09/tj-houshmandzadeh-ray-lewis-recruiting-him-to-ravens-to-help-win-super-bowl/1?loc=interstitialskip">T.J. Houshmandzadeh was lured to the Ravens by Ray Lewis</a>?  This is a good move for both Housh and the Ravens.  Why not add another weapon?  It is a slow risk move, and he can help the team win.  The Ravens are at the top of my list to make the Super Bowl, must be at the top for Housh as well? [ via <a href="http://content.usatoday.com/communities/thehuddle/post/2010/09/tj-houshmandzadeh-ray-lewis-recruiting-him-to-ravens-to-help-win-super-bowl/1?loc=interstitialskip">USA Today</a>]
   </p>
 
   <p>

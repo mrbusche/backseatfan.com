@@ -31,7 +31,7 @@ tags:
   </p>
 
   <p>
-    3. Joe Mauer, Minnesota Twins. This season the catcher everyone in the AL was talking about was Matt &#8220;Joe Mauer with Power&#8221; Wieters. While Wieters has struggled his first month in the big leagues Mauer has become the &#8220;Joe Mauer with Power&#8221; we were all expecting Wieters to be. Mauer is batting a cool .389 and is on pace to set career highs in HR and RBI, all while missing the first month of the season and playing the most grueling position in baseball.
+    3. Joe Mauer, Minnesota Twins. This season the catcher everyone in the AL was talking about was Matt "Joe Mauer with Power" Wieters. While Wieters has struggled his first month in the big leagues Mauer has become the "Joe Mauer with Power" we were all expecting Wieters to be. Mauer is batting a cool .389 and is on pace to set career highs in HR and RBI, all while missing the first month of the season and playing the most grueling position in baseball.
   </p>
 
   <p>

@@ -36,7 +36,7 @@ tags:
   </p>
 
   <p>
-    He probably asked for a little better deal. It probably sounded like&#8230; &#8220;Awww Shucks, I guess I could play again, but I don't know if my ankle will hold up, if I had say another 3 Million Guaranteed maybe I could test out this ankle and see how it goes.&#8221; He might not of asked for it, but he probably implied it quite a bit when talking to Childress.
+    He probably asked for a little better deal. It probably sounded like? "Awww Shucks, I guess I could play again, but I don't know if my ankle will hold up, if I had say another 3 Million Guaranteed maybe I could test out this ankle and see how it goes." He might not of asked for it, but he probably implied it quite a bit when talking to Childress.
   </p>
 
   <p>

@@ -18,14 +18,14 @@ tags:
 
 <div class="entry">
   <p>
-    I puked&#8230;
+    I puked?
   </p>
 
   <p>
   </p>
 
   <p>
-    &#8230;twice
+    ?twice
   </p>
 
   <p>

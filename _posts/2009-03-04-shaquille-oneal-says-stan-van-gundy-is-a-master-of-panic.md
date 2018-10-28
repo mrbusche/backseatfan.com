@@ -18,11 +18,11 @@ tags:
   </p>
 
   <p>
-    &#8220;I heard his comment. Flopping to me is doing it more than one time, and I realized when I tried to take the charge, as I went down, I realized that that play reminded me of his whole coaching career,&#8221; O'Neal said of Van Gundy. &#8220;And one thing I really despise is a front runner, so I know for a fact that he's a master of panic, and when it gets time for his team to go in the postseason and do certain things, he will let them down because of his panic. I've been there before, I've played for him.&#8221;
+    "I heard his comment. Flopping to me is doing it more than one time, and I realized when I tried to take the charge, as I went down, I realized that that play reminded me of his whole coaching career," O'Neal said of Van Gundy. "And one thing I really despise is a front runner, so I know for a fact that he's a master of panic, and when it gets time for his team to go in the postseason and do certain things, he will let them down because of his panic. I've been there before, I've played for him."
   </p>
 
   <p>
-    <span>Shaq also added, &#8220;I've done more than him, his brother and Patrick Ewing. &#8220;Stan Van Gundy reminds me of a broke navigational system. He knows everything about everything but ain't never been nowhere.&#8221;</span>
+    <span>Shaq also added, "I've done more than him, his brother and Patrick Ewing. "Stan Van Gundy reminds me of a broke navigational system. He knows everything about everything but ain't never been nowhere."</span>
   </p>
 
   <p>
@@ -30,11 +30,11 @@ tags:
   </p>
 
   <p>
-    After his initial rant O'Neal stopped an ESPN.com reporter and said he wanted to make sure one additional quote was printed: &#8220;Now I see why everybody who plays for him doesn't like him.&#8221;
+    After his initial rant O'Neal stopped an ESPN.com reporter and said he wanted to make sure one additional quote was printed: "Now I see why everybody who plays for him doesn't like him."
   </p>
 
   <p>
-    This transgression was inspried after Howard put an elbow in O'Neal's chest and O'Neal feel to the ground. &#8220;I said I flopped, but flopping is falling and crying and complaining to the ref. I tried to take a charge. Te rules say when a guy comes into your chest and you fall, that's an offensive foul, and that's all I tried to do. I fell and I didn't complain. Dwight made a great move, but flopping is the wrong choice of words.&#8221;
+    This transgression was inspried after Howard put an elbow in O'Neal's chest and O'Neal feel to the ground. "I said I flopped, but flopping is falling and crying and complaining to the ref. I tried to take a charge. Te rules say when a guy comes into your chest and you fall, that's an offensive foul, and that's all I tried to do. I fell and I didn't complain. Dwight made a great move, but flopping is the wrong choice of words."
   </p>
 
   <p>

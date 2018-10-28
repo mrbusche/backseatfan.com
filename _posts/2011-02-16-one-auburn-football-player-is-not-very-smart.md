@@ -23,7 +23,7 @@ tags:
 
 <div class="entry">
   <p>
-    Jordan Spriggs, an Auburn football player sent out a tweet yesterday that said &#8220;man who is good at writing papers?????????????? i pay&#8230;&#8221; (Judging from the tweet, I already know that he isn't good at writing papers).
+    Jordan Spriggs, an Auburn football player sent out a tweet yesterday that said "man who is good at writing papers?????????????? i pay?" (Judging from the tweet, I already know that he isn't good at writing papers).
   </p>
 
   <p>

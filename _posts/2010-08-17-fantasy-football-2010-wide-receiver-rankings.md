@@ -50,7 +50,7 @@ categories:
   </div>
 
   <div id="_mcePaste">
-    <span style="font-size: small;"><strong>8. Greg Jennings, GB</strong> - Had a &#8220;down year&#8221; last year, but still finished with 1,113 yards. He will improve on the 4 TDs from last year</span>
+    <span style="font-size: small;"><strong>8. Greg Jennings, GB</strong> - Had a "down year" last year, but still finished with 1,113 yards. He will improve on the 4 TDs from last year</span>
   </div>
 
   <div>
@@ -66,7 +66,7 @@ categories:
   </div>
 
   <div>
-    <span style="font-size: small;"><strong>12. Steve Smith, NYG</strong> - The &#8220;other Steve Smith&#8221; will easily outshine the &#8220;real Steve Smith&#8221; this year</span>
+    <span style="font-size: small;"><strong>12. Steve Smith, NYG</strong> - The "other Steve Smith" will easily outshine the "real Steve Smith" this year</span>
   </div>
 
   <div>
@@ -130,7 +130,7 @@ categories:
   </div>
 
   <div id="_mcePaste">
-    <span style="font-size: small;"><strong>27. Donald Driver, GB</strong> -  The &#8220;he's old&#8221; talk started last year and Driver responded with his usual  70 catch 1,000 yard season</span>
+    <span style="font-size: small;"><strong>27. Donald Driver, GB</strong> -  The "he's old" talk started last year and Driver responded with his usual  70 catch 1,000 yard season</span>
   </div>
 
   <div id="_mcePaste">

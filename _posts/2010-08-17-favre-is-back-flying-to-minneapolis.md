@@ -1,6 +1,6 @@
 ---
 id: 8094
-title: "Favre &#8220;Is Back&#8221;, Flying to Minneapolis"
+title: "Favre "Is Back", Flying to Minneapolis"
 date: 2010-08-17T12:30:13+00:00
 author: Ryan M.
 layout: post
@@ -22,7 +22,7 @@ tags:
   </p>
 
   <p style="text-align: left;">
-    We are currently at &#8220;<strong>High</strong>&#8220;.
+    We are currently at "<strong>High</strong>".
   </p>
 
   <p style="text-align: center;">

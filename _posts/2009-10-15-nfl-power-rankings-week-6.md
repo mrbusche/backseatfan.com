@@ -468,7 +468,7 @@ tags:
       </td>
 
       <td style="color: #000000; font-size: 11px; cursor: text; margin: 8px;" width="405">
-        <span style="font-size: small;"><span style="font-family: arial, helvetica, sans-serif;">The Rams lost again, but at least they scored a touchdown&#8230; Outlook is not good for the Rams.</span></span>
+        <span style="font-size: small;"><span style="font-family: arial, helvetica, sans-serif;">The Rams lost again, but at least they scored a touchdown? Outlook is not good for the Rams.</span></span>
       </td>
     </tr>
   </table>

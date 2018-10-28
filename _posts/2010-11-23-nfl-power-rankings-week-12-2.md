@@ -85,7 +85,7 @@ tags:
             </p>
 
             <p>
-              16. Tennessee Titans (5-5) - I think the field has officially been stretched&#8230; wait.
+              16. Tennessee Titans (5-5) - I think the field has officially been stretched? wait.
             </p>
 
             <p>

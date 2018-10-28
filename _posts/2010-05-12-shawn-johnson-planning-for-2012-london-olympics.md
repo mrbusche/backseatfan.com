@@ -27,7 +27,7 @@ tags:
   </p>
 
   <p>
-    &#8220;I got caught up in the moment,&#8221; Johnson later explained. &#8220;And what better way to do it than to inspire 8,000 kids.&#8221;
+    "I got caught up in the moment," Johnson later explained. "And what better way to do it than to inspire 8,000 kids."
   </p>
 
   <p>
@@ -39,6 +39,6 @@ tags:
   </p>
 
   <p>
-    &#8220;(There's) something about it that called me back,&#8221; Johnson said of gymnastics. &#8220;I'm a little kid at heart. I can't get away from it and I missed it a lot.&#8221;
+    "(There's) something about it that called me back," Johnson said of gymnastics. "I'm a little kid at heart. I can't get away from it and I missed it a lot."
   </p>
 </div>

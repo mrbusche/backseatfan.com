@@ -1,6 +1,6 @@
 ---
 id: 5596
-title: "Eminem uses Ben Roethlisberger in new song &#8220;Despicable&#8221;"
+title: "Eminem uses Ben Roethlisberger in new song "Despicable""
 date: 2010-04-29T15:41:21+00:00
 author: Ryan M.
 layout: post
@@ -20,7 +20,7 @@ tags:
 
 <div class="entry">
   <p>
-    Eminem references Ben Roethlisberger in his new song &#8220;Despicable&#8221;. At about the 35 second mark the lyrics say: &#8220;I'd rather turn this club into a bar room brawl. Get as rowdy as Roethlisberger in a bathroom stall.&#8221;
+    Eminem references Ben Roethlisberger in his new song "Despicable". At about the 35 second mark the lyrics say: "I'd rather turn this club into a bar room brawl. Get as rowdy as Roethlisberger in a bathroom stall."
   </p>
 
   <p>

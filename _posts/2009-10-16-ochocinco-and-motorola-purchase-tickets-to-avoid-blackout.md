@@ -25,7 +25,7 @@ tags:
   </p>
 
   <p>
-    &#8220;<span style="background-color: #ffffff;">Attention: On behalf of Motorola and Esteban Ocho Cinco we've purchased the remaining tickets for Sundays game= no blackout&#8221;</span>
+    "<span style="background-color: #ffffff;">Attention: On behalf of Motorola and Esteban Ocho Cinco we've purchased the remaining tickets for Sundays game= no blackout"</span>
   </p>
 
   <p>

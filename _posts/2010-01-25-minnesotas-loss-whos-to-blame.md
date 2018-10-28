@@ -38,11 +38,11 @@ tags:
   <a href="/images/2010/01/childress-beard-234x300.jpg"><img class="size-full wp-image-3828      " title="childress-beard-234x300" src="/images/2010/01/childress-beard-234x300.jpg" alt="childress-beard-234x300" width="155" height="203" /></a><figcaption class="wp-caption-text">I just look creepy, really,Â I did nothing wrong! Honestly!</figcaption></figure>
 
   <p>
-    <strong>The Mastermind. Brad &#8220;The Pedophile&#8221; Childress</strong>
+    <strong>The Mastermind. Brad "The Pedophile" Childress</strong>
   </p>
 
   <p>
-    (I can neither confirm nor deny that he looks like every guy on, &#8220;To Catch a Predator&#8221;).  Can we blame him? For the most part yes we can. I think he out-coached himself. Tremendously. I am sure he is a super smart guy and he brought Favre in. Give him credit, he made this whole dream come true, but his game plan was terrible.
+    (I can neither confirm nor deny that he looks like every guy on, "To Catch a Predator").  Can we blame him? For the most part yes we can. I think he out-coached himself. Tremendously. I am sure he is a super smart guy and he brought Favre in. Give him credit, he made this whole dream come true, but his game plan was terrible.
   </p>
 
   <p style="text-align: left;">

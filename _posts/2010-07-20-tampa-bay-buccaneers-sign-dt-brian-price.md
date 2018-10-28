@@ -28,7 +28,7 @@ tags:
   </p>
 
   <p>
-    &#8220;I'm glad my agent got the deal done, so now I can concentrate on having a great training camp. I'm looking forward to contributing to the Buccaneers' dominant defensive tradition,&#8221; Price, said in a statement.
+    "I'm glad my agent got the deal done, so now I can concentrate on having a great training camp. I'm looking forward to contributing to the Buccaneers' dominant defensive tradition," Price, said in a statement.
   </p>
 
   <p>

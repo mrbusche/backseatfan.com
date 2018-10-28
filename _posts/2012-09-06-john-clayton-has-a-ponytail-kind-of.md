@@ -1,6 +1,6 @@
 ---
 id: 10493
-title: "John Clayton has a Ponytail. Kind of&#8230;"
+title: "John Clayton has a Ponytail. Kind of?"
 date: 2012-09-06T12:28:12+00:00
 author: Ryan M.
 layout: post
@@ -20,7 +20,7 @@ tags:
 
 <div class="entry">
   <p>
-    The Mythical John Clayton Ponytail, has anyone ever seen it? How long is it? How does he hide it so well. All these things are answered in the new &#8220;This is Sportcenter - John Clayton&#8221; ESPN commercial.
+    The Mythical John Clayton Ponytail, has anyone ever seen it? How long is it? How does he hide it so well. All these things are answered in the new "This is Sportcenter - John Clayton" ESPN commercial.
   </p>
 
   <p>

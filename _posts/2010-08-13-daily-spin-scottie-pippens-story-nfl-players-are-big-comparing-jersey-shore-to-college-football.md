@@ -30,23 +30,23 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.chicagotribune.com/sports/basketball/bulls/ct-spt-0813-haugh-chicago--20100812,0,145825.column">How Scottie Pippen became the Scottie Pippen we know today</a>, a hall of famer.   Scottie Pippen helped make Michael Jordan the champion that he is today.  Just like how LeBron will be Wades' Pippen&#8230; [ via <a href="http://www.chicagotribune.com/sports/basketball/bulls/ct-spt-0813-haugh-chicago--20100812,0,145825.column">Chicago Tribune</a>]
+    <a href="http://www.chicagotribune.com/sports/basketball/bulls/ct-spt-0813-haugh-chicago--20100812,0,145825.column">How Scottie Pippen became the Scottie Pippen we know today</a>, a hall of famer.   Scottie Pippen helped make Michael Jordan the champion that he is today.  Just like how LeBron will be Wades' Pippen? [ via <a href="http://www.chicagotribune.com/sports/basketball/bulls/ct-spt-0813-haugh-chicago--20100812,0,145825.column">Chicago Tribune</a>]
   </p>
 
   <p>
-    <a href="http://sports.yahoo.com/nfl/news?slug=lc-stallworthsecondchance081210">Donte' Stallworth took a plea deal to avoid trial</a>, he probably would have won his trial.  He was trying to do the right thing for the family of the man that he accidental killed.  On a side note, I think Stallworth is going to go crazy this season with the Ravens, he seems like a pretty hungry number 3 WR&#8230;. [via <a href="http://sports.yahoo.com/nfl/news?slug=lc-stallworthsecondchance081210">Yahoo Sports</a>]
+    <a href="http://sports.yahoo.com/nfl/news?slug=lc-stallworthsecondchance081210">Donte' Stallworth took a plea deal to avoid trial</a>, he probably would have won his trial.  He was trying to do the right thing for the family of the man that he accidental killed.  On a side note, I think Stallworth is going to go crazy this season with the Ravens, he seems like a pretty hungry number 3 WR?. [via <a href="http://sports.yahoo.com/nfl/news?slug=lc-stallworthsecondchance081210">Yahoo Sports</a>]
   </p>
 
   <p>
-    <a href="http://scores.espn.go.com/nfl/recap?gameId=300812033">I guess there was preseason football last night</a>&#8230;  So close to the regular season, yet so far away&#8230; [via <a href="http://scores.espn.go.com/nfl/recap?gameId=300812033">ESPN</a>]
+    <a href="http://scores.espn.go.com/nfl/recap?gameId=300812033">I guess there was preseason football last night</a>?  So close to the regular season, yet so far away? [via <a href="http://scores.espn.go.com/nfl/recap?gameId=300812033">ESPN</a>]
   </p>
 
   <p>
-    Comparing the Jersey Shore cast to College football players and coaches&#8230;  [via <a href="http://thebiglead.com/index.php/2010/08/12/comparing-jersey-shore-characters-to-college-football-players-and-coaches/">The Big Lead</a>]
+    Comparing the Jersey Shore cast to College football players and coaches?  [via <a href="http://thebiglead.com/index.php/2010/08/12/comparing-jersey-shore-characters-to-college-football-players-and-coaches/">The Big Lead</a>]
   </p>
 
   <p>
-    Ben Roethlisberger changed his hometown from Findlay, Ohio to Corey Rawson, a town that doesn't exist&#8230; How is this even possible?  [via <a href="http://profootballtalk.nbcsports.com/2010/08/12/big-ben-ditches-his-hometown/?related=1">PFT</a>]
+    Ben Roethlisberger changed his hometown from Findlay, Ohio to Corey Rawson, a town that doesn't exist? How is this even possible?  [via <a href="http://profootballtalk.nbcsports.com/2010/08/12/big-ben-ditches-his-hometown/?related=1">PFT</a>]
   </p>
 
   <p>

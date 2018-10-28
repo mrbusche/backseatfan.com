@@ -20,6 +20,6 @@ tags:
 
 <div class="entry">
   <p>
-    <br /> Jason Kidd Elbows Mike Woodson for being on the court. Kidd drew a technical for this, because Woodson was on the court. Maybe he shouldn't have thrown an elbow, maybe fake fall, which could have started a really great brawl. And sweet news headlines &#8220;Coach attacks Kidd&#8221; , &#8220;Coach Trips Kidd during game&#8221;.
+    <br /> Jason Kidd Elbows Mike Woodson for being on the court. Kidd drew a technical for this, because Woodson was on the court. Maybe he shouldn't have thrown an elbow, maybe fake fall, which could have started a really great brawl. And sweet news headlines "Coach attacks Kidd" , "Coach Trips Kidd during game".
   </p>
 </div>

@@ -27,6 +27,6 @@ tags:
   </p>
 
   <p>
-    Image via &#8220;<a href="http://www.sportingnews.com/blog/the_sporting_blog">The Sporting Blog</a>&#8221;
+    Image via "<a href="http://www.sportingnews.com/blog/the_sporting_blog">The Sporting Blog</a>"
   </p>
 </div>

@@ -29,7 +29,7 @@ tags:
     </p>
 
     <p>
-      Lou Holtz - &#8220;Sam Bradford needs to learn how to fall, he needs to twist and land on his back&#8221;
+      Lou Holtz - "Sam Bradford needs to learn how to fall, he needs to twist and land on his back"
     </p>
 
     <p>

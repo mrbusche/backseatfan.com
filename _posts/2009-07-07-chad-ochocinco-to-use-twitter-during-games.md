@@ -20,7 +20,7 @@ tags:
   </p>
 
   <p>
-    <em>&#8220;You know, it's funny - I like it. I like it because it gives me the opportunity to reach out to thousands of people at one time. It gives me a chance to get my story across when something goes wrong . . . It's big for me and I'm taking it a step further. I have my own application coming out where people will be able to interact and follow me. You know more than through just the keyboard and reading my messages - you'll actually be able to follow me and when the season starts, it's going to get even worse. I'm going to really make it fun. I'm using Twitter during games, during halftime, after the games. I'm going to be taking it to the next level.&#8221;</em>
+    <em>"You know, it's funny - I like it. I like it because it gives me the opportunity to reach out to thousands of people at one time. It gives me a chance to get my story across when something goes wrong . . . It's big for me and I'm taking it a step further. I have my own application coming out where people will be able to interact and follow me. You know more than through just the keyboard and reading my messages - you'll actually be able to follow me and when the season starts, it's going to get even worse. I'm going to really make it fun. I'm using Twitter during games, during halftime, after the games. I'm going to be taking it to the next level."</em>
   </p>
 
   <p>

@@ -17,7 +17,7 @@ categories:
   </p>
 
   <p>
-    <em>&#8220;I keep getting this ? About FF should I draft u? Well if u don't u will be sorry, it's on u.&#8221;</em>
+    <em>"I keep getting this ? About FF should I draft u? Well if u don't u will be sorry, it's on u."</em>
   </p>
 
   <p>
@@ -25,7 +25,7 @@ categories:
   </p>
 
   <p>
-    <em>&#8220;Thx 4 the support I PROMISE I will RUN like the only way I know how. That's BEAST MODE!!&#8221;</em>
+    <em>"Thx 4 the support I PROMISE I will RUN like the only way I know how. That's BEAST MODE!!"</em>
   </p>
 
   <p>

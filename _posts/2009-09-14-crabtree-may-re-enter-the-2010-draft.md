@@ -24,6 +24,6 @@ tags:
   </p>
 
   <p>
-    Crabtree is just afraid of Singletary. By not signing he is probably on Singletary's bad side. I really don't think you want to be on Singletary's bad side. He will tackle you, yell at you, and probably make you run &#8220;The Hill&#8221; while you carry him on your back.
+    Crabtree is just afraid of Singletary. By not signing he is probably on Singletary's bad side. I really don't think you want to be on Singletary's bad side. He will tackle you, yell at you, and probably make you run "The Hill" while you carry him on your back.
   </p>
 </div>

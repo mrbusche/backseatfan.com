@@ -12,7 +12,7 @@ categories:
 
 <div class="entry">
   <p>
-    It turns out that the only one hoping for an expansion in the Big Ten was Joe Paterno and myself. Paterno was quoted as saying by the Columbus Dispatch.&#8220;We go into hiding for six weeks, Everybody else is playing playoffs on television. You never see a Big Ten team mentioned. So I think that's a handicap.&#8221;Delany shot down the idea, saying there is no plans to expand (ESPN).
+    It turns out that the only one hoping for an expansion in the Big Ten was Joe Paterno and myself. Paterno was quoted as saying by the Columbus Dispatch."We go into hiding for six weeks, Everybody else is playing playoffs on television. You never see a Big Ten team mentioned. So I think that's a handicap."Delany shot down the idea, saying there is no plans to expand (ESPN).
   </p>
 
   <p>

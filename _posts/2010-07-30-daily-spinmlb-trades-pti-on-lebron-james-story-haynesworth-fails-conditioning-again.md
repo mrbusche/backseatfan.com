@@ -1,6 +1,6 @@
 ---
 id: 7543
-title: "Daily Spin: MLB Trades, PTI on LeBron James Story, Haynesworth Fails Conditioning&#8230; Again"
+title: "Daily Spin: MLB Trades, PTI on LeBron James Story, Haynesworth Fails Conditioning? Again"
 date: 2010-07-30T14:32:53+00:00
 author: Ryan M.
 layout: post
@@ -23,31 +23,31 @@ tags:
 
 <div class="entry">
   <p>
-    <em>A lot of signing updates today so don't forget to check those out after you look at all of these links&#8230; Have a good weekend folks, Daily Spin will be back on Monday.</em>
+    <em>A lot of signing updates today so don't forget to check those out after you look at all of these links? Have a good weekend folks, Daily Spin will be back on Monday.</em>
   </p>
 
   <p>
-    <a href="http://www.telegraph.co.uk/news/worldnews/asia/northkorea/7918468/North-Korean-football-team-shamed-in-six-hour-public-inquiry-over-World-Cup.html">North Korea  publicly shamed their Soccer team</a> for poor play in the World cup&#8230; I always thought they would have told their citizens that they won the World Cup, and it was a great success&#8230; [via <a href="http://www.telegraph.co.uk/news/worldnews/asia/northkorea/7918468/North-Korean-football-team-shamed-in-six-hour-public-inquiry-over-World-Cup.html">Telegraph</a>]
+    <a href="http://www.telegraph.co.uk/news/worldnews/asia/northkorea/7918468/North-Korean-football-team-shamed-in-six-hour-public-inquiry-over-World-Cup.html">North Korea  publicly shamed their Soccer team</a> for poor play in the World cup? I always thought they would have told their citizens that they won the World Cup, and it was a great success? [via <a href="http://www.telegraph.co.uk/news/worldnews/asia/northkorea/7918468/North-Korean-football-team-shamed-in-six-hour-public-inquiry-over-World-Cup.html">Telegraph</a>]
   </p>
 
   <p>
-    <a href="http://www.baltimoresun.com/sports/orioles/bs-sp-orioles-trade-miguel-tejada-07320100729,0,6356865.story">Baltimore Orioles traded Miguel Tejada</a> to the San Diego Padres for minor league right-handed pitcher Wynn Pelzer&#8230; [via <a href="http://www.baltimoresun.com/sports/orioles/bs-sp-orioles-trade-miguel-tejada-07320100729,0,6356865.story">Baltimore Sun</a>]
+    <a href="http://www.baltimoresun.com/sports/orioles/bs-sp-orioles-trade-miguel-tejada-07320100729,0,6356865.story">Baltimore Orioles traded Miguel Tejada</a> to the San Diego Padres for minor league right-handed pitcher Wynn Pelzer? [via <a href="http://www.baltimoresun.com/sports/orioles/bs-sp-orioles-trade-miguel-tejada-07320100729,0,6356865.story">Baltimore Sun</a>]
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/mlb/news/story?id=5421810">Nationals trade Matt Capps to Twins</a> for catcher Wilson Ramos and minor league left-hander Joe Testa&#8230;  [via <a href="http://sports.espn.go.com/mlb/news/story?id=5421810">ESPN</a>]
+    <a href="http://sports.espn.go.com/mlb/news/story?id=5421810">Nationals trade Matt Capps to Twins</a> for catcher Wilson Ramos and minor league left-hander Joe Testa?  [via <a href="http://sports.espn.go.com/mlb/news/story?id=5421810">ESPN</a>]
   </p>
 
   <p>
-    <a href="http://msn.foxsports.com/mlb/story/Fan-receives-jail-time-for-vomit-assault-at-Phillies-game-073010">Phillies fan gets up to 3 months in jail</a> for assaulting  11 year old girl with his puke&#8230; This guy was pretty disgusting, he should also be puked on every day for his punishment&#8230; [via <a href="http://msn.foxsports.com/mlb/story/Fan-receives-jail-time-for-vomit-assault-at-Phillies-game-073010">Fox Sports</a>]
+    <a href="http://msn.foxsports.com/mlb/story/Fan-receives-jail-time-for-vomit-assault-at-Phillies-game-073010">Phillies fan gets up to 3 months in jail</a> for assaulting  11 year old girl with his puke? This guy was pretty disgusting, he should also be puked on every day for his punishment? [via <a href="http://msn.foxsports.com/mlb/story/Fan-receives-jail-time-for-vomit-assault-at-Phillies-game-073010">Fox Sports</a>]
   </p>
 
   <p>
-    <a href="http://www.usatoday.com/sports/football/nfl/ravens/2010-07-30-domonique-foxworth_N.htm">Ravens CB Domonique Foxworth is out for the season</a>&#8230; This kind of ruins my #2 power rankings spot for the Ravens, but hopefully they will find a decent replacement&#8230; [via<a href="http://www.usatoday.com/sports/football/nfl/ravens/2010-07-30-domonique-foxworth_N.htm"> USA Today</a>]
+    <a href="http://www.usatoday.com/sports/football/nfl/ravens/2010-07-30-domonique-foxworth_N.htm">Ravens CB Domonique Foxworth is out for the season</a>? This kind of ruins my #2 power rankings spot for the Ravens, but hopefully they will find a decent replacement? [via<a href="http://www.usatoday.com/sports/football/nfl/ravens/2010-07-30-domonique-foxworth_N.htm"> USA Today</a>]
   </p>
 
   <p>
-    <a href="http://voices.washingtonpost.com/redskinsinsider/albert-haynesworth/albert-haynesworth-apparently.html">Albert Haynesworth failed his conditioning</a> test yesterday&#8230; And this morning&#8230; <You can go ahead and insert fat joke here> &#8230;  [via <a href="http://voices.washingtonpost.com/redskinsinsider/albert-haynesworth/albert-haynesworth-apparently.html">Washington Post</a>]
+    <a href="http://voices.washingtonpost.com/redskinsinsider/albert-haynesworth/albert-haynesworth-apparently.html">Albert Haynesworth failed his conditioning</a> test yesterday? And this morning? <You can go ahead and insert fat joke here> ?  [via <a href="http://voices.washingtonpost.com/redskinsinsider/albert-haynesworth/albert-haynesworth-apparently.html">Washington Post</a>]
   </p>
 
   <p style="text-align: center;">

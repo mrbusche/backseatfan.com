@@ -26,7 +26,7 @@ tags:
   </p>
 
   <p>
-    Childress said he wouldn't comment about the visit, but he said  &#8220;You can fill in the blanks.&#8221;
+    Childress said he wouldn't comment about the visit, but he said  "You can fill in the blanks."
   </p>
 
   <p>
@@ -34,7 +34,7 @@ tags:
   </p>
 
   <p style="padding-left: 30px;">
-    <strong>Favre is&#8230;______.</strong>
+    <strong>Favre is?______.</strong>
   </p>
 
   <p style="padding-left: 30px;">
@@ -42,11 +42,11 @@ tags:
   </p>
 
   <p>
-    (For those of you who don't know&#8230; The answer is C.  It is always C. )
+    (For those of you who don't know? The answer is C.  It is always C. )
   </p>
 
   <p>
-    There is no way Favre is going to &#8220;make up his mind&#8221; before training camp starts.  Even when it starts, he is going to milk his injury until the season starts.  Oh, and Childress already knew that he was coming back, this is all for show.
+    There is no way Favre is going to "make up his mind" before training camp starts.  Even when it starts, he is going to milk his injury until the season starts.  Oh, and Childress already knew that he was coming back, this is all for show.
   </p>
 
   <p>

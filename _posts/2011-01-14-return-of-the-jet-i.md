@@ -21,7 +21,7 @@ tags:
 
 <div class="entry">
   <p>
-    The New York Post actually put out an amazing cover.  The &#8220;Return of the Jet-i&#8221; cover makes this Jets vs Patriots game a must see for sports fans and nerds alike!
+    The New York Post actually put out an amazing cover.  The "Return of the Jet-i" cover makes this Jets vs Patriots game a must see for sports fans and nerds alike!
   </p>
 
   <p>

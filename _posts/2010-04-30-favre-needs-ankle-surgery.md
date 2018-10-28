@@ -33,7 +33,7 @@ tags:
 
   <p style="text-align: center;">
     <p>
-      &#8220;We have spoken,&#8221; Favre said in an e-mail. &#8220;To play again, I would need the surgery, as I suspected. This decision would be easy if not for my teammates and the fans and the entire Vikings staff. One year truly felt like 10 &#8212; much like Green Bay for many years. That's what I was missing in my heart I suppose, a sense of belonging.&#8221;
+      "We have spoken," Favre said in an e-mail. "To play again, I would need the surgery, as I suspected. This decision would be easy if not for my teammates and the fans and the entire Vikings staff. One year truly felt like 10 - much like Green Bay for many years. That's what I was missing in my heart I suppose, a sense of belonging."
     </p>
 
     <p>

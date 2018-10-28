@@ -280,7 +280,7 @@ tags:
   </p>
 
   <p>
-    <span style="font-size: small;"><span style="font-family: arial, helvetica, sans-serif;">Matt - <strong>Kansas City </strong>- Since Denver is the early line favorite at home I'm going with Kansas City. Arrowhead used to be a place people feared going in to, they've lost 10 straight at home but with Tony &#8220;Uh-Oh&#8221; Romo and the receiverless Cowboys coming in to town the terrible Chiefs will beat the Cowboys.</span></span>
+    <span style="font-size: small;"><span style="font-family: arial, helvetica, sans-serif;">Matt - <strong>Kansas City </strong>- Since Denver is the early line favorite at home I'm going with Kansas City. Arrowhead used to be a place people feared going in to, they've lost 10 straight at home but with Tony "Uh-Oh" Romo and the receiverless Cowboys coming in to town the terrible Chiefs will beat the Cowboys.</span></span>
   </p>
 
   <p>

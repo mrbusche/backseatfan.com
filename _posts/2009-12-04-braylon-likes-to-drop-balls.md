@@ -18,6 +18,6 @@ categories:
   </p>
 
   <p>
-    Droppy Mc Dropperson had a horrible drop last night. I could have caught this ball. You could have caught this ball. Everyone but Braylon Edwards could have caught this ball. You know what it is? The Curse of Lebron. Lebron could have caught that ball&#8230;
+    Droppy Mc Dropperson had a horrible drop last night. I could have caught this ball. You could have caught this ball. Everyone but Braylon Edwards could have caught this ball. You know what it is? The Curse of Lebron. Lebron could have caught that ball?
   </p>
 </div>

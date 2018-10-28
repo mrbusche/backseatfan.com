@@ -17,6 +17,6 @@ tags:
 
 <div class="entry">
   <p>
-    Rafael Nadal swept Tomas Berdych in straight sets Sunday to win his second Wimbledon title and eighth Grand Slam championship.<br /> The top-ranked Spaniard beat the 12th-seeded Czech 6-3, 7-5, 6-4, needing 2 hours and 13 minutes to extend his record to 5-0 in his last five Grand Slam Finals. With his 8th Grand Slam title, nadal joins an exclusive list that includes Andre Agassi, Ivan Lendl, ken Rosewall, Jimmy Connors and Fred Perry.<br /> Nadal returned to Wimbledon after missing last year with tendinitis in his knees. &#8220;It was probably one of the toughest moments in my career,&#8221; Nadal said after accepting the winner's trophy Sunday from the Duke of Kent. &#8220;A win here was always my dream. I did it two years ago.
+    Rafael Nadal swept Tomas Berdych in straight sets Sunday to win his second Wimbledon title and eighth Grand Slam championship.<br /> The top-ranked Spaniard beat the 12th-seeded Czech 6-3, 7-5, 6-4, needing 2 hours and 13 minutes to extend his record to 5-0 in his last five Grand Slam Finals. With his 8th Grand Slam title, nadal joins an exclusive list that includes Andre Agassi, Ivan Lendl, ken Rosewall, Jimmy Connors and Fred Perry.<br /> Nadal returned to Wimbledon after missing last year with tendinitis in his knees. "It was probably one of the toughest moments in my career," Nadal said after accepting the winner's trophy Sunday from the Duke of Kent. "A win here was always my dream. I did it two years ago.
   </p>
 </div>

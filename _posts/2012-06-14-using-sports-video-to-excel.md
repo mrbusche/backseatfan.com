@@ -27,11 +27,11 @@ categories:
   </h2>
 
   <p>
-    There is a lot of value in online education and the biofeedback of seeing videos. Even small-bit leagues or local kids' clubs can get high-tech (at low cost using smartphones) by posting videos of key practice sessions, and so on. The media and tools are there, in almost everybody's hands &#8212; why not &nbsp;bnuw\ use them?
+    There is a lot of value in online education and the biofeedback of seeing videos. Even small-bit leagues or local kids' clubs can get high-tech (at low cost using smartphones) by posting videos of key practice sessions, and so on. The media and tools are there, in almost everybody's hands - why not &nbsp;bnuw\ use them?
   </p>
 
   <p>
-    There are obvious connections between video and sports. Generations have become accustomed merely to watching sports, mainly from the TV era. Now, with the Web, video is everyday. Taking and making custom videos and posting and sharing them is one seamless &#8212; and quite common &#8212; activity, especially among today's youth.
+    There are obvious connections between video and sports. Generations have become accustomed merely to watching sports, mainly from the TV era. Now, with the Web, video is everyday. Taking and making custom videos and posting and sharing them is one seamless - and quite common - activity, especially among today's youth.
   </p>
 
   <p>
@@ -47,7 +47,7 @@ categories:
   </h2>
 
   <p>
-    Today, in terms of performance, there is little difference between netbooks or small laptops and tablet computers. Tablets, of course, can be toted around and used effortlessly &#8212; that makes them great sports-enjoyment tools.
+    Today, in terms of performance, there is little difference between netbooks or small laptops and tablet computers. Tablets, of course, can be toted around and used effortlessly - that makes them great sports-enjoyment tools.
   </p>
 
   <p>
@@ -71,7 +71,7 @@ categories:
   </p>
 
   <p>
-    And, for parents &#8212; such as a father with a mean poker game &#8212; a tablet provides great options to take a few moments of fun for themselves when the kids are occupied. That benefit shouldn't be underestimated! We were recently shown a list of secure tablet casinos, for example &#8212; and even you may want to <a href="http://www.classycasinos.co.uk/tablet-casinos/">go to the website</a> to check the games out.
+    And, for parents - such as a father with a mean poker game - a tablet provides great options to take a few moments of fun for themselves when the kids are occupied. That benefit shouldn't be underestimated! We were recently shown a list of secure tablet casinos, for example - and even you may want to <a href="http://www.classycasinos.co.uk/tablet-casinos/">go to the website</a> to check the games out.
   </p>
 
   <p>

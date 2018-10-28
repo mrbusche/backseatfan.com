@@ -23,7 +23,7 @@ tags:
   </p>
 
   <p>
-    This seems like this is deja vu&#8230;
+    This seems like this is deja vu?
   </p>
 
   <p>

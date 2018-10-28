@@ -25,7 +25,7 @@ tags:
   <figure id="attachment_9588" style="width: 500px" class="wp-caption aligncenter"><img class="size-full wp-image-9588" title="marathonsumoKellyGneiting" src="/images/2011/02/marathonsumoKellyGneiting.jpg" alt="" width="500" height="375" srcset="/images/2011/02/marathonsumoKellyGneiting.jpg 500w, /images/2011/02/marathonsumoKellyGneiting-300x225.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /><figcaption class="wp-caption-text">410 lb Former U.S. Sumo Champion Kelly Gneiting to run in the LA Marathon</figcaption></figure>
 
   <p>
-    Former U.S. Sumo Wrestling Champion, Kelly Gneiting will be running in the LA Marathon in March.  This large man is going to attempt a Guinness World Record for the &#8220;Heaviest Person to Complete a Marathon.&#8221;
+    Former U.S. Sumo Wrestling Champion, Kelly Gneiting will be running in the LA Marathon in March.  This large man is going to attempt a Guinness World Record for the "Heaviest Person to Complete a Marathon."
   </p>
 
   <p>

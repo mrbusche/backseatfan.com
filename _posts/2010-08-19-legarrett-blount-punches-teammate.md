@@ -38,7 +38,7 @@ tags:
 
   <blockquote>
     <p>
-      &#8220;I am not disappointed whatsoever,&#8221; Jeff Fisher said. &#8220;His past is his past. I have great confidence in the young man that he has learned from his mistake and is very competitive.&#8221;
+      "I am not disappointed whatsoever," Jeff Fisher said. "His past is his past. I have great confidence in the young man that he has learned from his mistake and is very competitive."
     </p>
   </blockquote>
 

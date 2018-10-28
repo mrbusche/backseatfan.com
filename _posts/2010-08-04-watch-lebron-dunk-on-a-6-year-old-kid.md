@@ -26,7 +26,7 @@ tags:
   </p>
 
   <p>
-    So all of you LeBron haters out there&#8230; Keep on hating.  You aren't supposed to try  to win when you are playing a 6 year old.  You are supposed to let them score, get their confidence up.  Let the games be competitive.  You aren't supposed to school them and do a ally-oop to yourself and dunk over them. LeBron obviously hasn't figured that one out. You don't see dads dunking on their sons at the age of 6 in the driveway. Well at least mine didn't.
+    So all of you LeBron haters out there? Keep on hating.  You aren't supposed to try  to win when you are playing a 6 year old.  You are supposed to let them score, get their confidence up.  Let the games be competitive.  You aren't supposed to school them and do a ally-oop to yourself and dunk over them. LeBron obviously hasn't figured that one out. You don't see dads dunking on their sons at the age of 6 in the driveway. Well at least mine didn't.
   </p>
 
   <p>

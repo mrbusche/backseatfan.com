@@ -22,7 +22,7 @@ tags:
   </div>
 
   <div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow-x: hidden; overflow-y: hidden;">
-    &#8220;There are no survivors,&#8221; said Smolensk Governor Sergey Antufyev, according to his spokesman.
+    "There are no survivors," said Smolensk Governor Sergey Antufyev, according to his spokesman.
   </div>
 
   <div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow-x: hidden; overflow-y: hidden;">
@@ -42,7 +42,7 @@ tags:
   </p>
 
   <p>
-    &#8220;There are no survivors,&#8221; said Smolensk Governor Sergey Antufyev, according to his spokesman.
+    "There are no survivors," said Smolensk Governor Sergey Antufyev, according to his spokesman.
   </p>
 
   <p>

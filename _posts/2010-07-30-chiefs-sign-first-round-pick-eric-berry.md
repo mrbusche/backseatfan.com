@@ -22,7 +22,7 @@ tags:
   </p>
 
   <p>
-    &#8220;<a href="http://twitter.com/berry1429/statuses/19923531126">Bout to head to st. Joe!!!</a>,&#8221; Berry wrote before adding, &#8220;<a href="http://twitter.com/berry1429/statuses/19924209927">Aka the deals done!</a>&#8220;.
+    "<a href="http://twitter.com/berry1429/statuses/19923531126">Bout to head to st. Joe!!!</a>," Berry wrote before adding, "<a href="http://twitter.com/berry1429/statuses/19924209927">Aka the deals done!</a>".
   </p>
 
   <p>

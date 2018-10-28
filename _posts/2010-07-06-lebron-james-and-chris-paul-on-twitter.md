@@ -26,7 +26,7 @@ tags:
   </p>
 
   <p>
-    &#8220;Hello World, the Real King James is in the Building &#8220;Finally&#8221;. My Brother @<a rel="nofollow" href="http://twitter.com/oneandonlycp3">oneandonlycp3</a> gas'd me up to jump on board so I'm here. Haaaa&#8221;
+    "Hello World, the Real King James is in the Building "Finally". My Brother @<a rel="nofollow" href="http://twitter.com/oneandonlycp3">oneandonlycp3</a> gas'd me up to jump on board so I'm here. Haaaa"
   </p>
 
   <p>

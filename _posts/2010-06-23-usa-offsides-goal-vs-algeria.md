@@ -24,6 +24,6 @@ tags:
   </p>
 
   <p>
-    USA got hosed again with another offsides call. Can there be anymore reasons to get instant replay for the World Cup? I don't understand the purpose of offsides&#8230; To level out the playing field? Wouldn't more goals in soccer be a good thing? Make it more exciting?
+    USA got hosed again with another offsides call. Can there be anymore reasons to get instant replay for the World Cup? I don't understand the purpose of offsides? To level out the playing field? Wouldn't more goals in soccer be a good thing? Make it more exciting?
   </p>
 </div>

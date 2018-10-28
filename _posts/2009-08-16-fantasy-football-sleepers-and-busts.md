@@ -116,6 +116,6 @@ categories:
   </p>
 
   <p>
-    <strong>Vernon Davis - 49ers:</strong> Don't draft him on his &#8220;potential&#8221;, people will draft him way to high. He is a backup fantasy tight end, don't touch him until the later rounds. Singletary likes winners, plus he made Davis cry. So Davis isn't on his good side.
+    <strong>Vernon Davis - 49ers:</strong> Don't draft him on his "potential", people will draft him way to high. He is a backup fantasy tight end, don't touch him until the later rounds. Singletary likes winners, plus he made Davis cry. So Davis isn't on his good side.
   </p>
 </div>

@@ -30,7 +30,7 @@ tags:
   </p>
 
   <p>
-    Miles Austin is rumored to be dating Kim Kardashian, that means&#8230; Put your money down on for the Cowboys to win the Super Bowl.  Either the Kardashian sisters  are the secret to winning a championship, or they know who to latch onto when the time is right.  Either way Jerry Jones likes his chances&#8230;
+    Miles Austin is rumored to be dating Kim Kardashian, that means? Put your money down on for the Cowboys to win the Super Bowl.  Either the Kardashian sisters  are the secret to winning a championship, or they know who to latch onto when the time is right.  Either way Jerry Jones likes his chances?
   </p>
 
   <p>

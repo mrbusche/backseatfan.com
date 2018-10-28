@@ -22,7 +22,7 @@ tags:
   </p>
 
   <p style="list-style-type: none; list-style-position: initial; list-style-image: initial; margin-top: 0px; margin-right: 0px; margin-bottom: 8px; margin-left: 0px; line-height: 18px; color: #000000; font-size: 13px; padding: 0px; border: initial none initial;">
-    The St. Louis Ram's ex-girlfriend had alleged that Jackson beat her when she was nine months pregnant until she was 'bleeding heavily'. Jackson denied the claims and called the accusations untrue and said they were &#8220;especially hurtful because those who truly know me know that those actions would be out of character for me&#8221;
+    The St. Louis Ram's ex-girlfriend had alleged that Jackson beat her when she was nine months pregnant until she was 'bleeding heavily'. Jackson denied the claims and called the accusations untrue and said they were "especially hurtful because those who truly know me know that those actions would be out of character for me"
   </p>
 
   <p style="list-style-type: none; list-style-position: initial; list-style-image: initial; margin-top: 0px; margin-right: 0px; margin-bottom: 8px; margin-left: 0px; line-height: 18px; color: #000000; font-size: 13px; padding: 0px; border: initial none initial;">

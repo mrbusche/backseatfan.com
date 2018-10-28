@@ -23,7 +23,7 @@ tags:
   </p>
 
   <p>
-    Great game by the Hawkeyes, they pretty much shut down the Yellow Jackets in the first half. And most of the 2nd half. Not really sure where that high powered Georgia Tech offense was, oh wait it was shut down by the High Powered &#8220;Vanilla&#8221; Iowa Defense! GO HAWKS! Man I wish College Football had a playoff because it would be a good one this year!
+    Great game by the Hawkeyes, they pretty much shut down the Yellow Jackets in the first half. And most of the 2nd half. Not really sure where that high powered Georgia Tech offense was, oh wait it was shut down by the High Powered "Vanilla" Iowa Defense! GO HAWKS! Man I wish College Football had a playoff because it would be a good one this year!
   </p>
 
   <p>

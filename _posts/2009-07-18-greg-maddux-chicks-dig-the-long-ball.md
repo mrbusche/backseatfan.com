@@ -15,6 +15,6 @@ categories:
   </p>
 
   <p>
-    In honor of Greg Maddux's number being retired by theAtlantaBraves we thought we would dedicate our daily video to a classic Nike commercial, &#8220;Chicks Dig the Long Ball&#8221;. Enjoy.
+    In honor of Greg Maddux's number being retired by theAtlantaBraves we thought we would dedicate our daily video to a classic Nike commercial, "Chicks Dig the Long Ball". Enjoy.
   </p>
 </div>

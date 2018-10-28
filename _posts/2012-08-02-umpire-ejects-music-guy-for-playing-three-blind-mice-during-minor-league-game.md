@@ -1,6 +1,6 @@
 ---
 id: 10462
-title: "Umpire ejects music guy for playing &#8220;Three Blind Mice&#8221; during minor league game"
+title: "Umpire ejects music guy for playing "Three Blind Mice" during minor league game"
 date: 2012-08-02T08:25:20+00:00
 author: Matt B.
 layout: post

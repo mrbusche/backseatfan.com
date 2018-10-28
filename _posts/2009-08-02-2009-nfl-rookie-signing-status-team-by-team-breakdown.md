@@ -149,7 +149,7 @@ categories:
   </p>
 
   <p>
-    10. Michael Crabtree, WR, Texas Tech - <a href="https://backseatfan.com/index.php/2009/08/micheal-crabtrees-contract-crap/">See Douchebag </a>&#8212; Also we found what the <a href="https://backseatfan.com">49ers Offering to Crabtree</a>
+    10. Michael Crabtree, WR, Texas Tech - <a href="https://backseatfan.com/index.php/2009/08/micheal-crabtrees-contract-crap/">See Douchebag </a>- Also we found what the <a href="https://backseatfan.com">49ers Offering to Crabtree</a>
   </p>
 
   <p>

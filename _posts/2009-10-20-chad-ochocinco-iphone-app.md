@@ -27,11 +27,11 @@ tags:
   </p>
 
   <p>
-    &#8220;It's going to parallel what Chad does on the field,&#8221; Jordan Palmer said. &#8220;The app is a glimpse into his life. It's got a little bit of everything.&#8221;
+    "It's going to parallel what Chad does on the field," Jordan Palmer said. "The app is a glimpse into his life. It's got a little bit of everything."
   </p>
 
   <p>
-    Unofficial quote from backup quarterback Jordan Palmer &#8220;I am not going to be playing quarterback anytime soon, I might as well make iPhone apps.&#8221;
+    Unofficial quote from backup quarterback Jordan Palmer "I am not going to be playing quarterback anytime soon, I might as well make iPhone apps."
   </p>
 
   <p>
@@ -43,7 +43,7 @@ tags:
   </p>
 
   <p>
-    &#8220;Thanks for all the nice tweets about my iPhone app,&#8221; Ochocinco tweeted back. &#8220;If u r at the stadium with an 85 on, my photographer will find u & take a pic for the app!&#8221;
+    "Thanks for all the nice tweets about my iPhone app," Ochocinco tweeted back. "If u r at the stadium with an 85 on, my photographer will find u & take a pic for the app!"
   </p>
 
   <p>

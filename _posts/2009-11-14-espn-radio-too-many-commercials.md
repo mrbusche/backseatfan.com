@@ -44,7 +44,7 @@ tags:
 
   <p style="text-align: center;">
     <p>
-      I first got a teaser from Colin Cowherd when I got in the car. That's fine I am used to that. I then switched between 5 minutes worth of <a href="http://www.youtube.com/watch?v=h05ZQ7WHw8Y">pointless commercials</a>, and 5 minutes of Rome, which depending on the day, could also be <a href="http://www.youtube.com/watch?v=ddCyLpid1Jo">pointless</a>. Then finally The Herd comes back on. All he did was repeat his same teaser, and he said said&#8220;we'll be back in 90 seconds.&#8221;
+      I first got a teaser from Colin Cowherd when I got in the car. That's fine I am used to that. I then switched between 5 minutes worth of <a href="http://www.youtube.com/watch?v=h05ZQ7WHw8Y">pointless commercials</a>, and 5 minutes of Rome, which depending on the day, could also be <a href="http://www.youtube.com/watch?v=ddCyLpid1Jo">pointless</a>. Then finally The Herd comes back on. All he did was repeat his same teaser, and he said said"we'll be back in 90 seconds."
     </p>
 
     <p>

@@ -25,11 +25,11 @@ categories:
   </p>
 
   <p style="margin-top: 0.4em; margin-bottom: 0.8em;">
-    The school released the following statement by Dez Bryant, &#8220;I made a mistake by not being entirely truthful when meeting with the NCAA. I sincerely regret my mistake and apologize to my teammates, coaches, OSU fans and the NCAA.&#8221;
+    The school released the following statement by Dez Bryant, "I made a mistake by not being entirely truthful when meeting with the NCAA. I sincerely regret my mistake and apologize to my teammates, coaches, OSU fans and the NCAA."
   </p>
 
   <p style="margin-top: 0.4em; margin-bottom: 0.8em;">
-    The bylaw Bryant apparently violated was 10.1, which states,&#8220;Knowingly furnishing the NCAA or the individual's institution false or misleading information concerning the individual's involvement in or knowledge of matters relevant to a possible violation of an NCAA regulation.&#8221;
+    The bylaw Bryant apparently violated was 10.1, which states,"Knowingly furnishing the NCAA or the individual's institution false or misleading information concerning the individual's involvement in or knowledge of matters relevant to a possible violation of an NCAA regulation."
   </p>
 
   <p style="margin-top: 0.4em; margin-bottom: 0.8em;">

@@ -26,5 +26,5 @@ tags:
 
   <p style="text-align: center;">
     <p>
-      So I assume he wants to end his career as a Jet.  But what if he doesn't even make the cut this year?  2010-2010?  Or if he switches teams or gets traded over the next couple years&#8230;  Will he add another Tattoo?  The rule should be play for a team at least one year before getting that tattoo, then you don't look like such an idiot.
+      So I assume he wants to end his career as a Jet.  But what if he doesn't even make the cut this year?  2010-2010?  Or if he switches teams or gets traded over the next couple years?  Will he add another Tattoo?  The rule should be play for a team at least one year before getting that tattoo, then you don't look like such an idiot.
     </p></div>

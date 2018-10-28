@@ -247,7 +247,7 @@ tags:
       </td>
 
       <td width="486">
-        <strong>Philadelphia Eagles (3-2) <span style="font-weight: normal;">Andy Reid announced his starting quarterback this week, &#8220;It's Michael Kolb&#8221;.  Funny man that Reid.  Expect him to keep quiet until game time, no reason to not have teams prepare for two quarterbacks. He should switch it up every week. </span></strong>
+        <strong>Philadelphia Eagles (3-2) <span style="font-weight: normal;">Andy Reid announced his starting quarterback this week, "It's Michael Kolb".  Funny man that Reid.  Expect him to keep quiet until game time, no reason to not have teams prepare for two quarterbacks. He should switch it up every week. </span></strong>
       </td>
     </tr>
 
@@ -471,7 +471,7 @@ tags:
       </td>
 
       <td width="486">
-        <strong>Buffalo Bills (0-5) <span style="font-weight: normal;"> With the first pick in 2011 NFL Draft the Buffalo Bills select&#8230;.</span></strong>
+        <strong>Buffalo Bills (0-5) <span style="font-weight: normal;"> With the first pick in 2011 NFL Draft the Buffalo Bills select?.</span></strong>
       </td>
     </tr>
   </table>

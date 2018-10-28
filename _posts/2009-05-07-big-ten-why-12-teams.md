@@ -61,7 +61,7 @@ categories:
   </p>
 
   <p style="text-align: justify;">
-    <strong>East - West &#8212;- The East is kind of stacked, but it's a simple way of breaking up the teams.<br /> </strong>
+    <strong>East - West - The East is kind of stacked, but it's a simple way of breaking up the teams.<br /> </strong>
   </p>
 
   <h3>
@@ -115,7 +115,7 @@ categories:
   </ul>
 
   <p style="text-align: justify;">
-    <strong>North-South &#8212;-</strong><span style="font-weight: normal;"><strong>This is a much more evenseparationof teams. and still an easy way to breakup the teams</strong></span><strong><br /> </strong>
+    <strong>North-South -</strong><span style="font-weight: normal;"><strong>This is a much more evenseparationof teams. and still an easy way to breakup the teams</strong></span><strong><br /> </strong>
   </p>
 
   <h3>

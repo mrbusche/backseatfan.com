@@ -29,7 +29,7 @@ tags:
   </p>
 
   <p>
-    Some big names at RB have been cut this year, Tomlinson, Westbrook, and Jones&#8230;. Who's next?
+    Some big names at RB have been cut this year, Tomlinson, Westbrook, and Jones?. Who's next?
   </p>
 
   <p>

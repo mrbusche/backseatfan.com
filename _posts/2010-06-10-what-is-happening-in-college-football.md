@@ -38,15 +38,15 @@ tags:
   </p>
 
   <p>
-    There are going to be <a href="http://cjonline.com/sports/football/2010-06-05/big_12_best_option_for_ku_ksu">5 pissed off teams in the former Big 12</a>&#8230;  Kansas, Kansas State, Iowa State, Baylor, and Missouri if you weren't keeping track.
+    There are going to be <a href="http://cjonline.com/sports/football/2010-06-05/big_12_best_option_for_ku_ksu">5 pissed off teams in the former Big 12</a>?  Kansas, Kansas State, Iowa State, Baylor, and Missouri if you weren't keeping track.
   </p>
 
   <p>
-    <a href="http://www.latimes.com/sports/la-sp-usc-20100610,0,7548894.story">USC might get a two year bowl ban</a>, scholarships taken away&#8230;  Somewhere today Pete Carroll is eating <a href="https://backseatfan.com/index.php/2010/06/golden-tate-loves-irresistible-maple-bars/">Top Pot maple bars and laughing</a>
+    <a href="http://www.latimes.com/sports/la-sp-usc-20100610,0,7548894.story">USC might get a two year bowl ban</a>, scholarships taken away?  Somewhere today Pete Carroll is eating <a href="https://backseatfan.com/index.php/2010/06/golden-tate-loves-irresistible-maple-bars/">Top Pot maple bars and laughing</a>
   </p>
 
   <p>
-    Oh&#8230; and unrelated to college football&#8230;  <a href="http://content.usatoday.com/communities/gameon/post/2010/06/tom-izzo-meets-with-players-but-no-decision-made-by-coach-or-players/1">Tom Izzo might be the next head coach of the Cleveland Cavaliers</a>
+    Oh? and unrelated to college football?  <a href="http://content.usatoday.com/communities/gameon/post/2010/06/tom-izzo-meets-with-players-but-no-decision-made-by-coach-or-players/1">Tom Izzo might be the next head coach of the Cleveland Cavaliers</a>
   </p>
 
   <p>

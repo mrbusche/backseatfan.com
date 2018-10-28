@@ -26,7 +26,7 @@ tags:
   </p>
 
   <p>
-    &#8220;I'm really lucky,&#8221; Tulowitzki said. &#8220;I can't wait to be here my entire career.&#8221;
+    "I'm really lucky," Tulowitzki said. "I can't wait to be here my entire career."
   </p>
 
   <p>
@@ -50,6 +50,6 @@ tags:
   </p>
 
   <p>
-    The best moment of this whole ordeal is what Tulowitzki said about the contract, &#8220;I love the game and that's more than enough money than I'll ever need in my entire lifetime.&#8221;
+    The best moment of this whole ordeal is what Tulowitzki said about the contract, "I love the game and that's more than enough money than I'll ever need in my entire lifetime."
   </p>
 </div>

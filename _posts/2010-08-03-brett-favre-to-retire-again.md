@@ -1,6 +1,6 @@
 ---
 id: 7828
-title: "Brett Favre to 'Retire' Again&#8230;"
+title: "Brett Favre to 'Retire' Again?"
 date: 2010-08-03T08:59:18+00:00
 author: Ryan M.
 layout: post
@@ -29,12 +29,12 @@ tags:
 
   <blockquote>
     <p>
-      Favre has sent text messages to teammates saying, &#8220;This is it,&#8221; league sources told ESPN NFL Insider Adam Schefter.
+      Favre has sent text messages to teammates saying, "This is it," league sources told ESPN NFL Insider Adam Schefter.
     </p>
   </blockquote>
 
   <p style="padding-left: 30px;">
-    <strong>&#8220;This is It&#8221; was also the name of Michael Jackson's last tour&#8230; Which means:</strong>
+    <strong>"This is It" was also the name of Michael Jackson's last tour? Which means:</strong>
   </p>
 
   <p style="padding-left: 30px;">
@@ -50,7 +50,7 @@ tags:
   </p>
 
   <p>
-    I won't believe that Favre is fully retired until he signs the papers and ships them in.  Even when he does that there is still a small chance he will get the itch and want to come back.<br /> So let's redefine retirement for Favre&#8230; He Needs to send his retirement papers in, and be retired for 2 season in order for me to consider him retired.
+    I won't believe that Favre is fully retired until he signs the papers and ships them in.  Even when he does that there is still a small chance he will get the itch and want to come back.<br /> So let's redefine retirement for Favre? He Needs to send his retirement papers in, and be retired for 2 season in order for me to consider him retired.
   </p>
 
   <p>
@@ -66,7 +66,7 @@ tags:
   </p>
 
   <p>
-    <span style="font-size: medium;"><strong>Update:</strong></span> Childress says he's not aware of Favre's intent to retire&#8230; Either Childress is lying or Favre just got bored today and decided to spread some rumors&#8230;
+    <span style="font-size: medium;"><strong>Update:</strong></span> Childress says he's not aware of Favre's intent to retire? Either Childress is lying or Favre just got bored today and decided to spread some rumors?
   </p>
 
   <p>

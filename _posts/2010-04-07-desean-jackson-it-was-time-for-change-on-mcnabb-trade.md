@@ -18,7 +18,7 @@ tags:
 
 <div class="entry">
   <p>
-    During a radio broadcast on 97.5 in Philadelphia DeSean Jackson said &#8220;It was time for a change,&#8221; according to the <a href="http://www.philly.com/philly/sports/eagles/20100407_Eagles_Notebook__Eagles_wideout_DeSean_Jackson___It_was_time_for_a_change_.html">Philadelphia Daily News</a>. &#8220;We've got some young players here. I'm just excited about everything.&#8221;
+    During a radio broadcast on 97.5 in Philadelphia DeSean Jackson said "It was time for a change," according to the <a href="http://www.philly.com/philly/sports/eagles/20100407_Eagles_Notebook__Eagles_wideout_DeSean_Jackson___It_was_time_for_a_change_.html">Philadelphia Daily News</a>. "We've got some young players here. I'm just excited about everything."
   </p>
 
   <p>
@@ -27,7 +27,7 @@ tags:
 
   <blockquote>
     <p>
-      &#8220;At the end of the day, I'm not the owner. Obviously, that's not just my opinion. [But] I'm not going to get caught up in saying . . . whatever.&#8221;
+      "At the end of the day, I'm not the owner. Obviously, that's not just my opinion. [But] I'm not going to get caught up in saying . . . whatever."
     </p>
   </blockquote>
 
@@ -37,7 +37,7 @@ tags:
 
   <blockquote>
     <p>
-      &#8220;My first thought was &#8212; not to say, &#8220;About time&#8221; &#8212; but just sitting around with just the rumors &#8230; it was just kind of tough for the team. Not knowing who was going to be here and who was going to stay. It's almost kind of a relief to know what we have here and just to go forward.&#8221;
+      "My first thought was - not to say, "About time" - but just sitting around with just the rumors ? it was just kind of tough for the team. Not knowing who was going to be here and who was going to stay. It's almost kind of a relief to know what we have here and just to go forward."
     </p>
   </blockquote>
 
@@ -47,7 +47,7 @@ tags:
 
   <blockquote>
     <p>
-      &#8220;I don't know why anybody would think that. Whatever the case was, if McNabb would have stayed another year &#8230; that's not my decision.&#8221;
+      "I don't know why anybody would think that. Whatever the case was, if McNabb would have stayed another year ? that's not my decision."
     </p>
   </blockquote>
 

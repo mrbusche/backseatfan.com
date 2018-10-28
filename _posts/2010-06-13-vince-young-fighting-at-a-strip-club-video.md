@@ -23,7 +23,7 @@ tags:
   </p>
 
   <p>
-    Apparently an upside down longhorn is &#8220;fight'n words&#8221;, I never knew that. I'm sure Longhorns fans will be seeing more of it now.
+    Apparently an upside down longhorn is "fight'n words", I never knew that. I'm sure Longhorns fans will be seeing more of it now.
   </p>
 
   <p>

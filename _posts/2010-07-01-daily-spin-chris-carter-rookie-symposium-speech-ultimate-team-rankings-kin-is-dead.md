@@ -26,27 +26,27 @@ tags:
   </p>
 
   <p>
-    Cris Carter<a href="http://www.nfl.com/videos/nfl-rookie-symposium/09000d5d818eab34/Carter-speaks-his-mind"> Rookie Symposium</a> Speech&#8230;  This is a must see video, he always tells it straight.  Oh and he calls out Brett Favre.  [via <a href="http://www.nfl.com/videos/nfl-rookie-symposium/09000d5d818eab34/Carter-speaks-his-mind">NFL</a>]
+    Cris Carter<a href="http://www.nfl.com/videos/nfl-rookie-symposium/09000d5d818eab34/Carter-speaks-his-mind"> Rookie Symposium</a> Speech?  This is a must see video, he always tells it straight.  Oh and he calls out Brett Favre.  [via <a href="http://www.nfl.com/videos/nfl-rookie-symposium/09000d5d818eab34/Carter-speaks-his-mind">NFL</a>]
   </p>
 
   <p>
-    ESPN The Magazine:  <a href="http://espn.go.com/sportsnation/teamrankings#table">Ultimate Team Rankings</a> - Saints top the list, baseball clubs seem to be favored since they are so inexpensive to goto&#8230;  Unless you are a Yankees Fan.  [<a href="http://espn.go.com/sportsnation/teamrankings#table">via ESPN</a>]
+    ESPN The Magazine:  <a href="http://espn.go.com/sportsnation/teamrankings#table">Ultimate Team Rankings</a> - Saints top the list, baseball clubs seem to be favored since they are so inexpensive to goto?  Unless you are a Yankees Fan.  [<a href="http://espn.go.com/sportsnation/teamrankings#table">via ESPN</a>]
   </p>
 
   <p>
-    <a href="http://www.azcentral.com/sports/diamondbacks/articles/2010/06/30/20100630arizona-diamondbacks-dontrelle-willis-moved.html">Dontrelle Willis</a> moved to the Bullpen&#8230; The D-backs  bullpen needs help, I hope Dontrelle can get back on track.  [via <a href="http://www.azcentral.com/sports/diamondbacks/articles/2010/06/30/20100630arizona-diamondbacks-dontrelle-willis-moved.html">AZ Central</a>]
+    <a href="http://www.azcentral.com/sports/diamondbacks/articles/2010/06/30/20100630arizona-diamondbacks-dontrelle-willis-moved.html">Dontrelle Willis</a> moved to the Bullpen? The D-backs  bullpen needs help, I hope Dontrelle can get back on track.  [via <a href="http://www.azcentral.com/sports/diamondbacks/articles/2010/06/30/20100630arizona-diamondbacks-dontrelle-willis-moved.html">AZ Central</a>]
   </p>
 
   <p>
-    <a href="http://www.usatoday.com/sports/basketball/nba/2010-07-01-scott-cavaliers-update_N.htm">Byron Scott to Coach</a> the Cleveland Cavaliers&#8230;  Probably one of the worst coaching jobs in the league since LeBron isn't going to be there. [via <a href="http://www.usatoday.com/sports/basketball/nba/2010-07-01-scott-cavaliers-update_N.htm">USA Today</a>]
+    <a href="http://www.usatoday.com/sports/basketball/nba/2010-07-01-scott-cavaliers-update_N.htm">Byron Scott to Coach</a> the Cleveland Cavaliers?  Probably one of the worst coaching jobs in the league since LeBron isn't going to be there. [via <a href="http://www.usatoday.com/sports/basketball/nba/2010-07-01-scott-cavaliers-update_N.htm">USA Today</a>]
   </p>
 
   <p>
-    NBA Free Agency Started last Night&#8230; <a href="http://sports.espn.go.com/nba/news/story?page=FreeAgency-100630">ESPN has there predictions</a>&#8230;  The World will stand still until  LeBron James is signed, hopefully it will be soon I'm sick of hearing about it. [via <a href="http://sports.espn.go.com/nba/news/story?page=FreeAgency-100630">ESPN</a>]
+    NBA Free Agency Started last Night? <a href="http://sports.espn.go.com/nba/news/story?page=FreeAgency-100630">ESPN has there predictions</a>?  The World will stand still until  LeBron James is signed, hopefully it will be soon I'm sick of hearing about it. [via <a href="http://sports.espn.go.com/nba/news/story?page=FreeAgency-100630">ESPN</a>]
   </p>
 
   <p>
-    Microsoft's terrible phone the <a href="http://www.engadget.com/2010/06/30/microsoft-kin-is-dead/">Kin is Dead</a>&#8230; When will the xbox 360 team just take over and make a good phone for Microsoft?  [via <a href="http://www.engadget.com/2010/06/30/microsoft-kin-is-dead/">engadget</a>]
+    Microsoft's terrible phone the <a href="http://www.engadget.com/2010/06/30/microsoft-kin-is-dead/">Kin is Dead</a>? When will the xbox 360 team just take over and make a good phone for Microsoft?  [via <a href="http://www.engadget.com/2010/06/30/microsoft-kin-is-dead/">engadget</a>]
   </p>
 
   <p>

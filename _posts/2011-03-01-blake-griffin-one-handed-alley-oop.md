@@ -24,7 +24,7 @@ tags:
   </p>
 
   <p>
-    This is an amazing one handed alley-oop by Blake Griffin vs the Boston Celtics. And it is still a better dunk than the over the car dunk during the All Star Dunk Contest. Since I am on the subject&#8230; This is how easy the over the car dunk us&#8230; kind of&#8230;
+    This is an amazing one handed alley-oop by Blake Griffin vs the Boston Celtics. And it is still a better dunk than the over the car dunk during the All Star Dunk Contest. Since I am on the subject? This is how easy the over the car dunk us? kind of?
   </p>
 
   <p>

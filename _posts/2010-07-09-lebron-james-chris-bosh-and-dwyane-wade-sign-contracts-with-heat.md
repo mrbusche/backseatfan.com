@@ -22,7 +22,7 @@ tags:
 
   <p style="text-align: center;">
     <p>
-      The &#8220;Miami Thrice&#8221; have all officially signed contracts with the Miami Heat. Lebron and Bosh each signed 6 year $110 million deals while Dwyane Wade signs a 6 year, $108 million deal. Now these three contracts make zero sense to me. The Heat have apparently signed Mike Miller to a 5 year $30M deal, which leaves them with barely enough money to sign me, which leaves them with not even close to enough money to sign any other player who deserves to be on an NBA roster. I don't get it. They may be the favorites in Vegas to win the title, but they're not the favorites in my eyes.
+      The "Miami Thrice" have all officially signed contracts with the Miami Heat. Lebron and Bosh each signed 6 year $110 million deals while Dwyane Wade signs a 6 year, $108 million deal. Now these three contracts make zero sense to me. The Heat have apparently signed Mike Miller to a 5 year $30M deal, which leaves them with barely enough money to sign me, which leaves them with not even close to enough money to sign any other player who deserves to be on an NBA roster. I don't get it. They may be the favorites in Vegas to win the title, but they're not the favorites in my eyes.
     </p>
 
     <p>

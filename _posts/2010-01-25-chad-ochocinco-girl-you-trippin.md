@@ -1,6 +1,6 @@
 ---
 id: 3862
-title: "Chad Ochocinco - &#8220;Girl, You Trippin&#8221;"
+title: "Chad Ochocinco - "Girl, You Trippin""
 date: 2010-01-25T13:24:14+00:00
 author: Ryan M.
 layout: post
@@ -26,6 +26,6 @@ tags:
   </p>
 
   <p>
-    Chad Ochocinco's debut performance of &#8220;Girl, You Trippin&#8221;. Recorded live at the 400 Supper Club Party hosted by Lebron James at Karma in South Beach. Featuring Bigg D and the Bottom Shelf Band.
+    Chad Ochocinco's debut performance of "Girl, You Trippin". Recorded live at the 400 Supper Club Party hosted by Lebron James at Karma in South Beach. Featuring Bigg D and the Bottom Shelf Band.
   </p>
 </div>

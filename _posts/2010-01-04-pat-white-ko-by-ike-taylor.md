@@ -27,7 +27,7 @@ tags:
   </p>
 
   <p>
-    Dolphins' team spokesperson Harvey Greene said White &#8220;seems to be OK in terms of movement&#8221; but he remains in the facility under examination.
+    Dolphins' team spokesperson Harvey Greene said White "seems to be OK in terms of movement" but he remains in the facility under examination.
   </p>
 
   <p>

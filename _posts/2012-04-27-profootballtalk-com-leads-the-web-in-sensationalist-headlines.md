@@ -18,11 +18,11 @@ tags:
 
 <div class="entry">
   <p>
-    ProFootballTalk.com the leader in posting sensationalist headlines for all things NFL news has sunk to a new low. Earlier today they tweeted out &#8220;Brother of Vernon, Vontae Davis, arrested for murder&#8221; Leading to many followers thinking WTF! why is Vontae Davis getting himself in trouble. After many replies of people saying WTF! PFT deleted the tweet and changed their article headline, but the original headline remains intact in the screenshot below. It's sad that a website owned by NBC has to sink to this level to get clicks.
+    ProFootballTalk.com the leader in posting sensationalist headlines for all things NFL news has sunk to a new low. Earlier today they tweeted out "Brother of Vernon, Vontae Davis, arrested for murder" Leading to many followers thinking WTF! why is Vontae Davis getting himself in trouble. After many replies of people saying WTF! PFT deleted the tweet and changed their article headline, but the original headline remains intact in the screenshot below. It's sad that a website owned by NBC has to sink to this level to get clicks.
   </p>
 
   <p>
-    One reader tweeted PFT &#8220;Your tweet makes it look like Vontae is the suspect&#8221; to which they responded &#8220;<a href="https://twitter.com/#!/ProFootballTalk/statuses/195914053372231680">&#8230; I agree, as it related to anyone who can't read</a>&#8221; Then they deleted the original tweet. The saddest part of this all is there isn't a better website for up to the minute NFL news, so people will still visit.
+    One reader tweeted PFT "Your tweet makes it look like Vontae is the suspect" to which they responded "<a href="https://twitter.com/#!/ProFootballTalk/statuses/195914053372231680">? I agree, as it related to anyone who can't read</a>" Then they deleted the original tweet. The saddest part of this all is there isn't a better website for up to the minute NFL news, so people will still visit.
   </p>
 
   <p>

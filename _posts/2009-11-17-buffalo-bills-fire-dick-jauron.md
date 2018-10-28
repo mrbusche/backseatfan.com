@@ -24,7 +24,7 @@ tags:
   </p>
 
   <p>
-    Jauron's record was 24-33 since being hired as head coach of the Bills. He had two years remaining on his contract, which means a free $6 million for the 2009 and 2010 seasons that he isn't coaching in. If only I could become a coach, do shitty, and get fired&#8230; and get paid&#8230;
+    Jauron's record was 24-33 since being hired as head coach of the Bills. He had two years remaining on his contract, which means a free $6 million for the 2009 and 2010 seasons that he isn't coaching in. If only I could become a coach, do shitty, and get fired? and get paid?
   </p>
 
   <p>
@@ -92,6 +92,6 @@ tags:
   </p>
 
   <p>
-    I guess we will never know the true answer&#8230;
+    I guess we will never know the true answer?
   </p>
 </div>

@@ -15,6 +15,6 @@ categories:
   </p>
 
   <p>
-    Door still open? Brett seems to always give himself some leeway, just in case he gets that itch again. Bus Cook says the door is &#8220;probably shut&#8221;. So hopefully for everyone's sanity, and the Vikings players and fans, it is shut. Unless there is an injury or two, I don't want to see that door reopen.
+    Door still open? Brett seems to always give himself some leeway, just in case he gets that itch again. Bus Cook says the door is "probably shut". So hopefully for everyone's sanity, and the Vikings players and fans, it is shut. Unless there is an injury or two, I don't want to see that door reopen.
   </p>
 </div>

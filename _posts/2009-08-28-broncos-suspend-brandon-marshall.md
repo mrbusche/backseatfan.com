@@ -29,7 +29,7 @@ tags:
   </p>
 
   <p>
-    &#8220;We tried to handle this situation with Brandon as privately and professionally as we could throughout the entire process with him and his agent, Kennard McGuire,&#8221; McDaniels said at a news conference earlier today. &#8220;This morning, we made the decision as an organization to go ahead and suspend Brandon. We'll look forward to having him back on Sept. 6th as we begin our preparations for Cincinnati.&#8221;
+    "We tried to handle this situation with Brandon as privately and professionally as we could throughout the entire process with him and his agent, Kennard McGuire," McDaniels said at a news conference earlier today. "This morning, we made the decision as an organization to go ahead and suspend Brandon. We'll look forward to having him back on Sept. 6th as we begin our preparations for Cincinnati."
   </p>
 
   <p>

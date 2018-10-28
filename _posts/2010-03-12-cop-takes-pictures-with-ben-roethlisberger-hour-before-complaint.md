@@ -30,7 +30,7 @@ tags:
 
     <blockquote>
       <p>
-        &#8220;The photographs did not and have not affected the investigation at all,&#8221; Police Chief Woodrow Blue told the <em>Union-Recorder</em>.
+        "The photographs did not and have not affected the investigation at all," Police Chief Woodrow Blue told the <em>Union-Recorder</em>.
       </p>
     </blockquote>
 

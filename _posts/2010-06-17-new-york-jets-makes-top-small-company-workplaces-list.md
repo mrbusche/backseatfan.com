@@ -41,7 +41,7 @@ tags:
         Free Season Passes
       </li>
       <li>
-        You work for an NFL team&#8230; How cool would that be?
+        You work for an NFL team? How cool would that be?
       </li>
     </ul>
 

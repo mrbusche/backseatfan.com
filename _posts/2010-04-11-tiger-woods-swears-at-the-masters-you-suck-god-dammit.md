@@ -1,6 +1,6 @@
 ---
 id: 5213
-title: "Tiger Woods swears at the Masters - &#8220;You suck, god dammit&#8221;"
+title: "Tiger Woods swears at the Masters - "You suck, god dammit""
 date: 2010-04-11T06:42:58+00:00
 author: Matt B.
 layout: post

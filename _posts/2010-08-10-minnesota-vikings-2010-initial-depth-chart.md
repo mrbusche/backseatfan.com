@@ -19,7 +19,7 @@ tags:
 
 <div class="entry">
   <p>
-    The <a href="http://www.startribune.com/sports/vikings/blogs/100366109.html?elr=KArksi8cyaiUz33Dii_9PmP:Qi_17cQiU47cQUU">Minneapolis Star Tribune</a> has been given the initial Vikings depth chart. We list out the starters here but check out their post for the full depth chart. A few interesting things to note, Asher Allen is ahead of Lito Sheppard at right corner, Ryan Longwell is listed as the kickoff specialist ahead of Rhys Lloyd, who was signed to be the kickoff specialist&#8230;. odd, and Albert Young is listed as the backup to Adrian Peterson not Toby Gerhardt.
+    The <a href="http://www.startribune.com/sports/vikings/blogs/100366109.html?elr=KArksi8cyaiUz33Dii_9PmP:Qi_17cQiU47cQUU">Minneapolis Star Tribune</a> has been given the initial Vikings depth chart. We list out the starters here but check out their post for the full depth chart. A few interesting things to note, Asher Allen is ahead of Lito Sheppard at right corner, Ryan Longwell is listed as the kickoff specialist ahead of Rhys Lloyd, who was signed to be the kickoff specialist?. odd, and Albert Young is listed as the backup to Adrian Peterson not Toby Gerhardt.
   </p>
 
   <p>

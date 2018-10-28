@@ -34,7 +34,7 @@ tags:
 
   <blockquote>
     <p>
-      &#8220;I was trying to get over there to take the ball out of bounds and he started to talk to me so I talked back. I don't have any business talking to him. He was on the ground crying. I don't know what was going on, two actresses over there, that's what they are &#8230; They're not those characters they portray. They're not who they say they are. Garnett and Pierce, they're good basketball players, and that's about it &#8230; Sometimes [Pierce] falls like he's about to be out for the season and then he gets right up &#8230; I don't like them, and they know it.&#8221;
+      "I was trying to get over there to take the ball out of bounds and he started to talk to me so I talked back. I don't have any business talking to him. He was on the ground crying. I don't know what was going on, two actresses over there, that's what they are ? They're not those characters they portray. They're not who they say they are. Garnett and Pierce, they're good basketball players, and that's about it ? Sometimes [Pierce] falls like he's about to be out for the season and then he gets right up ? I don't like them, and they know it."
     </p>
   </blockquote>
 

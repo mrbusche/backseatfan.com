@@ -46,7 +46,7 @@ categories:
   </div>
 
   <div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow-x: hidden; overflow-y: hidden;">
-    Now I know some of you Patriot lovers might say, there was no Wes Welker, Moss got double teamed, the truth is it didn't matter, Revis was physical with Moss at the line &#8220;If he went to the bathroom, I followed him,&#8221; Revis said. Moss was charged for an extra bag on the trip back to Foxboro after it was discovered Revis made it back on the plane with him.
+    Now I know some of you Patriot lovers might say, there was no Wes Welker, Moss got double teamed, the truth is it didn't matter, Revis was physical with Moss at the line "If he went to the bathroom, I followed him," Revis said. Moss was charged for an extra bag on the trip back to Foxboro after it was discovered Revis made it back on the plane with him.
   </div>
 
   <div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow-x: hidden; overflow-y: hidden;">
@@ -94,7 +94,7 @@ categories:
   </p>
 
   <p>
-    Now I know some of you Patriot lovers might say, there was no Wes Welker, Moss got double teamed, the truth is it didn't matter, Revis was physical with Moss at the line &#8220;If he went to the bathroom, I followed him,&#8221; Revis said. Moss was charged for an extra bag on the trip back to Foxboro after it was discovered Revis made it back on the plane with him.
+    Now I know some of you Patriot lovers might say, there was no Wes Welker, Moss got double teamed, the truth is it didn't matter, Revis was physical with Moss at the line "If he went to the bathroom, I followed him," Revis said. Moss was charged for an extra bag on the trip back to Foxboro after it was discovered Revis made it back on the plane with him.
   </p>
 
   <p>

@@ -1,6 +1,6 @@
 ---
 id: 9053
-title: "Michelle Beadle Spoof of  LeBron's Commercial &#8220;Rise&#8221;"
+title: "Michelle Beadle Spoof of  LeBron's Commercial "Rise""
 date: 2010-10-28T07:29:09+00:00
 author: Ryan M.
 layout: post
@@ -28,6 +28,6 @@ tags:
   </p>
 
   <p>
-    Michelle Beadle of ESPN's SportsNation had a nice spoof on LeBron James' recent Nike commercial &#8220;Rise&#8221;. Out of all of the options, Michelle does the right thing, and eats the delicious pink donut.
+    Michelle Beadle of ESPN's SportsNation had a nice spoof on LeBron James' recent Nike commercial "Rise". Out of all of the options, Michelle does the right thing, and eats the delicious pink donut.
   </p>
 </div>

@@ -23,6 +23,6 @@ tags:
   </p>
 
   <p>
-    David Wright did some off season training this year with The Situation from The Jersey Shore. &#8220;Situational Training&#8221; is the title, I guess The Situation can work out, and fist pump. But how does that translate into baseball? I guess he can learn how to celebrate with fist pumps. It is really a vitaminwater ad, but it doesn't come close to Steve Nash's vitamin water masterpieces.
+    David Wright did some off season training this year with The Situation from The Jersey Shore. "Situational Training" is the title, I guess The Situation can work out, and fist pump. But how does that translate into baseball? I guess he can learn how to celebrate with fist pumps. It is really a vitaminwater ad, but it doesn't come close to Steve Nash's vitamin water masterpieces.
   </p>
 </div>

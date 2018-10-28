@@ -17,7 +17,7 @@ tags:
 
 <div class="entry">
   <p>
-    &#8220;I have respect for guys, but I will never apologize. I will never back down.&#8221;
+    "I have respect for guys, but I will never apologize. I will never back down."
   </p>
 
   <p>

@@ -27,19 +27,19 @@ tags:
 
 <div class="entry">
   <p>
-    <em>Don't worry people, this Daily Spin has no mention of Favre at all, except for that mention&#8230;</em>
+    <em>Don't worry people, this Daily Spin has no mention of Favre at all, except for that mention?</em>
   </p>
 
   <p>
-    <a href="http://sportsillustrated.cnn.com/2010/mma/boxing/07/28/tyson.interview/index.html">Mike Tyson Interview with Sports Illustrated</a>&#8230;  Why are <a href="http://www.details.com/culture-trends/news-and-politics/201008/interview-boxing-mike-tyson">crazy Mike Tyson interviews</a> coming out lately?  Not to mention he was doing the movie<a href="http://sportsradiointerviews.com/2010/08/02/mike-tyson-on-the-hangover-i-was-doing-that-to-supply-my-drug-habit/"> 'The Hangover' for drug money</a>&#8230; Is he really coming clean or just trying to make more money?  Either way, they are fantastic&#8230; [via <a href="http://sportsillustrated.cnn.com/2010/mma/boxing/07/28/tyson.interview/index.html">SI.com</a> / <a href="http://sportsradiointerviews.com/2010/08/02/mike-tyson-on-the-hangover-i-was-doing-that-to-supply-my-drug-habit/">Sports Radio Interviews</a>]
+    <a href="http://sportsillustrated.cnn.com/2010/mma/boxing/07/28/tyson.interview/index.html">Mike Tyson Interview with Sports Illustrated</a>?  Why are <a href="http://www.details.com/culture-trends/news-and-politics/201008/interview-boxing-mike-tyson">crazy Mike Tyson interviews</a> coming out lately?  Not to mention he was doing the movie<a href="http://sportsradiointerviews.com/2010/08/02/mike-tyson-on-the-hangover-i-was-doing-that-to-supply-my-drug-habit/"> 'The Hangover' for drug money</a>? Is he really coming clean or just trying to make more money?  Either way, they are fantastic? [via <a href="http://sportsillustrated.cnn.com/2010/mma/boxing/07/28/tyson.interview/index.html">SI.com</a> / <a href="http://sportsradiointerviews.com/2010/08/02/mike-tyson-on-the-hangover-i-was-doing-that-to-supply-my-drug-habit/">Sports Radio Interviews</a>]
   </p>
 
   <p>
-    <a href="http://content.usatoday.com/communities/campusrivalry/post/2010/08/big-ten-set-for-title-game-next-year-nine-game-schedule-in-future/1">Big 10 set to have title game in 2011</a>, plus 9 conference games&#8230;  I can't wait to have a true champion in a Big 10 season, I have been waiting for this to happen for so long.  I was just expecting ND and not Nebraska&#8230;  Now all they need to do is find out a new name for the conference, and figure out how they are going to divide this sucker up so Iowa can win it all&#8230;  [via <a href="http://content.usatoday.com/communities/campusrivalry/post/2010/08/big-ten-set-for-title-game-next-year-nine-game-schedule-in-future/1">USA Today</a>]
+    <a href="http://content.usatoday.com/communities/campusrivalry/post/2010/08/big-ten-set-for-title-game-next-year-nine-game-schedule-in-future/1">Big 10 set to have title game in 2011</a>, plus 9 conference games?  I can't wait to have a true champion in a Big 10 season, I have been waiting for this to happen for so long.  I was just expecting ND and not Nebraska?  Now all they need to do is find out a new name for the conference, and figure out how they are going to divide this sucker up so Iowa can win it all?  [via <a href="http://content.usatoday.com/communities/campusrivalry/post/2010/08/big-ten-set-for-title-game-next-year-nine-game-schedule-in-future/1">USA Today</a>]
   </p>
 
   <p>
-    <a href="http://www.cleveland.com/cavs/index.ssf/2010/08/lebron_james_takes_out_an_ad_t.html">LeBron James Thanks Akron</a> by taking out a Newspaper Ad&#8230;  Well maybe if you did this in the begining things would have been different, but you had to follow Ilgauskas' Ad&#8230; [via <a href="http://www.cleveland.com/cavs/index.ssf/2010/08/lebron_james_takes_out_an_ad_t.html">Cleveland Plain Dealer</a>]
+    <a href="http://www.cleveland.com/cavs/index.ssf/2010/08/lebron_james_takes_out_an_ad_t.html">LeBron James Thanks Akron</a> by taking out a Newspaper Ad?  Well maybe if you did this in the begining things would have been different, but you had to follow Ilgauskas' Ad? [via <a href="http://www.cleveland.com/cavs/index.ssf/2010/08/lebron_james_takes_out_an_ad_t.html">Cleveland Plain Dealer</a>]
   </p>
 
   <p>
@@ -47,15 +47,15 @@ tags:
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/nfl/news/story?id=5434356">Johnny Jolly may avoid jail tim</a>e with a plea deal&#8230; Even if he avoids jail time he will still be suspended from the NFL, possibly more than one year&#8230;  Plus he will be in the witness protection program for ratting out whoever is above him&#8230; [via <a href="http://sports.espn.go.com/nfl/news/story?id=5434356">ESPN</a>]
+    <a href="http://sports.espn.go.com/nfl/news/story?id=5434356">Johnny Jolly may avoid jail tim</a>e with a plea deal? Even if he avoids jail time he will still be suspended from the NFL, possibly more than one year?  Plus he will be in the witness protection program for ratting out whoever is above him? [via <a href="http://sports.espn.go.com/nfl/news/story?id=5434356">ESPN</a>]
   </p>
 
   <p>
-    <a href="http://www.forbes.com/2010/08/02/best-fans-teams-lifestyle-sports-fandom.html">America's Best Sports Fans</a>&#8230; I don't know how my Royals, Suns, and Vikings didn't make the cut&#8230; [via <a href="http://www.forbes.com/2010/08/02/best-fans-teams-lifestyle-sports-fandom.html">Forbes</a>]
+    <a href="http://www.forbes.com/2010/08/02/best-fans-teams-lifestyle-sports-fandom.html">America's Best Sports Fans</a>? I don't know how my Royals, Suns, and Vikings didn't make the cut? [via <a href="http://www.forbes.com/2010/08/02/best-fans-teams-lifestyle-sports-fandom.html">Forbes</a>]
   </p>
 
   <p>
-    Travis Ivey stacks shoulder pads up to his ears&#8230;  He handles rookie hazing well.
+    Travis Ivey stacks shoulder pads up to his ears?  He handles rookie hazing well.
   </p>
 
   <p>

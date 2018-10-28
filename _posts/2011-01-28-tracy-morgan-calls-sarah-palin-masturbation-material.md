@@ -1,6 +1,6 @@
 ---
 id: 9518
-title: "Tracy Morgan calls Sarah Palin &#8220;masturbation material&#8221;"
+title: "Tracy Morgan calls Sarah Palin "masturbation material""
 date: 2011-01-28T10:06:47+00:00
 author: Matt B.
 layout: post

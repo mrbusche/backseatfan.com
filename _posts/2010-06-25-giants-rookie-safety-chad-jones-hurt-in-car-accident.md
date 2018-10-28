@@ -24,7 +24,7 @@ tags:
   </p>
 
   <p>
-    It was not clear what caused Jones to lose control of his Range Rover at about 7 am ET this morning. &#8220;My understanding is that he was awake and he actually gave my cell phone to the police officer who was talking to him,&#8221; Al Jones said. That quote to me is amazing, the guy's leg is torn apart and he's still alert enough to give a cell phone number to the police officer.
+    It was not clear what caused Jones to lose control of his Range Rover at about 7 am ET this morning. "My understanding is that he was awake and he actually gave my cell phone to the police officer who was talking to him," Al Jones said. That quote to me is amazing, the guy's leg is torn apart and he's still alert enough to give a cell phone number to the police officer.
   </p>
 
   <p>

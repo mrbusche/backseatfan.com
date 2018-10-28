@@ -31,6 +31,6 @@ tags:
   </p>
 
   <p>
-    In case you can't quite understand Ichiro he says &#8220;August, in Kansas City, is hotter than two rats in a fucking wool sock&#8221;
+    In case you can't quite understand Ichiro he says "August, in Kansas City, is hotter than two rats in a fucking wool sock"
   </p>
 </div>

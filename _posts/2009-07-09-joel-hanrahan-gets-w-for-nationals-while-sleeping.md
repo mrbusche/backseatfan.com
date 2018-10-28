@@ -12,6 +12,6 @@ categories:
 
 <div class="entry">
   <p>
-    Miguel Tejada threw a potential double play ball over the head of Lance Berkman Thursday night and made Pittsburgh Pirates P Joel Hanrahan the winner in Washington's 11-10 win over the Houston Astros. Hanrahan was traded to the Pirates after this game was suspended by rain for Nyjer Morgan&#8230; who crazy as it may seem scored the winning run. What was Hanrahan doing while collecting the W? &#8220;I was actually taking a nap and I woke up to some text messages saying I got the win,&#8221; Hanrahan said. The game lasted just 7 minutes after the 2 month delay. You can chalk this up as something that may never happen again.
+    Miguel Tejada threw a potential double play ball over the head of Lance Berkman Thursday night and made Pittsburgh Pirates P Joel Hanrahan the winner in Washington's 11-10 win over the Houston Astros. Hanrahan was traded to the Pirates after this game was suspended by rain for Nyjer Morgan? who crazy as it may seem scored the winning run. What was Hanrahan doing while collecting the W? "I was actually taking a nap and I woke up to some text messages saying I got the win," Hanrahan said. The game lasted just 7 minutes after the 2 month delay. You can chalk this up as something that may never happen again.
   </p>
 </div>

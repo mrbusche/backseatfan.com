@@ -35,6 +35,6 @@ tags:
   </p>
 
   <p>
-    During game 5 of the Miami - Indiana playoff series Chris &#8220;Birdman&#8221; Anderson dody checks Tyler Hansbrough for no apparent reason. On top of that, he shoves Tyler Hansbrough after the check and looked like he wanted to fight him then and there. I am sure a few choice words were exchanged, but Hansbrough had every right to say whatever he did after that initial body check. It's ok if he makes fun of your neck tattoos. This isn't hockey Birdman. In my opinion he should have been ejected.
+    During game 5 of the Miami - Indiana playoff series Chris "Birdman" Anderson dody checks Tyler Hansbrough for no apparent reason. On top of that, he shoves Tyler Hansbrough after the check and looked like he wanted to fight him then and there. I am sure a few choice words were exchanged, but Hansbrough had every right to say whatever he did after that initial body check. It's ok if he makes fun of your neck tattoos. This isn't hockey Birdman. In my opinion he should have been ejected.
   </p>
 </div>

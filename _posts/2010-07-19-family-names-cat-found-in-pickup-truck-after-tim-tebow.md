@@ -26,7 +26,7 @@ tags:
   </p>
 
   <p>
-    The family named the cat &#8220;Tebow&#8221;, but not because the cat attends church every Sunday. &#8220;We named her Tebow because she's a crier,&#8221; said their 19 year old daughter Becki.
+    The family named the cat "Tebow", but not because the cat attends church every Sunday. "We named her Tebow because she's a crier," said their 19 year old daughter Becki.
   </p>
 
   <p>

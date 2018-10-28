@@ -24,7 +24,7 @@ tags:
   </p>
 
   <p>
-    For some reason I think his mom's &#8220;commercial&#8221; would do better than his dad's commercial. You would want to buy some nice running shoes in order to run away from that newspaper.
+    For some reason I think his mom's "commercial" would do better than his dad's commercial. You would want to buy some nice running shoes in order to run away from that newspaper.
   </p>
 
   <p>

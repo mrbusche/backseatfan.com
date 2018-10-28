@@ -18,7 +18,7 @@ categories:
   </p>
 
   <p>
-    Video of &#8220;The Broingtons&#8221; Kevin Durant Jeff Green and James Harden Music Video of Transform Ya.
+    Video of "The Broingtons" Kevin Durant Jeff Green and James Harden Music Video of Transform Ya.
   </p>
 
   <p>

@@ -27,7 +27,7 @@ tags:
   </p>
 
   <p>
-    He asked Bus Cook about the status of Brett Favre. Cook said he was &#8220;Beat up&#8221;, and said &#8220;You should see the pictures from his ankle and hamstring the day after the game&#8221;
+    He asked Bus Cook about the status of Brett Favre. Cook said he was "Beat up", and said "You should see the pictures from his ankle and hamstring the day after the game"
   </p>
 
   <p>

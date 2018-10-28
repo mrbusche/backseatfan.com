@@ -22,7 +22,7 @@ tags:
   </p>
 
   <p>
-    If the Bulls can manage to add J.J. Redick to their team they would jump the Magic and become the 2nd best team in the East in my opinion. Thanks to the &#8220;Miami Thrice&#8221; the Bulls have quietly signed Carlos Boozer and Kyle Korver this offseason, two good players to join forces with All-Star Derrick Rose and the underrated Joakim Noah.
+    If the Bulls can manage to add J.J. Redick to their team they would jump the Magic and become the 2nd best team in the East in my opinion. Thanks to the "Miami Thrice" the Bulls have quietly signed Carlos Boozer and Kyle Korver this offseason, two good players to join forces with All-Star Derrick Rose and the underrated Joakim Noah.
   </p>
 
   <p>

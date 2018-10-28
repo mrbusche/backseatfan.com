@@ -22,16 +22,16 @@ tags:
 
   <blockquote>
     <p>
-      &#8220;We are pleased and excited to welcome Boise State University to the Mountain West Conference,&#8221; said Commissioner Craig Thompson. &#8220;Since our inception just 11 short years ago, the Mountain West has experienced tremendous success, and the addition of Boise State will further enhance that strength. The MWC continues to strategize regarding potential membership scenarios and bringing Boise State into the Conference is an important part of that evolution.&#8221;
+      "We are pleased and excited to welcome Boise State University to the Mountain West Conference," said Commissioner Craig Thompson. "Since our inception just 11 short years ago, the Mountain West has experienced tremendous success, and the addition of Boise State will further enhance that strength. The MWC continues to strategize regarding potential membership scenarios and bringing Boise State into the Conference is an important part of that evolution."
     </p>
 
     <p>
-      &#8220;The invitation to join the Mountain West Conference reflects the excellence that Boise State University has demonstrated academically and athletically,&#8221; said Boise State President Robert Kustra. &#8220;It will be a privilege to compete and partner with such a successful group of member institutions. This move is in the best interests of Boise State's future, and the university is excited to be part of one of the nation's most outstanding conferences.&#8221;
+      "The invitation to join the Mountain West Conference reflects the excellence that Boise State University has demonstrated academically and athletically," said Boise State President Robert Kustra. "It will be a privilege to compete and partner with such a successful group of member institutions. This move is in the best interests of Boise State's future, and the university is excited to be part of one of the nation's most outstanding conferences."
     </p>
   </blockquote>
 
   <p>
-    The BSC can no longer hide behind the two mid major teams of college football. They can't have another Fiesta Bowl where it is Boise State vs TCU. This is good for the Mountain West, and well&#8230; The WAC will be irrelevant from here on out. If 16 super team conferences is the new thing, they will probably combine with Big 12, and MWC.
+    The BSC can no longer hide behind the two mid major teams of college football. They can't have another Fiesta Bowl where it is Boise State vs TCU. This is good for the Mountain West, and well? The WAC will be irrelevant from here on out. If 16 super team conferences is the new thing, they will probably combine with Big 12, and MWC.
   </p>
 
   <p>

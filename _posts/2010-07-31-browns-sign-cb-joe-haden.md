@@ -25,7 +25,7 @@ tags:
   </p>
 
   <p>
-    With the signing Haden's &#8220;holdout&#8221; will last just half a day. The CB is expected to practice this afternoon.
+    With the signing Haden's "holdout" will last just half a day. The CB is expected to practice this afternoon.
   </p>
 
   <p>

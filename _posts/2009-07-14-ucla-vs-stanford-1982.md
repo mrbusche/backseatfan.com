@@ -19,7 +19,7 @@ categories:
   </p>
 
   <p>
-    <span><br /> November 20, 1982: Stanford has a 20-19 lead with 4 seconds left. Cal uses five lateral passes to return the ensuing kickoff for the winning TD&#8230;with the band on the field. </span>
+    <span><br /> November 20, 1982: Stanford has a 20-19 lead with 4 seconds left. Cal uses five lateral passes to return the ensuing kickoff for the winning TD?with the band on the field. </span>
   </p>
 
   <p>

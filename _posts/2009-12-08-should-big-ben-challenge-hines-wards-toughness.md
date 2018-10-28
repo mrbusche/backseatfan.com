@@ -37,7 +37,7 @@ categories:
       </dt>
 
       <dd class="wp-caption-dd">
-        Hines, I think we all know you can play&#8230;
+        Hines, I think we all know you can play?
       </dd>
     </dl>
   </div>

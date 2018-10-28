@@ -21,7 +21,7 @@ tags:
   </p>
 
   <p>
-    DeShawn Stevenson's Abe Lincoln Neck Tattoo pumps up Dallas Maverick fans&#8230; The Tattoo is real, but sadly, the talking mouth is not. I guess it will get fans going better than a Giant D and a Fence. How has subway not picked him up as a 5 dollar footlong sponsor?!?!
+    DeShawn Stevenson's Abe Lincoln Neck Tattoo pumps up Dallas Maverick fans? The Tattoo is real, but sadly, the talking mouth is not. I guess it will get fans going better than a Giant D and a Fence. How has subway not picked him up as a 5 dollar footlong sponsor?!?!
   </p>
 
   <p>

@@ -19,7 +19,7 @@ tags:
 
 <div class="entry">
   <p>
-    Tiger Woods announced that he will have his Master's media day on Monday April 5, at 2 pm. Normally he would have this media day on Tuesday. Curious move by Tiger, right? I wonder what else is going on Monday April 5th? Two things come to mind&#8230;.
+    Tiger Woods announced that he will have his Master's media day on Monday April 5, at 2 pm. Normally he would have this media day on Tuesday. Curious move by Tiger, right? I wonder what else is going on Monday April 5th? Two things come to mind?.
   </p>
 
   <p>
@@ -31,7 +31,7 @@ tags:
   </p>
 
   <p>
-    I wonder what the first clip on SportsCenter will be that night&#8230;
+    I wonder what the first clip on SportsCenter will be that night?
   </p>
 
   <p>

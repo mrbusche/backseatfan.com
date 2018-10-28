@@ -19,7 +19,7 @@ categories:
   </p>
 
   <p>
-    Before the game today Brown said, &#8220;I'm pretty nervous, but a good nervous. I'm trying to get the first game under my belt and get rolling.&#8221; Brown shook off any nerves he had tonight in his first at bat an RBI double off the right field wall.
+    Before the game today Brown said, "I'm pretty nervous, but a good nervous. I'm trying to get the first game under my belt and get rolling." Brown shook off any nerves he had tonight in his first at bat an RBI double off the right field wall.
   </p>
 
   <p>

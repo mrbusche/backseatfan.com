@@ -24,11 +24,11 @@ categories:
   </p>
 
   <p>
-    <em>&#8220;According to Don Aaron with the Metro Nashville Police Department, no suspects have been taken into custody. Several people were being taken to police headquarters for questioning.&#8221;</em>
+    <em>"According to Don Aaron with the Metro Nashville Police Department, no suspects have been taken into custody. Several people were being taken to police headquarters for questioning."</em>
   </p>
 
   <p>
-    &#8220;We are saddened and shocked to hear the news of Steve McNair's passing today,&#8221; Titans owner K.S. &#8220;Bud&#8221; Adams Jr. said in a statement. &#8220;He was one of the finest players to play for our organization and one of the most beloved players by our fans. He played with unquestioned heart and leadership and led us to places that we had never reached, including our only Super Bowl. Our thoughts and prayers are with his family as they deal with his untimely passing.&#8221;
+    "We are saddened and shocked to hear the news of Steve McNair's passing today," Titans owner K.S. "Bud" Adams Jr. said in a statement. "He was one of the finest players to play for our organization and one of the most beloved players by our fans. He played with unquestioned heart and leadership and led us to places that we had never reached, including our only Super Bowl. Our thoughts and prayers are with his family as they deal with his untimely passing."
   </p>
 
   <p>

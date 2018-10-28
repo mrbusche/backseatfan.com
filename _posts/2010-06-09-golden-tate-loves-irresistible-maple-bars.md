@@ -1,6 +1,6 @@
 ---
 id: 6088
-title: "Golden Tate loves &#8220;Irresistible&#8221; Maple Bars"
+title: "Golden Tate loves "Irresistible" Maple Bars"
 date: 2010-06-09T07:05:20+00:00
 author: Ryan M.
 layout: post
@@ -32,7 +32,7 @@ tags:
 
   <blockquote>
     <p>
-      <span style="text-decoration: underline;">[Maple Bars] &#8220;They are irresistible&#8221;</span> was his first response, he then added &#8220;The police just kind of said 'don't do it again,' which I won't. It was a &#8220;foolish mistake. But, if you ever want maple bars, that's the place to go.&#8221;
+      <span style="text-decoration: underline;">[Maple Bars] "They are irresistible"</span> was his first response, he then added "The police just kind of said 'don't do it again,' which I won't. It was a "foolish mistake. But, if you ever want maple bars, that's the place to go."
     </p>
   </blockquote>
 
@@ -42,7 +42,7 @@ tags:
 
   <blockquote>
     <p>
-      &#8220;No, I'm not disappointed at a guy being at a doughnut shop at 3 in the morning when they got maple bars like Top Pot has. However, under the circumstances, I think they were closed or something like that, trying to close, or whatever. That's definitely wrong. We've talked about it, addressed it. He's remorseful and all that. <span style="text-decoration: underline;">I do understand the lure of the maple bars</span>.&#8221;
+      "No, I'm not disappointed at a guy being at a doughnut shop at 3 in the morning when they got maple bars like Top Pot has. However, under the circumstances, I think they were closed or something like that, trying to close, or whatever. That's definitely wrong. We've talked about it, addressed it. He's remorseful and all that. <span style="text-decoration: underline;">I do understand the lure of the maple bars</span>."
     </p>
   </blockquote>
 

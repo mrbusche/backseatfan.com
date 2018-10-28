@@ -30,7 +30,7 @@ tags:
   </p>
 
   <p>
-    With the Brad Childress under oath, Ginsberg asked, &#8220;Now that I have you in this position, who's going to be your quarterback next year?&#8221; Most in the room laughed loudly, and Childress didn't answer.
+    With the Brad Childress under oath, Ginsberg asked, "Now that I have you in this position, who's going to be your quarterback next year?" Most in the room laughed loudly, and Childress didn't answer.
   </p>
 
   <p>

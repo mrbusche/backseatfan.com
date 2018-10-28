@@ -30,7 +30,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://sports.yahoo.com/nfl/rumors/post/Titans-QB-Young-not-facing-penalty?urn=nfl-258932">Vince Young will not be suspended</a> for fight in strip club&#8230; No suspension for defending  the Longhorns, against NFL policy I guess&#8230; [via <a href="http://sports.yahoo.com/nfl/rumors/post/Titans-QB-Young-not-facing-penalty?urn=nfl-258932">Yahoo Sports</a>]
+    <a href="http://sports.yahoo.com/nfl/rumors/post/Titans-QB-Young-not-facing-penalty?urn=nfl-258932">Vince Young will not be suspended</a> for fight in strip club? No suspension for defending  the Longhorns, against NFL policy I guess? [via <a href="http://sports.yahoo.com/nfl/rumors/post/Titans-QB-Young-not-facing-penalty?urn=nfl-258932">Yahoo Sports</a>]
   </p>
 
   <p>
@@ -38,23 +38,23 @@ tags:
   </p>
 
   <p>
-    <a href="http://twitter.com/KySportsRadio">Rick Pitino's Extortion Trial is entertaining</a>&#8230; No need to read long stories in newspapers, just read Kentucky Sports Radio tweets&#8230;  Ridiculous. [via <a href="http://twitter.com/KySportsRadio">Matt Jones Twitter</a>]
+    <a href="http://twitter.com/KySportsRadio">Rick Pitino's Extortion Trial is entertaining</a>? No need to read long stories in newspapers, just read Kentucky Sports Radio tweets?  Ridiculous. [via <a href="http://twitter.com/KySportsRadio">Matt Jones Twitter</a>]
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/nfl/news/story?id=5418271">Antonio Gates signs 5 year extension</a> with the Chargers&#8230; This makes him the highest paid TE ever, and he deserves it he is their #1 receiver&#8230; [via <a href="http://sports.espn.go.com/nfl/news/story?id=5418271">ESPN</a>]
+    <a href="http://sports.espn.go.com/nfl/news/story?id=5418271">Antonio Gates signs 5 year extension</a> with the Chargers? This makes him the highest paid TE ever, and he deserves it he is their #1 receiver? [via <a href="http://sports.espn.go.com/nfl/news/story?id=5418271">ESPN</a>]
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/nfl/news/story?id=5417778">Tim Tebow wants to be paid</a> more than Dez Bryant&#8230;  I can only hope that he holds out for part of the season&#8230; [via <a href="http://sports.espn.go.com/nfl/news/story?id=5417778">ESPN</a>]
+    <a href="http://sports.espn.go.com/nfl/news/story?id=5417778">Tim Tebow wants to be paid</a> more than Dez Bryant?  I can only hope that he holds out for part of the season? [via <a href="http://sports.espn.go.com/nfl/news/story?id=5417778">ESPN</a>]
   </p>
 
   <p>
-    <a href="http://www.sbnation.com/2010/7/28/1592559/amare-stoudemire-knicks-jewish-israeli-national-team">Apparently Amare Stoudemire just found out his mother Jewish</a>&#8230; According to Jewish law, if your mother is Jewish, then you, by definition are also Jewish&#8230; So Amare is now Jewish, I am just wondering if Amare is just trying to get more Jewish fans in NYC&#8230;  [via <a href="http://www.sbnation.com/2010/7/28/1592559/amare-stoudemire-knicks-jewish-israeli-national-team">SB Nation</a>]
+    <a href="http://www.sbnation.com/2010/7/28/1592559/amare-stoudemire-knicks-jewish-israeli-national-team">Apparently Amare Stoudemire just found out his mother Jewish</a>? According to Jewish law, if your mother is Jewish, then you, by definition are also Jewish? So Amare is now Jewish, I am just wondering if Amare is just trying to get more Jewish fans in NYC?  [via <a href="http://www.sbnation.com/2010/7/28/1592559/amare-stoudemire-knicks-jewish-israeli-national-team">SB Nation</a>]
   </p>
 
   <p>
-    This is pretty amazing&#8230; <strong>Press Conference Mash Up Rap:</strong><br /> <br /> <strong><br /> Zach Galifianakis and Steve Carell are pretty damn funny&#8230;</strong><br />
+    This is pretty amazing? <strong>Press Conference Mash Up Rap:</strong><br /> <br /> <strong><br /> Zach Galifianakis and Steve Carell are pretty damn funny?</strong><br />
   </p>
 
   <p>

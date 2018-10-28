@@ -24,7 +24,7 @@ categories:
   </p>
 
   <p>
-    Manning also won the award in 2003 (sharing it with Steve McNair), 2004 and 2008. Brett Favre is the only other player to win the award three times. Five players &#8212; Jim Brown, Joe Montana, Johnny Unitas, Kurt Warner and Steve Young &#8212; have won it twice.
+    Manning also won the award in 2003 (sharing it with Steve McNair), 2004 and 2008. Brett Favre is the only other player to win the award three times. Five players - Jim Brown, Joe Montana, Johnny Unitas, Kurt Warner and Steve Young - have won it twice.
   </p>
 
   <p>

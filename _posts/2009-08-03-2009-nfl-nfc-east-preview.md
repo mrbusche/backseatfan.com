@@ -32,7 +32,7 @@ categories:
   </p>
 
   <p>
-    Overview: The most asked question by Eagle fans is, &#8220;How is Westbrook going to hold up?&#8221; Westbrook has not played in 16 games in any of his 7 seasons and this season probably won't be any different but with rookie LeSean McCoy and veteran Leonard Weaver added to the backfield It won't be as big of an issue as it has been in the past. The loss of L.J. Smith actually has most Eagle fans rejoicing as Smith was perennially one of the worst pass catchers in the league. On the defensive side of the ball the loss of Jim Johnson will inspire a veteran defense. The Eagles have one of the deepest defensive lines in football which allows them to always put pressure on the quarterback. With the offseason additions and a contract extension for Donovan McNabb this should be the Eagles' year.
+    Overview: The most asked question by Eagle fans is, "How is Westbrook going to hold up?" Westbrook has not played in 16 games in any of his 7 seasons and this season probably won't be any different but with rookie LeSean McCoy and veteran Leonard Weaver added to the backfield It won't be as big of an issue as it has been in the past. The loss of L.J. Smith actually has most Eagle fans rejoicing as Smith was perennially one of the worst pass catchers in the league. On the defensive side of the ball the loss of Jim Johnson will inspire a veteran defense. The Eagles have one of the deepest defensive lines in football which allows them to always put pressure on the quarterback. With the offseason additions and a contract extension for Donovan McNabb this should be the Eagles' year.
   </p>
 
   <h3>

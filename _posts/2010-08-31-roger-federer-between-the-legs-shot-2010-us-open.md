@@ -21,6 +21,6 @@ tags:
 
 <div class="entry">
   <p>
-    Here is an amazing shot between the legs shot by Rodger Federer in the 2010 US Open.  He best is the reaction of Brian Dabul after the shot.  He face is saying &#8220;What the fuck am I supposed to do?&#8221;<br /> <br /> He has to practice this shot, and just wait for the perfect opportunity to unload it.  That isn't luck people, that is all skill.  Federer went on to win the match.
+    Here is an amazing shot between the legs shot by Rodger Federer in the 2010 US Open.  He best is the reaction of Brian Dabul after the shot.  He face is saying "What the fuck am I supposed to do?"<br /> <br /> He has to practice this shot, and just wait for the perfect opportunity to unload it.  That isn't luck people, that is all skill.  Federer went on to win the match.
   </p>
 </div>

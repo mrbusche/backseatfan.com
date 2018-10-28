@@ -1,6 +1,6 @@
 ---
 id: 10488
-title: "Bleacher Report shamelessly pulls 'Vin Scully Must Retire Now&#8221; article"
+title: "Bleacher Report shamelessly pulls 'Vin Scully Must Retire Now" article"
 date: 2012-09-02T14:24:57+00:00
 author: Matt B.
 layout: post
@@ -24,10 +24,10 @@ tags:
   </p>
 
   <p>
-    Back to the article - I have no issues with someone saying someone should retire, especially if that person is past their prime, but to write a full article and only say &#8220;he's old&#8221; as reasons he should retire is an article written only to draw attention. Now users will go to bleacher report and search for the article, driving those page views their advertisers, so desperately care about.
+    Back to the article - I have no issues with someone saying someone should retire, especially if that person is past their prime, but to write a full article and only say "he's old" as reasons he should retire is an article written only to draw attention. Now users will go to bleacher report and search for the article, driving those page views their advertisers, so desperately care about.
   </p>
 
   <p>
-    Do all of us a favor, never read Bleacher Report again and especially don't click through their 22 page slideshow of &#8220;<a href="http://webcache.googleusercontent.com/search?q=cache:http://bleacherreport.com/articles/1286291-fantasy-football-2012-the-20-best-fantasy-football-team-names-of-2012">best fantasy football team names</a>&#8221;
+    Do all of us a favor, never read Bleacher Report again and especially don't click through their 22 page slideshow of "<a href="http://webcache.googleusercontent.com/search?q=cache:http://bleacherreport.com/articles/1286291-fantasy-football-2012-the-20-best-fantasy-football-team-names-of-2012">best fantasy football team names</a>"
   </p>
 </div>

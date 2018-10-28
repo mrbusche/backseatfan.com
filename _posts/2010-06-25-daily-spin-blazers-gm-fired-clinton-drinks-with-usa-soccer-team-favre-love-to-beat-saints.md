@@ -23,11 +23,11 @@ tags:
 
 <div class="entry">
   <p>
-    <em>Another edition of the Daily Spin&#8230;  3 days strong&#8230; I am probably not going to do it on the weekends so get your fix until Monday.</em>
+    <em>Another edition of the Daily Spin?  3 days strong? I am probably not going to do it on the weekends so get your fix until Monday.</em>
   </p>
 
   <p>
-    <a href="http://twitpic.com/1zl4j1">Bill Clinton Drinking with Bocanegra</a> after the big win over Algeria&#8230;  Makes me proud to be an American [via <a href="http://twitpic.com/1zl4j1">@lukewinn</a>]
+    <a href="http://twitpic.com/1zl4j1">Bill Clinton Drinking with Bocanegra</a> after the big win over Algeria?  Makes me proud to be an American [via <a href="http://twitpic.com/1zl4j1">@lukewinn</a>]
   </p>
 
   <p>
@@ -35,19 +35,19 @@ tags:
   </p>
 
   <p>
-    Favre said he would<a href="http://www.sunherald.com/2010/06/24/2286860/favre-still-mulling-a-return-for.html"> love to beat the the Saints</a>&#8230; He is in luck since they play the Saints in the first game of the season.  We all know he is coming back, he just loves the attention.  [via <a href="http://www.sunherald.com/2010/06/24/2286860/favre-still-mulling-a-return-for.html">Sun Herald</a>]
+    Favre said he would<a href="http://www.sunherald.com/2010/06/24/2286860/favre-still-mulling-a-return-for.html"> love to beat the the Saints</a>? He is in luck since they play the Saints in the first game of the season.  We all know he is coming back, he just loves the attention.  [via <a href="http://www.sunherald.com/2010/06/24/2286860/favre-still-mulling-a-return-for.html">Sun Herald</a>]
   </p>
 
   <p>
-    Isner wins the longest tennis match ever, then <a href="http://www.sportingnews.com/tennis/article/2010-06-25/marathon-man-isner-loses-2nd-round-wimbledon">loses in 2nd round</a>&#8230;  All of that work for nothing, what a waste of time and energy! [via <a href="http://www.sportingnews.com/tennis/article/2010-06-25/marathon-man-isner-loses-2nd-round-wimbledon">Sporting News</a>]
+    Isner wins the longest tennis match ever, then <a href="http://www.sportingnews.com/tennis/article/2010-06-25/marathon-man-isner-loses-2nd-round-wimbledon">loses in 2nd round</a>?  All of that work for nothing, what a waste of time and energy! [via <a href="http://www.sportingnews.com/tennis/article/2010-06-25/marathon-man-isner-loses-2nd-round-wimbledon">Sporting News</a>]
   </p>
 
   <p>
-    <a href="http://www.nytimes.com/2010/06/25/sports/soccer/25italydemise.html?src=mv">France and Italy miss the cut</a> for the 2nd round of the World Cup&#8230; Soccer is like the main sport in those countries isn't it?  That sucks.  [via <a href="http://www.nytimes.com/2010/06/25/sports/soccer/25italydemise.html?src=mv">NY Times</a>]
+    <a href="http://www.nytimes.com/2010/06/25/sports/soccer/25italydemise.html?src=mv">France and Italy miss the cut</a> for the 2nd round of the World Cup? Soccer is like the main sport in those countries isn't it?  That sucks.  [via <a href="http://www.nytimes.com/2010/06/25/sports/soccer/25italydemise.html?src=mv">NY Times</a>]
   </p>
 
   <p>
-    Micheal Jackson died one year ago today&#8230; Expect to see MJ highlights all weekend long.
+    Micheal Jackson died one year ago today? Expect to see MJ highlights all weekend long.
   </p>
 
   <p>

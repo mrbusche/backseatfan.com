@@ -21,12 +21,12 @@ tags:
   <figure id="attachment_7091" style="width: 536px" class="wp-caption alignnone"><a href="/images/2010/07/25210010308_Giants_at_Vikings.jpg"><img class="size-full wp-image-7091  " title="Brett Favre" src="/images/2010/07/25210010308_Giants_at_Vikings-e1279734899491.jpg" alt="" width="536" height="296" srcset="/images/2010/07/25210010308_Giants_at_Vikings-e1279734899491.jpg 596w, /images/2010/07/25210010308_Giants_at_Vikings-e1279734899491-300x165.jpg 300w" sizes="(max-width: 536px) 100vw, 536px" /></a><figcaption class="wp-caption-text">Image by Icon SMI</figcaption></figure>
 
   <p>
-    Brett Favre recently had an <a href="http://content.usatoday.com/communities/thehuddle/post/2010/07/vikings-qb-brett-favre-no-timetable-ankles-not-where-i-would-like-it-to-be/1">interview with USA Today</a>, I thought I would break down everything Favre says&#8230;<br /> <strong>Quote:</strong>
+    Brett Favre recently had an <a href="http://content.usatoday.com/communities/thehuddle/post/2010/07/vikings-qb-brett-favre-no-timetable-ankles-not-where-i-would-like-it-to-be/1">interview with USA Today</a>, I thought I would break down everything Favre says?<br /> <strong>Quote:</strong>
   </p>
 
   <blockquote>
     <p>
-      &#8220;If I could guarantee it, I would,&#8221; Favre said. &#8220;Obviously, I can't make people understand what I'm going through.&#8221;
+      "If I could guarantee it, I would," Favre said. "Obviously, I can't make people understand what I'm going through."
     </p>
   </blockquote>
 
@@ -40,7 +40,7 @@ tags:
 
   <blockquote>
     <p>
-      &#8220;The deadline? I don't know,&#8221; Favre said. &#8220;There obviously comes a point where you've probably gone too far, where you just have to move on. He hopes I make the right decision for myself &#8212; one way or the other.&#8221;<br /> <strong> </strong>
+      "The deadline? I don't know," Favre said. "There obviously comes a point where you've probably gone too far, where you just have to move on. He hopes I make the right decision for myself - one way or the other."<br /> <strong> </strong>
     </p>
   </blockquote>
 
@@ -58,7 +58,7 @@ tags:
 
   <blockquote>
     <p>
-      <strong> </strong>&#8220;Our visit was great. I think the world of him (and) his patience. He and I joked about how there were some rocky times (between them) last year. All of a sudden, we weren't sittin' on the front porch anymore BS-ing. But any good team has that. We're both competitors, that happens.&#8221;
+      <strong> </strong>"Our visit was great. I think the world of him (and) his patience. He and I joked about how there were some rocky times (between them) last year. All of a sudden, we weren't sittin' on the front porch anymore BS-ing. But any good team has that. We're both competitors, that happens."
     </p>
   </blockquote>
 
@@ -76,7 +76,7 @@ tags:
 
   <blockquote>
     <p>
-      &#8220;After almost nine weeks, it's not where I would like it to be, but I'm working at it,&#8221; he said. &#8220;Maybe it never gets to where I want it to be. Forty years old … three surgeries … that's all you need to know.'&#8221;
+      "After almost nine weeks, it's not where I would like it to be, but I'm working at it," he said. "Maybe it never gets to where I want it to be. Forty years old … three surgeries … that's all you need to know.'"
     </p>
   </blockquote>
 
@@ -94,7 +94,7 @@ tags:
 
   <blockquote>
     <p>
-      Favre had no comment regarding a Men's Journal story that quoted his agent, Bus Cook, as being angry for the quarterback previously discussing his need for ankle surgery with ESPN. Cook called Favre a &#8220;drama queen.&#8221;
+      Favre had no comment regarding a Men's Journal story that quoted his agent, Bus Cook, as being angry for the quarterback previously discussing his need for ankle surgery with ESPN. Cook called Favre a "drama queen."
     </p>
   </blockquote>
 
@@ -103,7 +103,7 @@ tags:
   </p>
 
   <p>
-    <strong> </strong>Favre had no comment because well&#8230; He is a drama queen, and Bus Cook was probably acting for the reporter.  It was a pretty aww shucks interview from what I read in the highlights.  I will read the entire Q&A this weekend to get the rest of it.
+    <strong> </strong>Favre had no comment because well? He is a drama queen, and Bus Cook was probably acting for the reporter.  It was a pretty aww shucks interview from what I read in the highlights.  I will read the entire Q&A this weekend to get the rest of it.
   </p>
 
   <p>

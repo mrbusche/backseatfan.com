@@ -1,6 +1,6 @@
 ---
 id: 7375
-title: "Chris Kaman Loves Fireworks&#8230; $10k Worth of Fireworks&#8230;"
+title: "Chris Kaman Loves Fireworks? $10k Worth of Fireworks?"
 date: 2010-07-28T12:42:09+00:00
 author: Ryan M.
 layout: post

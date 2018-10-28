@@ -60,7 +60,7 @@ tags:
       </td>
 
       <td width="405">
-        <span style="font-size: small;"><span style="font-family: arial,helvetica,sans-serif;">Peyton &#8220;The Sheriff&#8221; </span></span><span style="font-size: small;"><span style="font-family: arial,helvetica,sans-serif;">Manning </span></span><span style="font-size: small;"><span style="font-family: arial,helvetica,sans-serif;">came into Miami and shot at some dolphins. Therefore, Peyton Manning is a Dolphin Killer. </span></span>
+        <span style="font-size: small;"><span style="font-family: arial,helvetica,sans-serif;">Peyton "The Sheriff" </span></span><span style="font-size: small;"><span style="font-family: arial,helvetica,sans-serif;">Manning </span></span><span style="font-size: small;"><span style="font-family: arial,helvetica,sans-serif;">came into Miami and shot at some dolphins. Therefore, Peyton Manning is a Dolphin Killer. </span></span>
       </td>
     </tr>
 

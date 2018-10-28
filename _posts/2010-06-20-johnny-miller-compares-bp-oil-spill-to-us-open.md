@@ -25,7 +25,7 @@ tags:
 
   <blockquote>
     <p>
-      &#8220;I don't know who's leaking more oil: the field or British Petroleum.&#8221;
+      "I don't know who's leaking more oil: the field or British Petroleum."
     </p>
   </blockquote>
 

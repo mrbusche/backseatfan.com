@@ -303,7 +303,7 @@ tags:
       </td>
 
       <td style="color: #000000; font-size: 11px; cursor: text; margin: 8px;" width="405">
-        <span style="font-size: small;"><span style="font-family: arial, helvetica, sans-serif;">Cutler fell apart last week, good thing he still has to work for his big contract. Oh wait&#8230;.<br /> </span></span>
+        <span style="font-size: small;"><span style="font-family: arial, helvetica, sans-serif;">Cutler fell apart last week, good thing he still has to work for his big contract. Oh wait?.<br /> </span></span>
       </td>
     </tr>
 
@@ -457,7 +457,7 @@ tags:
       </td>
 
       <td style="color: #000000; font-size: 11px; cursor: text; margin: 8px;" width="405">
-        <span style="font-size: small;"><span style="font-family: arial, helvetica, sans-serif;">The Titans are going to start Vince Young&#8230; I don't really know if he is the answer. But maybe he cans till run the option.<br /> </span></span>
+        <span style="font-size: small;"><span style="font-family: arial, helvetica, sans-serif;">The Titans are going to start Vince Young? I don't really know if he is the answer. But maybe he cans till run the option.<br /> </span></span>
       </td>
     </tr>
 

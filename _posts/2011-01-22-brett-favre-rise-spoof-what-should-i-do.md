@@ -1,6 +1,6 @@
 ---
 id: 9495
-title: "Brett Favre - Rise Spoof - &#8220;What should I do?&#8221;"
+title: "Brett Favre - Rise Spoof - "What should I do?""
 date: 2011-01-22T14:09:42+00:00
 author: Ryan M.
 layout: post
@@ -23,7 +23,7 @@ tags:
 
 <div class="entry">
   <p>
-    Everybody has made fun of LeBron James &#8220;Rise&#8221; commercial, from South Park to SportsNation.  This guy has a &#8220;Rise&#8221; spoof on Brett Favre. This guy looks just like Favre, talks like Favre, and is pretty damn funny.
+    Everybody has made fun of LeBron James "Rise" commercial, from South Park to SportsNation.  This guy has a "Rise" spoof on Brett Favre. This guy looks just like Favre, talks like Favre, and is pretty damn funny.
   </p>
 
   <p>

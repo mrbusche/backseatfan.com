@@ -28,7 +28,7 @@ tags:
 
   <blockquote>
     <p>
-      &#8220;I was trying to move it while it was still fresh,&#8221; Nash said. &#8220;I know that once it sets it's harder.&#8221;
+      "I was trying to move it while it was still fresh," Nash said. "I know that once it sets it's harder."
     </p>
   </blockquote>
 

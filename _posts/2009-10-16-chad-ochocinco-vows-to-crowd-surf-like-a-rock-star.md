@@ -22,7 +22,7 @@ tags:
   </p>
 
   <p>
-    &#8220;Esteban out people, sunday please hurry up so I can crowd surf like a rock start&#8212;fans please toss me back on to the sideline when done.&#8221;
+    "Esteban out people, sunday please hurry up so I can crowd surf like a rock start-fans please toss me back on to the sideline when done."
   </p>
 
   <p>

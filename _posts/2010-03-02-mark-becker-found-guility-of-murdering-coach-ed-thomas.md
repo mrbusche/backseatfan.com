@@ -58,7 +58,7 @@ tags:
   </p>
 
   <p>
-    Becker told an Iowa Division of Criminal Investigation agent that he opened fire on Thomas because he believed the coach was a &#8220;devil tyrant&#8221; who oppressed children, turned people into animals and fish and was harassing him through ESP.
+    Becker told an Iowa Division of Criminal Investigation agent that he opened fire on Thomas because he believed the coach was a "devil tyrant" who oppressed children, turned people into animals and fish and was harassing him through ESP.
   </p>
 
   <p>

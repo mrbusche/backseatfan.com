@@ -21,6 +21,6 @@ tags:
   </p>
 
   <p>
-    Joe Nedney saved every NFL Kickers career by facing off against the kicking robot. He 'kicked' it's ass, well, beat it with the windy kick. NFL Kickers sleep can now sleep peacefully at night knowing that they still have a job. For now&#8230;
+    Joe Nedney saved every NFL Kickers career by facing off against the kicking robot. He 'kicked' it's ass, well, beat it with the windy kick. NFL Kickers sleep can now sleep peacefully at night knowing that they still have a job. For now?
   </p>
 </div>

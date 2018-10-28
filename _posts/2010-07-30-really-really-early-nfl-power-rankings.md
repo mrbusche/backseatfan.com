@@ -133,7 +133,7 @@ tags:
       </td>
 
       <td width="486">
-        <strong>Dallas Cowboys (11-5)</strong><br /> As much as I dislike the Cowboys, I have to admit they look like they are on track to make a run for it this year.  Dez Bryant should be an impact rookie this year, he should beat out terrible Roy Williams for the #2 WR role. Felix Jones will become the starting RB, and the Cowboys should have their offense rolling&#8230; But what about their defense?
+        <strong>Dallas Cowboys (11-5)</strong><br /> As much as I dislike the Cowboys, I have to admit they look like they are on track to make a run for it this year.  Dez Bryant should be an impact rookie this year, he should beat out terrible Roy Williams for the #2 WR role. Felix Jones will become the starting RB, and the Cowboys should have their offense rolling? But what about their defense?
       </td>
     </tr>
 
@@ -469,7 +469,7 @@ tags:
       </td>
 
       <td width="486">
-        <strong>Tampa Bay Buccaneers (3-13)<br /> </strong>Questionable Coach, young QB, young WRs, young defense&#8230; Do I really need to continue?  Bucs will be fighting the Rams for the first pick in the 2011 NFL Draft all season.
+        <strong>Tampa Bay Buccaneers (3-13)<br /> </strong>Questionable Coach, young QB, young WRs, young defense? Do I really need to continue?  Bucs will be fighting the Rams for the first pick in the 2011 NFL Draft all season.
       </td>
     </tr>
   </table>

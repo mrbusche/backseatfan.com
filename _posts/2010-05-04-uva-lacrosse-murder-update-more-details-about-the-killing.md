@@ -32,7 +32,7 @@ tags:
 
   <blockquote>
     <p>
-      &#8220;Because this case involves an active, ongoing investigation, any comment on the specific facts would be inappropriate at this time. Until more information becomes available, it is our hope that no conclusions will be drawn or judgments made about George or his case. However, we are confident that Ms. Love's death was not intended, but an accident with a tragic outcome. In the meantime, George is withdrawing from the University of Virginia and remains in the custody of authorities. Grief has descended on this community as we attempt to understand what happened and why. Our thoughts and prayers are with those who grieve this terrible loss.&#8221;
+      "Because this case involves an active, ongoing investigation, any comment on the specific facts would be inappropriate at this time. Until more information becomes available, it is our hope that no conclusions will be drawn or judgments made about George or his case. However, we are confident that Ms. Love's death was not intended, but an accident with a tragic outcome. In the meantime, George is withdrawing from the University of Virginia and remains in the custody of authorities. Grief has descended on this community as we attempt to understand what happened and why. Our thoughts and prayers are with those who grieve this terrible loss."
     </p>
   </blockquote>
 

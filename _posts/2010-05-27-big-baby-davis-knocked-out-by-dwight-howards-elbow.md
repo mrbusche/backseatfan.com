@@ -23,16 +23,16 @@ tags:
   </p>
 
   <p>
-    Glen &#8220;Big Baby&#8221; Davis gets knocked out by a Dwight Howard's elbow. Big Baby tried to get up, but he couldn't regain his balance, and had to be helped off the court. The elbow to the face also took out one of Davis' teeth.
+    Glen "Big Baby" Davis gets knocked out by a Dwight Howard's elbow. Big Baby tried to get up, but he couldn't regain his balance, and had to be helped off the court. The elbow to the face also took out one of Davis' teeth.
   </p>
 
   <blockquote>
     <p>
-      &#8220;Point blank. I ain't speaking. I'm all right. I'll be back next game,&#8221; Davis said &#8220;That's all you need to print.&#8221;
+      "Point blank. I ain't speaking. I'm all right. I'll be back next game," Davis said "That's all you need to print."
     </p>
   </blockquote>
 
   <p>
-    Doc Rivers said that Davis &#8220;Blacked out&#8221; on the court. Depending on the severity of the concussion Big Baby will probably play the next game. He says he can, but will the doctors let him? If he does play he might be a little slowed down, concussions can screw you up for days, even weeks.
+    Doc Rivers said that Davis "Blacked out" on the court. Depending on the severity of the concussion Big Baby will probably play the next game. He says he can, but will the doctors let him? If he does play he might be a little slowed down, concussions can screw you up for days, even weeks.
   </p>
 </div>

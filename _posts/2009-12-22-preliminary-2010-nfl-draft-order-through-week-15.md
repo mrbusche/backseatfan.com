@@ -23,7 +23,7 @@ categories:
   </p>
 
   <p>
-    W-L percentage is based on all 16 games this year, not just first 14 games. Guess who the #1 draft Pick is&#8230;
+    W-L percentage is based on all 16 games this year, not just first 14 games. Guess who the #1 draft Pick is?
   </p>
 
   <p>

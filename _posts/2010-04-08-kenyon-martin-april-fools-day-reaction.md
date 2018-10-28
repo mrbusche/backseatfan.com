@@ -60,11 +60,11 @@ tags:
 
   <blockquote>
     <p>
-      I swear to God, boy &#8230; when I find out who did it .. I'm gonna put my mother fuckin' hands on one of y'all.&#8221;
+      I swear to God, boy ? when I find out who did it .. I'm gonna put my mother fuckin' hands on one of y'all."
     </p>
 
     <p>
-      &#8220;I'm gonna put my hands on whoever did it &#8230; you best believe dat &#8230; it's fuckin' personal &#8230; you best believe it.
+      "I'm gonna put my hands on whoever did it ? you best believe dat ? it's fuckin' personal ? you best believe it.
     </p>
 
   </blockquote>

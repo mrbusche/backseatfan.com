@@ -26,14 +26,14 @@ categories:
   </p>
 
   <p>
-    Moonves' minions have finally responded to <strong>FartGate '09</strong>, telling TMZ <strong>Tiger Woods</strong> wasn't gassy on 18 at the <strong>Buick Open</strong> &#8212; and the obvious flatulent sound came from somebody else.
+    Moonves' minions have finally responded to <strong>FartGate '09</strong>, telling TMZ <strong>Tiger Woods</strong> wasn't gassy on 18 at the <strong>Buick Open</strong> - and the obvious flatulent sound came from somebody else.
   </p>
 
   <p>
-    But CBS didn't crack this caper &#8212; refusing to say who cut the cheese.
+    But CBS didn't crack this caper - refusing to say who cut the cheese.
   </p>
 
   <p>
-    The mystery remains&#8230;
+    The mystery remains?
   </p>
 </div>

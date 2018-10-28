@@ -22,10 +22,10 @@ tags:
   </p>
 
   <p>
-    Steve Nash - &#8220;The Most Ridiculous Man in the World&#8221;
+    Steve Nash - "The Most Ridiculous Man in the World"
   </p>
 
   <p>
-    Great play on the Dos Equis &#8220;The Most Interesting Man in the World&#8221;. Although I would say that it is better. Steve Nash is brilliant, and you will be seeing more of his stuff on BackseatFan.com.
+    Great play on the Dos Equis "The Most Interesting Man in the World". Although I would say that it is better. Steve Nash is brilliant, and you will be seeing more of his stuff on BackseatFan.com.
   </p>
 </div>

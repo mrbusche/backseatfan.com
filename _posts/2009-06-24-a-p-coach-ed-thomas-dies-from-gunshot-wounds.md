@@ -30,7 +30,7 @@ tags:
   </p>
 
   <p>
-    No students were injured, although about 50 students were present at the time of the shooting. &#8220;They did witness this and so we have counselors at the site to talk with the kids.&#8221; Superintendent Jon Thompson told KOEL radio.
+    No students were injured, although about 50 students were present at the time of the shooting. "They did witness this and so we have counselors at the site to talk with the kids." Superintendent Jon Thompson told KOEL radio.
   </p>
 
   <p>
@@ -52,7 +52,7 @@ tags:
   </p>
 
   <p>
-    Coach Thomas has four former players active in the NFL &#8212; Brad Meester of Jacksonville; Jared DeVries; Casey Wiegmann of Denver; Aaron Kampman of Green Bay. DeVries, a defensive end with the Lions, walked off the field in Allen Park, Mich., toward the end of a morning practice, apparently shaken. Team officials said DeVries was not immediately available for comment.
+    Coach Thomas has four former players active in the NFL - Brad Meester of Jacksonville; Jared DeVries; Casey Wiegmann of Denver; Aaron Kampman of Green Bay. DeVries, a defensive end with the Lions, walked off the field in Allen Park, Mich., toward the end of a morning practice, apparently shaken. Team officials said DeVries was not immediately available for comment.
   </p>
 
   <p>
@@ -64,7 +64,7 @@ tags:
   </p>
 
   <p>
-    &#8220;When Ed said a kid could play, you knew that the kid was going to be a player. Even if Ed said he had someone that might be worth a look as a walk-on, you made a special trip up there to see him. Ed's one of the nicest people I've ever known. He had so much class, and so much character.&#8221;
+    "When Ed said a kid could play, you knew that the kid was going to be a player. Even if Ed said he had someone that might be worth a look as a walk-on, you made a special trip up there to see him. Ed's one of the nicest people I've ever known. He had so much class, and so much character."
   </p>
 
   <p>

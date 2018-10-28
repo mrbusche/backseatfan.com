@@ -468,7 +468,7 @@ tags:
       </td>
 
       <td width="486">
-        <strong>Buffalo Bills (0-4)</strong><strong><br /> </strong>With the first pick in 2011 NFL Draft the Buffalo Bills select&#8230;.
+        <strong>Buffalo Bills (0-4)</strong><strong><br /> </strong>With the first pick in 2011 NFL Draft the Buffalo Bills select?.
       </td>
     </tr>
   </table>

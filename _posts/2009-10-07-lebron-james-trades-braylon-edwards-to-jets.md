@@ -27,7 +27,7 @@ tags:
   </p>
 
   <p>
-    &#8220;You don't mess with my friends.&#8221; LeBron was quoted as saying.
+    "You don't mess with my friends." LeBron was quoted as saying.
   </p>
 
   <p>

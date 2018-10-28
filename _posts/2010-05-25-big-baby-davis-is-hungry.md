@@ -22,6 +22,6 @@ tags:
   </p>
 
   <p>
-    Not sure if Glen &#8220;Big Baby&#8221; Davis is trying to psyche out the opponents, or if he is just thinking of that Big Mac he is going to eat in the locker room.  Probably a little bit of both.
+    Not sure if Glen "Big Baby" Davis is trying to psyche out the opponents, or if he is just thinking of that Big Mac he is going to eat in the locker room.  Probably a little bit of both.
   </p>
 </div>

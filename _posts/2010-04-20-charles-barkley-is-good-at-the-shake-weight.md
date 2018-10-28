@@ -34,7 +34,7 @@ tags:
   </p>
 
   <p style="padding-left: 30px;">
-    &#8220;If you use it too much you might go blind&#8230;&#8221;
+    "If you use it too much you might go blind?"
   </p>
 
   <p>

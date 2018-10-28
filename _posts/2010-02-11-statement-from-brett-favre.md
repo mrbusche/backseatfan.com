@@ -38,7 +38,7 @@ tags:
     </p>
 
     <p>
-      Regardless of what the future holds, I want everyone to know that I will cherish the memories of the past year for the rest of my life.&#8221; -Brett Favre
+      Regardless of what the future holds, I want everyone to know that I will cherish the memories of the past year for the rest of my life." -Brett Favre
     </p>
   </blockquote>
 

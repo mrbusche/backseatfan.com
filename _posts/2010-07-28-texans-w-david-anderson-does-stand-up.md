@@ -19,7 +19,7 @@ tags:
 
 <div class="entry">
   <p>
-    Houston Texans WR  David Anderson does stand up at Houston Dynamo's Bobby Boswell's Party. He has a lot of time to spend on stand up since he never plays&#8230;  But he actually pretty good.
+    Houston Texans WR  David Anderson does stand up at Houston Dynamo's Bobby Boswell's Party. He has a lot of time to spend on stand up since he never plays?  But he actually pretty good.
   </p>
 
   <p>

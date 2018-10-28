@@ -16,7 +16,7 @@ categories:
   </p>
 
   <p>
-    &#8220;Jim Johnson has passed away, the team just announced it.&#8221;
+    "Jim Johnson has passed away, the team just announced it."
   </p>
 
   <p>
@@ -24,7 +24,7 @@ categories:
   </p>
 
   <p style="padding-left: 30px;">
-    &#8220;The Philadelphia Eagles are saddened to announce Jim Johnson has passed awayTuesday afternoon at the age of 68 after a courageous battle with cancer.
+    "The Philadelphia Eagles are saddened to announce Jim Johnson has passed awayTuesday afternoon at the age of 68 after a courageous battle with cancer.
   </p>
 
   <p style="padding-left: 30px;">
@@ -32,7 +32,7 @@ categories:
   </p>
 
   <p style="padding-left: 30px;">
-    Johnson is survived by his wife, Vicky, two children, Scott and Michelle, and four grandchildren, Katie, Justin, Brandon, and Jax.&#8221;
+    Johnson is survived by his wife, Vicky, two children, Scott and Michelle, and four grandchildren, Katie, Justin, Brandon, and Jax."
   </p>
 
   <p>

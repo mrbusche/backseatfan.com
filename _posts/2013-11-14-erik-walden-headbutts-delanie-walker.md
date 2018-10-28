@@ -28,7 +28,7 @@ tags:
 
 <div class="entry">
   <p>
-    Erik Walden headbutts a helmetless Delanie Walker&#8230; and he somehow wasn't thrown out of the game. I'd expect a fine coming.
+    Erik Walden headbutts a helmetless Delanie Walker? and he somehow wasn't thrown out of the game. I'd expect a fine coming.
   </p>
 
   <p>

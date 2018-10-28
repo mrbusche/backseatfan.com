@@ -48,7 +48,7 @@ tags:
   </p>
 
   <p>
-    All of these videos bring up one question. Not is the NFL going to play this year, because they are. The one burning question that every League fan is wondering&#8230;
+    All of these videos bring up one question. Not is the NFL going to play this year, because they are. The one burning question that every League fan is wondering?
   </p>
 
   <p>

@@ -1,6 +1,6 @@
 ---
 id: 3777
-title: "LeBron James Raps &#8220;Forever&#8221; at the Cavaliers vs Lakers game"
+title: "LeBron James Raps "Forever" at the Cavaliers vs Lakers game"
 date: 2010-01-22T10:08:10+00:00
 author: Matt B.
 layout: post

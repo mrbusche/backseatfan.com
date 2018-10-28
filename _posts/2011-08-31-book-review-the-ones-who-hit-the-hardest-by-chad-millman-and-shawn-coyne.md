@@ -44,7 +44,7 @@ tags:
   </p>
 
   <p>
-    Mean Joe Greene helped transform the Steelers to who they are today. Greene is the heart and soul of the Steelers, when you Google &#8220;Steelers Mentality&#8221;, his picture should show up next to it (I Googled this, clicked on images, didn't see a picture of Mean Joe Greene, very disappointing Google, very disappointing).
+    Mean Joe Greene helped transform the Steelers to who they are today. Greene is the heart and soul of the Steelers, when you Google "Steelers Mentality", his picture should show up next to it (I Googled this, clicked on images, didn't see a picture of Mean Joe Greene, very disappointing Google, very disappointing).
   </p>
 
   <p>

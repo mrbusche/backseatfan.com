@@ -32,7 +32,7 @@ tags:
     </p>
 
     <p>
-      He was an incredible and charitable man. First and foremost he was devoted to his entire family &#8212; his beloved wife, Joan; his sisters, Susan Norpell and Judy Kamm, his children, Hank, Jennifer Jessica and Hal; and all of his grandchildren.
+      He was an incredible and charitable man. First and foremost he was devoted to his entire family - his beloved wife, Joan; his sisters, Susan Norpell and Judy Kamm, his children, Hank, Jennifer Jessica and Hal; and all of his grandchildren.
     </p>
 
     <p>
@@ -53,7 +53,7 @@ tags:
   </p>
 
   <p>
-    It's hard to sum up George Steinbrenner is just one line, but if I had to choose one of his quotes, &#8220;Winning is the most important thing in my life, after breathing. Breathing first, winning next,&#8221; is his best quote.
+    It's hard to sum up George Steinbrenner is just one line, but if I had to choose one of his quotes, "Winning is the most important thing in my life, after breathing. Breathing first, winning next," is his best quote.
   </p>
 
   <p>

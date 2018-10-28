@@ -27,7 +27,7 @@ tags:
   </p>
 
   <p>
-    The bill board will say &#8220;Too Much Sex Can Be a Bad Thing &#8230; For Little Tigers Too. Help Keep Your Cats (and Dogs) Out of Trouble: Always Spay or Neuter!&#8221;
+    The bill board will say "Too Much Sex Can Be a Bad Thing ? For Little Tigers Too. Help Keep Your Cats (and Dogs) Out of Trouble: Always Spay or Neuter!"
   </p>
 
   <p>

@@ -28,6 +28,6 @@ tags:
   </p>
 
   <p>
-    And now current Lakers F Ron Artest has filed a petition to legally change his name to Metta World Peace. Metta stands for &#8220;The philosophy and practice of universal love&#8221;, I think we can figure out what the rest means. Artest cited personal reasons for wanting to make the change in court documents.
+    And now current Lakers F Ron Artest has filed a petition to legally change his name to Metta World Peace. Metta stands for "The philosophy and practice of universal love", I think we can figure out what the rest means. Artest cited personal reasons for wanting to make the change in court documents.
   </p>
 </div>

@@ -18,7 +18,7 @@ categories:
   </p>
 
   <p>
-    The girlfriend had this to say, &#8220;As soon as we got here and I saw where we were sitting, I said 'Baby, I'm going to get hit,&#8221; Sarah said. &#8220;He said, 'No, you won't. I'll catch it if you do.' We just had this conversation and sure enough, the ball comes at me. He just bailed.&#8221;&#8221;As soon as we got here and I saw where we were sitting, I said 'Baby, I'm going to get hit,&#8221; Sarah said. &#8220;He said, 'No, you won't. I'll catch it if you do.' We just had this conversation and sure enough, the ball comes at me. He just bailed.&#8221;
+    The girlfriend had this to say, "As soon as we got here and I saw where we were sitting, I said 'Baby, I'm going to get hit," Sarah said. "He said, 'No, you won't. I'll catch it if you do.' We just had this conversation and sure enough, the ball comes at me. He just bailed.""As soon as we got here and I saw where we were sitting, I said 'Baby, I'm going to get hit," Sarah said. "He said, 'No, you won't. I'll catch it if you do.' We just had this conversation and sure enough, the ball comes at me. He just bailed."
   </p>
 
   <p>

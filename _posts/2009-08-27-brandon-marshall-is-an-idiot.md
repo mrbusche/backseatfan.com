@@ -19,7 +19,7 @@ tags:
   </p>
 
   <p>
-    This is absolutely disgusting, I can't imagine any team in the NFL watching this video and thinking, &#8220;Hey, a 1st round pick and a 4th? For this guy? Sign me up!&#8221; It's only a matter of time before the Broncos suspend Marshall for conduct detrimental to the team, then he'll have even less money than he does now. I'm surprised no one on the team has stepped up and told him to quit acting like a toddler. On a team filled with a lot of young players and not many veterans (that have been on the Broncos for multiple years), I'm not sure <em>who</em> should step up. Champ Bailey and Brian Dawkins are two that come to mind, but they have never been known as guys who like to speak up.
+    This is absolutely disgusting, I can't imagine any team in the NFL watching this video and thinking, "Hey, a 1st round pick and a 4th? For this guy? Sign me up!" It's only a matter of time before the Broncos suspend Marshall for conduct detrimental to the team, then he'll have even less money than he does now. I'm surprised no one on the team has stepped up and told him to quit acting like a toddler. On a team filled with a lot of young players and not many veterans (that have been on the Broncos for multiple years), I'm not sure <em>who</em> should step up. Champ Bailey and Brian Dawkins are two that come to mind, but they have never been known as guys who like to speak up.
   </p>
 
   <p>

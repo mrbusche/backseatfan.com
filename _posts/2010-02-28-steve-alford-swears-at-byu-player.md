@@ -35,7 +35,7 @@ tags:
     </p>
 
     <p>
-      Alford said he was trying to congratulate Tavernari, a senior, on an outstanding career at BYU, but that the player &#8220;didn't want to hear that at the time.&#8221; Alford said he has called BYU coach Dave Rose to apologize.
+      Alford said he was trying to congratulate Tavernari, a senior, on an outstanding career at BYU, but that the player "didn't want to hear that at the time." Alford said he has called BYU coach Dave Rose to apologize.
     </p>
   </blockquote>
 

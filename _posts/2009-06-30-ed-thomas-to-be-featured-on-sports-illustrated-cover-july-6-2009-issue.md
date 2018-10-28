@@ -17,11 +17,11 @@ categories:
   </p>
 
   <p>
-    &#8220;This week's July 6, 2009, issue of Sports Illustrated, on newsstands (Wednesday), features Ed Thomas, head football coach at Aplington-Parkersburg (Iowa) High School, with the billing A Good Man Down â€“ Tragedy in the Heartland: The Murder of a Beloved High School Coach.&#8221;
+    "This week's July 6, 2009, issue of Sports Illustrated, on newsstands (Wednesday), features Ed Thomas, head football coach at Aplington-Parkersburg (Iowa) High School, with the billing A Good Man Down â€“ Tragedy in the Heartland: The Murder of a Beloved High School Coach."
   </p>
 
   <p>
-    Here is a link to the SI article: &#8220;<a href="http://sportsillustrated.cnn.com/vault/article/magazine/MAG1157377/index.htm">He was the Rock that this community was built on</a>&#8221; Warning: I wouldn't read this article if you're at work, unless you're comfortable shedding a few tears at work.
+    Here is a link to the SI article: "<a href="http://sportsillustrated.cnn.com/vault/article/magazine/MAG1157377/index.htm">He was the Rock that this community was built on</a>" Warning: I wouldn't read this article if you're at work, unless you're comfortable shedding a few tears at work.
   </p>
 
   <p>

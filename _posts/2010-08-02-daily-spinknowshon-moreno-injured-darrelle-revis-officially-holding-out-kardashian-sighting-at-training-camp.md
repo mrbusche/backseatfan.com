@@ -24,35 +24,35 @@ tags:
 
 <div class="entry">
   <p>
-    <em>Another award winning edition of the Daily Spin&#8230; If I give the award to myself does that count?  No?  Alright, well I guess it is just another great edition of the Daily Spin, no awards&#8230; Yet.</em>
+    <em>Another award winning edition of the Daily Spin? If I give the award to myself does that count?  No?  Alright, well I guess it is just another great edition of the Daily Spin, no awards? Yet.</em>
   </p>
 
   <p>
-    <em> </em><a href="http://nbcsports.msnbc.com/id/38515187/ns/sports-player_news/">Denver Broncos RB Knowshon Moreno will be out 2-3 weeks</a> with a 'slight' hamstring tear&#8230; This is good news for Bronco fans and fantasy football enthusiasts since Moreno shouldn't miss any of the regular season due to this injury. Correll Buckhalter is also injured, so Moreno won't be losing any position battles at the moment&#8230;   [via <a href="http://nbcsports.msnbc.com/id/38515187/ns/sports-player_news/">NBC Sports</a>]
+    <em> </em><a href="http://nbcsports.msnbc.com/id/38515187/ns/sports-player_news/">Denver Broncos RB Knowshon Moreno will be out 2-3 weeks</a> with a 'slight' hamstring tear? This is good news for Bronco fans and fantasy football enthusiasts since Moreno shouldn't miss any of the regular season due to this injury. Correll Buckhalter is also injured, so Moreno won't be losing any position battles at the moment?   [via <a href="http://nbcsports.msnbc.com/id/38515187/ns/sports-player_news/">NBC Sports</a>]
   </p>
 
   <p>
-    <a href="http://www.nydailynews.com/sports/football/jets/2010/08/01/2010-08-01_darrelle_revis_officially_holding_out_from_new_york_jets_training_camp_amid_cont.html">Jet's CB Darrelle Revis is holding out</a>.He wants to be the top paid CB in the league, since he is the best CB in the league&#8230; Just pay the man his money and get him into camp.  He is worth it&#8230; [via <a href="http://www.nydailynews.com/sports/football/jets/2010/08/01/2010-08-01_darrelle_revis_officially_holding_out_from_new_york_jets_training_camp_amid_cont.html">NYDN</a>]
+    <a href="http://www.nydailynews.com/sports/football/jets/2010/08/01/2010-08-01_darrelle_revis_officially_holding_out_from_new_york_jets_training_camp_amid_cont.html">Jet's CB Darrelle Revis is holding out</a>.He wants to be the top paid CB in the league, since he is the best CB in the league? Just pay the man his money and get him into camp.  He is worth it? [via <a href="http://www.nydailynews.com/sports/football/jets/2010/08/01/2010-08-01_darrelle_revis_officially_holding_out_from_new_york_jets_training_camp_amid_cont.html">NYDN</a>]
   </p>
 
   <p>
-    <a href="http://sports.yahoo.com/nfl/news;_ylt=AiARI5HDqjPaqhQXyRkS6.05nYcB?slug=ap-patriots-welker">Wes Welker removed from PUP list</a>&#8230;  First they said he could play, then they added him, now they removed him again&#8230; Welker must be right at the edge of playing, they should probably just let him take it easy though camp if he is that close&#8230; [ via <a href="http://sports.yahoo.com/nfl/news;_ylt=AiARI5HDqjPaqhQXyRkS6.05nYcB?slug=ap-patriots-welker">Yahoo Sports</a>]
+    <a href="http://sports.yahoo.com/nfl/news;_ylt=AiARI5HDqjPaqhQXyRkS6.05nYcB?slug=ap-patriots-welker">Wes Welker removed from PUP list</a>?  First they said he could play, then they added him, now they removed him again? Welker must be right at the edge of playing, they should probably just let him take it easy though camp if he is that close? [ via <a href="http://sports.yahoo.com/nfl/news;_ylt=AiARI5HDqjPaqhQXyRkS6.05nYcB?slug=ap-patriots-welker">Yahoo Sports</a>]
   </p>
 
   <p>
-    <a href="http://thebiglead.com/index.php/2010/08/02/heres-the-buster-olney-profile-youve-been-waiting-for/">Buster Olney is writing a book</a>&#8230;. About his childhood friend who is a convicted rapist&#8230;  Wait what?!  Did he play baseball at some point? [ via <a href="http://thebiglead.com/index.php/2010/08/02/heres-the-buster-olney-profile-youve-been-waiting-for/">The Big Lead</a>]
+    <a href="http://thebiglead.com/index.php/2010/08/02/heres-the-buster-olney-profile-youve-been-waiting-for/">Buster Olney is writing a book</a>?. About his childhood friend who is a convicted rapist?  Wait what?!  Did he play baseball at some point? [ via <a href="http://thebiglead.com/index.php/2010/08/02/heres-the-buster-olney-profile-youve-been-waiting-for/">The Big Lead</a>]
   </p>
 
   <p>
-    <a href="http://media.cleveland.com/cavs_impact/photo/ilgauskas-adjpg-5a767a72c8032494.jpg">Ilgauskas says goodbye to Cleveland</a> 100x better than LeBron&#8230; Although if LeBron did it this way he would still get shit, although probably less shit than he is getting now&#8230; [via <a href="http://media.cleveland.com/cavs_impact/photo/ilgauskas-adjpg-5a767a72c8032494.jpg">Cleveland Plain Dealer</a>]
+    <a href="http://media.cleveland.com/cavs_impact/photo/ilgauskas-adjpg-5a767a72c8032494.jpg">Ilgauskas says goodbye to Cleveland</a> 100x better than LeBron? Although if LeBron did it this way he would still get shit, although probably less shit than he is getting now? [via <a href="http://media.cleveland.com/cavs_impact/photo/ilgauskas-adjpg-5a767a72c8032494.jpg">Cleveland Plain Dealer</a>]
   </p>
 
   <p>
-    <a href="http://www.miamiherald.com/2010/08/01/v-fullstory/1755789/james-story-points-out-flaws-of.html">A nice article on LeBron</a>, journalism, and the story that ESPN published then pulled&#8230; The E in ESPN stands for Entertainment&#8230; Why isn't there a M for Money in there somewhere?  [via <a href="http://www.miamiherald.com/2010/08/01/v-fullstory/1755789/james-story-points-out-flaws-of.html">Miami Herald</a>]
+    <a href="http://www.miamiherald.com/2010/08/01/v-fullstory/1755789/james-story-points-out-flaws-of.html">A nice article on LeBron</a>, journalism, and the story that ESPN published then pulled? The E in ESPN stands for Entertainment? Why isn't there a M for Money in there somewhere?  [via <a href="http://www.miamiherald.com/2010/08/01/v-fullstory/1755789/james-story-points-out-flaws-of.html">Miami Herald</a>]
   </p>
 
   <p>
-    Kim Kardashian Made an apperance at the Cowboys training camp causing to  Jerry Jones to &#8220;swallow his sandwich&#8221;&#8230;  All I can say is <a href="https://backseatfan.com/2010/06/kardashians-win-championships/">Kardashians win Championships</a>&#8230;
+    Kim Kardashian Made an apperance at the Cowboys training camp causing to  Jerry Jones to "swallow his sandwich"?  All I can say is <a href="https://backseatfan.com/2010/06/kardashians-win-championships/">Kardashians win Championships</a>?
   </p>
 
   <p>

@@ -24,27 +24,27 @@ tags:
 
 <div class="entry">
   <p>
-    <em>Chupacabra's are scary&#8230;  NFL Signings are going to pick up soon&#8230; The Espys are tonight, it is the closest thing we have to football season until, well..  football season.</em>
+    <em>Chupacabra's are scary?  NFL Signings are going to pick up soon? The Espys are tonight, it is the closest thing we have to football season until, well..  football season.</em>
   </p>
 
   <p>
-    <a href="http://www.youtube.com/watch?v=m8f8NYgWrzY">ESPN makes fun of themselves </a>with Bill Simmons: The Decision&#8230; Should Bill renew his LA Clippers Season tickets? Tune in to find out, at least it's only 2 minutes instead of 50 minutes&#8230;  [via <a href="http://www.youtube.com/watch?v=m8f8NYgWrzY">ESPN</a>]
+    <a href="http://www.youtube.com/watch?v=m8f8NYgWrzY">ESPN makes fun of themselves </a>with Bill Simmons: The Decision? Should Bill renew his LA Clippers Season tickets? Tune in to find out, at least it's only 2 minutes instead of 50 minutes?  [via <a href="http://www.youtube.com/watch?v=m8f8NYgWrzY">ESPN</a>]
   </p>
 
   <p>
-    <a href="http://mlb.mlb.com/video/play.jsp?content_id=9915299">MLB All Star Game Highlights</a>&#8230; Since you didn't want to sit down and watch the whole thing, because it is still a long ass baseball game, we brought you the highlights&#8230; Oh and the NL won&#8230; [via <a href="http://mlb.mlb.com/video/play.jsp?content_id=9915299">MLB</a>]
+    <a href="http://mlb.mlb.com/video/play.jsp?content_id=9915299">MLB All Star Game Highlights</a>? Since you didn't want to sit down and watch the whole thing, because it is still a long ass baseball game, we brought you the highlights? Oh and the NL won? [via <a href="http://mlb.mlb.com/video/play.jsp?content_id=9915299">MLB</a>]
   </p>
 
   <p>
-    Baltimore Ravens players are only <a href="http://weblogs.baltimoresun.com/sports/ravens/blog/2010/07/new_autograph_policy_at_training_camp.html">signing autographs for children</a>&#8230;  I guess this is a good way to  keep the crazy sports memorabilia guys away, but they will just end up paying kids 5 dollars to go get them autographs&#8230; [ via <a href="http://weblogs.baltimoresun.com/sports/ravens/blog/2010/07/new_autograph_policy_at_training_camp.html">Baltimore Sun</a>]
+    Baltimore Ravens players are only <a href="http://weblogs.baltimoresun.com/sports/ravens/blog/2010/07/new_autograph_policy_at_training_camp.html">signing autographs for children</a>?  I guess this is a good way to  keep the crazy sports memorabilia guys away, but they will just end up paying kids 5 dollars to go get them autographs? [ via <a href="http://weblogs.baltimoresun.com/sports/ravens/blog/2010/07/new_autograph_policy_at_training_camp.html">Baltimore Sun</a>]
   </p>
 
   <p>
-    <a href="http://www.nytimes.com/2010/07/14/sports/basketball/14nets.html?_r=2&partner=rss&emc=rss">Nets owner jokes</a> about shipping building to Moscow&#8230;  Sure he was making a joke, but now the FBI is watching him because of the Recent Russian Spies&#8230; [via <a href="http://www.nytimes.com/2010/07/14/sports/basketball/14nets.html?_r=2&partner=rss&emc=rss">NYT</a>]
+    <a href="http://www.nytimes.com/2010/07/14/sports/basketball/14nets.html?_r=2&partner=rss&emc=rss">Nets owner jokes</a> about shipping building to Moscow?  Sure he was making a joke, but now the FBI is watching him because of the Recent Russian Spies? [via <a href="http://www.nytimes.com/2010/07/14/sports/basketball/14nets.html?_r=2&partner=rss&emc=rss">NYT</a>]
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/golf/britishopen10/news/story?id=5375440">Tiger is changing his putter</a> for the first time in 11 years.  Tiger is blaming his putter for his woes, he will be divorcing it and finding a new putter at Applebees&#8230; [via <a href="http://sports.espn.go.com/golf/britishopen10/news/story?id=5375440">ESPN</a>]
+    <a href="http://sports.espn.go.com/golf/britishopen10/news/story?id=5375440">Tiger is changing his putter</a> for the first time in 11 years.  Tiger is blaming his putter for his woes, he will be divorcing it and finding a new putter at Applebees? [via <a href="http://sports.espn.go.com/golf/britishopen10/news/story?id=5375440">ESPN</a>]
   </p>
 
   <p>

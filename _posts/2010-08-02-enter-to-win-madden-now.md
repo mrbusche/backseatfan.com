@@ -1,6 +1,6 @@
 ---
 id: 7740
-title: "Enter to Win Madden&#8230;. NOW!"
+title: "Enter to Win Madden?. NOW!"
 date: 2010-08-02T08:25:46+00:00
 author: Ryan M.
 layout: post

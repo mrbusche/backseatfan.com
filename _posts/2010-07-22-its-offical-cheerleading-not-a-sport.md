@@ -35,7 +35,7 @@ tags:
 
   <blockquote>
     <p>
-      &#8220;Competitive cheer may, some time in the future, qualify as a sport under Title IX,&#8221; U.S. District Judge Stefan Underhill wrote in his decision. &#8220;Today, however, the activity is still too underdeveloped and disorganized to be treated as offering genuine varsity athletic participation opportunities for students.&#8221;
+      "Competitive cheer may, some time in the future, qualify as a sport under Title IX," U.S. District Judge Stefan Underhill wrote in his decision. "Today, however, the activity is still too underdeveloped and disorganized to be treated as offering genuine varsity athletic participation opportunities for students."
     </p>
   </blockquote>
 
@@ -64,7 +64,7 @@ tags:
   </p>
 
   <p>
-    If you have ever argued with a cheerleader or former high school cheerleader that cheerleading wasn't a sport.  You just won the battle, for now&#8230;
+    If you have ever argued with a cheerleader or former high school cheerleader that cheerleading wasn't a sport.  You just won the battle, for now?
   </p>
 
   <p>

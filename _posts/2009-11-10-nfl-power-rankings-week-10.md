@@ -35,7 +35,7 @@ categories:
       </td>
 
       <td style="color: #000000; font-size: 11px; cursor: text; margin: 8px;" width="405">
-        <span style="font-size: small;"><span style="font-family: arial, helvetica, sans-serif;">The Saints looked like they were beat in the first quarter, but they finished the game like a hurricane&#8230; Too soon?<br /> </span></span>
+        <span style="font-size: small;"><span style="font-family: arial, helvetica, sans-serif;">The Saints looked like they were beat in the first quarter, but they finished the game like a hurricane? Too soon?<br /> </span></span>
       </td>
     </tr>
 
@@ -413,7 +413,7 @@ categories:
       </td>
 
       <td style="color: #000000; font-size: 11px; cursor: text; margin: 8px;" width="405">
-        <span style="font-size: small;"><span style="font-family: arial, helvetica, sans-serif;">The Skin's lost the the Falcons, didn't expect them to come close. Horrible team, (insert &#8220;makes me want to puke&#8221; drop)<br /> </span></span>
+        <span style="font-size: small;"><span style="font-family: arial, helvetica, sans-serif;">The Skin's lost the the Falcons, didn't expect them to come close. Horrible team, (insert "makes me want to puke" drop)<br /> </span></span>
       </td>
     </tr>
 

@@ -23,7 +23,7 @@ tags:
 
 <div class="entry">
   <p>
-    Kelly Gneiting, a former Sumo Wrestler, set out to be the heaviest person to finish a marathon, and he did it. Gneiting set a Guinness World Record for the &#8220;Heaviest Person to Complete a Marathon&#8221;. He completed the LA Marathon with a time of 9:48:52.
+    Kelly Gneiting, a former Sumo Wrestler, set out to be the heaviest person to finish a marathon, and he did it. Gneiting set a Guinness World Record for the "Heaviest Person to Complete a Marathon". He completed the LA Marathon with a time of 9:48:52.
   </p>
 
   <p>

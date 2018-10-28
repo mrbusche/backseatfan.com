@@ -17,7 +17,7 @@ categories:
 
   <blockquote>
     <p>
-      <em>&#8220;Yayyyyyy! Aaron Maybin signed!!! I think! (Puzzled look on my face & scratching my head!)&#8221;</em>
+      <em>"Yayyyyyy! Aaron Maybin signed!!! I think! (Puzzled look on my face & scratching my head!)"</em>
     </p>
 
     <p>
@@ -28,7 +28,7 @@ categories:
   </blockquote>
 
   <p>
-    Apparently he leaked the news before even the team knew about the signing. Do we give the credit to TO or Adam Schefter? My guess is Adam Schefter's &#8220;source&#8221; was TO's twitter. Mark one down for Owens, future ESPN NFL insider.
+    Apparently he leaked the news before even the team knew about the signing. Do we give the credit to TO or Adam Schefter? My guess is Adam Schefter's "source" was TO's twitter. Mark one down for Owens, future ESPN NFL insider.
   </p>
 
   <p>

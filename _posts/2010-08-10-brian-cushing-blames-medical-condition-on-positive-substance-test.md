@@ -40,21 +40,21 @@ tags:
 
   <blockquote>
     <p>
-      &#8220;I think that's the final diagnosis we came up with,&#8221; he said, &#8220;and a lot of doctors have supported why this has happened.&#8221;
+      "I think that's the final diagnosis we came up with," he said, "and a lot of doctors have supported why this has happened."
     </p>
   </blockquote>
 
   <p>
-    Cushing said months of tests show that he had a &#8220;unique&#8221; medical condition that led to the positive test.
+    Cushing said months of tests show that he had a "unique" medical condition that led to the positive test.
   </p>
 
   <blockquote>
     <p>
-      &#8220;Every individual is genetically different,&#8221; he said. &#8220;I had a unique situation where something like this occurred and we have the science to back it up. It's taken months. It's really beyond what we ever thought and it's beyond the regular medical doctor.
+      "Every individual is genetically different," he said. "I had a unique situation where something like this occurred and we have the science to back it up. It's taken months. It's really beyond what we ever thought and it's beyond the regular medical doctor.
     </p>
 
     <p>
-      &#8220;We've gone in depth, and there has been a lot of money spent on the research,&#8221; he said. &#8220;There have been a lot of interesting results that I think can help us.&#8221;
+      "We've gone in depth, and there has been a lot of money spent on the research," he said. "There have been a lot of interesting results that I think can help us."
     </p>
   </blockquote>
 
@@ -63,7 +63,7 @@ tags:
   </p>
 
   <p>
-    &#8220;He has cooperated with us 100 percent,&#8221; McNair said. &#8220;We've satisfied ourselves that there are no health issues, and also that there was no evidence at all that he's done anything at all that was not proper.&#8221;
+    "He has cooperated with us 100 percent," McNair said. "We've satisfied ourselves that there are no health issues, and also that there was no evidence at all that he's done anything at all that was not proper."
   </p>
 
   <p>
@@ -75,6 +75,6 @@ tags:
   </p>
 
   <p>
-    Bob McNair was this close to saying &#8220;He is as healthy as a horse&#8221;.  A horse on steroids of course&#8230;  I don't think we can beleive any of this &#8220;medical research&#8221;.  Sounds like they paid good money to get the results that they wanted to hear, and if it passes every athlete in professional sports will be diagnosed with this &#8220;rare disease&#8221;.
+    Bob McNair was this close to saying "He is as healthy as a horse".  A horse on steroids of course?  I don't think we can beleive any of this "medical research".  Sounds like they paid good money to get the results that they wanted to hear, and if it passes every athlete in professional sports will be diagnosed with this "rare disease".
   </p>
 </div>

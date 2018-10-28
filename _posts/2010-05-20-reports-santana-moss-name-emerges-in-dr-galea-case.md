@@ -22,7 +22,7 @@ categories:
   </p>
 
   <p>
-    The U.S. attorney responsible for this case said Wednesday that none of his patients will face charges.  &#8220;At this juncture, any of the persons who are alleged to have used these substances are considered witnesses, and not targets, of this investigation,&#8221; William J. Hochul told the <em>Buffalo News</em>.
+    The U.S. attorney responsible for this case said Wednesday that none of his patients will face charges.  "At this juncture, any of the persons who are alleged to have used these substances are considered witnesses, and not targets, of this investigation," William J. Hochul told the <em>Buffalo News</em>.
   </p>
 
   <p>

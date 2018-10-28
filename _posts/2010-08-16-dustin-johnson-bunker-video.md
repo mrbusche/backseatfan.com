@@ -28,7 +28,7 @@ tags:
 
   <blockquote>
     <p>
-      &#8220;Walking up there, it never once crossed my mind that I was in a sand trap,&#8221; Johnson said afterward. &#8220;The only worse thing that could have happened was if I made that putt.&#8221;
+      "Walking up there, it never once crossed my mind that I was in a sand trap," Johnson said afterward. "The only worse thing that could have happened was if I made that putt."
     </p>
   </blockquote>
 

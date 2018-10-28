@@ -22,11 +22,11 @@ tags:
   </p>
 
   <p>
-    Fights make the Tour de France exciting&#8230; Carlos Barredo of Spain attacked Rui Alberto Costa of Portugal with his bike wheel. Barredo went after Costa because of Costa elbowed him in the stomach and the ribs with about 20 km to go in the stage.
+    Fights make the Tour de France exciting? Carlos Barredo of Spain attacked Rui Alberto Costa of Portugal with his bike wheel. Barredo went after Costa because of Costa elbowed him in the stomach and the ribs with about 20 km to go in the stage.
   </p>
 
   <p>
-    Both Barredo and Costa were fined about $430 dollars, and were found guilty for being a &#8220;threat and menace&#8221; in the race and &#8220;poor behaviour&#8221; after the stage.
+    Both Barredo and Costa were fined about $430 dollars, and were found guilty for being a "threat and menace" in the race and "poor behaviour" after the stage.
   </p>
 
   <p>

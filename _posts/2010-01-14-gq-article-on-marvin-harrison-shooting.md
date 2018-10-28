@@ -29,6 +29,6 @@ tags:
   </p>
 
   <p style="padding-left: 30px;">
-    &#8220;Was it only last season that Marvin Harrison was still catching TD passes for Peyton Manning and the Indianapolis Colts? Now, in the wake of a brazen but mysterious Philadelphia gunfightâ€”many details of which are reported here for the first timeâ€”the man who holds the NFL record for most receptions in a season may yet find himself with a permanent record of a different sort&#8221;
+    "Was it only last season that Marvin Harrison was still catching TD passes for Peyton Manning and the Indianapolis Colts? Now, in the wake of a brazen but mysterious Philadelphia gunfightâ€”many details of which are reported here for the first timeâ€”the man who holds the NFL record for most receptions in a season may yet find himself with a permanent record of a different sort"
   </p>
 </div>

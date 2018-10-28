@@ -22,6 +22,6 @@ tags:
   </p>
 
   <p>
-    Pretty good skit on Saturday Night Live About the Tiger Woods &#8220;Accident&#8221;.  One of the better skits that has been on SNL lately, hopefully they can keep it up.
+    Pretty good skit on Saturday Night Live About the Tiger Woods "Accident".  One of the better skits that has been on SNL lately, hopefully they can keep it up.
   </p>
 </div>

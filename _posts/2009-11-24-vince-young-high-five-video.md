@@ -22,6 +22,6 @@ categories:
   </p>
 
   <p>
-    <span>Wilbon has a transcript&#8230;. Vince Young said, &#8220;Happy Thanksgiving&#8221; </span>
+    <span>Wilbon has a transcript?. Vince Young said, "Happy Thanksgiving" </span>
   </p>
 </div>

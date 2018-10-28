@@ -24,6 +24,6 @@ tags:
   </p>
 
   <p>
-    At first glance during the live game it looked like Matthew Stafford was just attacked by DJ Moore for no reason. But the replay above clearly shows Matthew throwing DJ Moore down by his helmet. The new &#8220;Lion Mentality&#8221; is even in their Quarterback.
+    At first glance during the live game it looked like Matthew Stafford was just attacked by DJ Moore for no reason. But the replay above clearly shows Matthew throwing DJ Moore down by his helmet. The new "Lion Mentality" is even in their Quarterback.
   </p>
 </div>

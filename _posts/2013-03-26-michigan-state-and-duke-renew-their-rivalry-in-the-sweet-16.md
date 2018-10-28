@@ -32,6 +32,6 @@ tags:
   </p>
 
   <p>
-    A friend said to me the other day &#8220;We don't want Duke to be bad. We want Duke to be good and lose, so in a way, we all root for Duke&#8221; I think this was the perfect way to state how people feel about Duke. I don't think I've enjoyed rooting for a team as much as I enjoyed rooting for Lehigh and C.J. McCollum.
+    A friend said to me the other day "We don't want Duke to be bad. We want Duke to be good and lose, so in a way, we all root for Duke" I think this was the perfect way to state how people feel about Duke. I don't think I've enjoyed rooting for a team as much as I enjoyed rooting for Lehigh and C.J. McCollum.
   </p>
 </div>

@@ -22,7 +22,7 @@ tags:
   </p>
 
   <p>
-    &#8220;I had a lot of diarrhea, a lot of coughing and I was dehydrated,&#8221;
+    "I had a lot of diarrhea, a lot of coughing and I was dehydrated,"
   </p>
 
   <p>

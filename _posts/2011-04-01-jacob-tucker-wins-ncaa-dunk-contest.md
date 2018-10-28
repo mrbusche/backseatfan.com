@@ -24,6 +24,6 @@ tags:
   </p>
 
   <p>
-    Illinois College's Guard Jacob Tucker won the NCAA Dunk Contest. Tucker standing at only 5'10&#8221; was the smallest dunker in the competition. <a href="https://backseatfan.com/2011/03/white-men-can-jump/">Tucker posted a dunk video on youtube</a> earlier this year to help get him in the NCAA Dunk Contest.
+    Illinois College's Guard Jacob Tucker won the NCAA Dunk Contest. Tucker standing at only 5'10" was the smallest dunker in the competition. <a href="https://backseatfan.com/2011/03/white-men-can-jump/">Tucker posted a dunk video on youtube</a> earlier this year to help get him in the NCAA Dunk Contest.
   </p>
 </div>

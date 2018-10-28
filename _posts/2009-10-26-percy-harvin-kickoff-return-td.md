@@ -20,6 +20,6 @@ tags:
   </p>
 
   <p>
-    Minnesota Viking's Percy Harvin 88 yard Kickoff Return TD vs the Pittsburgh Steelers. I love how the announcer almost says &#8220;act like a..&#8221; (man) about Jeff Reed. They just kill him, as they should.
+    Minnesota Viking's Percy Harvin 88 yard Kickoff Return TD vs the Pittsburgh Steelers. I love how the announcer almost says "act like a.." (man) about Jeff Reed. They just kill him, as they should.
   </p>
 </div>

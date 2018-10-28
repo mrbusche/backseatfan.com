@@ -47,6 +47,6 @@ tags:
   </blockquote>
 
   <p>
-    I'm sure she is a fine Jazz Singer, and next time she will be much more prepared, she will at least look at the lyrics once. Honestly, I don't know too many more words to &#8220;O Canada&#8221; besides O Canada.
+    I'm sure she is a fine Jazz Singer, and next time she will be much more prepared, she will at least look at the lyrics once. Honestly, I don't know too many more words to "O Canada" besides O Canada.
   </p>
 </div>

@@ -1,6 +1,6 @@
 ---
 id: 9989
-title: "LeBron James doesn't always miss shots&#8230;"
+title: "LeBron James doesn't always miss shots?"
 date: 2011-04-24T15:46:07+00:00
 author: Matt B.
 layout: post
@@ -19,7 +19,7 @@ tags:
 
 <div class="entry">
   <p>
-    Lebron James doesn't always miss shots&#8230; but when he does he prefers the game to be on the line.
+    Lebron James doesn't always miss shots? but when he does he prefers the game to be on the line.
   </p>
 
   <p>

@@ -62,7 +62,7 @@ tags:
   </blockquote>
 
   <p>
-    The<a href="http://www.jsonline.com/sports/packers/95671704.html?utm_source=twitterfeed&utm_medium=twitter&utm_term=packers"> <em>Milwaukee Journal Sentinel</em></a> reported last month that Jolly faces a litany of evidence including that he &#8220;bought, sold, funded, transported and aided in the buying, selling, funding and transportation of illegal narcotics including cocaine and marijuana&#8221; in Texas from 2006 through May 2008.
+    The<a href="http://www.jsonline.com/sports/packers/95671704.html?utm_source=twitterfeed&utm_medium=twitter&utm_term=packers"> <em>Milwaukee Journal Sentinel</em></a> reported last month that Jolly faces a litany of evidence including that he "bought, sold, funded, transported and aided in the buying, selling, funding and transportation of illegal narcotics including cocaine and marijuana" in Texas from 2006 through May 2008.
   </p>
 
   <p>

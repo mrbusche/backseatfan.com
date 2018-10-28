@@ -27,6 +27,6 @@ tags:
   </p>
 
   <p>
-    &#8220;Believe me, it's not fun,&#8221; Olivo said. &#8220;Sometimes, when I've got that thing, I just want to die. But I can handle pain a little bit. Once it's gone, I'm normal, I'm good. Let's play baseball.&#8221;
+    "Believe me, it's not fun," Olivo said. "Sometimes, when I've got that thing, I just want to die. But I can handle pain a little bit. Once it's gone, I'm normal, I'm good. Let's play baseball."
   </p>
 </div>
