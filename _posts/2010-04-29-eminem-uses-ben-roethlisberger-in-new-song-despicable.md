@@ -1,6 +1,6 @@
 ---
 id: 5596
-title: "Eminem uses Ben Roethlisberger in new song "Despicable""
+title: "Eminem uses Ben Roethlisberger in new song 'Despicable'"
 date: 2010-04-29T15:41:21+00:00
 author: Ryan M.
 layout: post

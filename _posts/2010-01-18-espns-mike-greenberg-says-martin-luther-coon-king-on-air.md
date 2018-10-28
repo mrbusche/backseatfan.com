@@ -1,6 +1,6 @@
 ---
 id: 3737
-title: "ESPN's Mike Greenberg Says Martin Luther "Coon" King On Air"
+title: "ESPN's Mike Greenberg Says Martin Luther 'Coon' King On Air"
 date: 2010-01-18T21:13:18+00:00
 author: Ryan M.
 layout: post

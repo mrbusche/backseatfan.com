@@ -1,6 +1,6 @@
 ---
 id: 9053
-title: "Michelle Beadle Spoof of  LeBron's Commercial "Rise""
+title: "Michelle Beadle Spoof of LeBron's Commercial 'Rise'"
 date: 2010-10-28T07:29:09+00:00
 author: Ryan M.
 layout: post

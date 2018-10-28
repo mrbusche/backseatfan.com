@@ -1,6 +1,6 @@
 ---
 id: 9495
-title: "Brett Favre - Rise Spoof - "What should I do?""
+title: "Brett Favre - Rise Spoof - 'What should I do?'"
 date: 2011-01-22T14:09:42+00:00
 author: Ryan M.
 layout: post

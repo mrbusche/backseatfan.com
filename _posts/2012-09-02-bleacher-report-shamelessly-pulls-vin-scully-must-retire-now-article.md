@@ -1,6 +1,6 @@
 ---
 id: 10488
-title: "Bleacher Report shamelessly pulls 'Vin Scully Must Retire Now" article"
+title: "Bleacher Report shamelessly pulls 'Vin Scully Must Retire Now' article"
 date: 2012-09-02T14:24:57+00:00
 author: Matt B.
 layout: post

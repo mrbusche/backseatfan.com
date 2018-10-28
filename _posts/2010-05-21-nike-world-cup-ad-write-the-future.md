@@ -1,6 +1,6 @@
 ---
 id: 5866
-title: "Nike World Cup Ad - "Write the Future""
+title: "Nike World Cup Ad - 'Write the Future'"
 date: 2010-05-21T07:25:21+00:00
 author: Ryan M.
 layout: post

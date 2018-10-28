@@ -1,6 +1,6 @@
 ---
 id: 8900
-title: "Emotional Chargers fan - "We lost to Oakland""
+title: "Emotional Chargers fan - 'We lost to Oakland'"
 date: 2010-10-12T20:08:04+00:00
 author: Matt B.
 layout: post

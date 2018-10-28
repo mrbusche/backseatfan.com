@@ -1,6 +1,6 @@
 ---
 id: 8510
-title: "Calvin Johnson's "not a touchdown""
+title: "Calvin Johnson's 'not a touchdown'"
 date: 2010-09-12T18:05:06+00:00
 author: Matt B.
 layout: post

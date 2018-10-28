@@ -1,6 +1,6 @@
 ---
 id: 3862
-title: "Chad Ochocinco - "Girl, You Trippin""
+title: "Chad Ochocinco - 'Girl, You Trippin'"
 date: 2010-01-25T13:24:14+00:00
 author: Ryan M.
 layout: post

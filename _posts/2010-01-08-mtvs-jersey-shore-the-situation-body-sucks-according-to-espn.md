@@ -1,6 +1,6 @@
 ---
 id: 3489
-title: "MTVs Jersey Shore's Mike "The Situation" Body Sucks according to ESPN"
+title: "MTVs Jersey Shore's Mike 'The Situation' Body Sucks according to ESPN"
 date: 2010-01-08T10:32:27+00:00
 author: Ryan M.
 layout: post

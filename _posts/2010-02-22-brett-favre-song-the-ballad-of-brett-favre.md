@@ -1,6 +1,6 @@
 ---
 id: 4293
-title: "Brett Favre Song - "The Ballad of Brett Favre""
+title: "Brett Favre Song - 'The Ballad of Brett Favre'"
 date: 2010-02-22T17:03:56+00:00
 author: Ryan M.
 layout: post

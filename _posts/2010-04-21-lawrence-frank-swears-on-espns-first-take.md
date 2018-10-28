@@ -1,6 +1,6 @@
 ---
 id: 5411
-title: "Lawrence Frank swears on ESPN's "First Take""
+title: "Lawrence Frank swears on ESPN's 'First Take'"
 date: 2010-04-21T09:16:39+00:00
 author: Ryan M.
 layout: post

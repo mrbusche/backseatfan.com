@@ -1,6 +1,6 @@
 ---
 id: 5626
-title: "Brett Favre "100% positive" he won't play again"
+title: "Brett Favre '100% positive' he won't play again"
 date: 2010-05-03T20:21:55+00:00
 author: Matt B.
 layout: post
