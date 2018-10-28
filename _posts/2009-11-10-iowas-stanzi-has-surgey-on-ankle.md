@@ -26,7 +26,7 @@ tags:
   </p>
 
   <p>
-    &#8220;It is correct that he had surgery,&#8221; Ferentz said Tuesday. &#8220;We think he's going to be just fine. It's very, very doubtful that he'll play in the next two weeks, but we're very, very confident that he'll return shortly thereafter and be ready to go.&#8221;
+    "It is correct that he had surgery," Ferentz said Tuesday. "We think he's going to be just fine. It's very, very doubtful that he'll play in the next two weeks, but we're very, very confident that he'll return shortly thereafter and be ready to go."
   </p>
 
   <p>

@@ -15,7 +15,7 @@ categories:
 
 <div class="entry">
   <p>
-    The Chicago Bears acquired Quarterback Jay Cutler from the Broncos' Quarterback Kyle Orton, a 3rd round pick in 2009 and the Bears 2009 and 2010 first round picks. Will Jay Cutler be happy in Chicago? In Denver he had the freak Brandon Marshall and a great rookie receiver in Eddie Royal to throw the ball to. In Chicago he'll be throwing the ball to&#8230; hold on a second I need to look at the Bears roster to see who their WRs are&#8230; oh yeah, Devin Hester, Rashied Davis and Marty Booker. Their two best receivers aren't even WRs. Greg Olsen and Matt Forte are the two best pass catchers on the team and I give it 6 weeks before Jay Cutler is throwing a fit about how terrible his receivers are.
+    The Chicago Bears acquired Quarterback Jay Cutler from the Broncos' Quarterback Kyle Orton, a 3rd round pick in 2009 and the Bears 2009 and 2010 first round picks. Will Jay Cutler be happy in Chicago? In Denver he had the freak Brandon Marshall and a great rookie receiver in Eddie Royal to throw the ball to. In Chicago he'll be throwing the ball to? hold on a second I need to look at the Bears roster to see who their WRs are? oh yeah, Devin Hester, Rashied Davis and Marty Booker. Their two best receivers aren't even WRs. Greg Olsen and Matt Forte are the two best pass catchers on the team and I give it 6 weeks before Jay Cutler is throwing a fit about how terrible his receivers are.
   </p>
 
   <p>

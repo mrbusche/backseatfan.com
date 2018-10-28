@@ -51,7 +51,7 @@ tags:
       </td>
 
       <td style="color: #000000; font-size: 11px; cursor: text; margin: 8px;" width="405">
-        <span style="font-size: small;"><span style="font-family: arial, helvetica, sans-serif;">Weird, the Top 3 teams have MVP quarterback&#8230;Coincidence? I think not.<br /> </span></span>
+        <span style="font-size: small;"><span style="font-family: arial, helvetica, sans-serif;">Weird, the Top 3 teams have MVP quarterback?Coincidence? I think not.<br /> </span></span>
       </td>
     </tr>
 

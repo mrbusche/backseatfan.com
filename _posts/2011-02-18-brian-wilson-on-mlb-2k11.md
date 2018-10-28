@@ -30,7 +30,7 @@ tags:
   </p>
 
   <p>
-    The digital Brian Wilson has just as much personality as the real one. I'm just wondering if the beard will grow longer during the season. Oh and both digital Brian and real Brian&#8230; I am winning the million dollars.
+    The digital Brian Wilson has just as much personality as the real one. I'm just wondering if the beard will grow longer during the season. Oh and both digital Brian and real Brian? I am winning the million dollars.
   </p>
 
   <p>

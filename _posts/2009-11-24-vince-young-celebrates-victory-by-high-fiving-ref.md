@@ -1,6 +1,6 @@
 ---
 id: 2738
-title: "Vince Young celebrates victory&#8230;. by high fiving ref"
+title: "Vince Young celebrates victory?. by high fiving ref"
 date: 2009-11-24T07:56:25+00:00
 author: Matt B.
 layout: post
@@ -26,7 +26,7 @@ categories:
   </p>
 
   <p>
-    Video Clip from today's Pardon the Interruption. Wilbon says he has the transcript, Vince Young said, &#8220;Happy Thanksgiving&#8221;
+    Video Clip from today's Pardon the Interruption. Wilbon says he has the transcript, Vince Young said, "Happy Thanksgiving"
   </p>
 
   <p>

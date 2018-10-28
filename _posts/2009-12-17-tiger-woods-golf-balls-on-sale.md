@@ -20,6 +20,6 @@ tags:
   </p>
 
   <p>
-    Weird, half price Tiger Woods One Golf Balls. Wonder why&#8230;
+    Weird, half price Tiger Woods One Golf Balls. Wonder why?
   </p>
 </div>

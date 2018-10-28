@@ -23,7 +23,7 @@ tags:
   </p>
 
   <p>
-    It sounds like Chris Bosh wanted to join LeBron, but just not in Cleveland.  So what does this mean for LeBron?  Well, he said he was going to make his decision and announce it to the world on Thursday.  Maybe Miami signing Bosh is a sign that LeBron was going to stay in Cleveland.  Maybe LeBron won't want to stay in Cleveland now because he doesn't have any good support.  LeBron is running low on solid free agents to join him in Cleveland.  The Suns could really use someone to replace Amare&#8230;..
+    It sounds like Chris Bosh wanted to join LeBron, but just not in Cleveland.  So what does this mean for LeBron?  Well, he said he was going to make his decision and announce it to the world on Thursday.  Maybe Miami signing Bosh is a sign that LeBron was going to stay in Cleveland.  Maybe LeBron won't want to stay in Cleveland now because he doesn't have any good support.  LeBron is running low on solid free agents to join him in Cleveland.  The Suns could really use someone to replace Amare?..
   </p>
 
   <p>

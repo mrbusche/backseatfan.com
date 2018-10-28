@@ -31,7 +31,7 @@ tags:
   </p>
 
   <p>
-    Lance Armstrong was called out by Landis, he told reporters Thursday: &#8220;I have nothing to hide,&#8221; and &#8220;history speaks for itself here.&#8221;
+    Lance Armstrong was called out by Landis, he told reporters Thursday: "I have nothing to hide," and "history speaks for itself here."
   </p>
 
   <p>
@@ -40,7 +40,7 @@ tags:
 
   <blockquote>
     <p>
-      &#8220;I don't feel guilty at all about having doped. I did what I did because that's what we [cyclists] did and it was a choice I had to make after 10 years or 12 years of hard work to get there, and that was a decision I had to make to make the next step. My choices were, do it and see if I can win, or don't do it and I tell people I just don't want to do that, and I decided to do it.&#8221; &#8212; Floyd Landis
+      "I don't feel guilty at all about having doped. I did what I did because that's what we [cyclists] did and it was a choice I had to make after 10 years or 12 years of hard work to get there, and that was a decision I had to make to make the next step. My choices were, do it and see if I can win, or don't do it and I tell people I just don't want to do that, and I decided to do it." - Floyd Landis
     </p>
   </blockquote>
 

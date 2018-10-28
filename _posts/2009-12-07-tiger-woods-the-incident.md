@@ -1,6 +1,6 @@
 ---
 id: 2932
-title: "Tiger Woods - &#8220;The Incident&#8221;"
+title: "Tiger Woods - "The Incident""
 date: 2009-12-07T14:39:02+00:00
 author: Ryan M.
 layout: post

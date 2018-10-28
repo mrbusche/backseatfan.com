@@ -35,7 +35,7 @@ tags:
   </p>
 
   <p>
-    Jackson pitched for the Rays from 2006-2008, until being traded to the Detroit Tigers. &#8220;It just so happened it was against a team that I played for,&#8221; Jackson said.
+    Jackson pitched for the Rays from 2006-2008, until being traded to the Detroit Tigers. "It just so happened it was against a team that I played for," Jackson said.
   </p>
 
   <p>

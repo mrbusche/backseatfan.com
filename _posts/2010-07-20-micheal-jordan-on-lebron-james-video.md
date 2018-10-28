@@ -32,7 +32,7 @@ tags:
 
   <blockquote>
     <p>
-      &#8220;I would have never called up Larry called up Magic and said 'let's get together and play on one team'. Honestly, I was trying to beat those guys.&#8221;
+      "I would have never called up Larry called up Magic and said 'let's get together and play on one team'. Honestly, I was trying to beat those guys."
     </p>
   </blockquote>
 
@@ -54,7 +54,7 @@ tags:
 
   <blockquote>
     <p>
-      &#8220;I am a competitive guy, I like to play against competitive players.&#8221;
+      "I am a competitive guy, I like to play against competitive players."
     </p>
   </blockquote>
 

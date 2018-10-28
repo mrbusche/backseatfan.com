@@ -33,7 +33,7 @@ tags:
   </p>
 
   <p>
-    Jerry Hughes even gets smacked in the balls after a good play instead of the ass&#8230; That's how tough he is.
+    Jerry Hughes even gets smacked in the balls after a good play instead of the ass? That's how tough he is.
   </p>
 
   <p>

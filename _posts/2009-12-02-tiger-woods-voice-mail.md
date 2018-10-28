@@ -37,11 +37,11 @@ tags:
   </p>
 
   <p>
-    &#8220;I have let my family down and I regret those transgressions with all of my heart. I have not been true to my values and the behavior my family deserves,&#8221; he said in a statement on his official Web site.
+    "I have let my family down and I regret those transgressions with all of my heart. I have not been true to my values and the behavior my family deserves," he said in a statement on his official Web site.
   </p>
 
   <p>
-    &#8220;I am not without faults and I am far short of perfect. I am dealing with my behavior and personal failings behind closed doors with my family. Those feelings should be shared by us alone.&#8221;
+    "I am not without faults and I am far short of perfect. I am dealing with my behavior and personal failings behind closed doors with my family. Those feelings should be shared by us alone."
   </p>
 
   <p>
@@ -65,7 +65,7 @@ tags:
   </p>
 
   <p>
-    <span> <strong><a title="eallen" href="http://twitter.com/mrfactoid">@mrfactoid</a></strong> RT <span>@<a href="http://twitter.com/sportspickle">sportspickle</a>: Running into things, skanky women &#8230; EA Sports Tiger Woods Grand Theft Auto PGA Golf 11 is going to be AWESOME!!!</span></span>
+    <span> <strong><a title="eallen" href="http://twitter.com/mrfactoid">@mrfactoid</a></strong> RT <span>@<a href="http://twitter.com/sportspickle">sportspickle</a>: Running into things, skanky women ? EA Sports Tiger Woods Grand Theft Auto PGA Golf 11 is going to be AWESOME!!!</span></span>
   </p>
 
   <p>

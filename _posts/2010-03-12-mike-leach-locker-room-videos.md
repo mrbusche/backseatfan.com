@@ -19,7 +19,7 @@ tags:
 
 <div class="entry">
   <p>
-    II already knew Mike Leach was crazy, due to the &#8220;<a href="https://backseatfan.com/index.php/2009/10/mike-leach-on-fat-little-girlfriends/">Fat little girlfriend</a>&#8221; comments. And this just verifies it a little more. He seems to lack respect for the players. I am sure they are glad he got fired last year. Good luck getting recruits at your next job after these videos.
+    II already knew Mike Leach was crazy, due to the "<a href="https://backseatfan.com/index.php/2009/10/mike-leach-on-fat-little-girlfriends/">Fat little girlfriend</a>" comments. And this just verifies it a little more. He seems to lack respect for the players. I am sure they are glad he got fired last year. Good luck getting recruits at your next job after these videos.
   </p>
 
   <p>
@@ -31,7 +31,7 @@ tags:
   </p>
 
   <p>
-    I don't really care if he uses the word fuck, but describing Texas as &#8220;Mother Fuckers&#8221; Come on Mike. The more you use the words, the less meaning they have. That speech doesn't get me me or anyone else motivated for anything, except not playing for you.
+    I don't really care if he uses the word fuck, but describing Texas as "Mother Fuckers" Come on Mike. The more you use the words, the less meaning they have. That speech doesn't get me me or anyone else motivated for anything, except not playing for you.
   </p>
 
   <p>

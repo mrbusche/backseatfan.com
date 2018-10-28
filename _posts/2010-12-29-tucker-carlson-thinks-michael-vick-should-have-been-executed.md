@@ -25,7 +25,7 @@ tags:
   </p>
 
   <p>
-    Carlson said he believed Vick should have been executed for his role in a dogfighting operation, &#8220;Now, I'm a Christian. I've made mistakes myself. I believe fervently in second chances, but Michael Vick killed dogs. And he did in a heartless and cruel way. And I think, personally, he should’ve been executed for that. He wasn't.&#8221;
+    Carlson said he believed Vick should have been executed for his role in a dogfighting operation, "Now, I'm a Christian. I've made mistakes myself. I believe fervently in second chances, but Michael Vick killed dogs. And he did in a heartless and cruel way. And I think, personally, he should’ve been executed for that. He wasn't."
   </p>
 
   <p>

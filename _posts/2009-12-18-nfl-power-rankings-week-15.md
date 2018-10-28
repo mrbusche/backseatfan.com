@@ -189,7 +189,7 @@ categories:
       </td>
 
       <td style="color: #000000; font-size: 11px; cursor: text; margin: 8px;" width="405">
-        <span style="font-size: small;"><span style="font-family: arial, helvetica, sans-serif;">Ray Rice or MJD for best &#8220;he's too small&#8221; draft pick of all time?<br /> </span></span><span style="font-size: small;"><span style="font-family: arial, helvetica, sans-serif;"> </span></span>
+        <span style="font-size: small;"><span style="font-family: arial, helvetica, sans-serif;">Ray Rice or MJD for best "he's too small" draft pick of all time?<br /> </span></span><span style="font-size: small;"><span style="font-family: arial, helvetica, sans-serif;"> </span></span>
       </td>
     </tr>
 

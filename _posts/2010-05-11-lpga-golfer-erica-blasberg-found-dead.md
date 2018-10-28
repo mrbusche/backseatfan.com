@@ -33,7 +33,7 @@ tags:
   </p>
 
   <p>
-    “At first glance, it looks like she might have taken her own life, but at second glance, something is very, very strange about it. We're waiting for the police to make an investigation.&#8221; Mel Blasberg told the Press-Enterprise via phone
+    “At first glance, it looks like she might have taken her own life, but at second glance, something is very, very strange about it. We're waiting for the police to make an investigation." Mel Blasberg told the Press-Enterprise via phone
   </p>
 
   <p>

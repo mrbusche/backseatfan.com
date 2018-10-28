@@ -23,7 +23,7 @@ tags:
   </p>
 
   <p style="text-align: left;">
-    We are currently at &#8220;High&#8221;.
+    We are currently at "High".
   </p>
 
   <p style="text-align: center;">

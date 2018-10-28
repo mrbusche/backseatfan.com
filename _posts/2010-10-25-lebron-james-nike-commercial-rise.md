@@ -1,6 +1,6 @@
 ---
 id: 9036
-title: "LeBron James Nike Commercial &#8220;Rise&#8221;"
+title: "LeBron James Nike Commercial "Rise""
 date: 2010-10-25T14:47:03+00:00
 author: Matt B.
 layout: post

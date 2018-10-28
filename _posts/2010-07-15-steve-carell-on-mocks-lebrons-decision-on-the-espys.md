@@ -25,6 +25,6 @@ tags:
   </p>
 
   <p>
-    I enjoy all of the spoofs of &#8220;LeBron James: The Decision&#8221;, but not many people can be funnier than Steve Carell, so this one is tops so far. This spoof was on the ESPYs last night and also featured the very funny Paul Rudd. His questions are like daggers, very piercing&#8230;
+    I enjoy all of the spoofs of "LeBron James: The Decision", but not many people can be funnier than Steve Carell, so this one is tops so far. This spoof was on the ESPYs last night and also featured the very funny Paul Rudd. His questions are like daggers, very piercing?
   </p>
 </div>

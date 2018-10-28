@@ -25,7 +25,7 @@ tags:
   </p>
 
   <p>
-    Childress said &#8220;the streak&#8221; would not play into the decision on Favre's status. &#8220;We have to do what's right for Minnesota Vikings,&#8221; Childress said. Does that mean he's firing himself? Of course not, he will rob Zygi Wilf for 3 more years on the horrible extension he was signed to last year. Only 3 more years Vikings fans.
+    Childress said "the streak" would not play into the decision on Favre's status. "We have to do what's right for Minnesota Vikings," Childress said. Does that mean he's firing himself? Of course not, he will rob Zygi Wilf for 3 more years on the horrible extension he was signed to last year. Only 3 more years Vikings fans.
   </p>
 
   <p>

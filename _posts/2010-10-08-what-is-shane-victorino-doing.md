@@ -16,7 +16,7 @@ tags:
 
 <div class="entry">
   <p>
-    After a pick off attempt on Dominic Brown by Bronson Arroyo. Shane Victorino goes into a trance and then starts telling himself jokes&#8230;.or something&#8230;..
+    After a pick off attempt on Dominic Brown by Bronson Arroyo. Shane Victorino goes into a trance and then starts telling himself jokes?.or something?..
   </p>
 
   <p>

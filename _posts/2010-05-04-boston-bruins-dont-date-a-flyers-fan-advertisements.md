@@ -18,7 +18,7 @@ tags:
 
 <div class="entry">
   <p>
-    &#8220;Never, ever date a Flyers fan. Even if she shaves her moustache.&#8221;
+    "Never, ever date a Flyers fan. Even if she shaves her moustache."
   </p>
 
   <p>

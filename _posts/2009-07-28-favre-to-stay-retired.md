@@ -28,7 +28,7 @@ categories:
   </p>
 
   <p>
-    But the Brett Favre Saga is over. For now&#8230;
+    But the Brett Favre Saga is over. For now?
   </p>
 
   <p style="text-align: center;">

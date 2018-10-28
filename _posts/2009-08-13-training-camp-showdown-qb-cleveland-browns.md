@@ -33,7 +33,7 @@ tags:
   </p>
 
   <p>
-    Anderson lead the Browns to 10 wins in the 2007 - 2008 season. Does any one remember that? Does anyone give Anderson any credit? He threw for 29 TDs. What happened last year? Not really sure, but think about 2007, o0000h those were the days&#8230; Brady Quinn hasn't done anything to prove he deserves the starting job. He only has two career TDs. Plus he broke a his finger last year, so that pretty much shows that he is weak. Favre would have played through it. Quinn had 1 good game last year, and it was against Denver, they have a terrible Defense, plus he lost anyway. Anderson had 10 good games 2 years ago, because he won them. He is a winner (In 2007).
+    Anderson lead the Browns to 10 wins in the 2007 - 2008 season. Does any one remember that? Does anyone give Anderson any credit? He threw for 29 TDs. What happened last year? Not really sure, but think about 2007, o0000h those were the days? Brady Quinn hasn't done anything to prove he deserves the starting job. He only has two career TDs. Plus he broke a his finger last year, so that pretty much shows that he is weak. Favre would have played through it. Quinn had 1 good game last year, and it was against Denver, they have a terrible Defense, plus he lost anyway. Anderson had 10 good games 2 years ago, because he won them. He is a winner (In 2007).
   </p>
 
   <p>

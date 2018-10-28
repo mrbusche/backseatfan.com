@@ -56,7 +56,7 @@ tags:
 
   <blockquote>
     <p>
-      I sympathize for the team,&#8221; Huguely said. &#8220;They've been scrutinized so hard and no one knows what has happened yet. In this country, you're supposed to be innocent until proven guilty. I think that's the way it should be.&#8221;
+      I sympathize for the team," Huguely said. "They've been scrutinized so hard and no one knows what has happened yet. In this country, you're supposed to be innocent until proven guilty. I think that's the way it should be."
     </p>
   </blockquote>
 

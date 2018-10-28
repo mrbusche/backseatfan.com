@@ -24,6 +24,6 @@ tags:
   </p>
 
   <p>
-    The video is missing the &#8220;Boom-Shaka-Laka&#8221;
+    The video is missing the "Boom-Shaka-Laka"
   </p>
 </div>

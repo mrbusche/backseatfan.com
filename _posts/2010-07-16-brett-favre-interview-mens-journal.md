@@ -47,7 +47,7 @@ tags:
 
   <blockquote>
     <p>
-      Favre talked about the fun he had last season, which was arguably the best of his career. He threw 33 touchdown passes and only seven interceptions. &#8220;I’ve had games when I almost threw seven picks,” Favre told Rodrick, laughing. “It was unreal. Before last year, I’d reached a point where I was sitting in meetings with guys 15 years younger than me thinking, What the hell am I doing here? Football became work. But last year it went back to being a game.”
+      Favre talked about the fun he had last season, which was arguably the best of his career. He threw 33 touchdown passes and only seven interceptions. "I’ve had games when I almost threw seven picks,” Favre told Rodrick, laughing. “It was unreal. Before last year, I’d reached a point where I was sitting in meetings with guys 15 years younger than me thinking, What the hell am I doing here? Football became work. But last year it went back to being a game.”
     </p>
   </blockquote>
 
@@ -56,7 +56,7 @@ tags:
   </p>
 
   <p>
-    Last year football went back to being a game for Brett Favre.  To me those words mean that Brett Favre might be back for even two more seasons.  I have no doubt in my mind that he will be coming back this year.  The fact that it was fun for him last year, and that he loved playing for Minnesota is great.  He called it the best season of his career, maybe that's all show, but statistically it was probably the best season of his career.  The only way it could have gotten better is if the <a href="https://backseatfan.com/2010/02/brett-favre-ankle-injury-video/">Saints didn't cheat</a> and the Vikings won the super bowl&#8230;  Yes I am still bitter&#8230;
+    Last year football went back to being a game for Brett Favre.  To me those words mean that Brett Favre might be back for even two more seasons.  I have no doubt in my mind that he will be coming back this year.  The fact that it was fun for him last year, and that he loved playing for Minnesota is great.  He called it the best season of his career, maybe that's all show, but statistically it was probably the best season of his career.  The only way it could have gotten better is if the <a href="https://backseatfan.com/2010/02/brett-favre-ankle-injury-video/">Saints didn't cheat</a> and the Vikings won the super bowl?  Yes I am still bitter?
   </p>
 
   <p>
@@ -78,7 +78,7 @@ tags:
   </p>
 
   <p>
-    I know Brett is coming back, so I am pretty sure I know what he is doing there.  When he will do it?  He will probably &#8220;test&#8221; his ankle out during training camp, but won't play in a game until the 3rd or 4th preseason game.  I am fine with that.  He is old, he needs some sort of day pass.  The saying also works when he is playing in a game.  You never know when he is just going to bust out a hail mary and throw into the end zone. He is crazy that way, and that's why we love to watch him.  I feel better now that he is on the Vikings, because I loved watching him when he was on the Packers&#8230; And I felt guilty, because I was a Vikings fan.
+    I know Brett is coming back, so I am pretty sure I know what he is doing there.  When he will do it?  He will probably "test" his ankle out during training camp, but won't play in a game until the 3rd or 4th preseason game.  I am fine with that.  He is old, he needs some sort of day pass.  The saying also works when he is playing in a game.  You never know when he is just going to bust out a hail mary and throw into the end zone. He is crazy that way, and that's why we love to watch him.  I feel better now that he is on the Vikings, because I loved watching him when he was on the Packers? And I felt guilty, because I was a Vikings fan.
   </p>
 
   <p>

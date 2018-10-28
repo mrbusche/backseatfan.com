@@ -20,13 +20,13 @@ tags:
 
 <div class="entry">
   <p>
-    Jon Brockman of the Milwaukee Bucks made a trick shot video to show you how it's done. He has some good shots in there, but the &#8220;That's how it's done&#8221; is pretty annoying.
+    Jon Brockman of the Milwaukee Bucks made a trick shot video to show you how it's done. He has some good shots in there, but the "That's how it's done" is pretty annoying.
   </p>
 
   <p>
   </p>
 
   <p>
-    He probably should have dunked over a deer, would have been way better than a car dunk&#8230;
+    He probably should have dunked over a deer, would have been way better than a car dunk?
   </p>
 </div>

@@ -29,7 +29,7 @@ tags:
   </p>
 
   <p>
-    New Orleans Hornets' <a href="http://sports.espn.go.com/nba/news/story?id=5317801">Chris Paul Open to Trade</a>&#8230; Pretty much stating he wants out and wants to be on a winning team [via <a href="http://sports.espn.go.com/nba/news/story?id=5317801">ESPN</a>]
+    New Orleans Hornets' <a href="http://sports.espn.go.com/nba/news/story?id=5317801">Chris Paul Open to Trade</a>? Pretty much stating he wants out and wants to be on a winning team [via <a href="http://sports.espn.go.com/nba/news/story?id=5317801">ESPN</a>]
   </p>
 
   <p>
@@ -37,7 +37,7 @@ tags:
   </p>
 
   <p>
-    Tracy McGrady want's to sign with the Lakers&#8230; Who doesn't?  [via <a href="http://www.belmont.com/sports-news/tracy-mcgrady-wants-to-sign-with-the-los-angeles-lakers-1003309/">Belmont</a>]
+    Tracy McGrady want's to sign with the Lakers? Who doesn't?  [via <a href="http://www.belmont.com/sports-news/tracy-mcgrady-wants-to-sign-with-the-los-angeles-lakers-1003309/">Belmont</a>]
   </p>
 
   <p>
@@ -45,11 +45,11 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.nhl.com/ice/schedulebyseason.htm">NHL Announces Schedule</a>&#8230; Millions Thousands of Hockey across the US rejoice [via <a href="http://www.nhl.com/ice/schedulebyseason.htm">NHL.com</a>]
+    <a href="http://www.nhl.com/ice/schedulebyseason.htm">NHL Announces Schedule</a>? Millions Thousands of Hockey across the US rejoice [via <a href="http://www.nhl.com/ice/schedulebyseason.htm">NHL.com</a>]
   </p>
 
   <p>
-    A look at the <a href="http://snippets.com/how-different-are-major-league-baseball-fields.htm  ">different shapes of outdoor MLB baseball parks</a>&#8230; It's missing Indoor stadiums, and new Twins Stadium&#8230;  Bust still is pretty damn cool.  Can someone please create a fancy interactive version? [ via <a href="http://snippets.com/how-different-are-major-league-baseball-fields.htm">snippets</a>]
+    A look at the <a href="http://snippets.com/how-different-are-major-league-baseball-fields.htm  ">different shapes of outdoor MLB baseball parks</a>? It's missing Indoor stadiums, and new Twins Stadium?  Bust still is pretty damn cool.  Can someone please create a fancy interactive version? [ via <a href="http://snippets.com/how-different-are-major-league-baseball-fields.htm">snippets</a>]
   </p>
 
   <p>

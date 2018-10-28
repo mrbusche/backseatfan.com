@@ -23,6 +23,6 @@ tags:
 
 <div class="entry">
   <p>
-    <br /> Jon Gruden seemed to be reading a text to Mel Kiper saying &#8220;It's a crazy league a lot of dumbass&#8230;&#8221; Coaches. I am pretty sure he says coaches. If only Berman didn't interrupt him. But what exactly is he referring to? Probably Denver taking Tim Tebow. I love Jon Gruden, so entertaining.
+    <br /> Jon Gruden seemed to be reading a text to Mel Kiper saying "It's a crazy league a lot of dumbass?" Coaches. I am pretty sure he says coaches. If only Berman didn't interrupt him. But what exactly is he referring to? Probably Denver taking Tim Tebow. I love Jon Gruden, so entertaining.
   </p>
 </div>

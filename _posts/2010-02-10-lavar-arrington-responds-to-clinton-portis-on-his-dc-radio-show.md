@@ -24,7 +24,7 @@ tags:
   </p>
 
   <p>
-    Clinton Portis recently told the NFL Network that Arrington left the Redskins, &#8220;because he felt like the main money guy.&#8221;
+    Clinton Portis recently told the NFL Network that Arrington left the Redskins, "because he felt like the main money guy."
   </p>
 
   <p>

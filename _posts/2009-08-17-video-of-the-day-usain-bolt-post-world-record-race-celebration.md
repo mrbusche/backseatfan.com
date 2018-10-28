@@ -16,15 +16,15 @@ categories:
   </p>
 
   <p>
-    Bolt - &#8220;It was at this point I realized I was going to win.&#8221;
+    Bolt - "It was at this point I realized I was going to win."
   </p>
 
   <p>
-    Announcer - &#8220;But you just started the race.&#8221;
+    Announcer - "But you just started the race."
   </p>
 
   <p>
-    Bolt - &#8220;Exactly.&#8221;
+    Bolt - "Exactly."
   </p>
 
   <p>

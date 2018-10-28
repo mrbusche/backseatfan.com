@@ -20,7 +20,7 @@ guid: https://backseatfan.com/betting-on-sports-tips-for-winners/
   </p>
 
   <h2>
-    Why Is It So Hard To Win?<img alt="" src="http://image.shutterstock.com/display_pic_with_logo/1463006/213828499/stock-vector-betting-gold-badge-213828499.jpg" style="float:right;height:209px;margin:10px;width:200px" />
+    Why Is It So Hard To Win?<img alt="" src="https://image.shutterstock.com/display_pic_with_logo/1463006/213828499/stock-vector-betting-gold-badge-213828499.jpg" style="float:right;height:209px;margin:10px;width:200px" />
   </h2>
 
   <p>

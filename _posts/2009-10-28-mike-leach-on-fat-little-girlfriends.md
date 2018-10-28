@@ -32,11 +32,11 @@ tags:
   </p>
 
   <p>
-    You know the guys with the hot girlfriend will be calling out everyone's girlfriends. &#8220;Is coach talking about you? Pick it up.&#8221;
+    You know the guys with the hot girlfriend will be calling out everyone's girlfriends. "Is coach talking about you? Pick it up."
   </p>
 
   <p>
-    <span>Not sure if that is the best way to get recruits either. &#8220;Come to Texas Tech Find yourself a </span><span> Fat Little Girlfriend&#8221;.</span>
+    <span>Not sure if that is the best way to get recruits either. "Come to Texas Tech Find yourself a </span><span> Fat Little Girlfriend".</span>
   </p>
 
   <p>

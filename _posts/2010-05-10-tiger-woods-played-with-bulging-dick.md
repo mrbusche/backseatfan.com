@@ -19,7 +19,7 @@ tags:
 
 <div class="entry">
   <p>
-    Golf Channel announcer screws up and says that Tiger Woods played with a bulging &#8220;dicks&#8221; instead of bulging discs. Simple Freudian slip right?
+    Golf Channel announcer screws up and says that Tiger Woods played with a bulging "dicks" instead of bulging discs. Simple Freudian slip right?
   </p>
 
   <p>

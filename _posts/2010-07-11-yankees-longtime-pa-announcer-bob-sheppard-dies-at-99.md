@@ -22,6 +22,6 @@ categories:
   </p>
 
   <p>
-    Sheppard was nickednamed &#8220;The Voice of God&#8221; because of his great player introductions, and a recording he made in 2008 still introduces Yankee SS Derek Jeter before each home at bat. Sheppard worked for the Yankees for 56 years, retiring in 2007. In his Yankee career he announced more than 4,500 games and saw the Yankees with 13 World Series. Sheppard was also the PA announcer for the Giants for 50 years, retiring in 2006.
+    Sheppard was nickednamed "The Voice of God" because of his great player introductions, and a recording he made in 2008 still introduces Yankee SS Derek Jeter before each home at bat. Sheppard worked for the Yankees for 56 years, retiring in 2007. In his Yankee career he announced more than 4,500 games and saw the Yankees with 13 World Series. Sheppard was also the PA announcer for the Giants for 50 years, retiring in 2006.
   </p>
 </div>

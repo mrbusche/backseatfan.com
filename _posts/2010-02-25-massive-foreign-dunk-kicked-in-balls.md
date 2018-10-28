@@ -21,6 +21,6 @@ tags:
   </p>
 
   <p>
-    I can't tell you who the teams are, or what language it is, or who it was. This was in the youtube info <span>Carmatic Pistoia - Bialetti Scafati, so that might mean something? </span> I just know it was a massive dunk, and the defender got kicked in the balls. Little surprised the announcer didn't say &#8220;GGGGGGGOOOOOOOOOOOOALLLL&#8221; I thought they did that for all sports.
+    I can't tell you who the teams are, or what language it is, or who it was. This was in the youtube info <span>Carmatic Pistoia - Bialetti Scafati, so that might mean something? </span> I just know it was a massive dunk, and the defender got kicked in the balls. Little surprised the announcer didn't say "GGGGGGGOOOOOOOOOOOOALLLL" I thought they did that for all sports.
   </p>
 </div>

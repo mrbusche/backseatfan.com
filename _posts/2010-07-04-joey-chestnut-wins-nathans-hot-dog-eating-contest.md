@@ -18,6 +18,6 @@ categories:
   </p>
 
   <p>
-    This was one of the more boring contests I can remember, Chestnut led from the beginning and the contest was never in doubt. Tim &#8220;Eater X&#8221; Janus finished 2nd and Patrick Bertoletti finished 3rd in this years' contest eating 45 and 37 respectively.
+    This was one of the more boring contests I can remember, Chestnut led from the beginning and the contest was never in doubt. Tim "Eater X" Janus finished 2nd and Patrick Bertoletti finished 3rd in this years' contest eating 45 and 37 respectively.
   </p>
 </div>

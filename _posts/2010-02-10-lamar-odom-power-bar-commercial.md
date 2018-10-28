@@ -22,6 +22,6 @@ tags:
   </p>
 
   <p>
-    Why do cheesy commercials have more impact on me than well thought &#8220;good&#8221; commercials? All of a sudden I feel like getting a Power Bar.
+    Why do cheesy commercials have more impact on me than well thought "good" commercials? All of a sudden I feel like getting a Power Bar.
   </p>
 </div>

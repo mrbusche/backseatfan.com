@@ -20,7 +20,7 @@ tags:
 
 <div class="entry">
   <p>
-    This is a video of Demar Derozan's dunk during the 2011 NBA All Star Slam Dunk Competition in slow motion, with some nice dramatic music behind it. All you need is a voice over and you have a future ESPN 30 for 30. Oh and Demar Drozen has to be great. Have hope Raptor's fans&#8230; Have hope.
+    This is a video of Demar Derozan's dunk during the 2011 NBA All Star Slam Dunk Competition in slow motion, with some nice dramatic music behind it. All you need is a voice over and you have a future ESPN 30 for 30. Oh and Demar Drozen has to be great. Have hope Raptor's fans? Have hope.
   </p>
 
   <p>

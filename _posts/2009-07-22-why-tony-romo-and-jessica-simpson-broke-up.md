@@ -23,11 +23,11 @@ tags:
   </p>
 
   <p>
-    The 1st Anniversary - &#8220;The Sexy Anniversary&#8221; You take her on a trip to Mexico give her lingerie, anything that makes her look beautiful.
+    The 1st Anniversary - "The Sexy Anniversary" You take her on a trip to Mexico give her lingerie, anything that makes her look beautiful.
   </p>
 
   <p>
-    The2nd Anniversary - &#8220;The I love you Anniversary&#8221; It's the I love you, it's not just about making out anniversary.
+    The2nd Anniversary - "The I love you Anniversary" It's the I love you, it's not just about making out anniversary.
   </p>
 
   <p>

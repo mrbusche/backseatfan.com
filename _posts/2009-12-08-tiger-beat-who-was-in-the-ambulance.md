@@ -24,7 +24,7 @@ categories:
   </p>
 
   <p id="TixyyLink" style="border: medium none; overflow: hidden; color: #000000; background-color: transparent; text-align: left; text-decoration: none;">
-    Although I don't really find this to be news. Those of you following the Tiger beat would like to know who was in the ambulance. It was Tiger's mother in law. Not his wife. She probably busted a hemorrhoid or caused herself to get an ulcer by yelling at Tiger&#8230;
+    Although I don't really find this to be news. Those of you following the Tiger beat would like to know who was in the ambulance. It was Tiger's mother in law. Not his wife. She probably busted a hemorrhoid or caused herself to get an ulcer by yelling at Tiger?
   </p>
 
   <p style="border: medium none; overflow: hidden; color: #000000; background-color: transparent; text-align: left; text-decoration: none;">

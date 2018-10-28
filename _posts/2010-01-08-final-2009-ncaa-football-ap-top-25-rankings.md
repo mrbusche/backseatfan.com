@@ -22,7 +22,7 @@ tags:
   </p>
 
   <p>
-    3 Big Ten Team in the the top 10, and 4 in the top 20. I don't think anyone can argue that the Big Ten is a &#8220;weak&#8221; conference anymore.
+    3 Big Ten Team in the the top 10, and 4 in the top 20. I don't think anyone can argue that the Big Ten is a "weak" conference anymore.
   </p>
 
   <p>

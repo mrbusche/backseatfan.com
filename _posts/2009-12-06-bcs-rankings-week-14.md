@@ -15,7 +15,7 @@ categories:
 
 <div class="entry">
   <p>
-    So what Conference is on top? Pac 10 I guess&#8230; Although I don't think they are the strongest. I Guess SEC is, but Big 10 is looking pretty solid as well.
+    So what Conference is on top? Pac 10 I guess? Although I don't think they are the strongest. I Guess SEC is, but Big 10 is looking pretty solid as well.
   </p>
 
   <p>

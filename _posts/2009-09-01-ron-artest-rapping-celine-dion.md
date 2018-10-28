@@ -13,6 +13,6 @@ categories:
 
 <div class="entry">
   <p>
-    <br /> Ron Artest Rapping Celine Dion's &#8220;My Heart Will Go On&#8221;<br /> <strong>This is why you don't do drugs kids.</strong>
+    <br /> Ron Artest Rapping Celine Dion's "My Heart Will Go On"<br /> <strong>This is why you don't do drugs kids.</strong>
   </p>
 </div>

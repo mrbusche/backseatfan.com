@@ -17,7 +17,7 @@ tags:
 
 <div class="entry">
   <p>
-    Cincinnati Bengals wide receiver Chris Henry died Thursday, one day after suffering injures in a &#8220;Domestic Dispute&#8221;, where Chris fell, jumped or was thrown from the back of a pickup truck. He was 26.
+    Cincinnati Bengals wide receiver Chris Henry died Thursday, one day after suffering injures in a "Domestic Dispute", where Chris fell, jumped or was thrown from the back of a pickup truck. He was 26.
   </p>
 
   <p>

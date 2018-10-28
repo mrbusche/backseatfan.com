@@ -39,7 +39,7 @@ tags:
   </p>
 
   <p>
-    Did they not pay attention to Favre and the Vikings last year? Favre beat the Packers THREE times last year. There was more fire when he played the Packers, because &#8220;He had something to prove&#8221;, although he wouldn't admit it.
+    Did they not pay attention to Favre and the Vikings last year? Favre beat the Packers THREE times last year. There was more fire when he played the Packers, because "He had something to prove", although he wouldn't admit it.
   </p>
 
   <p>

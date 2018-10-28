@@ -24,6 +24,6 @@ tags:
   </p>
 
   <p>
-    Two Ohio State players teamed up and gave this cheap shot on an Akron player. It's not just that the guy tripped him, that happens all the time. The guy that comes and kicks the ball in the players face is just uncalled for. The fact that the coach is somewhat defending them in their statement is ridiculous, &#8220;Well, It could have been a yellow&#8221;. Bullshit.
+    Two Ohio State players teamed up and gave this cheap shot on an Akron player. It's not just that the guy tripped him, that happens all the time. The guy that comes and kicks the ball in the players face is just uncalled for. The fact that the coach is somewhat defending them in their statement is ridiculous, "Well, It could have been a yellow". Bullshit.
   </p>
 </div>

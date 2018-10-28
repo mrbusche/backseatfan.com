@@ -21,11 +21,11 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.tmz.com/2010/06/29/cedric-benson-arrest-white-boys-nfl-star-assault-injury-punch-cincinnati-bengals-running-back/">TMZ has a few more details</a> on what went down that night. Including &#8220;All these white boys are ganging up on me and kicking me out.&#8221;
+    <a href="http://www.tmz.com/2010/06/29/cedric-benson-arrest-white-boys-nfl-star-assault-injury-punch-cincinnati-bengals-running-back/">TMZ has a few more details</a> on what went down that night. Including "All these white boys are ganging up on me and kicking me out."
   </p>
 
   <p>
-    Heres a news flash Benson, people are going to gang up on you. People are going to test you. You have money, and fame, and they want a piece. Or at least a nice lawsuit. Stay the hell out of bars at 1:50 am. Did you not learn a thing from Big &#8220;Douchebag&#8221; Ben?
+    Heres a news flash Benson, people are going to gang up on you. People are going to test you. You have money, and fame, and they want a piece. Or at least a nice lawsuit. Stay the hell out of bars at 1:50 am. Did you not learn a thing from Big "Douchebag" Ben?
   </p>
 
   <p>

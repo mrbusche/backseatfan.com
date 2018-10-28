@@ -1,6 +1,6 @@
 ---
 id: 6703
-title: "LeBron James &#8220;The Decision&#8221; is Tonight"
+title: "LeBron James "The Decision" is Tonight"
 date: 2010-07-08T07:23:43+00:00
 author: Ryan M.
 layout: post
@@ -32,7 +32,7 @@ tags:
   </p>
 
   <p>
-    ESPN already knows who signed him, and I hope it leaks out sometime today.  They have probably known for a long time, they just can't give out that information.  They have an hour long program, they have an entire show they need to make clips, analysis and commentary about.  ESPN employees are hyping the news on twitter saying &#8220;This is one of those things you will remember where you are at.&#8221;  What is this September 11th?  D-Day? JFK shooting? I don't think it is ground shaking that LeBron is going to leave Cleveland.  They made no offseason moves.  Maybe if someone good was signed in Cleveland he would stay.
+    ESPN already knows who signed him, and I hope it leaks out sometime today.  They have probably known for a long time, they just can't give out that information.  They have an hour long program, they have an entire show they need to make clips, analysis and commentary about.  ESPN employees are hyping the news on twitter saying "This is one of those things you will remember where you are at."  What is this September 11th?  D-Day? JFK shooting? I don't think it is ground shaking that LeBron is going to leave Cleveland.  They made no offseason moves.  Maybe if someone good was signed in Cleveland he would stay.
   </p>
 
   <p>
@@ -40,7 +40,7 @@ tags:
   </p>
 
   <p>
-    <strong>New York Knicks: </strong>The Knicks added Amare, and have the bright lights of NYC to lure in LeBron.  He only has to share the ball with Amare, not too much of a big deal.  Jared Dudley said yesterday that LeBron was going to end up in NYC, as did OchoCinco.  Reliable sources?  Maybe.  Dudley could have talked to Amare, since they are former teammates. But it could still just be rumors.  But wait, isn't Braylon Edwards in New York?  How can this work since LeBron forced Edwards out of Cleveland with his power and might?!?!?!  I still like the Knicks as the favorite&#8230; 1:4
+    <strong>New York Knicks: </strong>The Knicks added Amare, and have the bright lights of NYC to lure in LeBron.  He only has to share the ball with Amare, not too much of a big deal.  Jared Dudley said yesterday that LeBron was going to end up in NYC, as did OchoCinco.  Reliable sources?  Maybe.  Dudley could have talked to Amare, since they are former teammates. But it could still just be rumors.  But wait, isn't Braylon Edwards in New York?  How can this work since LeBron forced Edwards out of Cleveland with his power and might?!?!?!  I still like the Knicks as the favorite? 1:4
   </p>
 
   <p>

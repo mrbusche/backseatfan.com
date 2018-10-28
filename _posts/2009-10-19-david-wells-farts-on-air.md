@@ -21,6 +21,6 @@ tags:
   </p>
 
   <p>
-    David Wells Farted on air, but at least he owned up to it. Thank God smell-a-vision isn't invented yet. I don't want to know, but I bet they could taste it, possibly ketchup and onion&#8230;
+    David Wells Farted on air, but at least he owned up to it. Thank God smell-a-vision isn't invented yet. I don't want to know, but I bet they could taste it, possibly ketchup and onion?
   </p>
 </div>

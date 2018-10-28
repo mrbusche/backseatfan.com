@@ -18,7 +18,7 @@ tags:
 
 <div class="entry">
   <p>
-    Brian Cushing has been suspended for 4 games for the 2010 season for violating the NFL's steroid policy.  I never would have even thought that Brian Cushing was on steroids&#8230;
+    Brian Cushing has been suspended for 4 games for the 2010 season for violating the NFL's steroid policy.  I never would have even thought that Brian Cushing was on steroids?
   </p>
 
   <p>

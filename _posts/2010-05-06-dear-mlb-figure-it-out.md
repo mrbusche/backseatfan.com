@@ -82,7 +82,7 @@ tags:
   </p>
 
   <p>
-    Especially if I am on the go, all I want to do is search on youtube for, &#8220;Royals vs Twins Highlights&#8221;. Look up by date, and boom, I have the latest highlights.
+    Especially if I am on the go, all I want to do is search on youtube for, "Royals vs Twins Highlights". Look up by date, and boom, I have the latest highlights.
   </p>
 
   <p>

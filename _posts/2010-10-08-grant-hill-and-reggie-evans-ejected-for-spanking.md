@@ -25,6 +25,6 @@ tags:
   </p>
 
   <p>
-    Grant Hill and Reggie Evans were ejected from the Suns - Raptors game for slapping each others butts.  I thought slapping each other on the ass was like a hand shake in basketball? Although Grant Hill's slap seemed to be a little more vicious then the normal &#8220;hey, good job&#8221;.  The best part of it is that they walk off together laughing, because they know it is a joke that they got ejected.
+    Grant Hill and Reggie Evans were ejected from the Suns - Raptors game for slapping each others butts.  I thought slapping each other on the ass was like a hand shake in basketball? Although Grant Hill's slap seemed to be a little more vicious then the normal "hey, good job".  The best part of it is that they walk off together laughing, because they know it is a joke that they got ejected.
   </p>
 </div>

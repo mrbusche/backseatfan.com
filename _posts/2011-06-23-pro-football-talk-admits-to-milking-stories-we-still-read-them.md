@@ -1,6 +1,6 @@
 ---
 id: 10091
-title: "Pro Football Talk admits to milking stories&#8230; We still read them"
+title: "Pro Football Talk admits to milking stories? We still read them"
 date: 2011-06-23T06:13:06+00:00
 author: Matt B.
 layout: post
@@ -25,11 +25,11 @@ tags:
   </p>
 
   <p>
-    Then I saw a tweet from <a href="https://twitter.com/#!/RossTuckerNFL">Ross Tucker</a> to Pro Football Talk, &#8220;I'll buy you a burger some time if you find a way to get a 5th post out of the Peterson camp story.&#8221; I have no doubt they will post at least 4 more stories rehashing the same story and all of us NFL deprived football fans will read those as well, hoping for new information.
+    Then I saw a tweet from <a href="https://twitter.com/#!/RossTuckerNFL">Ross Tucker</a> to Pro Football Talk, "I'll buy you a burger some time if you find a way to get a 5th post out of the Peterson camp story." I have no doubt they will post at least 4 more stories rehashing the same story and all of us NFL deprived football fans will read those as well, hoping for new information.
   </p>
 
   <p>
-    I was shocked to see <a href="https://twitter.com/#!/ProFootballTalk">Pro Football Talk</a> respond with a &#8220;&#8230; I can milk a cow until dust comes out. But I don't eat the cow, so you'll need an enticement other than a burger.&#8221;
+    I was shocked to see <a href="https://twitter.com/#!/ProFootballTalk">Pro Football Talk</a> respond with a "? I can milk a cow until dust comes out. But I don't eat the cow, so you'll need an enticement other than a burger."
   </p>
 
   <p>

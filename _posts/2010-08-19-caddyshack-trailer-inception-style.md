@@ -23,7 +23,7 @@ tags:
   </p>
 
   <p>
-    Caddyshack Inception Style Movie Trailer&#8230;. It is right up there with the <a href="https://backseatfan.com/2010/08/daily-spin-madden-11-review-jets-might-trade-darrelle-revis-if-dumb-and-dumber-was-inception/">Dumb and Dumber Inception Style Trailer</a>. I am trying to figure out what the next big Inception Style Trailer will be. My guess is The Hangover.
+    Caddyshack Inception Style Movie Trailer?. It is right up there with the <a href="https://backseatfan.com/2010/08/daily-spin-madden-11-review-jets-might-trade-darrelle-revis-if-dumb-and-dumber-was-inception/">Dumb and Dumber Inception Style Trailer</a>. I am trying to figure out what the next big Inception Style Trailer will be. My guess is The Hangover.
   </p>
 
   <p>

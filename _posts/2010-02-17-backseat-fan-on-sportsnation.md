@@ -21,6 +21,6 @@ tags:
   </p>
 
   <p>
-    Backseat Fan was featured on ESPN's SportsNation as the &#8220;Site We Like&#8221; of the day. It was on ESPN U so I had to wait until this replayed on ESPN 2 at midnight to see it. I'm sure not many people saw it because it was on ESPN U, but oh well it is still pretty cool for us. We Enjoyed our 18 seconds of fame. SportsNation is a great show, so be sure to check it out!
+    Backseat Fan was featured on ESPN's SportsNation as the "Site We Like" of the day. It was on ESPN U so I had to wait until this replayed on ESPN 2 at midnight to see it. I'm sure not many people saw it because it was on ESPN U, but oh well it is still pretty cool for us. We Enjoyed our 18 seconds of fame. SportsNation is a great show, so be sure to check it out!
   </p>
 </div>

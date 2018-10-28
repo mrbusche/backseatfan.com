@@ -33,7 +33,7 @@ tags:
 
   <blockquote>
     <p>
-      &#8220;We're convinced the system as set up is anti-competitive,&#8221; he said. &#8220;It goes way beyond the University of Utah.&#8221;
+      "We're convinced the system as set up is anti-competitive," he said. "It goes way beyond the University of Utah."
     </p>
   </blockquote>
 

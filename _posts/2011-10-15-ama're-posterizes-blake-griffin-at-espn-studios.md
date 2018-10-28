@@ -22,7 +22,7 @@ tags:
 
 <div class="entry">
   <p>
-    Ama're Stoudemire posterizes Blake Griffin&#8230;. err a cardboard cutout of Blake Griffin.
+    Ama're Stoudemire posterizes Blake Griffin?. err a cardboard cutout of Blake Griffin.
   </p>
 
   <p>

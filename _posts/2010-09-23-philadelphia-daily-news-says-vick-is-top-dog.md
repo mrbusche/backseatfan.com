@@ -1,6 +1,6 @@
 ---
 id: 8583
-title: "Philadelphia Daily News Says Vick is &#8220;Top Dog&#8221;"
+title: "Philadelphia Daily News Says Vick is "Top Dog""
 date: 2010-09-23T08:01:01+00:00
 author: Ryan M.
 layout: post

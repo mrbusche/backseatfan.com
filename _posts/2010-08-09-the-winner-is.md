@@ -1,6 +1,6 @@
 ---
 id: 7964
-title: "The winner is&#8230;"
+title: "The winner is?"
 date: 2010-08-09T11:40:38+00:00
 author: Ryan M.
 layout: post
@@ -28,7 +28,7 @@ tags:
   </p>
 
   <p>
-    The winner is&#8230;
+    The winner is?
   </p>
 
   <p>

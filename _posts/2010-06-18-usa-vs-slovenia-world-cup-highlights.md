@@ -23,7 +23,7 @@ categories:
   </p>
 
   <p>
-    &#8220;I'm a little gutted to be honest,&#8221; Donovan said. &#8220;I don't know how they stole that last goal from us. I'm not sure what the call was. He (the referee) wouldn't tell us what the call was.&#8221;
+    "I'm a little gutted to be honest," Donovan said. "I don't know how they stole that last goal from us. I'm not sure what the call was. He (the referee) wouldn't tell us what the call was."
   </p>
 
   <p>

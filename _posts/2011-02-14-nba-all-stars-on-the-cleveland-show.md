@@ -30,7 +30,7 @@ tags:
   </p>
 
   <p>
-    The Best part of the whole show, &#8220;See, LeBron really doesn't hate Cleveland&#8221;
+    The Best part of the whole show, "See, LeBron really doesn't hate Cleveland"
   </p>
 
   <p>

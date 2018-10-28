@@ -21,6 +21,6 @@ tags:
 
 <div class="entry">
   <p>
-    And with the first pick in 2010 NFL Draft the St. Louis Rams select&#8230;.<br />
+    And with the first pick in 2010 NFL Draft the St. Louis Rams select?.<br />
   </p>
 </div>

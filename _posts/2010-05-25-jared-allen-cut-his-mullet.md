@@ -29,7 +29,7 @@ tags:
   </blockquote>
 
   <p>
-    I mean, you said it before business in front, party in the back. Isn't the front half of your mullet good enough for your wedding? Half of getting married is having the party afterwords. This just doesn't make sense&#8230; Needless to say, I'm disappointed in you.<br /> <strong>Before</strong>
+    I mean, you said it before business in front, party in the back. Isn't the front half of your mullet good enough for your wedding? Half of getting married is having the party afterwords. This just doesn't make sense? Needless to say, I'm disappointed in you.<br /> <strong>Before</strong>
   </p><figure id="attachment_5923" style="width: 576px" class="wp-caption alignnone">
 
   <a href="/images/2010/05/jaredallenmullet.jpg"><img class="size-full wp-image-5923 " title="jaredallenmullet" src="/images/2010/05/jaredallenmullet.jpg" alt="" width="576" height="324" srcset="/images/2010/05/jaredallenmullet.jpg 576w, /images/2010/05/jaredallenmullet-300x168.jpg 300w" sizes="(max-width: 576px) 100vw, 576px" /></a><figcaption class="wp-caption-text">Allen Looks Noble, and Dignified, full of wisdom and strength</figcaption></figure>

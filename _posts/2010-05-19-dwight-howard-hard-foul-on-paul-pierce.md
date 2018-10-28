@@ -23,6 +23,6 @@ tags:
   </p>
 
   <p>
-    Dwight Howard might be getting a little frustrated. He took down Paul Pierce down with this &#8220;Block&#8221;. Pierce is known to flop on just about every foul, but this one seemed pretty hard. Get it together Superman I picked the Magic to win.
+    Dwight Howard might be getting a little frustrated. He took down Paul Pierce down with this "Block". Pierce is known to flop on just about every foul, but this one seemed pretty hard. Get it together Superman I picked the Magic to win.
   </p>
 </div>

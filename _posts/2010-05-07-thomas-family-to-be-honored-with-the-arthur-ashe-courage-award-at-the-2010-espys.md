@@ -31,7 +31,7 @@ tags:
   </p>
 
   <p>
-    The Thomas family will accept the <strong>Arthur Ashe Courage Award</strong> at <em>The 2010 ESPYs</em>. <em> </em>Presented annually to individuals whose contributions transcend sports, the Ashe Award is the emotional pinnacle of the industry-wide sports celebration, which will be televised live Wednesday, July 14, at 9 p.m. ET on ESPN/ESPNHD from Nokia Theatre L.A. LIVE in Los Angeles.  <em>The 2010 ESPYs</em> will be hosted this year by <em>Saturday Night Live's</em> &#8220;Weekend Update&#8221; anchor and head writer Seth Meyers.
+    The Thomas family will accept the <strong>Arthur Ashe Courage Award</strong> at <em>The 2010 ESPYs</em>. <em> </em>Presented annually to individuals whose contributions transcend sports, the Ashe Award is the emotional pinnacle of the industry-wide sports celebration, which will be televised live Wednesday, July 14, at 9 p.m. ET on ESPN/ESPNHD from Nokia Theatre L.A. LIVE in Los Angeles.  <em>The 2010 ESPYs</em> will be hosted this year by <em>Saturday Night Live's</em> "Weekend Update" anchor and head writer Seth Meyers.
   </p>
 
   <p>

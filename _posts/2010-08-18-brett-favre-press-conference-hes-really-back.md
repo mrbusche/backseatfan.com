@@ -35,7 +35,7 @@ tags:
   </p>
 
   <p>
-    Seriously, he looks just like the Pedophile/ killer that was in the movie &#8220;Lovely Bones&#8221;.
+    Seriously, he looks just like the Pedophile/ killer that was in the movie "Lovely Bones".
   </p>
 
   <p>

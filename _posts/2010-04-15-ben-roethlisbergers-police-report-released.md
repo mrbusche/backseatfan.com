@@ -27,7 +27,7 @@ tags:
 
   <blockquote>
     <p>
-      <a href="http://www.thesmokinggun.com/archive/years/2010/0415101roethlisberger1.html">The college student who accused Ben Roethlisberger of sexually assaulting her last month in a Georgia nightclub told cops that the NFL star approached her &#8220;with his penis out of his pants&#8221; and followed her into a bathroom, where &#8220;he had sex with me&#8221; in spite of her objections.</a>
+      <a href="http://www.thesmokinggun.com/archive/years/2010/0415101roethlisberger1.html">The college student who accused Ben Roethlisberger of sexually assaulting her last month in a Georgia nightclub told cops that the NFL star approached her "with his penis out of his pants" and followed her into a bathroom, where "he had sex with me" in spite of her objections.</a>
     </p>
   </blockquote>
 
@@ -37,13 +37,13 @@ tags:
 
   <blockquote>
     <p>
-      <a href="http://www.thesmokinggun.com/archive/years/2010/0415101roethlisberger1.html">Another sorority sister, Victoria Garofalo, recalled that the alleged victim was wearing a name tag with the initials &#8220;DTF.&#8221; The tag-which the woman had received at a birthday party earlier that evening-was the subject of an inside joke between the students. When Roethlisberger asked about the initials, &#8220;Garofalo explained that 'DTF' stood for 'down to fuck' and that it referred to a joke between&#8221; the women.</a>
+      <a href="http://www.thesmokinggun.com/archive/years/2010/0415101roethlisberger1.html">Another sorority sister, Victoria Garofalo, recalled that the alleged victim was wearing a name tag with the initials "DTF." The tag-which the woman had received at a birthday party earlier that evening-was the subject of an inside joke between the students. When Roethlisberger asked about the initials, "Garofalo explained that 'DTF' stood for 'down to fuck' and that it referred to a joke between" the women.</a>
     </p>
   </blockquote>
 
   <blockquote>
     <p>
-      <a href="http://www.thesmokinggun.com/archive/years/2010/0415101roethlisberger1.html">&#8220;I'm not down to fuck, but I like to fuck girls,&#8221; Roethlisberger replied, according to a police report.</a>
+      <a href="http://www.thesmokinggun.com/archive/years/2010/0415101roethlisberger1.html">"I'm not down to fuck, but I like to fuck girls," Roethlisberger replied, according to a police report.</a>
     </p>
   </blockquote>
 
@@ -53,11 +53,11 @@ tags:
 
   <blockquote>
     <p>
-      <a href="http://www.thesmokinggun.com/archive/years/2010/0415101roethlisberger1.html">Witness Elizabeth Brooks told investigators of partying with Roethlisberger at Capital City, where he purchased a round of shots for women in the VIP room and announced, &#8220;All my bitches, take some shots.&#8221;</a>
+      <a href="http://www.thesmokinggun.com/archive/years/2010/0415101roethlisberger1.html">Witness Elizabeth Brooks told investigators of partying with Roethlisberger at Capital City, where he purchased a round of shots for women in the VIP room and announced, "All my bitches, take some shots."</a>
     </p>
   </blockquote>
 
   <p>
-    The Rooneys announced today that Big <span style="text-decoration: line-through;">Ben</span> Douche will be punished for his actions. They are cooperating with Roger Goodell to see what the right punishment will be. Is it weird that they plan on punishing an &#8220;innocent&#8221; man? No, because he fucking did it. I hope changing his name to Big Douche is one of his punishments.
+    The Rooneys announced today that Big <span style="text-decoration: line-through;">Ben</span> Douche will be punished for his actions. They are cooperating with Roger Goodell to see what the right punishment will be. Is it weird that they plan on punishing an "innocent" man? No, because he fucking did it. I hope changing his name to Big Douche is one of his punishments.
   </p>
 </div>

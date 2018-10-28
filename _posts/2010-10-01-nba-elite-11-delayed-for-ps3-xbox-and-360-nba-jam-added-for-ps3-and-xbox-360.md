@@ -23,7 +23,7 @@ tags:
 
 <div class="entry">
   <p>
-    NBA Elite 11 was not up to EA standards, so they delayed their Xbox 360 and PS3 release date.  EA says they are going to work on it until they can deleiver a &#8220;breakthrough basketball experience&#8221;.
+    NBA Elite 11 was not up to EA standards, so they delayed their Xbox 360 and PS3 release date.  EA says they are going to work on it until they can deleiver a "breakthrough basketball experience".
   </p>
 
   <p>
@@ -35,7 +35,7 @@ tags:
   </p>
 
   <p>
-    I smell a NBA Jam giveaway once we find out the concrete dates. In the meantime&#8230;. BOOM SHAKALAKA!
+    I smell a NBA Jam giveaway once we find out the concrete dates. In the meantime?. BOOM SHAKALAKA!
   </p>
 
   <p>

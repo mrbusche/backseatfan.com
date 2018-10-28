@@ -30,7 +30,7 @@ tags:
   </p>
 
   <p>
-    And here are some of the other moments from George Steinbrenner &#8220;The Character&#8221;:
+    And here are some of the other moments from George Steinbrenner "The Character":
   </p>
 
   <p>

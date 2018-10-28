@@ -27,7 +27,7 @@ tags:
   </p>
 
   <p>
-    One player said to &#8220;Shut the Fuck Up.&#8221; And the room of players laughed (and sighed in relief because they wanted to say the same thing).
+    One player said to "Shut the Fuck Up." And the room of players laughed (and sighed in relief because they wanted to say the same thing).
   </p>
 
   <p>
@@ -39,7 +39,7 @@ tags:
   </p>
 
   <p>
-    But all of a sudden I am getting more religious by&#8221;Please God, don't let the Vikings draft Tebow.&#8221;
+    But all of a sudden I am getting more religious by"Please God, don't let the Vikings draft Tebow."
   </p><figure id="attachment_4871" style="width: 392px" class="wp-caption aligncenter">
 
   <a href="/images/2010/03/TIM-TEBOW.jpg"><img class="size-full wp-image-4871 " title="TIM-TEBOW" src="/images/2010/03/TIM-TEBOW.jpg" alt="TIM-TEBOW" width="392" height="278" srcset="/images/2010/03/TIM-TEBOW.jpg 560w, /images/2010/03/TIM-TEBOW-300x212.jpg 300w" sizes="(max-width: 392px) 100vw, 392px" /></a><figcaption class="wp-caption-text">Will Players put STFU TEBOW Across their Eyeblack? </figcaption></figure>

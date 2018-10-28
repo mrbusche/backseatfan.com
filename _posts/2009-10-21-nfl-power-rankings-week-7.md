@@ -80,7 +80,7 @@ tags:
       </td>
 
       <td style="color: #000000; font-size: 11px; cursor: text; margin: 8px;" width="405">
-        <span style="font-size: small;"><span style="font-family: arial, helvetica, sans-serif;">Brad Childress looks like a Genius since Brett Favre is playing so well. It is hard to make fun of him anymore&#8230;</span></span>
+        <span style="font-size: small;"><span style="font-family: arial, helvetica, sans-serif;">Brad Childress looks like a Genius since Brett Favre is playing so well. It is hard to make fun of him anymore?</span></span>
       </td>
     </tr>
 
@@ -108,7 +108,7 @@ tags:
       </td>
 
       <td style="color: #000000; font-size: 11px; cursor: text; margin: 8px;" width="405">
-        <span style="font-size: small;"><span style="font-family: arial, helvetica, sans-serif;">Giants got SMOKED by the Saints! What the hell happened to their Defense? Looking back, They did only beat the Skin's by 6 points&#8230;<br /> </span></span>
+        <span style="font-size: small;"><span style="font-family: arial, helvetica, sans-serif;">Giants got SMOKED by the Saints! What the hell happened to their Defense? Looking back, They did only beat the Skin's by 6 points?<br /> </span></span>
       </td>
     </tr>
 
@@ -178,7 +178,7 @@ tags:
       </td>
 
       <td style="color: #000000; font-size: 11px; cursor: text; margin: 8px;" width="405">
-        <span style="font-size: small;"><span style="font-family: arial, helvetica, sans-serif;">The Eagles lost to the Raiders&#8230; How can they let things like this happen?! It's the God Damn Raiders!</span></span>
+        <span style="font-size: small;"><span style="font-family: arial, helvetica, sans-serif;">The Eagles lost to the Raiders? How can they let things like this happen?! It's the God Damn Raiders!</span></span>
       </td>
     </tr>
 

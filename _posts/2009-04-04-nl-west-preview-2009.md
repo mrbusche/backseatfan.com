@@ -18,7 +18,7 @@ categories:
   </p>
 
   <p>
-    2. San Francisco Giants - In 1968 the New York Mets lost 42 games when they allowed 3 runs or less and if the Giants don't get much power out of their lineup I think they could finish with 35 losses in games they allow 3 runs or less. Tim Lincecum is the best player no one has heard of, still. Randy Johnson may be in his 40's but he's still 6'10&#8221; and a frightening presence when he's on the mound. 3rd starter Matt Cain had a 3.76 ERA but only an 8-14 record, which has to turn around this season. Pablo Sandoval has been called the next Albert Pujols by a few major league scouts and I'm starting to agree with them. Sandoval is a 3B but he has gold glove caliber talent and he will need to anchor this lineup for them to finish in 2nd this year, expect 86-88 wins.
+    2. San Francisco Giants - In 1968 the New York Mets lost 42 games when they allowed 3 runs or less and if the Giants don't get much power out of their lineup I think they could finish with 35 losses in games they allow 3 runs or less. Tim Lincecum is the best player no one has heard of, still. Randy Johnson may be in his 40's but he's still 6'10" and a frightening presence when he's on the mound. 3rd starter Matt Cain had a 3.76 ERA but only an 8-14 record, which has to turn around this season. Pablo Sandoval has been called the next Albert Pujols by a few major league scouts and I'm starting to agree with them. Sandoval is a 3B but he has gold glove caliber talent and he will need to anchor this lineup for them to finish in 2nd this year, expect 86-88 wins.
   </p>
 
   <p>

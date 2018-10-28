@@ -301,7 +301,7 @@ categories:
       </td>
 
       <td style="color: #000000; font-size: 11px; cursor: text; margin: 8px;" width="405">
-        <span style="font-size: small;"><span style="font-family: arial, helvetica, sans-serif;">The Giants have lost 4 in a row. They have so much talent, but keep falling short. Maybe a Plaxico could have put them over the top. They really shot themselves in the foot, or leg&#8230;<br /> </span></span>
+        <span style="font-size: small;"><span style="font-family: arial, helvetica, sans-serif;">The Giants have lost 4 in a row. They have so much talent, but keep falling short. Maybe a Plaxico could have put them over the top. They really shot themselves in the foot, or leg?<br /> </span></span>
       </td>
     </tr>
 

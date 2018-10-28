@@ -29,7 +29,7 @@ tags:
   </p>
 
   <p>
-    &#8220;Can you swim?&#8221; a little boy asked Joe as he took off for the water. &#8220;I can't swim good but I've got to save those kids. If I don't come up, get somebody.&#8221; Unfortunately for the Kansas City Chiefs and the rest of the world, those were the last words of Joe Delaney as he died while trying to save the kids.
+    "Can you swim?" a little boy asked Joe as he took off for the water. "I can't swim good but I've got to save those kids. If I don't come up, get somebody." Unfortunately for the Kansas City Chiefs and the rest of the world, those were the last words of Joe Delaney as he died while trying to save the kids.
   </p>
 
   <p>
@@ -45,7 +45,7 @@ tags:
   </p>
 
   <p>
-    President Ronald Reagan, honored Delaney with the Presidential Citizens Medal saying, &#8220;He made the ultimate sacrifice by placing the lives of three children above regard for his own safety. By the supreme example of courage and compassion, this brilliantly gifted young man left a spiritual legacy for his fellow Americans&#8221;
+    President Ronald Reagan, honored Delaney with the Presidential Citizens Medal saying, "He made the ultimate sacrifice by placing the lives of three children above regard for his own safety. By the supreme example of courage and compassion, this brilliantly gifted young man left a spiritual legacy for his fellow Americans"
   </p>
 
   <p>

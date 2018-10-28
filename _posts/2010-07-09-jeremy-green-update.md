@@ -27,7 +27,7 @@ tags:
   <a href="/images/2010/07/jeremygreen2.jpg"><img class="size-full wp-image-6759 " title="jeremygreen2" src="/images/2010/07/jeremygreen2.jpg" alt="" width="432" height="335" srcset="/images/2010/07/jeremygreen2.jpg 2000w, /images/2010/07/jeremygreen2-300x232.jpg 300w, /images/2010/07/jeremygreen2-1024x793.jpg 1024w" sizes="(max-width: 432px) 100vw, 432px" /></a><figcaption class="wp-caption-text"> </figcaption></figure>
 
   <p>
-    This doesn't look or sound good for Jeremy Green, I don't think his career will make it past this one.  The question is&#8230; Will ESPN report on it?  Probably not.  But hey Fox and CBS will probably be all over it!
+    This doesn't look or sound good for Jeremy Green, I don't think his career will make it past this one.  The question is? Will ESPN report on it?  Probably not.  But hey Fox and CBS will probably be all over it!
   </p>
 
   <p>

@@ -25,7 +25,7 @@ tags:
   </p>
 
   <p>
-    &#8220;Ty update: the swelling in his brain is going down faster than expected. He's not out of the woods but it is looking better!&#8221;
+    "Ty update: the swelling in his brain is going down faster than expected. He's not out of the woods but it is looking better!"
   </p>
 
   <p>

@@ -27,7 +27,7 @@ tags:
 
   <blockquote>
     <p>
-      &#8220;You'll be out of practice &#8212; you understand that? &#8212; if you do that again.  I told you five years ago: Don't mess with our players. Don't do it. You did it. You do it one more time and the Orlando Sentinel's not welcome here ever again. Is that clear? It's yes or no.&#8221;
+      "You'll be out of practice - you understand that? - if you do that again.  I told you five years ago: Don't mess with our players. Don't do it. You did it. You do it one more time and the Orlando Sentinel's not welcome here ever again. Is that clear? It's yes or no."
     </p>
   </blockquote>
 
@@ -37,7 +37,7 @@ tags:
 
   <blockquote>
     <p>
-      &#8220;You never know with Tim,&#8221; Thompson said. &#8220;He can bolt. You'll think he's running, but then he'll just come up and pass it to you. You just have to be ready at all times. With Brantley, everything's with rhythm, time. Like, you know what I mean, a real quarterback.&#8221;
+      "You never know with Tim," Thompson said. "He can bolt. You'll think he's running, but then he'll just come up and pass it to you. You just have to be ready at all times. With Brantley, everything's with rhythm, time. Like, you know what I mean, a real quarterback."
     </p>
   </blockquote>
 
@@ -46,6 +46,6 @@ tags:
   </p>
 
   <p>
-    But face the facts Urban Meyer.  It's true.  Tebow didn't play like a real QB, he played like some sort of freak running back that had a good arm.  He didn't play like a normal QB, but that was because of the system he was in.  Maybe he will do well in the NFL, but chances are he won't right away, he is going to be a team's &#8220;project&#8221;.
+    But face the facts Urban Meyer.  It's true.  Tebow didn't play like a real QB, he played like some sort of freak running back that had a good arm.  He didn't play like a normal QB, but that was because of the system he was in.  Maybe he will do well in the NFL, but chances are he won't right away, he is going to be a team's "project".
   </p>
 </div>

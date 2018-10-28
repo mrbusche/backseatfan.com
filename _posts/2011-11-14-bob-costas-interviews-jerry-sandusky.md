@@ -18,11 +18,11 @@ tags:
 
 <div class="entry">
   <p>
-    Bob Costas interviewed Jerry Sandusky this evening on NBC News' &#8220;Rock Center&#8221; with his attorneys blessing and I have to say this interview couldn't have gone worse for Sandusky unless he admitted to the acts.
+    Bob Costas interviewed Jerry Sandusky this evening on NBC News' "Rock Center" with his attorneys blessing and I have to say this interview couldn't have gone worse for Sandusky unless he admitted to the acts.
   </p>
 
   <p>
-    At one point Costas asks Sandusky if he was a pedophile and Sandusky responds, &#8220;No&#8221;. However when asked if he was sexually attracted to young boys Sandusky took 16 seconds to say that no, he was not.
+    At one point Costas asks Sandusky if he was a pedophile and Sandusky responds, "No". However when asked if he was sexually attracted to young boys Sandusky took 16 seconds to say that no, he was not.
   </p>
 
   <p>

@@ -17,7 +17,7 @@ tags:
 
 <div class="entry">
   <p>
-    NFL Picks for Week 7 are in, and the leader is&#8230;. no one. We are tied, but this week should separate us a little.
+    NFL Picks for Week 7 are in, and the leader is?. no one. We are tied, but this week should separate us a little.
   </p>
 
   <table style="border: 1px dashed #bbbbbb; cursor: default; height: 736px;" border="0" cellspacing="0" cellpadding="4" width="409" frame="VOID" rules="NONE">

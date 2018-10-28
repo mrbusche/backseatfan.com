@@ -29,7 +29,7 @@ tags:
   </p>
 
   <p>
-    Although, this isn't the only time this has happened to Blake Griffin&#8230;
+    Although, this isn't the only time this has happened to Blake Griffin?
   </p>
 
   <p>

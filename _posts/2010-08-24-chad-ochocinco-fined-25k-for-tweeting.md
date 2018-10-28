@@ -35,11 +35,11 @@ tags:
 
   <blockquote>
     <p>
-      &#8220;I've been fined by the league a substantial amount of money for tweeting, 1st time twitter hasn't made me money but cost me money&#8221;
+      "I've been fined by the league a substantial amount of money for tweeting, 1st time twitter hasn't made me money but cost me money"
     </p>
 
     <p>
-      &#8220;Dear NFL I apologize for tweeting during the game but that was 2 monthsof my Bugatti payments you just took from me,I won't do it again&#8221;
+      "Dear NFL I apologize for tweeting during the game but that was 2 monthsof my Bugatti payments you just took from me,I won't do it again"
     </p>
   </blockquote>
 

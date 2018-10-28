@@ -26,7 +26,7 @@ tags:
   </p>
 
   <p style="text-align: left;">
-    Heres a video form the stands where he is clearly waving &#8220;The Shocker&#8221; around.
+    Heres a video form the stands where he is clearly waving "The Shocker" around.
   </p>
 
   <p>

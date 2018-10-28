@@ -47,7 +47,7 @@ tags:
   </p>
 
   <p>
-    <span style="font-family: georgia, palatino;">If you missed last week's episode of &#8220;Shortstops,&#8221; check out more extended and uncut footage of the panel discussion </span><a href="http://www.msg.com/tv/shows/the-lineup/episode-5-the-shortstops-extended-and-uncut-panel-discussion-1.38079"><span style="font-family: georgia, palatino;">here</span></a><span style="font-family: georgia, palatino;">.</span>
+    <span style="font-family: georgia, palatino;">If you missed last week's episode of "Shortstops," check out more extended and uncut footage of the panel discussion </span><a href="http://www.msg.com/tv/shows/the-lineup/episode-5-the-shortstops-extended-and-uncut-panel-discussion-1.38079"><span style="font-family: georgia, palatino;">here</span></a><span style="font-family: georgia, palatino;">.</span>
   </p>
 
   <p>
@@ -55,7 +55,7 @@ tags:
   </p>
 
   <p>
-    <span><a href="/images/2010/04/jeter.jpeg"><img class="aligncenter size-full wp-image-5545" title="jeter" src="/images/2010/04/jeter.jpeg" alt="jeter" width="361" height="480" srcset="/images/2010/04/jeter.jpeg 361w, /images/2010/04/jeter-225x300.jpeg 225w" sizes="(max-width: 361px) 100vw, 361px" /></a><span style="font-family: georgia, palatino;"><br /> </span></span><span><span style="font-family: georgia, palatino;"><br /> </span></span><span><span style="font-family: georgia, palatino;"> This week's winner will win a signed baseball from the legendary pitcher Dwight &#8220;Doc&#8221; Gooden.</span></span>
+    <span><a href="/images/2010/04/jeter.jpeg"><img class="aligncenter size-full wp-image-5545" title="jeter" src="/images/2010/04/jeter.jpeg" alt="jeter" width="361" height="480" srcset="/images/2010/04/jeter.jpeg 361w, /images/2010/04/jeter-225x300.jpeg 225w" sizes="(max-width: 361px) 100vw, 361px" /></a><span style="font-family: georgia, palatino;"><br /> </span></span><span><span style="font-family: georgia, palatino;"><br /> </span></span><span><span style="font-family: georgia, palatino;"> This week's winner will win a signed baseball from the legendary pitcher Dwight "Doc" Gooden.</span></span>
   </p>
 
   <p>

@@ -21,7 +21,7 @@ tags:
 
 <div class="entry">
   <p>
-    This Fantasy Football &#8220;Cheat Sheet&#8221; is for any of your buddies who forget to print out rankings, or forget to bring their own magazine. They will try to look off of your rankings, or borrow your fantasy magazine, don't let them. Give them this print out. It is their punishment for being a douche bag.
+    This Fantasy Football "Cheat Sheet" is for any of your buddies who forget to print out rankings, or forget to bring their own magazine. They will try to look off of your rankings, or borrow your fantasy magazine, don't let them. Give them this print out. It is their punishment for being a douche bag.
   </p>
 
   <p>

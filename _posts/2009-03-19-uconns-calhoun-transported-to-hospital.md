@@ -18,7 +18,7 @@ categories:
   </p>
 
   <p>
-    UConn director of sports medicine Dr. Jeff Anderson said, &#8220;Coach Calhoun has not been feeling well for the past several days and it is best that he not coach the team today for precautionary reasons,&#8221; according to a release issued by the school.
+    UConn director of sports medicine Dr. Jeff Anderson said, "Coach Calhoun has not been feeling well for the past several days and it is best that he not coach the team today for precautionary reasons," according to a release issued by the school.
   </p>
 
   <p>

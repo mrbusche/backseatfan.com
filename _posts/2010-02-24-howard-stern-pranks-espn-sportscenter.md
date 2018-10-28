@@ -26,18 +26,18 @@ tags:
   </p>
 
   <p>
-    <span style="text-decoration: line-through;">Brian Westbrook</span> Captain Janks: &#8220;I look forward to a future of worshiping the prostate of Howard Stern.&#8221;
+    <span style="text-decoration: line-through;">Brian Westbrook</span> Captain Janks: "I look forward to a future of worshiping the prostate of Howard Stern."
   </p>
 
   <p>
-    Scott Van Pelt: &#8220;Oh Boy, We got that&#8221;
+    Scott Van Pelt: "Oh Boy, We got that"
   </p>
 
   <p>
-    I am pretty sure Janks said &#8220;See you on YouTube&#8221; at the end when he got cut off.
+    I am pretty sure Janks said "See you on YouTube" at the end when he got cut off.
   </p>
 
   <p>
-    Scott handled it all pretty well, but I would love to see the off camera footage afterwords. This wasn't the first time, and I am sure it won't be the last time we hear from the &#8220;worshipers of Howard Sterns prostate&#8221;
+    Scott handled it all pretty well, but I would love to see the off camera footage afterwords. This wasn't the first time, and I am sure it won't be the last time we hear from the "worshipers of Howard Sterns prostate"
   </p>
 </div>

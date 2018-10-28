@@ -18,7 +18,7 @@ tags:
 
 <div class="entry">
   <p>
-    Here is the official free-agency list supplied by the union &#8230;
+    Here is the official free-agency list supplied by the union ?
   </p>
 
   <p>

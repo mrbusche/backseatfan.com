@@ -18,7 +18,7 @@ tags:
 
 <div class="entry">
   <p>
-    Turn any site into the World Cup.  That's right, just add a URL to the end of <a href="http://www.vuvuzela-time.co.uk/">http://www.vuvuzela-time.co.uk/</a> and feel the atmosphere of the World Cup at your home or work.  For instance &#8220;World Cup: Backseat Fan Edition&#8221; sounds like this &#8212;->  <a href="http://www.vuvuzela-time.co.uk/backseatfan.com ">http://www.vuvuzela-time.co.uk/backseatfan.com </a>
+    Turn any site into the World Cup.  That's right, just add a URL to the end of <a href="http://www.vuvuzela-time.co.uk/">http://www.vuvuzela-time.co.uk/</a> and feel the atmosphere of the World Cup at your home or work.  For instance "World Cup: Backseat Fan Edition" sounds like this -->  <a href="http://www.vuvuzela-time.co.uk/backseatfan.com ">http://www.vuvuzela-time.co.uk/backseatfan.com </a>
   </p>
 
   <p>

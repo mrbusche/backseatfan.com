@@ -1,6 +1,6 @@
 ---
 id: 8809
-title: "RandomGuyTalk Podcast Episode 4&#8230; Moss, Lynch, Week 4 in the NFL and MLB playoffs"
+title: "RandomGuyTalk Podcast Episode 4? Moss, Lynch, Week 4 in the NFL and MLB playoffs"
 date: 2010-10-07T05:26:35+00:00
 author: Matt B.
 layout: post

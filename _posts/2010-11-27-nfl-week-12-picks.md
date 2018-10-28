@@ -373,7 +373,7 @@ tags:
   </p>
 
   <p>
-    Matt: Jets - Terrell Owens last week, &#8220;What's crazy is the fact that we're just terrible, that's just plain and simple. When I say we that's me included.  Let me emphasize and look you into the eyes—we are terrible!&#8221; That says it all.
+    Matt: Jets - Terrell Owens last week, "What's crazy is the fact that we're just terrible, that's just plain and simple. When I say we that's me included.  Let me emphasize and look you into the eyes—we are terrible!" That says it all.
   </p>
 
   <p>

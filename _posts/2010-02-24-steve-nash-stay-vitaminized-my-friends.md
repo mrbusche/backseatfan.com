@@ -24,26 +24,26 @@ tags:
   </p>
 
   <p>
-    Steve Nash on &#8220;A picture being worth a thousand words&#8221;<br />
+    Steve Nash on "A picture being worth a thousand words"<br />
   </p>
 
   <p>
-    Steve Nash on &#8220;Everything is bigger in texas&#8221;<br />
+    Steve Nash on "Everything is bigger in texas"<br />
   </p>
 
   <p>
-    Steve Nash on &#8220;Cow tipping&#8221;<br />
+    Steve Nash on "Cow tipping"<br />
   </p>
 
   <p>
-    Steve Nash on &#8220;Triple doubles&#8221;<br />
+    Steve Nash on "Triple doubles"<br />
   </p>
 
   <p>
-    Steve Nash on &#8220;Putting all your eggs in one basket&#8221;<br />
+    Steve Nash on "Putting all your eggs in one basket"<br />
   </p>
 
   <p>
-    steve nash on &#8220;Manicures&#8221;<br />
+    steve nash on "Manicures"<br />
   </p>
 </div>

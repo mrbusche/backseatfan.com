@@ -22,6 +22,6 @@ tags:
   </p>
 
   <p>
-    Drew Brees really needs new sponsors. Pampers!?!? You are Drew &#8220;freaking&#8221; Brees you can do better than that. Take a little advice from Manning when you are at the Super Bowl pick your sponsors wisely.
+    Drew Brees really needs new sponsors. Pampers!?!? You are Drew "freaking" Brees you can do better than that. Take a little advice from Manning when you are at the Super Bowl pick your sponsors wisely.
   </p>
 </div>

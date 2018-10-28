@@ -18,7 +18,7 @@ categories:
   </p>
 
   <p>
-    As always Griffey remained classy, on his retirement he said, &#8220;While I feel I am still able to make a contribution on the field and nobody in the Mariners front office has asked me to retire, I told the Mariners when I met with them prior to the 2009 season and was invited back that I will never allow myself to become a distraction. I feel that without enough occasional starts to be sharper coming off the bench, my continued presence as a player would be an unfair distraction to my teammates and their success as a team is what the ultimate goal should be.&#8221;
+    As always Griffey remained classy, on his retirement he said, "While I feel I am still able to make a contribution on the field and nobody in the Mariners front office has asked me to retire, I told the Mariners when I met with them prior to the 2009 season and was invited back that I will never allow myself to become a distraction. I feel that without enough occasional starts to be sharper coming off the bench, my continued presence as a player would be an unfair distraction to my teammates and their success as a team is what the ultimate goal should be."
   </p>
 
   <p>

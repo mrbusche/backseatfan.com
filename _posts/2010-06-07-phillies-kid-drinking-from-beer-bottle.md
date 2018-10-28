@@ -20,7 +20,7 @@ tags:
 
 <div class="entry">
   <p>
-    This Phillies Fan might be underage, really underage. I guess Miller Lite is really aiming young for their audience. I am pretty sure his dad looked at him, saw the beer, then looked back at the game like nothing was wrong. Oh well, it's not like beer is bad for toddlers&#8230; Oh wait, it is?
+    This Phillies Fan might be underage, really underage. I guess Miller Lite is really aiming young for their audience. I am pretty sure his dad looked at him, saw the beer, then looked back at the game like nothing was wrong. Oh well, it's not like beer is bad for toddlers? Oh wait, it is?
   </p>
 
   <p>

@@ -22,7 +22,7 @@ tags:
   </p>
 
   <p>
-    The most annoying Yankee Fan, Michael LaPayower submitted this video to be the  <a href="http://www.myyesnetwork.com/fanoftheyear/go/video/view?vid_id=1273268">Chevy Fan of the Year</a>.  This song is already fucking killing me, and this version just makes it worse.  Youtube &#8220;California Gurls&#8221; with any state, and you will find a version.  After today you can probably search it with any team as well.
+    The most annoying Yankee Fan, Michael LaPayower submitted this video to be the  <a href="http://www.myyesnetwork.com/fanoftheyear/go/video/view?vid_id=1273268">Chevy Fan of the Year</a>.  This song is already fucking killing me, and this version just makes it worse.  Youtube "California Gurls" with any state, and you will find a version.  After today you can probably search it with any team as well.
   </p>
 
   <p>

@@ -29,7 +29,7 @@ tags:
 
 <div class="entry">
   <p>
-    Cris Carter delivered a stern speech to the NFL Rookies on the last day of the Rookie Symposium. He said Pacman and Burress played the 'It won't happen to me&#8221; card. If anyone knows about <a href="http://www.michaelshouse.com/cocaine-addiction">battling addiction</a> and how it can ruin your career it is Cris Carter. He was cut from the Philadelphia Eagles in 1989 because of his cocaine addiction and he credits from coach Buddy Ryan with turning his life around.
+    Cris Carter delivered a stern speech to the NFL Rookies on the last day of the Rookie Symposium. He said Pacman and Burress played the 'It won't happen to me" card. If anyone knows about <a href="http://www.michaelshouse.com/cocaine-addiction">battling addiction</a> and how it can ruin your career it is Cris Carter. He was cut from the Philadelphia Eagles in 1989 because of his cocaine addiction and he credits from coach Buddy Ryan with turning his life around.
   </p>
 
   <p>

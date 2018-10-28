@@ -17,7 +17,7 @@ tags:
 
 <div class="entry">
   <p>
-    Chris Kluwe is always well spoken and has something thought provoking to say. In the case the owners and players can't get a deal done, he has created a video parody based on a scene from the movie &#8220;Downfall&#8221;. If you haven't seen the movie before you should really see it. It's great.
+    Chris Kluwe is always well spoken and has something thought provoking to say. In the case the owners and players can't get a deal done, he has created a video parody based on a scene from the movie "Downfall". If you haven't seen the movie before you should really see it. It's great.
   </p>
 
   <p>

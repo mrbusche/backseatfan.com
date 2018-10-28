@@ -31,7 +31,7 @@ tags:
   </p>
 
   <p>
-    &#8220;ESPN's commitment to 3-D is a win for fans and our business partners,&#8221; Bodenheimer said in a statement. &#8220;ESPN 3D marries great content with new technology to enhance the fan's viewing experience and puts ESPN at the forefront of the next big advance for TV viewing.&#8221;
+    "ESPN's commitment to 3-D is a win for fans and our business partners," Bodenheimer said in a statement. "ESPN 3D marries great content with new technology to enhance the fan's viewing experience and puts ESPN at the forefront of the next big advance for TV viewing."
   </p>
 
   <p>

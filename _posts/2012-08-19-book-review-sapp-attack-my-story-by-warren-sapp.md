@@ -20,7 +20,7 @@ tags:
 
 <div class="entry">
   <p>
-    First a big thanks to Thomas Dunne Books for setting us up with an advance reading copy and giving us the opportunity to read Sapp Attack by Warren Sapp and David Fisher. The cover of the book really says it all &#8220;Big Man, Big Mouth, Big Laughs&#8221; Warren Sapp was definitely a great football player and most likely a future hall of famer, but I think most non football fans have heard of Warren because of his &#8220;big mouth&#8221;
+    First a big thanks to Thomas Dunne Books for setting us up with an advance reading copy and giving us the opportunity to read Sapp Attack by Warren Sapp and David Fisher. The cover of the book really says it all "Big Man, Big Mouth, Big Laughs" Warren Sapp was definitely a great football player and most likely a future hall of famer, but I think most non football fans have heard of Warren because of his "big mouth"
   </p>
 
   <p>
@@ -32,7 +32,7 @@ tags:
   </p>
 
   <p>
-    Anyone who has seen Tony Dungy on TV or read any of his books knows that Dungy is a strong Christian who seems like a great guy, Warren felt no different about him. At one point in the book he says “I’d take a bullet for Tony Dungy, but I wouldn’t take a paper cut for Wyche”, referring to Sam Wyche who was the Buccaneers coach during his rookie year. Like many other football fans Warren also acknowledged that Dungy had a huge part in the Buccaneers Super Bowl win in 2003, saying, &#8221;I always said that Tony Dungy put the damn cake in the oven, and then Jon Gruden came in and put the icing on it. Of course, Sam Wyche couldn't even get the mix out of the box.&#8221;
+    Anyone who has seen Tony Dungy on TV or read any of his books knows that Dungy is a strong Christian who seems like a great guy, Warren felt no different about him. At one point in the book he says “I’d take a bullet for Tony Dungy, but I wouldn’t take a paper cut for Wyche”, referring to Sam Wyche who was the Buccaneers coach during his rookie year. Like many other football fans Warren also acknowledged that Dungy had a huge part in the Buccaneers Super Bowl win in 2003, saying, "I always said that Tony Dungy put the damn cake in the oven, and then Jon Gruden came in and put the icing on it. Of course, Sam Wyche couldn't even get the mix out of the box."
   </p>
 
   <p>

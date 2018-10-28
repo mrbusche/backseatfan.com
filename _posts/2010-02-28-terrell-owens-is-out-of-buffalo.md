@@ -25,11 +25,11 @@ tags:
 
   <blockquote>
     <p>
-      &#8220;I would like to thank the great fans in Buffalo, Ralph Wilson & the Bills organization for all their supports this past season,&#8221; Owens said on Twitter.
+      "I would like to thank the great fans in Buffalo, Ralph Wilson & the Bills organization for all their supports this past season," Owens said on Twitter.
     </p>
   </blockquote>
 
   <p>
-    I think TO still has something left in his tank. It is just a matter of finding a place for him to go. Bengals and the Ravens might be interested. My hope is for the Bengals, because he told Chad OchoCinco that he would change his name to Terrell Ocho Uno if he was on the Bengals. That would be the best thing ever. But then again, two &#8220;diva&#8221; WRs on one team would be a coaches nightmare.
+    I think TO still has something left in his tank. It is just a matter of finding a place for him to go. Bengals and the Ravens might be interested. My hope is for the Bengals, because he told Chad OchoCinco that he would change his name to Terrell Ocho Uno if he was on the Bengals. That would be the best thing ever. But then again, two "diva" WRs on one team would be a coaches nightmare.
   </p>
 </div>

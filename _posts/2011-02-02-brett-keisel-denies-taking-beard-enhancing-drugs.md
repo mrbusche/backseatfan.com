@@ -20,11 +20,11 @@ tags:
   </p>
 
   <p>
-    &#8220;There's not a lot of jobs in America where you can look like this.&#8221;<br />
+    "There's not a lot of jobs in America where you can look like this."<br />
   </p>
 
   <p>
-    Deion asks Brett what the nickname is for his beard. &#8220;Da beard&#8221;<br />
+    Deion asks Brett what the nickname is for his beard. "Da beard"<br />
   </p>
 
   <p>

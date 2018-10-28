@@ -207,7 +207,7 @@ tags:
   </div>
 
   <div id="_mcePaste">
-    47. Milwaukee Bucks - Keith &#8220;Tiny&#8221; Gallon (F - Oklahoma)
+    47. Milwaukee Bucks - Keith "Tiny" Gallon (F - Oklahoma)
   </div>
 
   <div id="_mcePaste">

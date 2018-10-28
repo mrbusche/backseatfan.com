@@ -75,6 +75,6 @@ tags:
   </p>
 
   <p>
-    <strong>Joan Becker: </strong><em>“When I heard them say, ‘Pray for the Becker family’&#8221; or ‘Don’t forget to pray for the Becker family,’ I knew in my heart right then, I’m like, ‘Okay, God, it’s gonna be okay.’ If we would have lost their friendship and their support, I don’t think I could stay living in this community. I know I couldn’t. But they set the tone right there and if people weren’t sure quite how they were gonna respond, I think that made it okay for everybody else. ‘Okay, if they can do this, we can do this. You know we may have some-we don’t understand what’s going on here but, by golly, if the Thomas family can step up and support the Beckers, we can do this too.’&#8221;</em>
+    <strong>Joan Becker: </strong><em>“When I heard them say, ‘Pray for the Becker family’" or ‘Don’t forget to pray for the Becker family,’ I knew in my heart right then, I’m like, ‘Okay, God, it’s gonna be okay.’ If we would have lost their friendship and their support, I don’t think I could stay living in this community. I know I couldn’t. But they set the tone right there and if people weren’t sure quite how they were gonna respond, I think that made it okay for everybody else. ‘Okay, if they can do this, we can do this. You know we may have some-we don’t understand what’s going on here but, by golly, if the Thomas family can step up and support the Beckers, we can do this too.’"</em>
   </p>
 </div>

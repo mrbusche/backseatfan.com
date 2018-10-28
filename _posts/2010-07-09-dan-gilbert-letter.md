@@ -19,11 +19,11 @@ tags:
 
 <div class="entry">
   <p>
-    Dan Gilbert's Letter to the Fans is a kind of like this&#8230;.
+    Dan Gilbert's Letter to the Fans is a kind of like this?.
   </p>
 
   <p>
-    Have you ever had someone at work piss you off? And you type up an email bitching them out? Then you think&#8230; Wow, I should wait a while and reread this before i send it&#8230;
+    Have you ever had someone at work piss you off? And you type up an email bitching them out? Then you think? Wow, I should wait a while and reread this before i send it?
   </p>
 
   <p>
@@ -44,7 +44,7 @@ tags:
     </p>
 
     <p>
-      &#8220;I PERSONALLY GUARANTEE THAT THE CLEVELAND CAVALIERS WILL WIN AN NBA CHAMPIONSHIP BEFORE THE SELF-TITLED FORMER ‘KING’ WINS ONE&#8221;
+      "I PERSONALLY GUARANTEE THAT THE CLEVELAND CAVALIERS WILL WIN AN NBA CHAMPIONSHIP BEFORE THE SELF-TITLED FORMER ‘KING’ WINS ONE"
     </p>
 
     <p>

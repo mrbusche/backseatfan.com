@@ -24,12 +24,12 @@ tags:
       </p>
 
       <p style="background-color: #ffffff; padding: 4px; margin-top: 4px; margin-bottom: 0px; font-family: Arial, Helvetica, sans-serif; font-size: 12px;">
-        <strong><a href="http://www.southparkstudios.com/full-episodes/s14e12-mysterion-rises">Mysterion Rises</a></strong><br /> Tags: <a style="display: block; position: relative; top: -1.33em; float: right; font-weight: bold; color: #ffcc00; text-decoration: none;" href="http://www.southparkstudios.com/">SOUTH<br /> PARK</a><a href="http://www.southparkstudios.com/guide/characters/eric-cartman">Eric Cartman</a>,<a href="http://www.southparkstudios.com/guide/characters/mysterion">Mysterion</a>,<a href="http://www.southparkstudios.com/guide/episodes/s14e12-mysterion-rises">more&#8230;</a>
+        <strong><a href="http://www.southparkstudios.com/full-episodes/s14e12-mysterion-rises">Mysterion Rises</a></strong><br /> Tags: <a style="display: block; position: relative; top: -1.33em; float: right; font-weight: bold; color: #ffcc00; text-decoration: none;" href="http://www.southparkstudios.com/">SOUTH<br /> PARK</a><a href="http://www.southparkstudios.com/guide/characters/eric-cartman">Eric Cartman</a>,<a href="http://www.southparkstudios.com/guide/characters/mysterion">Mysterion</a>,<a href="http://www.southparkstudios.com/guide/episodes/s14e12-mysterion-rises">more?</a>
       </p>
     </div>
   </div>
 
   <p>
-    South Park spoofs LeBron James with this &#8220;What should I do?&#8221; BP commercial. South Park is on a role with these sports references. Last week they referenced Brett Favre and his incident with a camera.
+    South Park spoofs LeBron James with this "What should I do?" BP commercial. South Park is on a role with these sports references. Last week they referenced Brett Favre and his incident with a camera.
   </p>
 </div>

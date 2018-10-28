@@ -17,7 +17,7 @@ tags:
 
 <div class="entry">
   <p>
-    NEW YORK &#8212; Mark McGwire finally came clean Monday, admitting he used steroids when he broke baseball's home run record in 1998.
+    NEW YORK - Mark McGwire finally came clean Monday, admitting he used steroids when he broke baseball's home run record in 1998.
   </p>
 
   <p>
@@ -25,7 +25,7 @@ tags:
   </p>
 
   <p>
-    &#8220;I wish I had never touched steroids,&#8221; McGwire said in a statement. &#8220;It was foolish and it was a mistake. I truly apologize. Looking back, I wish I had never played during the steroid era.&#8221;
+    "I wish I had never touched steroids," McGwire said in a statement. "It was foolish and it was a mistake. I truly apologize. Looking back, I wish I had never played during the steroid era."
   </p><figure id="attachment_3609" style="width: 400px" class="wp-caption aligncenter">
 
   <a href="/images/2010/01/markmcgwire.jpg"><img class="size-full wp-image-3609" title="markmcgwire" src="/images/2010/01/markmcgwire.jpg" alt="markmcgwire" width="400" height="338" srcset="/images/2010/01/markmcgwire.jpg 400w, /images/2010/01/markmcgwire-300x253.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" /></a><figcaption class="wp-caption-text">I think we all knew it, I am more shocked he admitted to it.</figcaption></figure>
@@ -40,7 +40,7 @@ tags:
     </p>
 
     <p>
-      &#8220;I never knew when, but I always knew this day would come,&#8221; McGwire said. &#8220;It's time for me to talk about the past and to confirm what people have suspected.&#8221;
+      "I never knew when, but I always knew this day would come," McGwire said. "It's time for me to talk about the past and to confirm what people have suspected."
     </p>
 
     <p>
@@ -56,15 +56,15 @@ tags:
     </p>
 
     <p>
-      &#8220;I'm sure people will wonder if I could have hit all those home runs had I never taken steroids,&#8221; McGwire said. &#8220;I had good years when I didn't take any, and I had bad years when I didn't take any. I had good years when I took steroids, and I had bad years when I took steroids. But no matter what, I shouldn't have done it and for that I'm truly sorry.&#8221;
+      "I'm sure people will wonder if I could have hit all those home runs had I never taken steroids," McGwire said. "I had good years when I didn't take any, and I had bad years when I didn't take any. I had good years when I took steroids, and I had bad years when I took steroids. But no matter what, I shouldn't have done it and for that I'm truly sorry."
     </p>
 
     <p>
-      Big Mac's reputation has been in tatters since March 17, 2005, when he refused to answer questions at a Congressional hearing. Instead, he repeatedly said &#8220;I'm not here to talk about the past&#8221; when asked whether he took illegal steroids when he hit a then-record 70 home runs in 1998 or at any other time.
+      Big Mac's reputation has been in tatters since March 17, 2005, when he refused to answer questions at a Congressional hearing. Instead, he repeatedly said "I'm not here to talk about the past" when asked whether he took illegal steroids when he hit a then-record 70 home runs in 1998 or at any other time.
     </p>
 
     <p>
-      &#8220;After all this time, I want to come clean,&#8221; he said. &#8220;I was not in a position to do that five years ago in my congressional testimony, but now I feel an obligation to discuss this and to answer questions about it. I'll do that, and then I just want to help my team.&#8221;
+      "After all this time, I want to come clean," he said. "I was not in a position to do that five years ago in my congressional testimony, but now I feel an obligation to discuss this and to answer questions about it. I'll do that, and then I just want to help my team."
     </p>
 
     <p>
@@ -76,7 +76,7 @@ tags:
     </p>
 
     <p>
-      &#8220;I remember trying steroids very briefly in the 1989/1990 offseason and then after I was injured in 1993, I used steroids again,&#8221; McGwire said in his statement. &#8220;I used them on occasion throughout the '90s, including during the 1998 season.&#8221;
+      "I remember trying steroids very briefly in the 1989/1990 offseason and then after I was injured in 1993, I used steroids again," McGwire said in his statement. "I used them on occasion throughout the '90s, including during the 1998 season."
     </p>
 
     <p>
@@ -84,7 +84,7 @@ tags:
     </p>
 
     <p>
-      &#8220;During the mid-'90s, I went on the DL seven times and missed 228 games over five years,&#8221; McGwire said in the statement. &#8220;I experienced a lot of injuries, including a ribcage strain, a torn left heel muscle, a stress fracture of the left heel, and a torn right heel muscle. It was definitely a miserable bunch of years, and I told myself that steroids could help me recover faster. I thought they would help me heal and prevent injuries, too.&#8221;
+      "During the mid-'90s, I went on the DL seven times and missed 228 games over five years," McGwire said in the statement. "I experienced a lot of injuries, including a ribcage strain, a torn left heel muscle, a stress fracture of the left heel, and a torn right heel muscle. It was definitely a miserable bunch of years, and I told myself that steroids could help me recover faster. I thought they would help me heal and prevent injuries, too."
     </p>
 
     <p>
@@ -92,7 +92,7 @@ tags:
     </p>
 
     <p>
-      &#8220;Baseball is really different now &#8212; it's been cleaned up,&#8221; McGwire said. &#8220;The commissioner and the players' association implemented testing and they cracked down, and I'm glad they did.&#8221;
+      "Baseball is really different now - it's been cleaned up," McGwire said. "The commissioner and the players' association implemented testing and they cracked down, and I'm glad they did."
     </p>
 
     <p style="text-align: center;">

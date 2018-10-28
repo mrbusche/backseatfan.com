@@ -24,7 +24,7 @@ categories:
   </p>
 
   <p style="margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; vertical-align: baseline; background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: transparent; line-height: 17px; color: #333333; background-position: initial initial; padding: 0px; border: 0px initial initial;">
-    Michael Adams, University of Georgia president and the chair of the NCAA executive committee, said in a statement. &#8220;Myles Brand was a dear friend and a great academic leader. He was a tireless advocate for the student-athlete, indeed, he worked to ensure that the student was first in the student-athlete model. He will be greatly missed.&#8221;
+    Michael Adams, University of Georgia president and the chair of the NCAA executive committee, said in a statement. "Myles Brand was a dear friend and a great academic leader. He was a tireless advocate for the student-athlete, indeed, he worked to ensure that the student was first in the student-athlete model. He will be greatly missed."
   </p>
 
   <p style="margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; vertical-align: baseline; background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: transparent; line-height: 17px; color: #333333; background-position: initial initial; padding: 0px; border: 0px initial initial;">

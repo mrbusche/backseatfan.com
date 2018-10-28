@@ -20,7 +20,7 @@ tags:
 
 <div class="entry">
   <p>
-    NCAA Football 11 Team Rankings are out, it is the closest thing we have until college football season.  We can just grasp on to glimmers of hope that we can wait that long&#8230;
+    NCAA Football 11 Team Rankings are out, it is the closest thing we have until college football season.  We can just grasp on to glimmers of hope that we can wait that long?
   </p>
 
   <p>

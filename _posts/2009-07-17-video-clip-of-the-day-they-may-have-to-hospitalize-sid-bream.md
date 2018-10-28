@@ -17,7 +17,7 @@ categories:
   </p>
 
   <p>
-    &#8220;A lotta room in right-center, if he hits one there we can dance in the streets. The 2-1. Swung, line drive left field! One run is in! Here comes Bream! Here's the throw to the plate! He is&#8230;safe! Braves win! Braves win! Braves win! Braves win!&#8230;Braves win! They may have to hospitalize Sid Bream; he's down at the bottom of a huge pile at the plate. They help him to his feet. Frank Cabrera got the game winner! The Atlanta Braves are National League champions again! This crowd is going berserk, listen!&#8221;
+    "A lotta room in right-center, if he hits one there we can dance in the streets. The 2-1. Swung, line drive left field! One run is in! Here comes Bream! Here's the throw to the plate! He is?safe! Braves win! Braves win! Braves win! Braves win!?Braves win! They may have to hospitalize Sid Bream; he's down at the bottom of a huge pile at the plate. They help him to his feet. Frank Cabrera got the game winner! The Atlanta Braves are National League champions again! This crowd is going berserk, listen!"
   </p>
 
   <p>

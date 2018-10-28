@@ -40,15 +40,15 @@ tags:
   </p>
 
   <p>
-    Paul Allen - &#8220;Brett Favre goes back to pass he pumps, now he fires over the middle. Intercepted, I can't believe what I'm seeing right now. It was intercepted by Tracy Porter, near side to the 40 and John Sullivan runs him down at the 47 yard line. You've got to be kidding me, I can't believe what I just saw.&#8221;
+    Paul Allen - "Brett Favre goes back to pass he pumps, now he fires over the middle. Intercepted, I can't believe what I'm seeing right now. It was intercepted by Tracy Porter, near side to the 40 and John Sullivan runs him down at the 47 yard line. You've got to be kidding me, I can't believe what I just saw."
   </p>
 
   <p>
-    Other announcer - &#8220;Looking at that play he should have just held on to it Paul, he should've. He could've easily have gotten 5 or 6 yards if he would have just pulled that thing down and dove foreward.&#8221;
+    Other announcer - "Looking at that play he should have just held on to it Paul, he should've. He could've easily have gotten 5 or 6 yards if he would have just pulled that thing down and dove foreward."
   </p>
 
   <p>
-    Paul Allen - &#8220;But why do you even ponder passing, I mean you can take a knee and try a 56 yard field goal. This is not Detroit man! This is the Super Bowl.&#8221;
+    Paul Allen - "But why do you even ponder passing, I mean you can take a knee and try a 56 yard field goal. This is not Detroit man! This is the Super Bowl."
   </p>
 
   <p>

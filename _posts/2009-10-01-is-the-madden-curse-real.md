@@ -59,7 +59,7 @@ tags:
               Polamalu sprained his MCL in the first game vs Tennessee. He has missed two games so far, and the Steelers Defense hasn't been the same without him.<br /> Larry Fitzgerald has yet to record a 100 yard game. The Cardinals don't look the same as they did last year. Does Warner looking old count for the Fitzgerald curse?</p>
 
               <p>
-                Both teams are 1-2 when I wrote this, I'll update it eventually, when Larry Fitzgerald is injured, due to the Madden Curse&#8230;</td> </tr>
+                Both teams are 1-2 when I wrote this, I'll update it eventually, when Larry Fitzgerald is injured, due to the Madden Curse?</td> </tr>
 
                 <tr height="13">
                   <td width="99" height="13">
@@ -245,7 +245,7 @@ tags:
                                                                                   </p>
 
                                                                                   <p>
-                                                                                    Beware of the Madden Curse, it is real&#8230; (dun dun dunnnnn&#8230;.)
+                                                                                    Beware of the Madden Curse, it is real? (dun dun dunnnnn?.)
                                                                                   </p>
 
                                                                                   <p>

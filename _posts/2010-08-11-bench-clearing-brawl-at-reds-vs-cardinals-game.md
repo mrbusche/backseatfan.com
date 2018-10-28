@@ -26,7 +26,7 @@ tags:
 
   <blockquote>
     <p>
-      &#8220;I'd play against these guys with one leg. We have to beat these guys,&#8221; Phillips told the DDN. &#8220;I hate the Cardinals. All they do is [complain] and moan about everything, all of them. &#8230; I really hate the Cardinals. Compared to the Cardinals, I love the Chicago Cubs. Let me make this clear: I hate the Cardinals.&#8221;
+      "I'd play against these guys with one leg. We have to beat these guys," Phillips told the DDN. "I hate the Cardinals. All they do is [complain] and moan about everything, all of them. ? I really hate the Cardinals. Compared to the Cardinals, I love the Chicago Cubs. Let me make this clear: I hate the Cardinals."
     </p>
   </blockquote>
 

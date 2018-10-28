@@ -21,7 +21,7 @@ tags:
 
 <div class="entry">
   <p>
-    There isn't much else to say, it looks like Brunell starts to say &#8220;Did you wipe?&#8221; before the camera cuts away
+    There isn't much else to say, it looks like Brunell starts to say "Did you wipe?" before the camera cuts away
   </p>
 
   <p>

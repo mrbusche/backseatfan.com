@@ -22,7 +22,7 @@ tags:
   </p>
 
   <p>
-    From <a href="http://twitter.com/ddockett">@ddockett</a><br /> &#8220;DEAR, COMMISIONERWould u please consider a new NFL franchise maybe, in L.AAnother in GA Or maybe Vegas. That would be a good look. Thanks&#8221;
+    From <a href="http://twitter.com/ddockett">@ddockett</a><br /> "DEAR, COMMISIONERWould u please consider a new NFL franchise maybe, in L.AAnother in GA Or maybe Vegas. That would be a good look. Thanks"
   </p>
 
   <p>

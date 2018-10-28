@@ -23,7 +23,7 @@ tags:
   </p>
 
   <p>
-    MVP<br /> 1. Albert Pujols, St. Louis Cardinals. The guy is flirting with the triple crown and is almost putting himself in the &#8220;walk him every time he's up&#8221; category. Pujols has 4 grand slams so far this season and 10 in his career, both Cardinals records. To put it mildly, Pujols is a monster.
+    MVP<br /> 1. Albert Pujols, St. Louis Cardinals. The guy is flirting with the triple crown and is almost putting himself in the "walk him every time he's up" category. Pujols has 4 grand slams so far this season and 10 in his career, both Cardinals records. To put it mildly, Pujols is a monster.
   </p>
 
   <p>

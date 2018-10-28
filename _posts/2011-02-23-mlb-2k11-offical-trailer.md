@@ -21,7 +21,7 @@ tags:
 
 <div class="entry">
   <p>
-    MLB 2K11 is almost here&#8230; The graphics are looking better than ever, and I am sure the game play is awesome.
+    MLB 2K11 is almost here? The graphics are looking better than ever, and I am sure the game play is awesome.
   </p>
 
   <p>

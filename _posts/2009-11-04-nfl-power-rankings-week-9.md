@@ -203,7 +203,7 @@ categories:
       </td>
 
       <td style="color: #000000; font-size: 11px; cursor: text; margin: 8px;" width="405">
-        <span style="font-size: small;"><span style="font-family: arial, helvetica, sans-serif;">Eli will never say it but his plantar fascias is bothering him&#8230; a lot.<br /> </span></span>
+        <span style="font-size: small;"><span style="font-family: arial, helvetica, sans-serif;">Eli will never say it but his plantar fascias is bothering him? a lot.<br /> </span></span>
       </td>
     </tr>
 
@@ -469,7 +469,7 @@ categories:
       </td>
 
       <td style="color: #000000; font-size: 11px; cursor: text; margin: 8px;" width="405">
-        <span style="font-size: small;"><span style="font-family: arial, helvetica, sans-serif;">If they start Josh Freeman from here on out they won't win a game. With the first pick in the 2010 NFL Draft&#8230;..<br /> </span></span>
+        <span style="font-size: small;"><span style="font-family: arial, helvetica, sans-serif;">If they start Josh Freeman from here on out they won't win a game. With the first pick in the 2010 NFL Draft?..<br /> </span></span>
       </td>
     </tr>
   </table>

@@ -21,6 +21,6 @@ tags:
   </p>
 
   <p>
-    Steve Nash Likes to Touch his Teammates. There has been a study done at UC-Berkeley that says &#8220;touchy teams&#8221; are more successful in the NBA. So the more touches equals more success, right? The Lakers and the Celtics are among the Touchiest teams. But I think Steve Nash and the Suns are up near the top of the list. Just make a guess at how many times Nash touches his teammates during a game.
+    Steve Nash Likes to Touch his Teammates. There has been a study done at UC-Berkeley that says "touchy teams" are more successful in the NBA. So the more touches equals more success, right? The Lakers and the Celtics are among the Touchiest teams. But I think Steve Nash and the Suns are up near the top of the list. Just make a guess at how many times Nash touches his teammates during a game.
   </p>
 </div>

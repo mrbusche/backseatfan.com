@@ -25,15 +25,15 @@ tags:
   </p>
 
   <p>
-    &#8220;The chance to win was always a big point for me,&#8221; Holliday said on the Doug Gottlieb show. He also added &#8220;Albert is the best player in the history of baseball in my mind.&#8221;
+    "The chance to win was always a big point for me," Holliday said on the Doug Gottlieb show. He also added "Albert is the best player in the history of baseball in my mind."
   </p>
 
   <p>
-    &#8220;Well, I think first of all going into free agency I had in the back of my mind that I really liked my time in St. Louis and felt it was a good fit for me and my family.&#8221; Hard to believe their is a more diehard baseball town outside of New York.
+    "Well, I think first of all going into free agency I had in the back of my mind that I really liked my time in St. Louis and felt it was a good fit for me and my family." Hard to believe their is a more diehard baseball town outside of New York.
   </p>
 
   <p>
-    He added: &#8220;At the end of the day we decided that was best for us.&#8221;
+    He added: "At the end of the day we decided that was best for us."
   </p>
 
   <p>
@@ -45,6 +45,6 @@ tags:
   </p>
 
   <p>
-    Anyone who wants to say, &#8220;that's a lot of money for a guy who can't catch a fly ball.&#8221; Shut your mouth, Holliday is a good defensive outfielder and he won't let that catch define his career.
+    Anyone who wants to say, "that's a lot of money for a guy who can't catch a fly ball." Shut your mouth, Holliday is a good defensive outfielder and he won't let that catch define his career.
   </p>
 </div>

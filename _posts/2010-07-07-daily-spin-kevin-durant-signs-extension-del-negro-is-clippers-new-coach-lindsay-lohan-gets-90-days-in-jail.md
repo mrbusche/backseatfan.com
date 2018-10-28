@@ -25,7 +25,7 @@ tags:
 
 <div class="entry">
   <p>
-    <em>In this edition of the Daily Spin&#8230;  A guy goes crazy over a double rainbow, Lindsay Lohan is going to jail,  Former Seton Hall coach gets busted for stealing a man purse.  Satchel!  Watch the double rainbow video for sure.<br /> </em>
+    <em>In this edition of the Daily Spin?  A guy goes crazy over a double rainbow, Lindsay Lohan is going to jail,  Former Seton Hall coach gets busted for stealing a man purse.  Satchel!  Watch the double rainbow video for sure.<br /> </em>
   </p>
 
   <p>
@@ -33,23 +33,23 @@ tags:
   </p>
 
   <p>
-    Former Seton hall coach Bobby <a href="http://www.nypost.com/p/sports/college/basketball/he_steal_at_it_4sNgOR3XJlQsoiancpyY6K">Gonzalez was busted for stealing a man purse</a>&#8230; It's a satchel damnit! Looks like this guys coaching career is over.  All because of a purse.  Satchel!   [via <a href="http://www.nypost.com/p/sports/college/basketball/he_steal_at_it_4sNgOR3XJlQsoiancpyY6K">New York Post</a>]
+    Former Seton hall coach Bobby <a href="http://www.nypost.com/p/sports/college/basketball/he_steal_at_it_4sNgOR3XJlQsoiancpyY6K">Gonzalez was busted for stealing a man purse</a>? It's a satchel damnit! Looks like this guys coaching career is over.  All because of a purse.  Satchel!   [via <a href="http://www.nypost.com/p/sports/college/basketball/he_steal_at_it_4sNgOR3XJlQsoiancpyY6K">New York Post</a>]
   </p>
 
   <p>
-    <a href="http://www.sportingnews.com/blog/The_Baseline/entry/view/70728/kevin_durant_agrees_to_five-year_extension_with_the_thunder">Kevin Durant quietly reaches a 5 year extension</a> with the OKC Thunder&#8230; The Thunder are going to be good,  [via<a href="http://www.sportingnews.com/blog/The_Baseline/entry/view/70728/kevin_durant_agrees_to_five-year_extension_with_the_thunder"> Sporting News</a>]
+    <a href="http://www.sportingnews.com/blog/The_Baseline/entry/view/70728/kevin_durant_agrees_to_five-year_extension_with_the_thunder">Kevin Durant quietly reaches a 5 year extension</a> with the OKC Thunder? The Thunder are going to be good,  [via<a href="http://www.sportingnews.com/blog/The_Baseline/entry/view/70728/kevin_durant_agrees_to_five-year_extension_with_the_thunder"> Sporting News</a>]
   </p>
 
   <p>
-    <a href="http://www.nydailynews.com/blogs/jets/2010/07/rb-shonn-greene-doesnt-plan-on.html">Shonn Greene doesn't run out of bounds</a>&#8230; Greene was a beast when he played for the Hawkeyes, he is going to go crazy this year behind the Jets O Line. [via <a href="http://www.nydailynews.com/blogs/jets/2010/07/rb-shonn-greene-doesnt-plan-on.html">NY Daily News</a>]
+    <a href="http://www.nydailynews.com/blogs/jets/2010/07/rb-shonn-greene-doesnt-plan-on.html">Shonn Greene doesn't run out of bounds</a>? Greene was a beast when he played for the Hawkeyes, he is going to go crazy this year behind the Jets O Line. [via <a href="http://www.nydailynews.com/blogs/jets/2010/07/rb-shonn-greene-doesnt-plan-on.html">NY Daily News</a>]
   </p>
 
   <p>
-    <a href="http://www.latimes.com/sports/la-sp-clippers-20100707,0,3515723.story">Vinny Del Negro is the new LA Clippers coach</a>&#8230;  When are they going to hire Bill Simmons as their GM? [via <a href="http://www.latimes.com/sports/la-sp-clippers-20100707,0,3515723.story">LA Times</a>]
+    <a href="http://www.latimes.com/sports/la-sp-clippers-20100707,0,3515723.story">Vinny Del Negro is the new LA Clippers coach</a>?  When are they going to hire Bill Simmons as their GM? [via <a href="http://www.latimes.com/sports/la-sp-clippers-20100707,0,3515723.story">LA Times</a>]
   </p>
 
   <p>
-    <a href="http://online.wsj.com/article/SB10001424052748704535004575349194158032512.html?mod=WSJ_0_0_WP_2506_RIGHTTopCarousel_1">Back up running backs</a> who averaged more the starters&#8230;  There were 5 in total last year, but 4/5 of the backups are going to be ahead of the former starter on the depth chart this year.  But this does give a fairly good case for the 2 headed monster. [via <a href="http://online.wsj.com/article/SB10001424052748704535004575349194158032512.html?mod=WSJ_0_0_WP_2506_RIGHTTopCarousel_1">WSJ</a>]
+    <a href="http://online.wsj.com/article/SB10001424052748704535004575349194158032512.html?mod=WSJ_0_0_WP_2506_RIGHTTopCarousel_1">Back up running backs</a> who averaged more the starters?  There were 5 in total last year, but 4/5 of the backups are going to be ahead of the former starter on the depth chart this year.  But this does give a fairly good case for the 2 headed monster. [via <a href="http://online.wsj.com/article/SB10001424052748704535004575349194158032512.html?mod=WSJ_0_0_WP_2506_RIGHTTopCarousel_1">WSJ</a>]
   </p>
 
   <p>

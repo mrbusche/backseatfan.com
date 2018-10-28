@@ -30,7 +30,7 @@ tags:
   </p>
 
   <p>
-    <strong>Buffalo Bills - </strong>Ryan Fitzpatrick will be getting the start over Trent Edwards. Bills head coach Chan Gailey said that he is &#8220;looking for a spark&#8221;. I don't know if this is the right move to make a spark. Statistically Edwards and Fitzpatrick are about the same. Edwards went to Standford, Fitzpatrick went to Harvard. So I think Gailey looked at that and said, 'I think Harvard is better, Lets go with that one'. He has made terrible coaching decisions so far, so this isn't really any different. The quarterbacks are about the same, Harvard is better, but don't expect the Bills to start winning anytime soon because of this.
+    <strong>Buffalo Bills - </strong>Ryan Fitzpatrick will be getting the start over Trent Edwards. Bills head coach Chan Gailey said that he is "looking for a spark". I don't know if this is the right move to make a spark. Statistically Edwards and Fitzpatrick are about the same. Edwards went to Standford, Fitzpatrick went to Harvard. So I think Gailey looked at that and said, 'I think Harvard is better, Lets go with that one'. He has made terrible coaching decisions so far, so this isn't really any different. The quarterbacks are about the same, Harvard is better, but don't expect the Bills to start winning anytime soon because of this.
   </p>
 
   <p>

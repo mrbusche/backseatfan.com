@@ -23,7 +23,7 @@ tags:
   </p>
 
   <p>
-    Jason Pierre Paul is a DE for South Florida and is estimated to go roughly Mid 1st Round in the 2010 NFL Draft. For someone who is 5 foot tall gymnast, 14 back flips in a row might be just &#8220;kind of cool&#8221;. But This is impressive, this guy is 6'6 ~260lbs, he is a beast.
+    Jason Pierre Paul is a DE for South Florida and is estimated to go roughly Mid 1st Round in the 2010 NFL Draft. For someone who is 5 foot tall gymnast, 14 back flips in a row might be just "kind of cool". But This is impressive, this guy is 6'6 ~260lbs, he is a beast.
   </p>
 
   <p>

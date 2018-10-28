@@ -30,7 +30,7 @@ tags:
   </p>
 
   <p>
-    I am sure the extra Million or so he got for holding was totally worth the PR hit and lack of respect from his teammates. Totally worth it&#8230; Just Kidding.
+    I am sure the extra Million or so he got for holding was totally worth the PR hit and lack of respect from his teammates. Totally worth it? Just Kidding.
   </p>
 
   <p>

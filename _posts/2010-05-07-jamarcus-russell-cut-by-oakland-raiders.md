@@ -37,7 +37,7 @@ tags:
   </p>
 
   <p>
-    <em>&#8220;He is a great player. Get over it and coach this team on the field. That is what you were hired to do. We can win with this team.&#8221;</em>
+    <em>"He is a great player. Get over it and coach this team on the field. That is what you were hired to do. We can win with this team."</em>
   </p>
 
   <p>

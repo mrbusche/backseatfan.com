@@ -25,10 +25,10 @@ tags:
   </p>
 
   <p>
-    Chances of Brett Favre buying a billboard and posting his <a href="https://backseatfan.com/index.php/2010/02/brett-favre-injury-pictures/">ankle picture</a> on it with a simple &#8220;<strong>No</strong>&#8220;? 1 in 10.
+    Chances of Brett Favre buying a billboard and posting his <a href="https://backseatfan.com/index.php/2010/02/brett-favre-injury-pictures/">ankle picture</a> on it with a simple "<strong>No</strong>"? 1 in 10.
   </p>
 
   <p>
-    The Vikings will be &#8220;Good&#8221; with Sage or Jackson. But they can't be &#8220;Great&#8221; without Favre or another top QB (McNabb??). One more year is all I am asking, then we can hand the reigns off to Childress' next prodigy.
+    The Vikings will be "Good" with Sage or Jackson. But they can't be "Great" without Favre or another top QB (McNabb??). One more year is all I am asking, then we can hand the reigns off to Childress' next prodigy.
   </p>
 </div>

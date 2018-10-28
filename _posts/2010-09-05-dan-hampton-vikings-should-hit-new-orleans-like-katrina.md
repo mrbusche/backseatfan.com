@@ -1,6 +1,6 @@
 ---
 id: 8435
-title: "Dan Hampton: Vikings should hit New Orleans &#8220;like Katrina&#8221;"
+title: "Dan Hampton: Vikings should hit New Orleans "like Katrina""
 date: 2010-09-05T11:22:20+00:00
 author: Matt B.
 layout: post
@@ -25,6 +25,6 @@ tags:
   </p>
 
   <p>
-    Hampton said, &#8220;If you watched that playoff game last year, the Vikings need to go down and hit that town like Katrina.&#8221; He put some extra emphasis on Katrina so it's hard to believe he was trying to say anything other than the obvious. If Hampton is invited back to next week's show I hope he opens it with an apology.<br />
+    Hampton said, "If you watched that playoff game last year, the Vikings need to go down and hit that town like Katrina." He put some extra emphasis on Katrina so it's hard to believe he was trying to say anything other than the obvious. If Hampton is invited back to next week's show I hope he opens it with an apology.<br />
   </p>
 </div>

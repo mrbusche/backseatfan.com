@@ -28,7 +28,7 @@ tags:
 
   <blockquote>
     <p>
-      Vincent Jackson's Agent Jonathan Feinsod: &#8220;Archie Manning had it right. They call (A.J. Smith) 'The Lord of No Rings' for a reason.&#8221;
+      Vincent Jackson's Agent Jonathan Feinsod: "Archie Manning had it right. They call (A.J. Smith) 'The Lord of No Rings' for a reason."
     </p>
   </blockquote>
 

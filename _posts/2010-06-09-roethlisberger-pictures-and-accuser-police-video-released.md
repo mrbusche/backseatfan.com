@@ -19,7 +19,7 @@ tags:
 
 <div class="entry">
   <p>
-    There are<a href="http://www.thesmokinggun.com/archive/years/2010/0609101bigben1.html"> quite a few pictures</a> of Ben &#8220;Big Douche&#8221; Roethlisberger that were released by <a href="http://www.thesmokinggun.com/archive/years/2010/0609101bigben1.html">The Smoking Gun</a> today.  It shows a highly intoxicated Ben along with &#8220;His Bitches&#8221;.  Also that Bar looks terrible.  who in their right mind would want to drink there?
+    There are<a href="http://www.thesmokinggun.com/archive/years/2010/0609101bigben1.html"> quite a few pictures</a> of Ben "Big Douche" Roethlisberger that were released by <a href="http://www.thesmokinggun.com/archive/years/2010/0609101bigben1.html">The Smoking Gun</a> today.  It shows a highly intoxicated Ben along with "His Bitches".  Also that Bar looks terrible.  who in their right mind would want to drink there?
   </p>
 
   <p>

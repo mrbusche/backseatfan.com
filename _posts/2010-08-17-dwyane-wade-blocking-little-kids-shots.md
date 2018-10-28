@@ -22,6 +22,6 @@ tags:
   </p>
 
   <p>
-    Here is a video of Dwyane Wade Blocking a Kids shots.  What is up with the Miami Heat?  They must really hate little kids.  First LeBron now Dwyane Wade.  Disappointing.  Pretty damn funny though. The video is way better than the &#8220;LeBron dunking on Kids&#8221;, my only complaint is he didn't finish with a dunk. But for all of you Miami haters, this can be another reason to hate Miami, or LeBron by association.  Your choice.
+    Here is a video of Dwyane Wade Blocking a Kids shots.  What is up with the Miami Heat?  They must really hate little kids.  First LeBron now Dwyane Wade.  Disappointing.  Pretty damn funny though. The video is way better than the "LeBron dunking on Kids", my only complaint is he didn't finish with a dunk. But for all of you Miami haters, this can be another reason to hate Miami, or LeBron by association.  Your choice.
   </p>
 </div>

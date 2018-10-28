@@ -12,7 +12,7 @@ categories:
 
 <div class="entry">
   <p>
-    The Brett Favre Watch is out, and rumors are starting up again. Jay Glazer of FOXSports.com has sparked new rumors of Brett Favre heading to the Minnesota Vikings. Jay Glazer said that he is &#8220;positively convinced&#8221; after visiting Minnesota that Favre will be joining the Vikings this season. An unnamed player from the Vikings said that it could be as soon as the third preseason game. <strong>NOTE: This is just a hunch by Glazer, aka guess, it is no way a done deal or written in stone.</strong>
+    The Brett Favre Watch is out, and rumors are starting up again. Jay Glazer of FOXSports.com has sparked new rumors of Brett Favre heading to the Minnesota Vikings. Jay Glazer said that he is "positively convinced" after visiting Minnesota that Favre will be joining the Vikings this season. An unnamed player from the Vikings said that it could be as soon as the third preseason game. <strong>NOTE: This is just a hunch by Glazer, aka guess, it is no way a done deal or written in stone.</strong>
   </p>
 
   <p>

@@ -23,7 +23,7 @@ tags:
   </p>
 
   <p>
-    Rumor has it when Chansi Stuckey heard the news he walked into Rex Ryan's office and said &#8220;Hey! what did I do?!&#8221;
+    Rumor has it when Chansi Stuckey heard the news he walked into Rex Ryan's office and said "Hey! what did I do?!"
   </p>
 
   <p>
@@ -51,6 +51,6 @@ tags:
   </p>
 
   <p>
-    The good news for the Browns is they play the Lions, Chiefs and Raiders this season so it is unlikely they will go winless, but it looks like the Browns have already given up on the season. With the first pick in the 2010 NFL draft&#8230;.
+    The good news for the Browns is they play the Lions, Chiefs and Raiders this season so it is unlikely they will go winless, but it looks like the Browns have already given up on the season. With the first pick in the 2010 NFL draft?.
   </p>
 </div>

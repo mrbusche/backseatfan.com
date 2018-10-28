@@ -21,11 +21,11 @@ tags:
   </p>
 
   <p>
-    When asked about the <a href="http://profootballtalk.nbcsports.com/2009/12/10/jamarcus-wont-consider-a-pay-cut/">possibility of reworking his contract</a>, JaMarcus said, &#8220;&#8221;Oh, no. That's over and done with. I don't even consider that as a part of it.&#8221; Russell admitted he was embarrassed by the benching but refused to give Gradkowski any credit for the team's success. JaMarcus said, &#8220;Now it's just all around. Guys are just making plays around him. In the Dallas game after you go out and win in Cincinnati there weren't plays really made the whole game, you know what I mean.&#8221;
+    When asked about the <a href="http://profootballtalk.nbcsports.com/2009/12/10/jamarcus-wont-consider-a-pay-cut/">possibility of reworking his contract</a>, JaMarcus said, ""Oh, no. That's over and done with. I don't even consider that as a part of it." Russell admitted he was embarrassed by the benching but refused to give Gradkowski any credit for the team's success. JaMarcus said, "Now it's just all around. Guys are just making plays around him. In the Dallas game after you go out and win in Cincinnati there weren't plays really made the whole game, you know what I mean."
   </p>
 
   <p>
-    When asked to grade his performance this year Russell said, &#8220;Uh, kind of hard because there was times where you try to get guys a chance to make plays and at the early part of the year, it wasn't happening. So the quarterback job, I say he looks for more help around from everybody because he can't do it himself. It wasn't so well, but at times it was. When we look at film, it don't be as bad as it seems on the field always.&#8221;
+    When asked to grade his performance this year Russell said, "Uh, kind of hard because there was times where you try to get guys a chance to make plays and at the early part of the year, it wasn't happening. So the quarterback job, I say he looks for more help around from everybody because he can't do it himself. It wasn't so well, but at times it was. When we look at film, it don't be as bad as it seems on the field always."
   </p>
 
   <p>
@@ -37,7 +37,7 @@ tags:
   </p>
 
   <p>
-    &#8220;A totally different JaMarcus. People going to have their opinion, and I really don't pay too much attention to that. I worry about JaMarcus and JaMarcus only.&#8221;
+    "A totally different JaMarcus. People going to have their opinion, and I really don't pay too much attention to that. I worry about JaMarcus and JaMarcus only."
   </p>
 
   <p>

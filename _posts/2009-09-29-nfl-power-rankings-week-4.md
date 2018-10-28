@@ -466,7 +466,7 @@ tags:
       </td>
 
       <td width="405">
-        <span style="font-size: small;"><span style="font-family: arial,helvetica,sans-serif;">With the first pick in the 2010 NFL Draft, the Cleveland Browns select&#8230;. Sam Bradford.<br /> </span></span>
+        <span style="font-size: small;"><span style="font-family: arial,helvetica,sans-serif;">With the first pick in the 2010 NFL Draft, the Cleveland Browns select?. Sam Bradford.<br /> </span></span>
       </td>
     </tr>
   </table>

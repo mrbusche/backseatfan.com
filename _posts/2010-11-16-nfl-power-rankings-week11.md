@@ -53,7 +53,7 @@ tags:
           </p>
 
           <p>
-            8. New York Giants (6-3) - I didn't expect that from the Giants&#8230;
+            8. New York Giants (6-3) - I didn't expect that from the Giants?
           </p>
 
           <p>
@@ -113,7 +113,7 @@ tags:
           </p>
 
           <p>
-            23. Houston Texans (4-5) - I keep on falling&#8230; in the rankings.
+            23. Houston Texans (4-5) - I keep on falling? in the rankings.
           </p>
 
           <p>

@@ -31,7 +31,7 @@ tags:
   </p>
 
   <p>
-    Hey, We're New York, The Greatest City in the World so&#8230; <strong>Who Cares!</strong> - <a href="http://www.nydailynews.com/sports/basketball/galleries/the_courting_of_king_james_the_hunt_for_lebron_james/the_courting_of_king_james_the_hunt_for_lebron_james.html">NY Daily News</a>
+    Hey, We're New York, The Greatest City in the World so? <strong>Who Cares!</strong> - <a href="http://www.nydailynews.com/sports/basketball/galleries/the_courting_of_king_james_the_hunt_for_lebron_james/the_courting_of_king_james_the_hunt_for_lebron_james.html">NY Daily News</a>
   </p>
 
   <p>

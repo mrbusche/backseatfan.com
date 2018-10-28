@@ -32,7 +32,7 @@ tags:
 
   <blockquote>
     <p>
-      &#8220;I like that,&#8221; coach Ken Whisenhunt said. &#8220;You're looking for those guys to develop that bond or that territorialism to protect their guy.&#8221;
+      "I like that," coach Ken Whisenhunt said. "You're looking for those guys to develop that bond or that territorialism to protect their guy."
     </p>
   </blockquote>
 

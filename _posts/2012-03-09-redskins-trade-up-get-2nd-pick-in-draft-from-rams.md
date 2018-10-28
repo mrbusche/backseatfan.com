@@ -32,6 +32,6 @@ tags:
   </p>
 
   <p>
-    March Madness has started early&#8230;
+    March Madness has started early?
   </p>
 </div>

@@ -20,11 +20,11 @@ categories:
   </p>
 
   <p>
-    &#8220;Favre is on currently on his way to Minneapolis and is expected to sign with the team this afternoon, the source said.
+    "Favre is on currently on his way to Minneapolis and is expected to sign with the team this afternoon, the source said.
   </p>
 
   <p>
-    WCCO-TV spoke with an official at the Hattiesburg, Miss., airport, who saw an airplane with the Vikings logo leave the airport Tuesday morning. The flight number for that plane has been blocked from tracking systems.&#8221;
+    WCCO-TV spoke with an official at the Hattiesburg, Miss., airport, who saw an airplane with the Vikings logo leave the airport Tuesday morning. The flight number for that plane has been blocked from tracking systems."
   </p>
 
   <p>

@@ -410,7 +410,7 @@ tags:
       </td>
 
       <td width="405">
-        <span style="font-size: small;">No O Coordinator? No Problem, right? Just throw bombs to T.O&#8230; Or maybe they have problems&#8230;<br /> </span>
+        <span style="font-size: small;">No O Coordinator? No Problem, right? Just throw bombs to T.O? Or maybe they have problems?<br /> </span>
       </td>
     </tr>
 
@@ -424,7 +424,7 @@ tags:
       </td>
 
       <td width="405">
-        <span style="font-size: small;">Marshall wants to be traded and hates practicing, but at least McDaniels has Kyle Orton running the show&#8230;</span>
+        <span style="font-size: small;">Marshall wants to be traded and hates practicing, but at least McDaniels has Kyle Orton running the show?</span>
       </td>
     </tr>
 
@@ -452,7 +452,7 @@ tags:
       </td>
 
       <td width="405">
-        <span style="font-size: small;">The Rams only stud is Steven Jackson, and he can not carry this team on his back. Or can he&#8230;.</span>
+        <span style="font-size: small;">The Rams only stud is Steven Jackson, and he can not carry this team on his back. Or can he?.</span>
       </td>
     </tr>
 
@@ -466,7 +466,7 @@ tags:
       </td>
 
       <td width="405">
-        <span style="font-size: small;">They don't get out of the 32 spot until they win a game in the regular season. They should win at least one&#8230;</span>
+        <span style="font-size: small;">They don't get out of the 32 spot until they win a game in the regular season. They should win at least one?</span>
       </td>
     </tr>
   </table>

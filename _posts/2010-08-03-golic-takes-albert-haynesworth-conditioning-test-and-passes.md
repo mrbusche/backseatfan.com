@@ -25,7 +25,7 @@ tags:
   </p>
 
   <p>
-    ESPN's Mike Golic ran the Haynesworth Test and &#8220;passed&#8221;. This is the same conditioning test that Albert Haynesworth couldn't pass for the Redskins. I heard rumors that the times were off during Golic's test so I thought I would test that theory. I have a timer (iPod touch), and a high speed internet connection, so there was no lag in the video.
+    ESPN's Mike Golic ran the Haynesworth Test and "passed". This is the same conditioning test that Albert Haynesworth couldn't pass for the Redskins. I heard rumors that the times were off during Golic's test so I thought I would test that theory. I have a timer (iPod touch), and a high speed internet connection, so there was no lag in the video.
   </p>
 
   <p>

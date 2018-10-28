@@ -22,6 +22,6 @@ tags:
   </p>
 
   <p>
-    Beecher Halladay was chosen to participate in the fan promotion, &#8220;steal third base&#8221; at Angel Stadium.  The 11 year old started to run, stumbled, and broke his arm.  Still ran all the way though, nice job.
+    Beecher Halladay was chosen to participate in the fan promotion, "steal third base" at Angel Stadium.  The 11 year old started to run, stumbled, and broke his arm.  Still ran all the way though, nice job.
   </p>
 </div>

@@ -29,7 +29,7 @@ tags:
 
   <blockquote>
     <p>
-      &#8220;You think I was laughing about something? I take this shit serious! Real serious! I put my heart and soul into this shit every single week!&#8221;
+      "You think I was laughing about something? I take this shit serious! Real serious! I put my heart and soul into this shit every single week!"
     </p>
   </blockquote>
 

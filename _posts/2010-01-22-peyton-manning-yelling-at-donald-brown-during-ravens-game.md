@@ -22,6 +22,6 @@ tags:
   </p>
 
   <p>
-    I wish I could spend a game in Peyton Mannings head to see how things look to him. Is the game that slow in his mind he has time to yell, &#8220;God, dammit, Donald!&#8221; during a play? This is why Peyton is one of the best ever.
+    I wish I could spend a game in Peyton Mannings head to see how things look to him. Is the game that slow in his mind he has time to yell, "God, dammit, Donald!" during a play? This is why Peyton is one of the best ever.
   </p>
 </div>

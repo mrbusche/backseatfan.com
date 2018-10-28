@@ -37,13 +37,13 @@ tags:
   </p>
 
   <p>
-    Blake just wanted a little love&#8230;
+    Blake just wanted a little love?
   </p>
 
   <p>
   </p>
 
   <p>
-    The best is the announcers are trying to comment on the ice going on his knee&#8230; and &#8220;OH no don't do that!&#8221;
+    The best is the announcers are trying to comment on the ice going on his knee? and "OH no don't do that!"
   </p>
 </div>

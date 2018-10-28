@@ -74,7 +74,7 @@ tags:
   </p>
 
   <p>
-    14. Sewanee &#8212; The University of the South
+    14. Sewanee - The University of the South
   </p>
 
   <p>
@@ -102,7 +102,7 @@ tags:
   </p>
 
   <p>
-    I am glad to see University of Iowa in the top 10. Although I didn't attend Iowa, I was there many weekends<a href="/images/2010/08/georgia.jpg"><br /> </a> that I don't really remember. Special thanks to everyone that let me sleep on their couches and floors . Sorry If I puked on those couches or floors&#8230;
+    I am glad to see University of Iowa in the top 10. Although I didn't attend Iowa, I was there many weekends<a href="/images/2010/08/georgia.jpg"><br /> </a> that I don't really remember. Special thanks to everyone that let me sleep on their couches and floors . Sorry If I puked on those couches or floors?
   </p>
 
   <p>

@@ -21,7 +21,7 @@ tags:
   </p>
 
   <p>
-    Lets take an early look at the BCS Computer Rankings, because we all know a season is determined within the first 4 weeks&#8230; Just kidding.
+    Lets take an early look at the BCS Computer Rankings, because we all know a season is determined within the first 4 weeks? Just kidding.
   </p>
 
   <p>

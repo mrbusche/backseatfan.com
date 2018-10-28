@@ -91,7 +91,7 @@ tags:
                                 October 18th</td> </tr> </tbody> </table>
 
                                 <p>
-                                  Since I don't think it is possible for two SEC teams to play in a National Title game it looks like it will be&#8230;.
+                                  Since I don't think it is possible for two SEC teams to play in a National Title game it looks like it will be?.
                                 </p>
 
                                 <p>

@@ -1,6 +1,6 @@
 ---
 id: 7226
-title: "Fan Runs on Field&#8230;Not Tasered"
+title: "Fan Runs on Field?Not Tasered"
 date: 2010-07-23T08:25:52+00:00
 author: Ryan M.
 layout: post

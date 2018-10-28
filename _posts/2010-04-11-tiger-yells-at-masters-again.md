@@ -23,6 +23,6 @@ tags:
   </p>
 
   <p>
-    &#8220;God Tiger, Jesus Christ.&#8221; Tiger is trying to contain his emotions on the golf course, but he had a few outbursts. Not sure how all religions in the world work, but isn't Tiger a Buddhist? Not sure if it's normal to yell out Jesus Christ or not.
+    "God Tiger, Jesus Christ." Tiger is trying to contain his emotions on the golf course, but he had a few outbursts. Not sure how all religions in the world work, but isn't Tiger a Buddhist? Not sure if it's normal to yell out Jesus Christ or not.
   </p>
 </div>

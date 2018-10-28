@@ -20,7 +20,7 @@ tags:
 
 <div class="entry">
   <p>
-    I hate to keep comparing every great dunk to Blake Griffin's over the car dunk.  But it's hard not to since he set such a low standard at the NBA dunk contest finale.  Here is a dunk by Guy Dupuy during the Women's Euroleague All Star Game 2011. This is what Blake Griffin's dunk should of looked like&#8230; Minus all of the foreign yelling, music, and shaky camera movement.
+    I hate to keep comparing every great dunk to Blake Griffin's over the car dunk.  But it's hard not to since he set such a low standard at the NBA dunk contest finale.  Here is a dunk by Guy Dupuy during the Women's Euroleague All Star Game 2011. This is what Blake Griffin's dunk should of looked like? Minus all of the foreign yelling, music, and shaky camera movement.
   </p>
 
   <p>

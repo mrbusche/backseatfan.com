@@ -12,11 +12,11 @@ categories:
 
 <div class="entry">
   <p>
-    Adam &#8220;Pacman&#8221; Jones has agreed in principle with the Winnipeg CFL team on a 1 year deal. Jones was released by the Dallas Cowboys in February.
+    Adam "Pacman" Jones has agreed in principle with the Winnipeg CFL team on a 1 year deal. Jones was released by the Dallas Cowboys in February.
   </p>
 
   <p>
-    &#8220;It'll be a good experience for me to get back in game shape and compete and play football, which I like to do,&#8221; Jones said, according to SI.com. &#8220;I'm real happy for the opportunity that's been given to me. Of course it's disappointing to me to not be playing in the NFL. But things happen and you have to adjust.&#8221;
+    "It'll be a good experience for me to get back in game shape and compete and play football, which I like to do," Jones said, according to SI.com. "I'm real happy for the opportunity that's been given to me. Of course it's disappointing to me to not be playing in the NFL. But things happen and you have to adjust."
   </p>
 
   <p>

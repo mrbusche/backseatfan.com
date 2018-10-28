@@ -26,7 +26,7 @@ tags:
   </p>
 
   <p>
-    It is free to join, and heck we might even give something away. Maybe. No Promises. We will see how we feel&#8230; And it might not be much. Maybe like a t shirt. But be optimistic, we are giving away <a href="http://www.backseatfan.com/madden11">Madden 11</a> right now. So who knows what we will give away if you beat us in fantasy football. Maybe nothing, if we are bitter.
+    It is free to join, and heck we might even give something away. Maybe. No Promises. We will see how we feel? And it might not be much. Maybe like a t shirt. But be optimistic, we are giving away <a href="http://www.backseatfan.com/madden11">Madden 11</a> right now. So who knows what we will give away if you beat us in fantasy football. Maybe nothing, if we are bitter.
   </p>
 
   <p>
