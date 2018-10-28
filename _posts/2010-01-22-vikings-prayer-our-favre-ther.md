@@ -1,6 +1,6 @@
 ---
 id: 3792
-title: "Vikings Prayer -  "Our Favre-ther""
+title: "Vikings Prayer -  'Our Favre-ther'"
 date: 2010-01-22T11:48:09+00:00
 author: Ryan M.
 layout: post

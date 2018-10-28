@@ -1,6 +1,6 @@
 ---
 id: 3812
-title: "Vikings bring "Pants on the ground" writer to New Orleans"
+title: "Vikings bring 'Pants on the ground' writer to New Orleans"
 date: 2010-01-24T12:09:48+00:00
 author: Matt B.
 layout: post
