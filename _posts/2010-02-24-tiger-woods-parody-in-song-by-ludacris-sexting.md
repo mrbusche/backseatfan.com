@@ -1,6 +1,6 @@
 ---
 id: 4339
-title: "Tiger Woods Parody in song by Ludacris -"Sexting""
+title: "Tiger Woods Parody in song by Ludacris - 'Sexting'"
 date: 2010-02-24T21:50:36+00:00
 author: Ryan M.
 layout: post

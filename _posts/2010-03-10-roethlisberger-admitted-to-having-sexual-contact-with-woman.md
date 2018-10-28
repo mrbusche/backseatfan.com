@@ -1,6 +1,6 @@
 ---
 id: 4536
-title: "Roethlisberger Admitted to Having "Sexual Contact" with Woman"
+title: "Roethlisberger Admitted to Having 'Sexual Contact' with Woman"
 date: 2010-03-10T20:14:30+00:00
 author: Ryan M.
 layout: post

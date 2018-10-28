@@ -1,6 +1,6 @@
 ---
 id: 8435
-title: "Dan Hampton: Vikings should hit New Orleans "like Katrina""
+title: "Dan Hampton: Vikings should hit New Orleans 'like Katrina'"
 date: 2010-09-05T11:22:20+00:00
 author: Matt B.
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3936
-title: "Peyton Manning ''" with Jeff Saturday"
+title: "Peyton Manning 'exchanges words' with Jeff Saturday"
 date: 2010-01-29T07:05:41+00:00
 author: Ryan M.
 layout: post
