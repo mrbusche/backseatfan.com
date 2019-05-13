@@ -14,7 +14,7 @@ categories:
 
 <div class="entry">
   <p>
-    The first round of the NBA playoffs has always been a good place to make some cash if you are someone who enjoys gambling, but it appears that this year most places have figured out people were making too much money taking the overwhelming favorites. According to topbet.eu found via <a href="http://www.topbettingreviews.com/" target="_blank">www.topbettingreviews.com</a> The Miami Heat are -18,000 against the Bucks meaning you would need to bet 18,000 to win $100 on Miami winning. Now there's about a .01% chance the Bucks win this series, but that's a lot of cash to bet to only win $100.
+    The first round of the NBA playoffs has always been a good place to make some cash if you are someone who enjoys gambling, but it appears that this year most places have figured out people were making too much money taking the overwhelming favorites. According to topbet.eu found via <a href="https://www.topbettingreviews.com/" target="_blank">www.topbettingreviews.com</a> The Miami Heat are -18,000 against the Bucks meaning you would need to bet 18,000 to win $100 on Miami winning. Now there's about a .01% chance the Bucks win this series, but that's a lot of cash to bet to only win $100.
   </p>
 
   <p>

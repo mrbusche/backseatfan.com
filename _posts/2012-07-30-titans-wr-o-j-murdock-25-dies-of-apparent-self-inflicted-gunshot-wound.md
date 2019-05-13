@@ -24,6 +24,6 @@ categories:
   </p>
 
   <p>
-    UPDATE - Titans beat writer Jim Wyatt has <a href="https://twitter.com/jwyattsports/status/229957160686211073">confirmed</a> this report as has the <a href="http://www.tampagov.net/appl_tampa_announcements/ViewRelease.asp?ReleaseID=9440">City of Tampa Florida</a>.
+    UPDATE - Titans beat writer Jim Wyatt has <a href="https://twitter.com/jwyattsports/status/229957160686211073">confirmed</a> this report as has the <a href="https://www.tampagov.net/appl_tampa_announcements/ViewRelease.asp?ReleaseID=9440">City of Tampa Florida</a>.
   </p>
 </div>

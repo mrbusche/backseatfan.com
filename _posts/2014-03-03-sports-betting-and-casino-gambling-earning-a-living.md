@@ -40,7 +40,7 @@ categories:
       Success can solely be attained by first acquiring the knowledge of winning more than what one is losing, and practicing on a daily basis is one mandatory step here.
     </li>
     <li>
-      You can <a href="http://www.cosmiccasino.org">play cool blackjack at cosmiccasino.org</a> and other similar round-the-clock casinos on the web on a 24/4 basis without having to travel to land casinos and without being imposed any time restrictions;
+      You can <a href="https://www.cosmiccasino.org">play cool blackjack at cosmiccasino.org</a> and other similar round-the-clock casinos on the web on a 24/4 basis without having to travel to land casinos and without being imposed any time restrictions;
     </li>
     <li>
       Choosing to rely on luck is not an option here, as good luck is not a strong foundation for success that lasts; instead, aid to better your skills constantly and work out ways of making your gambling budget bigger without drilling a whole into your bank account;

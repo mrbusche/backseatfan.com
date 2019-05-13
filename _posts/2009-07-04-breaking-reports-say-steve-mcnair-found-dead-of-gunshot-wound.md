@@ -20,7 +20,7 @@ categories:
   </p>
 
   <p>
-    From <a href="http://www.newschannel5.com/global/story.asp?s=10643962">News Channel 5</a>
+    From <a href="https://www.newschannel5.com/global/story.asp?s=10643962">News Channel 5</a>
   </p>
 
   <p>

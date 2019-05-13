@@ -26,6 +26,6 @@ tags:
   </p>
 
   <p>
-    Dwight Howard and Slim chin's (That guy from 'The Hangover'(<a href="http://www.imdb.com/name/nm0421822/">Ken Jeong</a>)) new music video.  Dwight Howard may not be the best singer, but fast don't lie.  Ken Jeong is hilarious, I love can watch him in anything, even if it is just a Adidas commercial / fake music video.
+    Dwight Howard and Slim chin's (That guy from 'The Hangover'(<a href="https://www.imdb.com/name/nm0421822/">Ken Jeong</a>)) new music video.  Dwight Howard may not be the best singer, but fast don't lie.  Ken Jeong is hilarious, I love can watch him in anything, even if it is just a Adidas commercial / fake music video.
   </p>
 </div>

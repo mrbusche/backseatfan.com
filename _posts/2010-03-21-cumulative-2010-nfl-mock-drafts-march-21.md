@@ -41,7 +41,7 @@ tags:
       </td>
 
       <td style="color: #000000; font-size: 11px; cursor: text; margin: 8px; border: 1px dashed #bbbbbb;">
-        <a href="http://www.nfl.com/draft/story?id=09000d5d816f37c9&template=with-video-with-comments&confirm=true&campaign=Google_MockDraft&002=2310022&004=450781734&005=341811990&006=4465427364&007=search&008=&gclid=CMr0mMa7yqACFctx5QodMT2VaA">NFL.com</a> (3rd)
+        <a href="https://www.nfl.com/draft/story?id=09000d5d816f37c9&template=with-video-with-comments&confirm=true&campaign=Google_MockDraft&002=2310022&004=450781734&005=341811990&006=4465427364&007=search&008=&gclid=CMr0mMa7yqACFctx5QodMT2VaA">NFL.com</a> (3rd)
       </td>
 
       <td style="color: #000000; font-size: 11px; cursor: text; margin: 8px; border: 1px dashed #bbbbbb;">
@@ -773,7 +773,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.draftcountdown.com/sub/Mock-Draft-A.php">draft countdown</a>
+        <a href="https://www.draftcountdown.com/sub/Mock-Draft-A.php">draft countdown</a>
       </td>
     </tr>
 

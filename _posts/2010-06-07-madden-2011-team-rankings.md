@@ -1141,6 +1141,6 @@ tags:
   </table>
 
   <p>
-    via[<a href="http://www.gamespot.com/news/6264588.html"> Gamespot</a>]
+    via[<a href="https://www.gamespot.com/news/6264588.html"> Gamespot</a>]
   </p>
 </div>

@@ -16,7 +16,7 @@ categories:
   </p>
 
   <p>
-    From <a href="http://www.jocklife.com/news/nfl/baltimore-ravens-wide-receiver-derrick-mason-officially-announces-his-retirement-nfl-27464">JOCKLife.com</a>
+    From <a href="https://www.jocklife.com/news/nfl/baltimore-ravens-wide-receiver-derrick-mason-officially-announces-his-retirement-nfl-27464">JOCKLife.com</a>
   </p>
 
   <p>

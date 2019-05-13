@@ -13,7 +13,7 @@ tags:
 
 <div class="entry">
   <p>
-    There are many people in the world who jump on their bicycle to go to school or to go to their workplaces. In some Countries it&rsquo;s even normal to see people <a href="http://www.ibike.org/encouragement/benefits.htm">riding a bicycle</a> instead of driving a car. We are talking of places such as Holland, Stockholm and UK, so this means that not only poor people choose to go by bicycle.
+    There are many people in the world who jump on their bicycle to go to school or to go to their workplaces. In some Countries it&rsquo;s even normal to see people <a href="https://www.ibike.org/encouragement/benefits.htm">riding a bicycle</a> instead of driving a car. We are talking of places such as Holland, Stockholm and UK, so this means that not only poor people choose to go by bicycle.
   </p>
 
   <p>
@@ -53,7 +53,7 @@ tags:
   </p>
 
   <p>
-    If you have to stay at home, don&rsquo;t desperate because you can still play all the lottery games you wish to play! You could think to visit <a href="http://www.lotteryplanet.org">http://www.lotteryplanet.org</a> and to start to play there your luckiest numbers.
+    If you have to stay at home, don&rsquo;t desperate because you can still play all the lottery games you wish to play! You could think to visit <a href="https://www.lotteryplanet.org">https://www.lotteryplanet.org</a> and to start to play there your luckiest numbers.
   </p>
 
   <p>

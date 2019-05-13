@@ -22,7 +22,7 @@ tags:
 
 <div class="entry">
   <p>
-    LEGOs make things awesome. Have you ever seen the <a href="http://www.youtube.com/watch?v=ijpH6an-JIQ">Lego Star Wars - The Force Unleashed</a>? It's ridiculous.
+    LEGOs make things awesome. Have you ever seen the <a href="https://www.youtube.com/watch?v=ijpH6an-JIQ">Lego Star Wars - The Force Unleashed</a>? It's ridiculous.
   </p>
 
   <p>
@@ -30,6 +30,6 @@ tags:
   </p>
 
   <p>
-    via [<a href="http://www.guardian.co.uk">guardian</a>]
+    via [<a href="https://www.guardian.co.uk">guardian</a>]
   </p>
 </div>

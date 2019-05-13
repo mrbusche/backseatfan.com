@@ -35,7 +35,7 @@ tags:
   </p>
 
   <p>
-    The content for the most part is either <a href="http://www.youtube.com/watch?v=Gyhd0Q6hUlU">funny</a> or <a href="http://www.youtube.com/watch?v=ggBAo3_Zj3c">knowledgeable</a>, but I hate three things about ESPN Radio - <a href="http://www.tidefans.com/forums/football/94767-colin-cowherd-says-usc-should-ranked-above-alabama.html">Constant homer-ism</a>, <a href="http://www.cbssports.com/mcc">Bashing the Big 10</a>, and More commercials than the actual broadcast. I can live with the first two, but the commercials are just annoying.
+    The content for the most part is either <a href="https://www.youtube.com/watch?v=Gyhd0Q6hUlU">funny</a> or <a href="https://www.youtube.com/watch?v=ggBAo3_Zj3c">knowledgeable</a>, but I hate three things about ESPN Radio - <a href="https://www.tidefans.com/forums/football/94767-colin-cowherd-says-usc-should-ranked-above-alabama.html">Constant homer-ism</a>, <a href="https://www.cbssports.com/mcc">Bashing the Big 10</a>, and More commercials than the actual broadcast. I can live with the first two, but the commercials are just annoying.
   </p>
 
   <p style="text-align: center;">
@@ -44,11 +44,11 @@ tags:
 
   <p style="text-align: center;">
     <p>
-      I first got a teaser from Colin Cowherd when I got in the car. That's fine I am used to that. I then switched between 5 minutes worth of <a href="http://www.youtube.com/watch?v=h05ZQ7WHw8Y">pointless commercials</a>, and 5 minutes of Rome, which depending on the day, could also be <a href="http://www.youtube.com/watch?v=ddCyLpid1Jo">pointless</a>. Then finally The Herd comes back on. All he did was repeat his same teaser, and he said said"we'll be back in 90 seconds."
+      I first got a teaser from Colin Cowherd when I got in the car. That's fine I am used to that. I then switched between 5 minutes worth of <a href="https://www.youtube.com/watch?v=h05ZQ7WHw8Y">pointless commercials</a>, and 5 minutes of Rome, which depending on the day, could also be <a href="https://www.youtube.com/watch?v=ddCyLpid1Jo">pointless</a>. Then finally The Herd comes back on. All he did was repeat his same teaser, and he said said"we'll be back in 90 seconds."
     </p>
 
     <p>
-      <a href="http://www.youtube.com/watch?v=pH1H13nl01M">WTF?</a>
+      <a href="https://www.youtube.com/watch?v=pH1H13nl01M">WTF?</a>
     </p>
 
     <p>
@@ -56,7 +56,7 @@ tags:
     </p>
 
     <p>
-      They actually charge money to download an iPhone app for this crap. $2.99. Get <a href="http://www.youtube.com/watch?v=8cyAqEjZ2as">all the commercials</a> you can listen to for only 2.99. Sweet Deal.
+      They actually charge money to download an iPhone app for this crap. $2.99. Get <a href="https://www.youtube.com/watch?v=8cyAqEjZ2as">all the commercials</a> you can listen to for only 2.99. Sweet Deal.
     </p>
 
     <p>

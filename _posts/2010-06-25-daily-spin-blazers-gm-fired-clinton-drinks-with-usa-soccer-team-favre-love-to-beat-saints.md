@@ -35,15 +35,15 @@ tags:
   </p>
 
   <p>
-    Favre said he would<a href="http://www.sunherald.com/2010/06/24/2286860/favre-still-mulling-a-return-for.html"> love to beat the the Saints</a>? He is in luck since they play the Saints in the first game of the season.  We all know he is coming back, he just loves the attention.  [via <a href="http://www.sunherald.com/2010/06/24/2286860/favre-still-mulling-a-return-for.html">Sun Herald</a>]
+    Favre said he would<a href="https://www.sunherald.com/2010/06/24/2286860/favre-still-mulling-a-return-for.html"> love to beat the the Saints</a>? He is in luck since they play the Saints in the first game of the season.  We all know he is coming back, he just loves the attention.  [via <a href="https://www.sunherald.com/2010/06/24/2286860/favre-still-mulling-a-return-for.html">Sun Herald</a>]
   </p>
 
   <p>
-    Isner wins the longest tennis match ever, then <a href="http://www.sportingnews.com/tennis/article/2010-06-25/marathon-man-isner-loses-2nd-round-wimbledon">loses in 2nd round</a>?  All of that work for nothing, what a waste of time and energy! [via <a href="http://www.sportingnews.com/tennis/article/2010-06-25/marathon-man-isner-loses-2nd-round-wimbledon">Sporting News</a>]
+    Isner wins the longest tennis match ever, then <a href="https://www.sportingnews.com/tennis/article/2010-06-25/marathon-man-isner-loses-2nd-round-wimbledon">loses in 2nd round</a>?  All of that work for nothing, what a waste of time and energy! [via <a href="https://www.sportingnews.com/tennis/article/2010-06-25/marathon-man-isner-loses-2nd-round-wimbledon">Sporting News</a>]
   </p>
 
   <p>
-    <a href="http://www.nytimes.com/2010/06/25/sports/soccer/25italydemise.html?src=mv">France and Italy miss the cut</a> for the 2nd round of the World Cup? Soccer is like the main sport in those countries isn't it?  That sucks.  [via <a href="http://www.nytimes.com/2010/06/25/sports/soccer/25italydemise.html?src=mv">NY Times</a>]
+    <a href="https://www.nytimes.com/2010/06/25/sports/soccer/25italydemise.html?src=mv">France and Italy miss the cut</a> for the 2nd round of the World Cup? Soccer is like the main sport in those countries isn't it?  That sucks.  [via <a href="https://www.nytimes.com/2010/06/25/sports/soccer/25italydemise.html?src=mv">NY Times</a>]
   </p>
 
   <p>

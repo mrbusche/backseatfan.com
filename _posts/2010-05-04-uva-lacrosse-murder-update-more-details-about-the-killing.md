@@ -23,7 +23,7 @@ tags:
   </p>
 
   <p>
-    Early this morning in Charlottesville General District Court, Huguely’s lawyers described the <a href="http://www.usatoday.com/sports/college/lacrosse/2010-05-03-virginia-huguely-murder-charge_N.htm?loc=interstitialskip">death as accidental</a>. Which is obviously false.
+    Early this morning in Charlottesville General District Court, Huguely’s lawyers described the <a href="https://www.usatoday.com/sports/college/lacrosse/2010-05-03-virginia-huguely-murder-charge_N.htm?loc=interstitialskip">death as accidental</a>. Which is obviously false.
   </p>
 
   <p>

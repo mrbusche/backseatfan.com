@@ -36,11 +36,11 @@ tags:
   </p>
 
   <p>
-    3/30/2011:  Buccaneers CB Aqib Talib is arrested for <a href="http://www.huffingtonpost.com/2011/03/29/aqib-talib-arrest-warrant-shooting_n_842203.html">aggravated assault with a deadly weapon</a>.
+    3/30/2011:  Buccaneers CB Aqib Talib is arrested for <a href="https://www.huffingtonpost.com/2011/03/29/aqib-talib-arrest-warrant-shooting_n_842203.html">aggravated assault with a deadly weapon</a>.
   </p>
 
   <p>
-    3/25/2011:  Eagles OT Jason Peters is arrested for<a href="http://www.philly.com/philly/sports/118725169.html"> loud music and disturbing the peace</a>.
+    3/25/2011:  Eagles OT Jason Peters is arrested for<a href="https://www.philly.com/philly/sports/118725169.html"> loud music and disturbing the peace</a>.
   </p>
 
   <p>
@@ -52,7 +52,7 @@ tags:
   </p>
 
   <p>
-    3/17/2011:  Raiders OL Mario Henderson is arrested for <a href="http://www.eastbayexpress.com/92510/archives/2011/03/18/oakland-raider-arrested">carrying a concealed firearm</a>.
+    3/17/2011:  Raiders OL Mario Henderson is arrested for <a href="https://www.eastbayexpress.com/92510/archives/2011/03/18/oakland-raider-arrested">carrying a concealed firearm</a>.
   </p>
 
   <p>
@@ -60,7 +60,7 @@ tags:
   </p>
 
   <p>
-    3/4/2011:  Eagles OT King Dunlap is arrested for <a href="http://www.eaglesgab.com/2011/03/07/king-dunlap-arrested-what-this-means-for-philadelphia/">reckless driving and disorderly conduct</a>.
+    3/4/2011:  Eagles OT King Dunlap is arrested for <a href="https://www.eaglesgab.com/2011/03/07/king-dunlap-arrested-what-this-means-for-philadelphia/">reckless driving and disorderly conduct</a>.
   </p>
 
   <p>
@@ -68,15 +68,15 @@ tags:
   </p>
 
   <p>
-    2/25/2011:  Rams scout Luke Driscoll is arrested for <a href="http://www.huffingtonpost.com/2011/02/26/luke-driscoll-arrested-rams-scout_n_828641.html">public intoxication and public nudity</a>.
+    2/25/2011:  Rams scout Luke Driscoll is arrested for <a href="https://www.huffingtonpost.com/2011/02/26/luke-driscoll-arrested-rams-scout_n_828641.html">public intoxication and public nudity</a>.
   </p>
 
   <p>
-    2/12/2011:  Redskins DT Albert Haynesworth is <a href="http://www.tmz.com/2011/02/04/albert-haynesworth-charged-road-rage-arrest-washington-redskins/">charged with assault</a>.
+    2/12/2011:  Redskins DT Albert Haynesworth is <a href="https://www.tmz.com/2011/02/04/albert-haynesworth-charged-road-rage-arrest-washington-redskins/">charged with assault</a>.
   </p>
 
   <p>
-    2/12/2011:  Raiders RB Michael Bush is arrested for <a href="http://www.mercurynews.com/news/ci_17406745?nclick_check=1">drunk driving</a>.
+    2/12/2011:  Raiders RB Michael Bush is arrested for <a href="https://www.mercurynews.com/news/ci_17406745?nclick_check=1">drunk driving</a>.
   </p>
 
   <p>
@@ -88,6 +88,6 @@ tags:
   </p>
 
   <p>
-    1/18/2011:  Broncos RB Laurence Maroney is <a href="http://www.cbsnews.com/8301-504083_162-20028824-504083.html">arrested on weapons charges</a>.
+    1/18/2011:  Broncos RB Laurence Maroney is <a href="https://www.cbsnews.com/8301-504083_162-20028824-504083.html">arrested on weapons charges</a>.
   </p>
 </div>

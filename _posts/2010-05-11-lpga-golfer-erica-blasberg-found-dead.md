@@ -49,6 +49,6 @@ tags:
   </p>
 
   <p>
-    via [<a href="http://www.golfweek.com/news/2010/may/10/lpga-player-erica-blasberg-25-dies/">Golf Week</a>]
+    via [<a href="https://www.golfweek.com/news/2010/may/10/lpga-player-erica-blasberg-25-dies/">Golf Week</a>]
   </p>
 </div>

@@ -21,7 +21,7 @@ tags:
   </p>
 
   <p>
-    James filed paperwork to switch from No. 23 to No. 6, according to the <a href="http://www.cleveland.com/cavs/index.ssf/2010/03/lebron_james_files_application.html">Cleveland Plain Dealer</a>. The deadline for the jersey switch is Wednesday. So LeBron should have a new number next year as long is the league approves it.
+    James filed paperwork to switch from No. 23 to No. 6, according to the <a href="https://www.cleveland.com/cavs/index.ssf/2010/03/lebron_james_files_application.html">Cleveland Plain Dealer</a>. The deadline for the jersey switch is Wednesday. So LeBron should have a new number next year as long is the league approves it.
   </p>
 
   <p>
@@ -33,6 +33,6 @@ tags:
   </p>
 
   <p>
-    Via [<a href="http://www.cleveland.com/cavs/index.ssf/2010/03/lebron_james_files_application.html">Cleveland Plain Dealer</a>]
+    Via [<a href="https://www.cleveland.com/cavs/index.ssf/2010/03/lebron_james_files_application.html">Cleveland Plain Dealer</a>]
   </p>
 </div>

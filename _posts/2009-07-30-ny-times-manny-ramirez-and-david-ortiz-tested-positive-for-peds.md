@@ -12,7 +12,7 @@ categories:
 
 <div class="entry">
   <p>
-    Manny Ramirez and David Ortiz were 2 of the 103 MLB players who tested positive in 2003 in the 'anonymous' tests according to lawyers at the <a href="http://www.nytimes.com/auth/login?URI=/2009/07/31/sports/baseball/31doping.html&#038;OQ=_rQ3D5Q26hp&#038;REFUSE_COOKIE_ERROR=SHOW_ERROR">New York Times</a>.
+    Manny Ramirez and David Ortiz were 2 of the 103 MLB players who tested positive in 2003 in the 'anonymous' tests according to lawyers at the <a href="https://www.nytimes.com/auth/login?URI=/2009/07/31/sports/baseball/31doping.html&#038;OQ=_rQ3D5Q26hp&#038;REFUSE_COOKIE_ERROR=SHOW_ERROR">New York Times</a>.
   </p>
 
   <p>

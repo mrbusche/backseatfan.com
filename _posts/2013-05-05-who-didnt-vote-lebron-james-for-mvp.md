@@ -18,7 +18,7 @@ tags:
 
 <div class="entry">
   <p>
-    UPDATE - Turns out the Boston Globe's <a href="http://www.bostonglobe.com/sports/2013/05/05/yes-voted-carmelo-anthony-for-mvp-and-for-good-reason/Yo08ZgzGaxzlt9KF0JDfqM/story.html">Gary Washburn was the sole vote</a> for Carmelo for MVP. After reading his article I can't disagree with is logic. As long as it's Most Valuable Player and not Most Outstanding Player it will be open to interpretation and although I don't agree with his vote he's at least man enough to explain why he voted how he did and that's good enough for me
+    UPDATE - Turns out the Boston Globe's <a href="https://www.bostonglobe.com/sports/2013/05/05/yes-voted-carmelo-anthony-for-mvp-and-for-good-reason/Yo08ZgzGaxzlt9KF0JDfqM/story.html">Gary Washburn was the sole vote</a> for Carmelo for MVP. After reading his article I can't disagree with is logic. As long as it's Most Valuable Player and not Most Outstanding Player it will be open to interpretation and although I don't agree with his vote he's at least man enough to explain why he voted how he did and that's good enough for me
   </p>
 
   <p>

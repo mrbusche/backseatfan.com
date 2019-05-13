@@ -27,7 +27,7 @@ tags:
   </p>
 
   <p>
-    In an age when the country is bitterly divided over political, social, or moral issues, <em>The 2010 </em><em><a title="http://www.espys.tv/" href="http://www.espys.tv/" target="_blank">ESPYs</a></em><em> </em>will celebrate the courage of one family’s capacity to forgive, even in the wake of their enormous personal loss.  For more than 30 years, the <a title="http://espn.go.com/video/clip?id=5082690&categoryid=3060647" href="http://espn.go.com/video/clip?id=5082690&categoryid=3060647" target="_blank">Thomas and Becker families</a> of Parkersburg, Iowa, were bonded together by church, school and their community, and the bond of these two families remains unbroken despite a tragic killing.  In June 2009, high school football coach Ed Thomas was shot and killed in the football team’s weight room by 24-year old Mark Becker, one of his former players who had been released from psychiatric care despite severe problems. The Thomas family is the recipient of the 2010 <strong>Arthur Ashe Courage Award </strong>for their courage to forgive.
+    In an age when the country is bitterly divided over political, social, or moral issues, <em>The 2010 </em><em><a title="https://www.espys.tv/" href="https://www.espys.tv/" target="_blank">ESPYs</a></em><em> </em>will celebrate the courage of one family’s capacity to forgive, even in the wake of their enormous personal loss.  For more than 30 years, the <a title="http://espn.go.com/video/clip?id=5082690&categoryid=3060647" href="http://espn.go.com/video/clip?id=5082690&categoryid=3060647" target="_blank">Thomas and Becker families</a> of Parkersburg, Iowa, were bonded together by church, school and their community, and the bond of these two families remains unbroken despite a tragic killing.  In June 2009, high school football coach Ed Thomas was shot and killed in the football team’s weight room by 24-year old Mark Becker, one of his former players who had been released from psychiatric care despite severe problems. The Thomas family is the recipient of the 2010 <strong>Arthur Ashe Courage Award </strong>for their courage to forgive.
   </p>
 
   <p>
@@ -43,7 +43,7 @@ tags:
   </p>
 
   <p>
-    The family created a foundation, the <a title="http://www.edthomasfamilyfoundation.org/" href="http://www.edthomasfamilyfoundation.org/" target="_blank">Ed Thomas Family Foundation</a>, in his honor.
+    The family created a foundation, the <a title="https://www.edthomasfamilyfoundation.org/" href="https://www.edthomasfamilyfoundation.org/" target="_blank">Ed Thomas Family Foundation</a>, in his honor.
   </p>
 
   <p>
@@ -71,11 +71,11 @@ tags:
   </p>
 
   <p>
-    Fans will determine the winners in all categories (except the Arthur Ashe Courage Award and other special awards) by voting online at <a title="http://www.espn.com/espys" href="http://www.espn.com/espys" target="_blank">http://www.espn.com/espys</a>, ESPN Mobile Web at <a title="http://espn.mobi/" href="http://espn.mobi/" target="_blank">http://espn.mobi</a> and, for the first time, at <a title="http://www.facebook.com/ESPN" href="http://www.facebook.com/ESPN" target="_blank">www.facebook.com/ESPN</a> starting June 24 through July 10.
+    Fans will determine the winners in all categories (except the Arthur Ashe Courage Award and other special awards) by voting online at <a title="https://www.espn.com/espys" href="https://www.espn.com/espys" target="_blank">https://www.espn.com/espys</a>, ESPN Mobile Web at <a title="http://espn.mobi/" href="http://espn.mobi/" target="_blank">http://espn.mobi</a> and, for the first time, at <a title="https://www.facebook.com/ESPN" href="https://www.facebook.com/ESPN" target="_blank">www.facebook.com/ESPN</a> starting June 24 through July 10.
   </p>
 
   <p>
-    * For the third time in several years, a limited amount of ESPYs tickets are available for public purchase starting April 24 through <a title="http://www.ticketmaster.com/" href="http://www.ticketmaster.com/" target="_blank"><strong title="http://www.ticketmaster.com/">www.ticketmaster.com</strong></a>.
+    * For the third time in several years, a limited amount of ESPYs tickets are available for public purchase starting April 24 through <a title="https://www.ticketmaster.com/" href="https://www.ticketmaster.com/" target="_blank"><strong title="https://www.ticketmaster.com/">www.ticketmaster.com</strong></a>.
   </p>
 
   <p>

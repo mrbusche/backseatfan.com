@@ -26,11 +26,11 @@ categories:
 
 <div class="entry">
   <p>
-    <a href="http://www.si.com/nba/2015/02/18/james-harden-houston-rockets-mvp-midseason-report">James Harden</a> is leading MVP candidate according to <a href="https://www.sportsbooknavigator.com/bovada-sportsbook/">Bovada.lv sportsbook review</a> as we enter the 3rd third of play. Harden is averaging a league high 27.4 PPG and outpacing his career averages in every other category, rebounds, assists, blocks and steals.
+    <a href="https://www.si.com/nba/2015/02/18/james-harden-houston-rockets-mvp-midseason-report">James Harden</a> is leading MVP candidate according to <a href="https://www.sportsbooknavigator.com/bovada-sportsbook/">Bovada.lv sportsbook review</a> as we enter the 3rd third of play. Harden is averaging a league high 27.4 PPG and outpacing his career averages in every other category, rebounds, assists, blocks and steals.
   </p>
 
   <p>
-    LeBron James, Anthony Davis and Steph Curry round out the others in contention for the award this year. <a href="http://www.cleveland.com/cavs/index.ssf/2015/02/and_everything_else_you_need_t_6.html">LeBron</a> missed some time with a knee injury earlier this season, but since then has come back to be the LeBron we all know and love. If Cleveland can climb back to the 2 seed in the East LeBron can make a good case for MVP.
+    LeBron James, Anthony Davis and Steph Curry round out the others in contention for the award this year. <a href="https://www.cleveland.com/cavs/index.ssf/2015/02/and_everything_else_you_need_t_6.html">LeBron</a> missed some time with a knee injury earlier this season, but since then has come back to be the LeBron we all know and love. If Cleveland can climb back to the 2 seed in the East LeBron can make a good case for MVP.
   </p>
 
   <p>
@@ -38,6 +38,6 @@ categories:
   </p>
 
   <p>
-    <a href="http://www.nba.com/2015/news/features/sekou_smith/02/06/week-14-kia-race-to-the-mvp-ladder-stephen-curry-proves-his-doubters-wrong/index.html">Steph Curry</a> should give Harden the biggest challenge averaging 23.6 PPG while shooting 40% from 3 and still averaging 7.9 assists per game. The Warriors are by far the best team out of the 4 with guys contending for the MVP, so it wouldn't surprise me if the Warriors finish 66-16 that Curry takes the MVP based on his team success.
+    <a href="https://www.nba.com/2015/news/features/sekou_smith/02/06/week-14-kia-race-to-the-mvp-ladder-stephen-curry-proves-his-doubters-wrong/index.html">Steph Curry</a> should give Harden the biggest challenge averaging 23.6 PPG while shooting 40% from 3 and still averaging 7.9 assists per game. The Warriors are by far the best team out of the 4 with guys contending for the MVP, so it wouldn't surprise me if the Warriors finish 66-16 that Curry takes the MVP based on his team success.
   </p>
 </div>

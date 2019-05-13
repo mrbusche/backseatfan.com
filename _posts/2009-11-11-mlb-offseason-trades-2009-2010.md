@@ -45,7 +45,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.freep.com/article/20100330/SPORTS02/100330049/1319/Tigers-trade-Nate-Robertson-to-Marlins">Florida Marlins acquired SP Nate Robertson and cash from Detroit Tigers for RP Jay Voss</a>
+    <a href="https://www.freep.com/article/20100330/SPORTS02/100330049/1319/Tigers-trade-Nate-Robertson-to-Marlins">Florida Marlins acquired SP Nate Robertson and cash from Detroit Tigers for RP Jay Voss</a>
   </p>
 
   <p>
@@ -53,11 +53,11 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.mlbtraderumors.com/2010/03/rangers-acquire-andres-blanco.html">Texas Rangers acquire Andres Blanco from Chicago Cubs for a player to be named later</a>
+    <a href="https://www.mlbtraderumors.com/2010/03/rangers-acquire-andres-blanco.html">Texas Rangers acquire Andres Blanco from Chicago Cubs for a player to be named later</a>
   </p>
 
   <p>
-    <a href="http://www.mlbtraderumors.com/2010/03/orioles-acquire-steve-lerud.html">Kansas City Royals trade minor league C Steven Lerud to Baltimore Orioles for a player to be named later</a>
+    <a href="https://www.mlbtraderumors.com/2010/03/orioles-acquire-steve-lerud.html">Kansas City Royals trade minor league C Steven Lerud to Baltimore Orioles for a player to be named later</a>
   </p>
 
   <p>
@@ -65,7 +65,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.mlbtraderumors.com/2010/03/red-sox-acquire-kevin-frandsen.html">San Francisco Giants trade INF Kevin Frandsen to Boston Red Sox for player to be named or cash</a>
+    <a href="https://www.mlbtraderumors.com/2010/03/red-sox-acquire-kevin-frandsen.html">San Francisco Giants trade INF Kevin Frandsen to Boston Red Sox for player to be named or cash</a>
   </p>
 
   <p>
@@ -73,7 +73,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.mlbtraderumors.com/2010/03/rangers-acquire-matt-treanor.html">Milwaukee Brewers trade C Matt Treanor to Texas Rangers for INF Ray Olmedo</a>
+    <a href="https://www.mlbtraderumors.com/2010/03/rangers-acquire-matt-treanor.html">Milwaukee Brewers trade C Matt Treanor to Texas Rangers for INF Ray Olmedo</a>
   </p>
 
   <p>
@@ -89,7 +89,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2010/02/07/SPUD1BTQJV.DTL">Oakland Athletics trade LHP Dana Eveland to Blue Jays for a player to be named or cash considerations</a>
+    <a href="https://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2010/02/07/SPUD1BTQJV.DTL">Oakland Athletics trade LHP Dana Eveland to Blue Jays for a player to be named or cash considerations</a>
   </p>
 
   <p>
@@ -105,7 +105,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.mlbtraderumors.com/2010/01/yankees-acquire-greg-golson.html">Texas Rangers trade OF Greg Golson to New York yankees for Mitch Hilligoss and cash considerations</a>
+    <a href="https://www.mlbtraderumors.com/2010/01/yankees-acquire-greg-golson.html">Texas Rangers trade OF Greg Golson to New York yankees for Mitch Hilligoss and cash considerations</a>
   </p>
 
   <p>
@@ -113,7 +113,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.nj.com/mets/index.ssf/2010/01/ny_mets_trade_for_outfielder_g.html">Los Angeles Angels trade Gary Matthews Jr to New York Mets for Brian Stokes</a>
+    <a href="https://www.nj.com/mets/index.ssf/2010/01/ny_mets_trade_for_outfielder_g.html">Los Angeles Angels trade Gary Matthews Jr to New York Mets for Brian Stokes</a>
   </p>
 
   <p>
@@ -121,7 +121,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.mlbtraderumors.com/2010/01/blue-jays-acquire-merkin-valdez.html">San Francisco Giants trade Merkin Valdez to the Toronto Blue Jays for cash considerations</a>
+    <a href="https://www.mlbtraderumors.com/2010/01/blue-jays-acquire-merkin-valdez.html">San Francisco Giants trade Merkin Valdez to the Toronto Blue Jays for cash considerations</a>
   </p>
 
   <p>
@@ -129,7 +129,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.post-gazette.com/pg/10018/1029183-100.stm">Pittsburgh Pirates trade IF Brian Bixler to the Cleveland Indians for IF Jesus Brit</a>
+    <a href="https://www.post-gazette.com/pg/10018/1029183-100.stm">Pittsburgh Pirates trade IF Brian Bixler to the Cleveland Indians for IF Jesus Brit</a>
   </p>
 
   <p>
@@ -137,7 +137,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.mlbtraderumors.com/2010/01/athletics-to-acquire-kevin-kouzmanoff.html">San Diego Padres trade 3B Kevin Kouzmanoff to the Oakland Athletics for OF Scott Hairston, OF Aaron Cunningham and IF Eric Sogard</a>
+    <a href="https://www.mlbtraderumors.com/2010/01/athletics-to-acquire-kevin-kouzmanoff.html">San Diego Padres trade 3B Kevin Kouzmanoff to the Oakland Athletics for OF Scott Hairston, OF Aaron Cunningham and IF Eric Sogard</a>
   </p>
 
   <p>
@@ -145,7 +145,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.startribune.com/sports/twins/81065162.html?elr=KArksi8cyaiUqCP:iUiacyKUUr">Cleveland Indians trade LHP Zach Jackson to the Toronto Blue Jays for a player to be named later</a>
+    <a href="https://www.startribune.com/sports/twins/81065162.html?elr=KArksi8cyaiUqCP:iUiacyKUUr">Cleveland Indians trade LHP Zach Jackson to the Toronto Blue Jays for a player to be named later</a>
   </p>
 
   <p>
@@ -165,11 +165,11 @@ tags:
   </p>
 
   <p>
-    12/21/2009<br /> <a href="http://www.mlbtraderumors.com/2009/12/blue-jays-to-acquire-brandon-morrow.html"> </a>
+    12/21/2009<br /> <a href="https://www.mlbtraderumors.com/2009/12/blue-jays-to-acquire-brandon-morrow.html"> </a>
   </p>
 
   <p>
-    <a href="http://www.mlbtraderumors.com/2009/12/blue-jays-to-acquire-brandon-morrow.html">Seattle Mariners trade Brandon Morrow to Toronto Blue Jays for Brandon League and a prospect to be named</a>
+    <a href="https://www.mlbtraderumors.com/2009/12/blue-jays-to-acquire-brandon-morrow.html">Seattle Mariners trade Brandon Morrow to Toronto Blue Jays for Brandon League and a prospect to be named</a>
   </p>
 
   <p>
@@ -189,11 +189,11 @@ tags:
   </p>
 
   <p>
-    12/15/2009<br /> <a href="http://www.huffingtonpost.com/2009/12/15/juan-pierre-white-soxboun_n_392799.html"> </a>
+    12/15/2009<br /> <a href="https://www.huffingtonpost.com/2009/12/15/juan-pierre-white-soxboun_n_392799.html"> </a>
   </p>
 
   <p>
-    <a href="http://www.huffingtonpost.com/2009/12/15/juan-pierre-white-soxboun_n_392799.html">Los Angeles Dodgers traded OF Juan Pierre to Chicago White Sox</a>
+    <a href="https://www.huffingtonpost.com/2009/12/15/juan-pierre-white-soxboun_n_392799.html">Los Angeles Dodgers traded OF Juan Pierre to Chicago White Sox</a>
   </p>
 
   <p>
@@ -209,7 +209,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/mlb/news/story?id=4730636&campaign=rss&source=twitter&ex_cid=Twitter_espn_4730636">Atlanta Braves trade RP Rafael Soriano to Tampa Bay Rays for Jesse Chavez</a><br /> <a href="http://www.mlbtraderumors.com/2009/12/red-sox-acquire-boof-bonser.html">Minnesota Twins trade P Boof Bonzer to Boston Red Sox for a player to be named</a><br /> <a href="http://sports.espn.go.com/mlb/news/story?id=4730311">Boston Red Sox reached agreement to trade 3B Mike Lowell to Texas Rangers for C Max Ramirez</a>
+    <a href="http://sports.espn.go.com/mlb/news/story?id=4730636&campaign=rss&source=twitter&ex_cid=Twitter_espn_4730636">Atlanta Braves trade RP Rafael Soriano to Tampa Bay Rays for Jesse Chavez</a><br /> <a href="https://www.mlbtraderumors.com/2009/12/red-sox-acquire-boof-bonser.html">Minnesota Twins trade P Boof Bonzer to Boston Red Sox for a player to be named</a><br /> <a href="http://sports.espn.go.com/mlb/news/story?id=4730311">Boston Red Sox reached agreement to trade 3B Mike Lowell to Texas Rangers for C Max Ramirez</a>
   </p>
 
   <p>

@@ -7,7 +7,7 @@ layout: post
 guid: https://backseatfan.com/?p=70
 permalink: /2009/03/patriots-interested-in-julius-peppers/
 DiggUrl:
-  - http://digg.com/football/Patriots_close_to_landing_Julius_Peppers
+  - https://digg.com/football/Patriots_close_to_landing_Julius_Peppers
 categories:
   - NFL
 tags:

@@ -23,6 +23,6 @@ tags:
   </p>
 
   <p>
-    Dan Patrick knows how to set up a question. The commercial is made by <a href="http://www.playoffpac.com/media/">Playoff Pac</a>, a federal political committee dedicated to establishing a competitive post-season championship for college football.
+    Dan Patrick knows how to set up a question. The commercial is made by <a href="https://www.playoffpac.com/media/">Playoff Pac</a>, a federal political committee dedicated to establishing a competitive post-season championship for college football.
   </p>
 </div>

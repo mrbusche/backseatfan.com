@@ -24,7 +24,7 @@ tags:
   </p>
 
   <p>
-    Michigan State is a 3 1/2 point underdog for Friday's <a href="http://www.ncaa.com/">NCAA</a> tournament game on <a href="http://www.cbssports.com/">CBS</a>, so here are a few things Michigan State needs to do to pull off the upset. First, defend the perimeter - Duke is the fifth best 3 point shooting team in the nation. Duke needs to take a page out of Creighton's defensive playbook from Sunday and play suffocating defense on Seth Curry. If Seth Curry shoots 2-9 from 3 again Michigan State has a great chance to win the game. If Curry gets hot and has a 5 3-point game like he did 6 times this year, Michigan State will be hard pressed to win the game.
+    Michigan State is a 3 1/2 point underdog for Friday's <a href="https://www.ncaa.com/">NCAA</a> tournament game on <a href="https://www.cbssports.com/">CBS</a>, so here are a few things Michigan State needs to do to pull off the upset. First, defend the perimeter - Duke is the fifth best 3 point shooting team in the nation. Duke needs to take a page out of Creighton's defensive playbook from Sunday and play suffocating defense on Seth Curry. If Seth Curry shoots 2-9 from 3 again Michigan State has a great chance to win the game. If Curry gets hot and has a 5 3-point game like he did 6 times this year, Michigan State will be hard pressed to win the game.
   </p>
 
   <p>

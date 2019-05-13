@@ -34,7 +34,7 @@ tags:
   </p>
 
   <p>
-    The activities relating to <a href="http://www.nflonlinebetting.com/" target="_blank" rel="nofollow">betting on the NFL</a> is on an upsurge, and there are several fans who are keen to know more about NFL odds. Contrary to popular belief, betting is something that involves a lot of luck and instinct. With so many sponsors flowing in and NFL getting the right amount of hype, there is a lot of money getting involved in the sport. People, as a result, are keen on placing bets on their favorite teams and making money, as a result.
+    The activities relating to <a href="https://www.nflonlinebetting.com/" target="_blank" rel="nofollow">betting on the NFL</a> is on an upsurge, and there are several fans who are keen to know more about NFL odds. Contrary to popular belief, betting is something that involves a lot of luck and instinct. With so many sponsors flowing in and NFL getting the right amount of hype, there is a lot of money getting involved in the sport. People, as a result, are keen on placing bets on their favorite teams and making money, as a result.
   </p>
 
   <p>
@@ -74,6 +74,6 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.azcardinals.com/" target="_blank">The Arizona Cardinals</a> have a huge task ahead of them. With the title on the line, they are going to compete in one of the toughest seasons in recent times. Their team looks pretty good on paper, and it remains to be seen whether they will be able to make it big in the 2013 season or not. The veteran presence of Carson Palmer has helped the team grow as a unit, and they have also made sure that their defence remains their strong point.
+    <a href="https://www.azcardinals.com/" target="_blank">The Arizona Cardinals</a> have a huge task ahead of them. With the title on the line, they are going to compete in one of the toughest seasons in recent times. Their team looks pretty good on paper, and it remains to be seen whether they will be able to make it big in the 2013 season or not. The veteran presence of Carson Palmer has helped the team grow as a unit, and they have also made sure that their defence remains their strong point.
   </p>
 </div>

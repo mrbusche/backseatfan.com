@@ -20,7 +20,7 @@ categories:
   </p>
 
   <p>
-    From<a href="http://www.philadelphiaeagles.com/browser.asp">the official Eagles press release</a>
+    From<a href="https://www.philadelphiaeagles.com/browser.asp">the official Eagles press release</a>
   </p>
 
   <p style="padding-left: 30px;">

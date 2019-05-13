@@ -18,7 +18,7 @@ categories:
   </p>
 
   <p>
-    According to the <em><a href="http://www.nytimes.com/2010/07/12/sports/baseball/12sheppard.html?_r=1&hp">New York Times</a></em>, Sheppard died at his home in Baldwin, New York today.
+    According to the <em><a href="https://www.nytimes.com/2010/07/12/sports/baseball/12sheppard.html?_r=1&hp">New York Times</a></em>, Sheppard died at his home in Baldwin, New York today.
   </p>
 
   <p>

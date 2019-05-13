@@ -7,7 +7,7 @@ layout: post
 guid: https://backseatfan.com/?p=144
 permalink: /2009/04/alcentral2009preview/
 DiggUrl:
-  - http://digg.com/baseball/AL_Central_Preview_2009
+  - https://digg.com/baseball/AL_Central_Preview_2009
 categories:
   - MLB
 ---

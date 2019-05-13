@@ -71,7 +71,7 @@ categories:
   </p>
 
   <p>
-    And, for parents - such as a father with a mean poker game - a tablet provides great options to take a few moments of fun for themselves when the kids are occupied. That benefit shouldn't be underestimated! We were recently shown a list of secure tablet casinos, for example - and even you may want to <a href="http://www.classycasinos.co.uk/tablet-casinos/">go to the website</a> to check the games out.
+    And, for parents - such as a father with a mean poker game - a tablet provides great options to take a few moments of fun for themselves when the kids are occupied. That benefit shouldn't be underestimated! We were recently shown a list of secure tablet casinos, for example - and even you may want to <a href="https://www.classycasinos.co.uk/tablet-casinos/">go to the website</a> to check the games out.
   </p>
 
   <p>

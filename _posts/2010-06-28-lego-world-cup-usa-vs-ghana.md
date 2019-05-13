@@ -29,6 +29,6 @@ tags:
   </p>
 
   <p>
-    via [<a href="http://www.legofussball.eu/">Lego Fussball</a>]
+    via [<a href="https://www.legofussball.eu/">Lego Fussball</a>]
   </p>
 </div>

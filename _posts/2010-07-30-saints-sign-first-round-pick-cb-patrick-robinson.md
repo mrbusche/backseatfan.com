@@ -31,7 +31,7 @@ tags:
   </p>
 
   <p>
-    According to neworleans.com the deal is <a href="http://www.neworleans.com/sports/saints/saints-news/445424.html">5 years $12.25 million</a>, last year's 32nd pick, Ziggy Hood's deal was worth $11.3 million with $6.1 million guaranteed.
+    According to neworleans.com the deal is <a href="https://www.neworleans.com/sports/saints/saints-news/445424.html">5 years $12.25 million</a>, last year's 32nd pick, Ziggy Hood's deal was worth $11.3 million with $6.1 million guaranteed.
   </p>
 
   <p>

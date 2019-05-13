@@ -35,6 +35,6 @@ tags:
   </table>
 
   <p>
-    via [<a href="http://www.nola.com/saints/index.ssf/2010/04/military_all-stars_edge_new_or.html">NOLA</a>]
+    via [<a href="https://www.nola.com/saints/index.ssf/2010/04/military_all-stars_edge_new_or.html">NOLA</a>]
   </p>
 </div>

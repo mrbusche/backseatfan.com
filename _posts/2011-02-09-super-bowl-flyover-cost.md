@@ -36,11 +36,11 @@ tags:
   </p>
 
   <p>
-    I'm all for flyovers, if you don't like them, <a href="http://www.youtube.com/watch?v=kg9B7V_sKc8">Ricky Stanzi probably has something to say to you.</a>
+    I'm all for flyovers, if you don't like them, <a href="https://www.youtube.com/watch?v=kg9B7V_sKc8">Ricky Stanzi probably has something to say to you.</a>
   </p>
 
   <p>
-    <a href="http://www.cnbc.com/id/41495109">Read the full article on CNBC</a>
+    <a href="https://www.cnbc.com/id/41495109">Read the full article on CNBC</a>
   </p>
 
   <p>

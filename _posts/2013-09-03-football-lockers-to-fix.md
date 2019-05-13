@@ -15,7 +15,7 @@ categories:
   </p>
 
   <p>
-    Generally, people get attracted to a particular <a href="http://www.wikihow.com/Become-a-College-Football-Player">sport</a> for cultural reasons. In fact, the more popular that sport is in their family or society, the more they have chances to develop a certain interest for it.
+    Generally, people get attracted to a particular <a href="https://www.wikihow.com/Become-a-College-Football-Player">sport</a> for cultural reasons. In fact, the more popular that sport is in their family or society, the more they have chances to develop a certain interest for it.
   </p>
 
   <p>
@@ -55,7 +55,7 @@ categories:
   </p>
 
   <p>
-    It&rsquo;s something more common than one may think. In such cases, the trainer can easily contact <a href="http://www.lock4less.com">http://www.lock4less.com</a> and get the phone number of the nearest Locksmith office.
+    It&rsquo;s something more common than one may think. In such cases, the trainer can easily contact <a href="https://www.lock4less.com">https://www.lock4less.com</a> and get the phone number of the nearest Locksmith office.
   </p>
 
   <p>

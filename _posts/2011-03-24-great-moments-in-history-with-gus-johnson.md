@@ -21,6 +21,6 @@ tags:
   </p>
 
   <div style="text-align: left; font-size: x-small; margin-top: 0; width: 480px;">
-    <a title="from Gus Johnson, Chris Kula, CharlesIngram, NickCorirossi, LOOSEWORLD, FOD Team, and Kenny Mayne" href="http://www.funnyordie.com/videos/1f417b45bb/great-moments-in-history-with-gus-johnson">Great Moments in History with Gus Johnson</a> from <a href="http://www.funnyordie.com/gus_johnson">Gus Johnson</a>
+    <a title="from Gus Johnson, Chris Kula, CharlesIngram, NickCorirossi, LOOSEWORLD, FOD Team, and Kenny Mayne" href="https://www.funnyordie.com/videos/1f417b45bb/great-moments-in-history-with-gus-johnson">Great Moments in History with Gus Johnson</a> from <a href="https://www.funnyordie.com/gus_johnson">Gus Johnson</a>
   </div>
 </div>

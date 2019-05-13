@@ -7,7 +7,7 @@ layout: post
 guid: https://backseatfan.com/?p=96
 permalink: /2009/03/curt-schilling-retires/
 DiggUrl:
-  - http://digg.com/baseball/Former_Red_Sox_ace_and_WS_hero_Curt_Schilling_has_retired
+  - https://digg.com/baseball/Former_Red_Sox_ace_and_WS_hero_Curt_Schilling_has_retired
 categories:
   - MLB
 ---

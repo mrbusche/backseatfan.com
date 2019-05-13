@@ -38,7 +38,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.cleveland.com/browns/index.ssf/2010/08/cleveland_browns_former_receiv.html">Braylon Edwards doesn't have anything good to say</a> about Cleveland? Way to kick a city while they are down. Dick. [via <a href="http://www.cleveland.com/browns/index.ssf/2010/08/cleveland_browns_former_receiv.html">Cleveland Plain Dealer</a>]
+    <a href="https://www.cleveland.com/browns/index.ssf/2010/08/cleveland_browns_former_receiv.html">Braylon Edwards doesn't have anything good to say</a> about Cleveland? Way to kick a city while they are down. Dick. [via <a href="https://www.cleveland.com/browns/index.ssf/2010/08/cleveland_browns_former_receiv.html">Cleveland Plain Dealer</a>]
   </p>
 
   <p>
@@ -46,7 +46,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.usatoday.com/money/industries/travel/2010-08-11-1Aattendants11_CV_N.htm">A Jet Blue flight attendant goes crazy on a passenger</a>? All he had to do was say he was sorry, but instead he was stuck on the tarmac longer? [via <a href="http://www.usatoday.com/money/industries/travel/2010-08-11-1Aattendants11_CV_N.htm">USA Today</a>]
+    <a href="https://www.usatoday.com/money/industries/travel/2010-08-11-1Aattendants11_CV_N.htm">A Jet Blue flight attendant goes crazy on a passenger</a>? All he had to do was say he was sorry, but instead he was stuck on the tarmac longer? [via <a href="https://www.usatoday.com/money/industries/travel/2010-08-11-1Aattendants11_CV_N.htm">USA Today</a>]
   </p>
 
   <p>

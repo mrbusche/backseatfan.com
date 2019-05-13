@@ -19,7 +19,7 @@ tags:
 
 <div class="entry">
   <p>
-    The USC football program has been given a two-year postseason ban, a reduction in schoalrships and will forfeit wins from the 2004 season when the NCAA announces actions today. The <a href="http://www.latimes.com/sports/la-sp-usc-20100610,0,7548894.story">LA Times</a> reported that USC will lose more than 20 scholarships.
+    The USC football program has been given a two-year postseason ban, a reduction in schoalrships and will forfeit wins from the 2004 season when the NCAA announces actions today. The <a href="https://www.latimes.com/sports/la-sp-usc-20100610,0,7548894.story">LA Times</a> reported that USC will lose more than 20 scholarships.
   </p>
 
   <p>

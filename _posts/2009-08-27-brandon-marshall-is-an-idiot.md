@@ -15,7 +15,7 @@ tags:
 
 <div class="entry">
   <p>
-    Brandon Marshall has gone and done the unthinkable. He's made it clear to every other team in the NFL he doesn't care. Check out this <a href="http://www.thedenverchannel.com/video/20590420/index.html">video</a> from Denver channel 7 news. Marshall is shown walking during running drills, batting down passes as they're thrown to him, and even punts a ball instead of handing it to a ball boy.
+    Brandon Marshall has gone and done the unthinkable. He's made it clear to every other team in the NFL he doesn't care. Check out this <a href="https://www.thedenverchannel.com/video/20590420/index.html">video</a> from Denver channel 7 news. Marshall is shown walking during running drills, batting down passes as they're thrown to him, and even punts a ball instead of handing it to a ball boy.
   </p>
 
   <p>

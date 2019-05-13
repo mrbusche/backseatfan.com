@@ -33,7 +33,7 @@ tags:
   </p>
 
   <p>
-    In an age when the country is bitterly divided over political, social, or moral issues, <em>The 2010 </em><em><a title="http://www.espys.tv/" href="http://www.espys.tv/" target="_blank">ESPYs</a></em><em> </em>will celebrate the courage of one family’s capacity to forgive, even in the wake of their enormous personal loss.  For more than 30 years, the <a title="http://espn.go.com/video/clip?id=5082690&categoryid=3060647" href="http://espn.go.com/video/clip?id=5082690&categoryid=3060647" target="_blank">Thomas and Becker families</a> of Parkersburg, Iowa, were bonded together by church, school and their community, and the bond of these two families remains unbroken despite a tragic killing.  In June 2009, high school football coach Ed Thomas was shot and killed in the football team’s weight room by 24-year old Mark Becker, one of his former players who had been released from psychiatric care despite severe problems. The Thomas family is the recipient of the 2010<strong>Arthur Ashe Courage Award </strong>for their courage to forgive.
+    In an age when the country is bitterly divided over political, social, or moral issues, <em>The 2010 </em><em><a title="https://www.espys.tv/" href="https://www.espys.tv/" target="_blank">ESPYs</a></em><em> </em>will celebrate the courage of one family’s capacity to forgive, even in the wake of their enormous personal loss.  For more than 30 years, the <a title="http://espn.go.com/video/clip?id=5082690&categoryid=3060647" href="http://espn.go.com/video/clip?id=5082690&categoryid=3060647" target="_blank">Thomas and Becker families</a> of Parkersburg, Iowa, were bonded together by church, school and their community, and the bond of these two families remains unbroken despite a tragic killing.  In June 2009, high school football coach Ed Thomas was shot and killed in the football team’s weight room by 24-year old Mark Becker, one of his former players who had been released from psychiatric care despite severe problems. The Thomas family is the recipient of the 2010<strong>Arthur Ashe Courage Award </strong>for their courage to forgive.
   </p>
 
   <p>
@@ -49,7 +49,7 @@ tags:
   </p>
 
   <p>
-    The family created a foundation, the <a title="http://www.edthomasfamilyfoundation.org/" href="http://www.edthomasfamilyfoundation.org/" target="_blank">Ed Thomas Family Foundation</a>, in his honor.
+    The family created a foundation, the <a title="https://www.edthomasfamilyfoundation.org/" href="https://www.edthomasfamilyfoundation.org/" target="_blank">Ed Thomas Family Foundation</a>, in his honor.
   </p>
 
   <p>

@@ -32,7 +32,7 @@ categories:
   </h2>
 
   <p>
-    According to a recent survey on online resources for sport and social media, it seems that the main social medias in the web play a relevant role in the determination of a team&rsquo;s success. Just to mention an example: recently the <a href="http://www.dailymail.co.uk/sport/article-2952436/Real-Madrid-Barcelona-lead-way-world-s-popular-sports-teams-social-media.html">Real Madrid and Barcelona</a> soccer teams reached the top number one place as the world&rsquo;s most popular sports teams on social media.
+    According to a recent survey on online resources for sport and social media, it seems that the main social medias in the web play a relevant role in the determination of a team&rsquo;s success. Just to mention an example: recently the <a href="https://www.dailymail.co.uk/sport/article-2952436/Real-Madrid-Barcelona-lead-way-world-s-popular-sports-teams-social-media.html">Real Madrid and Barcelona</a> soccer teams reached the top number one place as the world&rsquo;s most popular sports teams on social media.
   </p>
 
   <p>

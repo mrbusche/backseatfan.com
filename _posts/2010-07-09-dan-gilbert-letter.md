@@ -31,7 +31,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.nba.com/cavaliers/news/gilbert_letter_100708.html">Dan Gilbert's letter was posted</a> on Cleveland website.  It was in size 16 font and in the worst font imaginable, Comic Sans.  Dan Gilbert got pissed, because he couldn't keep LeBron.
+    <a href="https://www.nba.com/cavaliers/news/gilbert_letter_100708.html">Dan Gilbert's letter was posted</a> on Cleveland website.  It was in size 16 font and in the worst font imaginable, Comic Sans.  Dan Gilbert got pissed, because he couldn't keep LeBron.
   </p>
 
   <p>
@@ -65,6 +65,6 @@ tags:
   </p>
 
   <p>
-    [via <a href="http://www.nba.com/cavaliers/news/gilbert_letter_100708.html">NBA.com</a>]
+    [via <a href="https://www.nba.com/cavaliers/news/gilbert_letter_100708.html">NBA.com</a>]
   </p>
 </div>

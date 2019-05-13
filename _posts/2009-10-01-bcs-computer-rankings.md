@@ -41,7 +41,7 @@ tags:
   </p>
 
   <p>
-    <strong><a href="http://prwolfe.bol.ucla.edu/cfootball/ratings.htm">Peter Wolfe </a></strong>-  The first ratings will be posted October 18, 2009.<br /> <a href="http://www.colleyrankings.com/"><strong>Wes Colley</strong> </a>- Current<br /> <strong><a href="http://www.usatoday.com/sports/sagarin/fbt09.htm">Sagarin </a></strong>- Current<br /> <strong><a href="http://www.andersonsports.com/">Anderson/Hester Seattle Times </a></strong>- the first ratings are not out yet<br /> <strong><a href="http://www.cfrc.com/">Richard Billingsley </a></strong>- Current<br /> <strong><a href="http://www.masseyratings.com/">Kenneth Massey</a></strong> - Current
+    <strong><a href="http://prwolfe.bol.ucla.edu/cfootball/ratings.htm">Peter Wolfe </a></strong>-  The first ratings will be posted October 18, 2009.<br /> <a href="https://www.colleyrankings.com/"><strong>Wes Colley</strong> </a>- Current<br /> <strong><a href="https://www.usatoday.com/sports/sagarin/fbt09.htm">Sagarin </a></strong>- Current<br /> <strong><a href="https://www.andersonsports.com/">Anderson/Hester Seattle Times </a></strong>- the first ratings are not out yet<br /> <strong><a href="https://www.cfrc.com/">Richard Billingsley </a></strong>- Current<br /> <strong><a href="https://www.masseyratings.com/">Kenneth Massey</a></strong> - Current
   </p>
 
   <p>
@@ -51,25 +51,25 @@ tags:
   <table border="1" cellspacing="0" cellpadding="4">
     <tr>
       <td>
-        <strong><a href="http://www.colleyrankings.com/">Colley</a></strong></p>
+        <strong><a href="https://www.colleyrankings.com/">Colley</a></strong></p>
 
         <p>
           1. IOWA<br /> 2. LSU<br /> 3. MICHIGAN<br /> 4. FLORIDA<br /> 5. VA TECH<br /> 6. TEXAS<br /> 7. ALABAMA<br /> 8. BOISE ST<br /> 9. CINCY<br /> 10. AUBURN</td>
 
           <td>
-            <strong><a href="http://www.usatoday.com/sports/sagarin/fbt09.htm">Sagarin</a></strong></p>
+            <strong><a href="https://www.usatoday.com/sports/sagarin/fbt09.htm">Sagarin</a></strong></p>
 
             <p>
               1.  Iowa<br /> 2.  Boise State<br /> 3.  Alabama<br /> 4.  LSU<br /> 5.  Virginia Tech<br /> 6.  Oregon<br /> 7.  Florida<br /> 8.  TCU<br /> 9.  Southern California<br /> 10. Miami-Florida</td>
 
               <td>
-                <strong><a href="http://www.cfrc.com/">Billingsley</a></strong></p>
+                <strong><a href="https://www.cfrc.com/">Billingsley</a></strong></p>
 
                 <p>
                   1.  Texas<br /> 2.  Florida<br /> 3.  Alabama<br /> 4.  Boise State<br /> 5.  Oregon<br /> 6.  TCU<br /> 7.  LSU<br /> 8.  Houston<br /> 9.  Iowa<br /> 10. Georgia</td>
 
                   <td>
-                    <strong><a href="http://www.masseyratings.com/">Massey</a></strong></p>
+                    <strong><a href="https://www.masseyratings.com/">Massey</a></strong></p>
 
                     <p>
                       1.  Florida<br /> 2.  Texas<br /> 3.  Alabama<br /> 4.  Iowa<br /> 5.  Oklahoma<br /> 6.  LSU<br /> 7.  TCU<br /> 8.  Boise St<br /> 9.  USC<br /> 10. Cincinnati</td> </tr> </tbody> </table>

@@ -173,7 +173,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.usatoday.com/sports/college/football/pac12/story/2011-12-16/usc-matt-kalil-will-enter-nfl-draft/52001278/1">12/15/2011</a>
+        <a href="https://www.usatoday.com/sports/college/football/pac12/story/2011-12-16/usc-matt-kalil-will-enter-nfl-draft/52001278/1">12/15/2011</a>
       </td>
     </tr>
 
@@ -195,7 +195,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.kansascity.com/2011/12/16/3323097/washington-vernon-say-theyre-leaving.html">12/16/2011</a>
+        <a href="https://www.kansascity.com/2011/12/16/3323097/washington-vernon-say-theyre-leaving.html">12/16/2011</a>
       </td>
     </tr>
 
@@ -217,7 +217,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.kansascity.com/2011/12/16/3323097/washington-vernon-say-theyre-leaving.html">12/16/2011</a>
+        <a href="https://www.kansascity.com/2011/12/16/3323097/washington-vernon-say-theyre-leaving.html">12/16/2011</a>
       </td>
     </tr>
 

@@ -42,6 +42,6 @@ tags:
   </p>
 
   <p>
-    [via <a href="http://www.sportsbybrooks.com/videos-mike-leach-locker-room-rants-released-28023">sportsbybrooks</a>]
+    [via <a href="https://www.sportsbybrooks.com/videos-mike-leach-locker-room-rants-released-28023">sportsbybrooks</a>]
   </p>
 </div>

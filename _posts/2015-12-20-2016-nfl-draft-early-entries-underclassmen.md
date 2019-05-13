@@ -48,7 +48,7 @@ categories:
 
     <tr>
       <td>
-        <a href="http://www.thestate.com/sports/college/university-of-south-carolina/usc-football/josh-kendall-blog/article46251310.html">Pharoh Cooper</a>
+        <a href="https://www.thestate.com/sports/college/university-of-south-carolina/usc-football/josh-kendall-blog/article46251310.html">Pharoh Cooper</a>
       </td>
 
       <td>
@@ -76,7 +76,7 @@ categories:
 
     <tr>
       <td>
-        <a href="http://www.nfl.com/news/story/0ap3000000584555/article/ezekiel-elliott-says-he-will-enter-the-2016-nfl-draft">Ezekiel Elliott</a>
+        <a href="https://www.nfl.com/news/story/0ap3000000584555/article/ezekiel-elliott-says-he-will-enter-the-2016-nfl-draft">Ezekiel Elliott</a>
       </td>
 
       <td>
@@ -90,7 +90,7 @@ categories:
 
     <tr>
       <td>
-        <a href="http://www.nfl.com/news/story/0ap3000000591082/article/lb-leonard-floyd-says-he-wont-return-to-georgia">Leonard Floyd</a>
+        <a href="https://www.nfl.com/news/story/0ap3000000591082/article/lb-leonard-floyd-says-he-wont-return-to-georgia">Leonard Floyd</a>
       </td>
 
       <td>
@@ -104,7 +104,7 @@ categories:
 
     <tr>
       <td>
-        <a href="http://www.roanoke.com/sports/columns_and_blogs/blogs/andy_bitter_virginia_tech_football/hokies-cornerback-kendall-fuller-signs-with-agent-will-declare-for/article_69560534-a368-11e5-8858-4f9f2aa13197.html">Kendall Fuller</a>
+        <a href="https://www.roanoke.com/sports/columns_and_blogs/blogs/andy_bitter_virginia_tech_football/hokies-cornerback-kendall-fuller-signs-with-agent-will-declare-for/article_69560534-a368-11e5-8858-4f9f2aa13197.html">Kendall Fuller</a>
       </td>
 
       <td>
@@ -132,7 +132,7 @@ categories:
 
     <tr>
       <td>
-        <a href="http://www.nfl.com/news/story/0ap3000000551120/article/uclas-mora-myles-jack-to-apply-for-entry-into-2016-nfl-draft">Myles Jack</a>
+        <a href="https://www.nfl.com/news/story/0ap3000000551120/article/uclas-mora-myles-jack-to-apply-for-entry-into-2016-nfl-draft">Myles Jack</a>
       </td>
 
       <td>
@@ -160,7 +160,7 @@ categories:
 
     <tr>
       <td>
-        <a href="http://www.nfl.com/news/story/0ap3000000597575/article/shaq-lawson-intends-to-enter-2016-nfl-draft">Shaq Lawson</a>
+        <a href="https://www.nfl.com/news/story/0ap3000000597575/article/shaq-lawson-intends-to-enter-2016-nfl-draft">Shaq Lawson</a>
       </td>
 
       <td>
@@ -216,7 +216,7 @@ categories:
 
     <tr>
       <td>
-        <a href="http://www.clarionledger.com/story/sports/college/ole-miss/2015/12/20/report-ole-miss-robert-nkemdiche-miss-sugar-bowl/77660726/">Robert Nkemdiche</a>
+        <a href="https://www.clarionledger.com/story/sports/college/ole-miss/2015/12/20/report-ole-miss-robert-nkemdiche-miss-sugar-bowl/77660726/">Robert Nkemdiche</a>
       </td>
 
       <td>

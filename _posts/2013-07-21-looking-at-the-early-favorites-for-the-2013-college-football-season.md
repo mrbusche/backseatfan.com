@@ -39,7 +39,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.sportsinteraction.com/football/ncaa-betting-lines/">At this sports betting site</a> I found a couple other great bets for opening weekend. Massachusetts travel to Wisconsin, Central Michigan heads to Ann Arbor to face the Wolverines and Mississippi State heads to Stillwater to face the Cowboys of Oklahoma State. Regardless of the line I'm taking the points for all 3 of the home teams there.
+    <a href="https://www.sportsinteraction.com/football/ncaa-betting-lines/">At this sports betting site</a> I found a couple other great bets for opening weekend. Massachusetts travel to Wisconsin, Central Michigan heads to Ann Arbor to face the Wolverines and Mississippi State heads to Stillwater to face the Cowboys of Oklahoma State. Regardless of the line I'm taking the points for all 3 of the home teams there.
   </p>
 
   <p>

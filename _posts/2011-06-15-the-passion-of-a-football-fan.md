@@ -35,7 +35,7 @@ categories:
   </p>
 
   <p>
-    There are also several supporters who love to collect different types of football <a href="http://www.footballfanatics.com/">items</a>, even those which are not from their favored team. Others also like to collect retro jerseys and items worn by their team back in the past. For instance, some football clubs in Europe enjoy wearing a specific style of shirt from the 60&rsquo;s or 70&rsquo;s and still be in.
+    There are also several supporters who love to collect different types of football <a href="https://www.footballfanatics.com/">items</a>, even those which are not from their favored team. Others also like to collect retro jerseys and items worn by their team back in the past. For instance, some football clubs in Europe enjoy wearing a specific style of shirt from the 60&rsquo;s or 70&rsquo;s and still be in.
   </p>
 
   <p>
@@ -55,7 +55,7 @@ categories:
   </p>
 
   <p>
-    <span style="font-size:13px;line-height:1.6em">These days, the enthusiasm shown by fans all over the world even is shown in other means. With the enhancements in technology and Internet, many clubs and organization show their appreciation and support by creating web pages inviting all other supporters to show their loyalty to their beloved team. With the use of the web, it is easy to search for items you can use for your organization. The search is pretty easy, similar to that of doing a&nbsp;</span><a href="http://www.locksmiths-search.com/" style="font-size: 13px;line-height: 1.6em">local locksmith search</a><span style="font-size:13px;line-height:1.6em"> to search for the best one in your area. At times, this also causes competition between clubs who are supporting the same team. Still, this healthy competition works for the best of the main team. A football fan often shows enthusiasm in different ways possible, all for the benefit of the teams being supported.&nbsp;</span>
+    <span style="font-size:13px;line-height:1.6em">These days, the enthusiasm shown by fans all over the world even is shown in other means. With the enhancements in technology and Internet, many clubs and organization show their appreciation and support by creating web pages inviting all other supporters to show their loyalty to their beloved team. With the use of the web, it is easy to search for items you can use for your organization. The search is pretty easy, similar to that of doing a&nbsp;</span><a href="https://www.locksmiths-search.com/" style="font-size: 13px;line-height: 1.6em">local locksmith search</a><span style="font-size:13px;line-height:1.6em"> to search for the best one in your area. At times, this also causes competition between clubs who are supporting the same team. Still, this healthy competition works for the best of the main team. A football fan often shows enthusiasm in different ways possible, all for the benefit of the teams being supported.&nbsp;</span>
   </p>
 
   <p>

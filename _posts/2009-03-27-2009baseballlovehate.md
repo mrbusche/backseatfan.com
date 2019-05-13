@@ -7,7 +7,7 @@ layout: post
 guid: https://backseatfan.com/?p=104
 permalink: /2009/03/2009baseballlovehate/
 DiggUrl:
-  - http://digg.com/baseball/2009_Fantasy_Baseball_Love_Hate_List
+  - https://digg.com/baseball/2009_Fantasy_Baseball_Love_Hate_List
 categories:
   - Fantasy Baseball
   - MLB

@@ -24,6 +24,6 @@ tags:
   </p>
 
   <p>
-    Chicago Blackhawk's Adam Burish could finally say what he thought about Philadelphia defenseman Chris Pronger. He thinks he's terrible, and he wants to punch him. You have to love the bluntness of Burish.  Below is the Chrissy Pronger reference from the <a href="http://www.chicagotribune.com/">Chicago Tribune</a><br /> <a href="/images/2010/06/christypronger.jpg"><img class="aligncenter size-full wp-image-6167" title="chrissypronger" src="/images/2010/06/christypronger.jpg" alt="" width="412" height="432" srcset="/images/2010/06/christypronger.jpg 412w, /images/2010/06/christypronger-286x300.jpg 286w" sizes="(max-width: 412px) 100vw, 412px" /></a>
+    Chicago Blackhawk's Adam Burish could finally say what he thought about Philadelphia defenseman Chris Pronger. He thinks he's terrible, and he wants to punch him. You have to love the bluntness of Burish.  Below is the Chrissy Pronger reference from the <a href="https://www.chicagotribune.com/">Chicago Tribune</a><br /> <a href="/images/2010/06/christypronger.jpg"><img class="aligncenter size-full wp-image-6167" title="chrissypronger" src="/images/2010/06/christypronger.jpg" alt="" width="412" height="432" srcset="/images/2010/06/christypronger.jpg 412w, /images/2010/06/christypronger-286x300.jpg 286w" sizes="(max-width: 412px) 100vw, 412px" /></a>
   </p>
 </div>

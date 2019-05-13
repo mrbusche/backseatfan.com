@@ -18,7 +18,7 @@ tags:
 
 <div class="entry">
   <p>
-    If you would like to become a member of the Fan's League leave a comment and put your email address in the form (this will not be shown to anyone), send us a tweet <a href="http://www.twitter.com/backseatfan">@backseatfan</a> or email us at <a href="mailto:info@backseatfan.com">info@backseatfan.com</a>
+    If you would like to become a member of the Fan's League leave a comment and put your email address in the form (this will not be shown to anyone), send us a tweet <a href="https://www.twitter.com/backseatfan">@backseatfan</a> or email us at <a href="mailto:info@backseatfan.com">info@backseatfan.com</a>
   </p>
 
   <p>

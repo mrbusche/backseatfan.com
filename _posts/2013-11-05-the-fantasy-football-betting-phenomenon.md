@@ -32,7 +32,7 @@ categories:
   </p>
 
   <p>
-    These games themed around football, like Soccer Safari, have proved a hit with football betting fans for similar reasons, and Soccer Safari is one of the quirkiest of all. The five reels of this game are full of madcap animals, like lions, elephants, meerkats and warthogs, all participating in an animal World Cup. It is a video slot, and the graphics are amongst the funniest you will encounter with any football slots game, while the $8000 jackpot is totally serious. You might not win that of course, but with both scatter and wild symbols on the reels, the odds on you taking away some sort of payout are certainly well above average. You can visit <a href="http://www.luckynuggetcasino.com/online-slots">www.luckynuggetcasino.com/online-slots</a> to play such games, even from your mobile phones, as long as you have broadband connection.
+    These games themed around football, like Soccer Safari, have proved a hit with football betting fans for similar reasons, and Soccer Safari is one of the quirkiest of all. The five reels of this game are full of madcap animals, like lions, elephants, meerkats and warthogs, all participating in an animal World Cup. It is a video slot, and the graphics are amongst the funniest you will encounter with any football slots game, while the $8000 jackpot is totally serious. You might not win that of course, but with both scatter and wild symbols on the reels, the odds on you taking away some sort of payout are certainly well above average. You can visit <a href="https://www.luckynuggetcasino.com/online-slots">www.luckynuggetcasino.com/online-slots</a> to play such games, even from your mobile phones, as long as you have broadband connection.
   </p>
 
   <p>

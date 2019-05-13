@@ -50,6 +50,6 @@ tags:
   </p>
 
   <p>
-    <strong>Jay Buhner<br /> </strong> I couldn't embed this last one, it is the one where <a href="http://www.youtube.com/watch?v=cUwSxqnRW-8">Steinbrenner thinks George Costanza is dead</a>, and goes to his parents house. And Mr. Costanza yells at Steinbrenner about Jay Buhner. Classic.
+    <strong>Jay Buhner<br /> </strong> I couldn't embed this last one, it is the one where <a href="https://www.youtube.com/watch?v=cUwSxqnRW-8">Steinbrenner thinks George Costanza is dead</a>, and goes to his parents house. And Mr. Costanza yells at Steinbrenner about Jay Buhner. Classic.
   </p>
 </div>

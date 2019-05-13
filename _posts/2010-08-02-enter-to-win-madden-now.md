@@ -20,15 +20,15 @@ tags:
 
 <div class="entry">
   <p>
-    Backseat Fan is giving you the chance to win Madden 11, just by entering a comment, tweeting, or following us on facebook. Pretty easy, right? <a href="http://www.backseatfan.com/madden11">Go here for more details!</a>
+    Backseat Fan is giving you the chance to win Madden 11, just by entering a comment, tweeting, or following us on facebook. Pretty easy, right? <a href="https://www.backseatfan.com/madden11">Go here for more details!</a>
   </p>
 
   <p>
-    <a href="http://www.backseatfan.com/madden11"><img title="madden11" src="/images/2010/07/madden11.jpg" alt="" width="264" height="126" /></a>
+    <a href="https://www.backseatfan.com/madden11"><img title="madden11" src="/images/2010/07/madden11.jpg" alt="" width="264" height="126" /></a>
   </p>
 
   <p>
-    <span style="font-size: x-large;"><strong><a href="http://www.backseatfan.com/madden11">Enter To Win Now</a></strong></span>
+    <span style="font-size: x-large;"><strong><a href="https://www.backseatfan.com/madden11">Enter To Win Now</a></strong></span>
   </p>
 
   <p>

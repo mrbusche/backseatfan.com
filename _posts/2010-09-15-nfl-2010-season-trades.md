@@ -37,7 +37,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.chron.com/disp/story.mpl/ap/football/7234013.html">Minnesota Vikings</a> trade DE Jayme Mitchell to Cleveland Browns for undisclosed draft pick in 2012
+    <a href="https://www.chron.com/disp/story.mpl/ap/football/7234013.html">Minnesota Vikings</a> trade DE Jayme Mitchell to Cleveland Browns for undisclosed draft pick in 2012
   </p>
 
   <p>
@@ -53,6 +53,6 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.stltoday.com/sports/football/professional/rams-report/article_289b205e-b9f0-11df-9006-00127992bc8b.html">Baltimore Ravens</a> traded WR Mark Clayton to St. Louis for an undisclosed draft pick
+    <a href="https://www.stltoday.com/sports/football/professional/rams-report/article_289b205e-b9f0-11df-9006-00127992bc8b.html">Baltimore Ravens</a> traded WR Mark Clayton to St. Louis for an undisclosed draft pick
   </p>
 </div>

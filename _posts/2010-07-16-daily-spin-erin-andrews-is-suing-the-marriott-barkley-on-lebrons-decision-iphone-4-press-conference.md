@@ -35,11 +35,11 @@ tags:
   </p>
 
   <p>
-    The 2010 Orange Bowl – Iowa vs. Georgia Tech – almost had as many TV viewers as the MLB All-Star game?  The population of Iowa is roughly <a href="http://www.google.com/publicdata?ds=uspopulation&met=population&idim=state:19000&dl=en&hl=en&q=number+of+people+in+iowa">3 million</a>? 10 Million people tuned in for the Orange Bowl? I blame Georgia Tech.  [via <a href="http://gazetteonline.com/blogs/the-hlog/2010/07/15/2010-orange-bowl-almost-as-widely-seen-as-2010-baseball-all-star-game?utm_source=twitterfeed&utm_medium=twitter" target="_blank">Gazette Online</a>]
+    The 2010 Orange Bowl – Iowa vs. Georgia Tech – almost had as many TV viewers as the MLB All-Star game?  The population of Iowa is roughly <a href="https://www.google.com/publicdata?ds=uspopulation&met=population&idim=state:19000&dl=en&hl=en&q=number+of+people+in+iowa">3 million</a>? 10 Million people tuned in for the Orange Bowl? I blame Georgia Tech.  [via <a href="http://gazetteonline.com/blogs/the-hlog/2010/07/15/2010-orange-bowl-almost-as-widely-seen-as-2010-baseball-all-star-game?utm_source=twitterfeed&utm_medium=twitter" target="_blank">Gazette Online</a>]
   </p>
 
   <p>
-    <a href="http://www.suntimes.com/news/metro/2502328,erin-andrews-lawsuit-hotels-stalker-071510.article">Erin Andrews is suing the Marriott</a>?  Most people would have sued for an atrocious amount of money, like $10 million, and hope that it would settle for less out of court. This report says she is suing the Marriot for only $50k, I guess she is probably thinking about her career by only suing for a small amount.  [via <a href="http://www.suntimes.com/news/metro/2502328,erin-andrews-lawsuit-hotels-stalker-071510.article">Sun Time</a>]
+    <a href="https://www.suntimes.com/news/metro/2502328,erin-andrews-lawsuit-hotels-stalker-071510.article">Erin Andrews is suing the Marriott</a>?  Most people would have sued for an atrocious amount of money, like $10 million, and hope that it would settle for less out of court. This report says she is suing the Marriot for only $50k, I guess she is probably thinking about her career by only suing for a small amount.  [via <a href="https://www.suntimes.com/news/metro/2502328,erin-andrews-lawsuit-hotels-stalker-071510.article">Sun Time</a>]
   </p>
 
   <p>
@@ -51,7 +51,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.engadget.com/2010/07/14/apple-to-hold-press-conference-on-iphone-4-this-friday/">Apple will be will be holding a press conference today</a> due to the iPhone  antenna problems they have been having.  <a href="http://www.engadget.com/2010/07/14/apple-to-hold-press-conference-on-iphone-4-this-friday/">Follow it on Engadget</a>?  I can't wait for the iPhone to be on Verizon.  Maybe that will be the announcement today?
+    <a href="https://www.engadget.com/2010/07/14/apple-to-hold-press-conference-on-iphone-4-this-friday/">Apple will be will be holding a press conference today</a> due to the iPhone  antenna problems they have been having.  <a href="https://www.engadget.com/2010/07/14/apple-to-hold-press-conference-on-iphone-4-this-friday/">Follow it on Engadget</a>?  I can't wait for the iPhone to be on Verizon.  Maybe that will be the announcement today?
   </p>
 
   <p>

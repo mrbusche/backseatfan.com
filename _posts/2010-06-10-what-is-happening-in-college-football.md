@@ -30,7 +30,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.sportingnews.com/college-football/article/2010-06-10/colorado-set-announce-move-pac-10">Colorado Could Join the Pac - 10 as soon as today</a>
+    <a href="https://www.sportingnews.com/college-football/article/2010-06-10/colorado-set-announce-move-pac-10">Colorado Could Join the Pac - 10 as soon as today</a>
   </p>
 
   <p>
@@ -42,7 +42,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.latimes.com/sports/la-sp-usc-20100610,0,7548894.story">USC might get a two year bowl ban</a>, scholarships taken away?  Somewhere today Pete Carroll is eating <a href="https://backseatfan.com/index.php/2010/06/golden-tate-loves-irresistible-maple-bars/">Top Pot maple bars and laughing</a>
+    <a href="https://www.latimes.com/sports/la-sp-usc-20100610,0,7548894.story">USC might get a two year bowl ban</a>, scholarships taken away?  Somewhere today Pete Carroll is eating <a href="https://backseatfan.com/index.php/2010/06/golden-tate-loves-irresistible-maple-bars/">Top Pot maple bars and laughing</a>
   </p>
 
   <p>

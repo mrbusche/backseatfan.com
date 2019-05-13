@@ -59,7 +59,7 @@ categories:
   </p>
 
   <p>
-    <span style="font-size:13px;line-height:1.6em">Before you decide which fantasy baseball game to choose, check out the </span><a href="http://www.slots-casinos.org/" style="font-size: 13px;line-height: 1.6em">slots casinos.org</a><span style="font-size:13px;line-height:1.6em"> site first. Find a few free or real money games of classic, fruity, progressive, or 3D games of slots on the site, read top casino reviews, watch videos and learn new tips and tricks to improve your game play. &nbsp;</span>
+    <span style="font-size:13px;line-height:1.6em">Before you decide which fantasy baseball game to choose, check out the </span><a href="https://www.slots-casinos.org/" style="font-size: 13px;line-height: 1.6em">slots casinos.org</a><span style="font-size:13px;line-height:1.6em"> site first. Find a few free or real money games of classic, fruity, progressive, or 3D games of slots on the site, read top casino reviews, watch videos and learn new tips and tricks to improve your game play. &nbsp;</span>
   </p>
 
   <p>

@@ -7,7 +7,7 @@ layout: post
 guid: https://backseatfan.com/?p=37
 permalink: /2009/03/a-rod-has-hip-surgery-out-10-weeks/
 DiggUrl:
-  - http://digg.com/baseball/A_Rod_to_have_hip_surgery_likely_out_10_weeks
+  - https://digg.com/baseball/A_Rod_to_have_hip_surgery_likely_out_10_weeks
 categories:
   - MLB
 tags:

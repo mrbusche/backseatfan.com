@@ -50,7 +50,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.sbnation.com/2010/7/28/1592559/amare-stoudemire-knicks-jewish-israeli-national-team">Apparently Amare Stoudemire just found out his mother Jewish</a>? According to Jewish law, if your mother is Jewish, then you, by definition are also Jewish? So Amare is now Jewish, I am just wondering if Amare is just trying to get more Jewish fans in NYC?  [via <a href="http://www.sbnation.com/2010/7/28/1592559/amare-stoudemire-knicks-jewish-israeli-national-team">SB Nation</a>]
+    <a href="https://www.sbnation.com/2010/7/28/1592559/amare-stoudemire-knicks-jewish-israeli-national-team">Apparently Amare Stoudemire just found out his mother Jewish</a>? According to Jewish law, if your mother is Jewish, then you, by definition are also Jewish? So Amare is now Jewish, I am just wondering if Amare is just trying to get more Jewish fans in NYC?  [via <a href="https://www.sbnation.com/2010/7/28/1592559/amare-stoudemire-knicks-jewish-israeli-national-team">SB Nation</a>]
   </p>
 
   <p>

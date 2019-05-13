@@ -17,7 +17,7 @@ tags:
 
 <div class="entry">
   <p>
-    Brad Childress <a href="http://www.vikings.com/media-vault/videos/Childress-Presser---1024/70393691-7c51-4a32-98ef-a64246632005">throws Brett Favre under the bus</a> following his 3 INT performance against the Packers. Childress says Brett needs to "play within the confines of our system". I agree with what Childress is saying, but at some point this needs to come back to him. Giving up on the 2nd half with 24 seconds left couldn't have been a worse call. You need to keep Randy Moss happy. We all know what happens when Moss isn't happy.
+    Brad Childress <a href="https://www.vikings.com/media-vault/videos/Childress-Presser---1024/70393691-7c51-4a32-98ef-a64246632005">throws Brett Favre under the bus</a> following his 3 INT performance against the Packers. Childress says Brett needs to "play within the confines of our system". I agree with what Childress is saying, but at some point this needs to come back to him. Giving up on the 2nd half with 24 seconds left couldn't have been a worse call. You need to keep Randy Moss happy. We all know what happens when Moss isn't happy.
   </p>
 
   <p>

@@ -28,7 +28,7 @@ tags:
   </p>
 
   <p>
-    Check out the video below, once the NFL pulls it down <a href="http://www.nfl.com/videos/nfl-game-highlights/09000d5d81a77070/Controversial-call-on-Megatron-non-TD">check out this link</a>
+    Check out the video below, once the NFL pulls it down <a href="https://www.nfl.com/videos/nfl-game-highlights/09000d5d81a77070/Controversial-call-on-Megatron-non-TD">check out this link</a>
   </p>
 
   <p>

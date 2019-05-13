@@ -72,7 +72,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.cbssports.com/nfl/story/13102703/cardinals-sign-tight-end-patrick-abdullah-broughton">3/23/2010</a>
+        <a href="https://www.cbssports.com/nfl/story/13102703/cardinals-sign-tight-end-patrick-abdullah-broughton">3/23/2010</a>
       </td>
     </tr>
 
@@ -94,7 +94,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.miamiherald.com/2010/03/10/1523177/cardinals-sign-te-becht-two-others.html">3/10/2010</a>
+        <a href="https://www.miamiherald.com/2010/03/10/1523177/cardinals-sign-te-becht-two-others.html">3/10/2010</a>
       </td>
     </tr>
 
@@ -202,7 +202,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.cbssports.com/nfl/story/13102703/cardinals-sign-tight-end-patrick-abdullah-broughton">3/23/2010</a>
+        <a href="https://www.cbssports.com/nfl/story/13102703/cardinals-sign-tight-end-patrick-abdullah-broughton">3/23/2010</a>
       </td>
     </tr>
 
@@ -497,7 +497,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.miamiherald.com/2010/03/10/1523177/cardinals-sign-te-becht-two-others.html">3/10/2010</a>
+        <a href="https://www.miamiherald.com/2010/03/10/1523177/cardinals-sign-te-becht-two-others.html">3/10/2010</a>
       </td>
     </tr>
 
@@ -775,7 +775,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.examiner.com/x-1778-Atlanta-Falcons-Examiner~y2010m3d8-Atlanta-Falcons-bring-back-long-snapper-Zelenka">3/8/2010</a>
+        <a href="https://www.examiner.com/x-1778-Atlanta-Falcons-Examiner~y2010m3d8-Atlanta-Falcons-bring-back-long-snapper-Zelenka">3/8/2010</a>
       </td>
     </tr>
 
@@ -887,7 +887,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.examiner.com/x-1089-Baltimore-Sports-Examiner~y2010m3d8-Ravens-gain-Boldin-Divens-lose-Bannan">3/5/2010</a>
+        <a href="https://www.examiner.com/x-1089-Baltimore-Sports-Examiner~y2010m3d8-Ravens-gain-Boldin-Divens-lose-Bannan">3/5/2010</a>
       </td>
     </tr>
 
@@ -909,7 +909,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.wgrz.com/news/local/story.aspx?storyid=75367&catid=4">3/16/2010</a>
+        <a href="https://www.wgrz.com/news/local/story.aspx?storyid=75367&catid=4">3/16/2010</a>
       </td>
     </tr>
 
@@ -1398,7 +1398,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.seattlepi.com/scorecard/nflnews.asp?articleID=276941">3/11/2010</a>
+        <a href="https://www.seattlepi.com/scorecard/nflnews.asp?articleID=276941">3/11/2010</a>
       </td>
     </tr>
 
@@ -1525,7 +1525,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.steelers.com/news/article-1/Steelers-Sign-Clark-Randle-El-and-Scott/10a6effa-279c-469e-bb38-a1e79b2bb111">3/9/2010</a>
+        <a href="https://www.steelers.com/news/article-1/Steelers-Sign-Clark-Randle-El-and-Scott/10a6effa-279c-469e-bb38-a1e79b2bb111">3/9/2010</a>
       </td>
     </tr>
 
@@ -1680,7 +1680,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.cleveland.com/browns/index.ssf/2010/03/cleveland_browns_make_jake_del.html">3/13/2010</a>
+        <a href="https://www.cleveland.com/browns/index.ssf/2010/03/cleveland_browns_make_jake_del.html">3/13/2010</a>
       </td>
     </tr>
 
@@ -1766,7 +1766,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.nationalfootballpost.com/Detroit-adds-special-teams-help-with-Landon-Johnson.html">3/19/2010</a>
+        <a href="https://www.nationalfootballpost.com/Detroit-adds-special-teams-help-with-Landon-Johnson.html">3/19/2010</a>
       </td>
     </tr>
 
@@ -1788,7 +1788,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.washingtonpost.com/wp-dyn/content/blog/2010/03/11/BL2010031102363.html">3/10/2010</a>
+        <a href="https://www.washingtonpost.com/wp-dyn/content/blog/2010/03/11/BL2010031102363.html">3/10/2010</a>
       </td>
     </tr>
 
@@ -1831,7 +1831,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.google.com/hostednews/ap/article/ALeqM5g4MuDuwzJRCIocHsrPc3EDYeGKiAD9EBBVR01">3/9/2010</a>
+        <a href="https://www.google.com/hostednews/ap/article/ALeqM5g4MuDuwzJRCIocHsrPc3EDYeGKiAD9EBBVR01">3/9/2010</a>
       </td>
     </tr>
 
@@ -1938,7 +1938,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.catscratchreader.com/2010/3/15/1373741/panthers-sign-ot-rob-petitti">3/15/2010</a>
+        <a href="https://www.catscratchreader.com/2010/3/15/1373741/panthers-sign-ot-rob-petitti">3/15/2010</a>
       </td>
     </tr>
 
@@ -2256,7 +2256,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.nationalfootballpost.com/Chargers-announce-Vasher-signing.html">3/29/2010</a>
+        <a href="https://www.nationalfootballpost.com/Chargers-announce-Vasher-signing.html">3/29/2010</a>
       </td>
     </tr>
 
@@ -2305,7 +2305,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.seattlepi.com/scorecard/nflnews.asp?articleID=252621">3/10/2010</a>
+        <a href="https://www.seattlepi.com/scorecard/nflnews.asp?articleID=252621">3/10/2010</a>
       </td>
     </tr>
 
@@ -2495,7 +2495,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.google.com/hostednews/ap/article/ALeqM5hMqLb5v8Os1P4FPoTH_I6ZxTFpuAD9ECIF180">3/8/2010</a>
+        <a href="https://www.google.com/hostednews/ap/article/ALeqM5hMqLb5v8Os1P4FPoTH_I6ZxTFpuAD9ECIF180">3/8/2010</a>
       </td>
     </tr>
 
@@ -2623,7 +2623,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.examiner.com/x-7168-Kansas-City-Chiefs-Examiner~y2010m3d11-Chiefs-sign-free-agent-defensive-tackle-Shaun-Smith-from-Cincinnati">3/10/2010</a>
+        <a href="https://www.examiner.com/x-7168-Kansas-City-Chiefs-Examiner~y2010m3d11-Chiefs-sign-free-agent-defensive-tackle-Shaun-Smith-from-Cincinnati">3/10/2010</a>
       </td>
     </tr>
 
@@ -2694,7 +2694,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.seattlepi.com/scorecard/nflnews.asp?articleID=277301">3/16/2010</a>
+        <a href="https://www.seattlepi.com/scorecard/nflnews.asp?articleID=277301">3/16/2010</a>
       </td>
     </tr>
 
@@ -2800,7 +2800,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.nypost.com/p/sports/jets/jets_ink_pool_lt_visiting_today_d7mtzUr5rN5PM1bkO2vfHJ">3/12/2010</a>
+        <a href="https://www.nypost.com/p/sports/jets/jets_ink_pool_lt_visiting_today_d7mtzUr5rN5PM1bkO2vfHJ">3/12/2010</a>
       </td>
     </tr>
 
@@ -2842,7 +2842,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.cleveland.com/browns/index.ssf/2010/03/cleveland_browns_release_tight.html">3/12/2010</a>
+        <a href="https://www.cleveland.com/browns/index.ssf/2010/03/cleveland_browns_release_tight.html">3/12/2010</a>
       </td>
     </tr>
 
@@ -3039,7 +3039,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.star-telegram.com/2010/03/26/2070636/cory-procter-first-of-dallas-cowboys.html">3/26/2010</a>
+        <a href="https://www.star-telegram.com/2010/03/26/2070636/cory-procter-first-of-dallas-cowboys.html">3/26/2010</a>
       </td>
     </tr>
 
@@ -3465,7 +3465,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.milehighreport.com/2010/3/11/1368289/broncos-agree-to-terms-with-dl-le">3/11/2010</a>
+        <a href="https://www.milehighreport.com/2010/3/11/1368289/broncos-agree-to-terms-with-dl-le">3/11/2010</a>
       </td>
     </tr>
 
@@ -3619,7 +3619,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.detnews.com/article/20100315/SPORTS0101/3150392/1265/SPORTS08/Former-Lion-Larry-Foote-agrees-to-terms-with-Steelers">3/15/2010</a>
+        <a href="https://www.detnews.com/article/20100315/SPORTS0101/3150392/1265/SPORTS08/Former-Lion-Larry-Foote-agrees-to-terms-with-Steelers">3/15/2010</a>
       </td>
     </tr>
 
@@ -3641,7 +3641,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.mlive.com/lions/index.ssf/2010/03/lions_sign_will_heller_brian_c.html">3/5/2010</a>
+        <a href="https://www.mlive.com/lions/index.ssf/2010/03/lions_sign_will_heller_brian_c.html">3/5/2010</a>
       </td>
     </tr>
 
@@ -3882,7 +3882,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.lacrossetribune.com/sports/article_dba33f26-2c09-11df-a99c-001cc4c03286.html">3/10/2010</a>
+        <a href="https://www.lacrossetribune.com/sports/article_dba33f26-2c09-11df-a99c-001cc4c03286.html">3/10/2010</a>
       </td>
     </tr>
 
@@ -3990,7 +3990,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.google.com/hostednews/canadianpress/article/ALeqM5hHXUp6-QY-idpCe8AA74vnLvP4jw">3/12/2010</a>
+        <a href="https://www.google.com/hostednews/canadianpress/article/ALeqM5hHXUp6-QY-idpCe8AA74vnLvP4jw">3/12/2010</a>
       </td>
     </tr>
 
@@ -4012,7 +4012,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.espnmilwaukee.com/includes/news_items/40/news_items_more.php?id=2976&section_id=40">3/14/2010</a>
+        <a href="https://www.espnmilwaukee.com/includes/news_items/40/news_items_more.php?id=2976&section_id=40">3/14/2010</a>
       </td>
     </tr>
 
@@ -4504,7 +4504,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.philly.com/dailynews/sports/20100311_Eagles_sign_defensive_back_Marlin_Jackson_to_2-year_deal.html">3/10/2010</a>
+        <a href="https://www.philly.com/dailynews/sports/20100311_Eagles_sign_defensive_back_Marlin_Jackson_to_2-year_deal.html">3/10/2010</a>
       </td>
     </tr>
 
@@ -4632,7 +4632,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.nj.com/giants/index.ssf/2010/03/overall_contract_numbers_for_n.html">3/9/2010</a>
+        <a href="https://www.nj.com/giants/index.ssf/2010/03/overall_contract_numbers_for_n.html">3/9/2010</a>
       </td>
     </tr>
 
@@ -4701,7 +4701,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.google.com/hostednews/canadianpress/article/ALeqM5gtC4Vl7gAiHlKSIBje9V1N306jwA">4/1/2010</a>
+        <a href="https://www.google.com/hostednews/canadianpress/article/ALeqM5gtC4Vl7gAiHlKSIBje9V1N306jwA">4/1/2010</a>
       </td>
     </tr>
 
@@ -4793,7 +4793,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.nationalfootballpost.com/Wilson-Chiefs-resign-Jackie-Battle.html">3/5/2010</a>
+        <a href="https://www.nationalfootballpost.com/Wilson-Chiefs-resign-Jackie-Battle.html">3/5/2010</a>
       </td>
     </tr>
 
@@ -4835,7 +4835,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.arrowheadpride.com/2010/3/8/1363644/conflicting-details-on-chris">3/8/2010</a>
+        <a href="https://www.arrowheadpride.com/2010/3/8/1363644/conflicting-details-on-chris">3/8/2010</a>
       </td>
     </tr>
 
@@ -4900,7 +4900,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.chiefscrowd.com/index.php?option=com_content&task=view&id=14902&Itemid=2">3/24/2010</a>
+        <a href="https://www.chiefscrowd.com/index.php?option=com_content&task=view&id=14902&Itemid=2">3/24/2010</a>
       </td>
     </tr>
 
@@ -5009,7 +5009,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.brownsvilleherald.com/sports/wade-109572-lure-agent.html">3/10/2010</a>
+        <a href="https://www.brownsvilleherald.com/sports/wade-109572-lure-agent.html">3/10/2010</a>
       </td>
     </tr>
 
@@ -5052,7 +5052,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.arrowheadpride.com/2010/3/12/1370332/chiefs-sign-c-casey-wiegmann">3/12/2010</a>
+        <a href="https://www.arrowheadpride.com/2010/3/12/1370332/chiefs-sign-c-casey-wiegmann">3/12/2010</a>
       </td>
     </tr>
 
@@ -5188,7 +5188,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.revengeofthebirds.com/2010/3/19/1381588/cardinals-bolster-defense-sign-lb">3/19/2010</a>
+        <a href="https://www.revengeofthebirds.com/2010/3/19/1381588/cardinals-bolster-defense-sign-lb">3/19/2010</a>
       </td>
     </tr>
 
@@ -5366,7 +5366,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2010/03/17/sports/s145115D41.DTL&type=49ers">3/17/2010</a>
+        <a href="https://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2010/03/17/sports/s145115D41.DTL&type=49ers">3/17/2010</a>
       </td>
     </tr>
 
@@ -5388,7 +5388,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.startribune.com/sports/vikings/blogs/87144217.html?elr=KArks:DCiUMEaPc:UiD3aPc:_Yyc:aUU">3/9/2010</a>
+        <a href="https://www.startribune.com/sports/vikings/blogs/87144217.html?elr=KArks:DCiUMEaPc:UiD3aPc:_Yyc:aUU">3/9/2010</a>
       </td>
     </tr>
 
@@ -5438,7 +5438,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.nationalfootballpost.com/Seahawks-sign-TE-Chris-Baker.html">3/13/2010</a>
+        <a href="https://www.nationalfootballpost.com/Seahawks-sign-TE-Chris-Baker.html">3/13/2010</a>
       </td>
     </tr>
 
@@ -5482,7 +5482,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.google.com/hostednews/ap/article/ALeqM5jQmUwFkbdm59tSSBHDKnJhIg1EGgD9EBEJN84">3/9/2010</a>
+        <a href="https://www.google.com/hostednews/ap/article/ALeqM5jQmUwFkbdm59tSSBHDKnJhIg1EGgD9EBEJN84">3/9/2010</a>
       </td>
     </tr>
 
@@ -5547,7 +5547,7 @@ tags:
       </td>
 
       <td>
-        <a href="https://secure.passport.mnginteractive.com/mngi/servletDispatch/ErightsPassportServlet.dyn?url=http://www.denverpost.com/premium/broncos/ci_14652168&forced=true">3/9/2010</a>
+        <a href="https://secure.passport.mnginteractive.com/mngi/servletDispatch/ErightsPassportServlet.dyn?url=https://www.denverpost.com/premium/broncos/ci_14652168&forced=true">3/9/2010</a>
       </td>
     </tr>
 
@@ -5611,7 +5611,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.cleveland.com/browns/index.ssf/2010/03/report_cleveland_browns_sign_f.html">3/12/2010</a>
+        <a href="https://www.cleveland.com/browns/index.ssf/2010/03/report_cleveland_browns_sign_f.html">3/12/2010</a>
       </td>
     </tr>
 
@@ -5848,7 +5848,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.footballnewsnow.com/2010/browns-sign-scott-fujita-away-from-saints/">3/7/2010</a>
+        <a href="https://www.footballnewsnow.com/2010/browns-sign-scott-fujita-away-from-saints/">3/7/2010</a>
       </td>
     </tr>
 
@@ -5870,7 +5870,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.nola.com/saints/index.ssf/2010/03/new_orleans_saints_re-sign_lon.html">3/12/2010</a>
+        <a href="https://www.nola.com/saints/index.ssf/2010/03/new_orleans_saints_re-sign_lon.html">3/12/2010</a>
       </td>
     </tr>
 
@@ -5892,7 +5892,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.nola.com/saints/index.ssf/2010/03/new_orleans_saints_have_signed_1.html">3/5/2010</a>
+        <a href="https://www.nola.com/saints/index.ssf/2010/03/new_orleans_saints_have_signed_1.html">3/5/2010</a>
       </td>
     </tr>
 
@@ -6080,7 +6080,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.wwltv.com/community/blogs/saints/Saints-re-sign-CB-Leigh-Torrence-schedule-other-visits-87141992.html">3/9/2010</a>
+        <a href="https://www.wwltv.com/community/blogs/saints/Saints-re-sign-CB-Leigh-Torrence-schedule-other-visits-87141992.html">3/9/2010</a>
       </td>
     </tr>
 
@@ -6562,7 +6562,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.nationalfootballpost.com/Jets-resign-Tony-Richardson.html">3/16/2010</a>
+        <a href="https://www.nationalfootballpost.com/Jets-resign-Tony-Richardson.html">3/16/2010</a>
       </td>
     </tr>
 
@@ -6649,7 +6649,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.catscratchreader.com/2010/3/8/1363358/our-latest-fa-aquisition">3/8/2010</a>
+        <a href="https://www.catscratchreader.com/2010/3/8/1363358/our-latest-fa-aquisition">3/8/2010</a>
       </td>
     </tr>
 
@@ -6677,7 +6677,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.baynews9.com/content/40/2010/3/12/594457.html">3/12/2010</a>
+        <a href="https://www.baynews9.com/content/40/2010/3/12/594457.html">3/12/2010</a>
       </td>
     </tr>
 
@@ -6742,7 +6742,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.vcstar.com/news/2010/mar/15/gradkowski-condo-sign-raiders-tenders/">3/16/2010</a>
+        <a href="https://www.vcstar.com/news/2010/mar/15/gradkowski-condo-sign-raiders-tenders/">3/16/2010</a>
       </td>
     </tr>
 
@@ -6784,7 +6784,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2010/03/30/sports/s141410D19.DTL#ixzz0jiAKrvI3">3/30/2010</a>
+        <a href="https://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2010/03/30/sports/s141410D19.DTL#ixzz0jiAKrvI3">3/30/2010</a>
       </td>
     </tr>
 
@@ -6847,7 +6847,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.vcstar.com/news/2010/mar/15/gradkowski-condo-sign-raiders-tenders/">3/16/2010</a>
+        <a href="https://www.vcstar.com/news/2010/mar/15/gradkowski-condo-sign-raiders-tenders/">3/16/2010</a>
       </td>
     </tr>
 
@@ -6869,7 +6869,7 @@ tags:
       </td>
 
       <td>
-        <a href="https://secure.passport.mnginteractive.com/mngi/servletDispatch/ErightsPassportServlet.dyn?url=http://www.mercurynews.com/news/ci_14635245?nclick_check=1&forced=true">3/8/2010</a>
+        <a href="https://secure.passport.mnginteractive.com/mngi/servletDispatch/ErightsPassportServlet.dyn?url=https://www.mercurynews.com/news/ci_14635245?nclick_check=1&forced=true">3/8/2010</a>
       </td>
     </tr>
 
@@ -7018,7 +7018,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.freep.com/Story_not_found">3/8/2010</a>
+        <a href="https://www.freep.com/Story_not_found">3/8/2010</a>
       </td>
     </tr>
 
@@ -7129,7 +7129,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.tsn.ca/nfl/story/?id=314701">3/19/2010</a>
+        <a href="https://www.tsn.ca/nfl/story/?id=314701">3/19/2010</a>
       </td>
     </tr>
 
@@ -7318,7 +7318,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.philadelphiaeagles.com/browser.asp">3/5/2010</a>
+        <a href="https://www.philadelphiaeagles.com/browser.asp">3/5/2010</a>
       </td>
     </tr>
 
@@ -7360,7 +7360,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.tsn.ca/nfl/story/?id=313315">3/9/2010</a>
+        <a href="https://www.tsn.ca/nfl/story/?id=313315">3/9/2010</a>
       </td>
     </tr>
 
@@ -7408,7 +7408,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.nationalfootballpost.com/Steelers-resign-Charlie-Batch.html">3/26/2010</a>
+        <a href="https://www.nationalfootballpost.com/Steelers-resign-Charlie-Batch.html">3/26/2010</a>
       </td>
     </tr>
 
@@ -7470,7 +7470,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.google.com/hostednews/ap/article/ALeqM5j5IyXggZVUJgFwUHnCHr-yuv9v9QD9EB797G1">3/8/2010</a>
+        <a href="https://www.google.com/hostednews/ap/article/ALeqM5j5IyXggZVUJgFwUHnCHr-yuv9v9QD9EB797G1">3/8/2010</a>
       </td>
     </tr>
 
@@ -7809,7 +7809,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.chicagobreakingsports.com/2010/03/bears-sign-blocking-tight-end-manumaleuna.html">3/5/2010</a>
+        <a href="https://www.chicagobreakingsports.com/2010/03/bears-sign-blocking-tight-end-manumaleuna.html">3/5/2010</a>
       </td>
     </tr>
 
@@ -7935,7 +7935,7 @@ tags:
       </td>
 
       <td>
-        <a href="https://secure.passport.mnginteractive.com/mngi/servletDispatch/ErightsPassportServlet.dyn?url=http://www.denverpost.com/premium/broncos/ci_14652168&forced=true">3/9/2010</a>
+        <a href="https://secure.passport.mnginteractive.com/mngi/servletDispatch/ErightsPassportServlet.dyn?url=https://www.denverpost.com/premium/broncos/ci_14652168&forced=true">3/9/2010</a>
       </td>
     </tr>
 
@@ -7985,7 +7985,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.seattlepi.com/scorecard/nflnews.asp?articleID=278272">3/30/2010</a>
+        <a href="https://www.seattlepi.com/scorecard/nflnews.asp?articleID=278272">3/30/2010</a>
       </td>
     </tr>
 
@@ -8155,7 +8155,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.cleveland.com/browns/index.ssf/2010/03/cleveland_browns_reach_contrac.html">3/7/2010</a>
+        <a href="https://www.cleveland.com/browns/index.ssf/2010/03/cleveland_browns_reach_contrac.html">3/7/2010</a>
       </td>
     </tr>
 
@@ -8197,7 +8197,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.rototimes.com/nfl/player.php?tqid=7652&type=news&nid=74550">3/15/2010</a>
+        <a href="https://www.rototimes.com/nfl/player.php?tqid=7652&type=news&nid=74550">3/15/2010</a>
       </td>
     </tr>
 
@@ -8219,7 +8219,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.sacbee.com/static/weblogs/49ers/archives/2010/03/sims-strikes-1-.html">3/22/2010</a>
+        <a href="https://www.sacbee.com/static/weblogs/49ers/archives/2010/03/sims-strikes-1-.html">3/22/2010</a>
       </td>
     </tr>
 
@@ -8495,7 +8495,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.ravens24x7.com/column_view.php?cid=13&id=4350&view=archive">3/22/2010</a>
+        <a href="https://www.ravens24x7.com/column_view.php?cid=13&id=4350&view=archive">3/22/2010</a>
       </td>
     </tr>
 
@@ -8754,7 +8754,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.footballnewsnow.com/2010/seattle-seahawks-sign-veteran-wr-ruvell-martin/">3/15/2010</a>
+        <a href="https://www.footballnewsnow.com/2010/seattle-seahawks-sign-veteran-wr-ruvell-martin/">3/15/2010</a>
       </td>
     </tr>
 
@@ -8840,7 +8840,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.macsfootballblog.com/2010/03/rams-re-sign-g-mark-setterstrom.html">3/16/2010</a>
+        <a href="https://www.macsfootballblog.com/2010/03/rams-re-sign-g-mark-setterstrom.html">3/16/2010</a>
       </td>
     </tr>
 
@@ -8933,7 +8933,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.buccaneers.com/news/newsdetail.aspx?newsid=7641">3/28/2010</a>
+        <a href="https://www.buccaneers.com/news/newsdetail.aspx?newsid=7641">3/28/2010</a>
       </td>
     </tr>
 
@@ -8977,7 +8977,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.mlive.com/lions/index.ssf/2010/03/lions_sign_will_heller_brian_c.html">3/8/2010</a>
+        <a href="https://www.mlive.com/lions/index.ssf/2010/03/lions_sign_will_heller_brian_c.html">3/8/2010</a>
       </td>
     </tr>
 
@@ -8999,7 +8999,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.buccaneers.com/news/newsdetail.aspx?newsid=7641">3/28/2010</a>
+        <a href="https://www.buccaneers.com/news/newsdetail.aspx?newsid=7641">3/28/2010</a>
       </td>
     </tr>
 
@@ -9235,7 +9235,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.boston.com/sports/football/patriots/extra_points/2010/03/source_crumpler.html">3/18/2010</a>
+        <a href="https://www.boston.com/sports/football/patriots/extra_points/2010/03/source_crumpler.html">3/18/2010</a>
       </td>
     </tr>
 
@@ -9664,7 +9664,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.google.com/hostednews/ap/article/ALeqM5j5IyXggZVUJgFwUHnCHr-yuv9v9QD9EB797G1">3/8/2010</a>
+        <a href="https://www.google.com/hostednews/ap/article/ALeqM5j5IyXggZVUJgFwUHnCHr-yuv9v9QD9EB797G1">3/8/2010</a>
       </td>
     </tr>
 

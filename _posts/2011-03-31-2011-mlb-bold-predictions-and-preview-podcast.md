@@ -26,7 +26,7 @@ tags:
   </p>
 
   <p>
-    I also recorded an MLB preview podcast with Kevin and Kris over at <a href="http://www.randomguytalk.com/" target="_blank">randomguytalk.com</a> You can listen to the podcast <a href="http://www.randomguytalk.com/2011/03/31/rgt-mlb-2011-podcast/" target="_blank">here</a>
+    I also recorded an MLB preview podcast with Kevin and Kris over at <a href="https://www.randomguytalk.com/" target="_blank">randomguytalk.com</a> You can listen to the podcast <a href="https://www.randomguytalk.com/2011/03/31/rgt-mlb-2011-podcast/" target="_blank">here</a>
   </p>
 
   <p>

@@ -62,7 +62,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.bleedinggreennation.com/2010/8/30/1658658/breaking-eagles-trade-charles">Philadelphia Eagles trade FB Charles Scott to Arizona Cardinals for CB Jorrick Calvin.</a>
+    <a href="https://www.bleedinggreennation.com/2010/8/30/1658658/breaking-eagles-trade-charles">Philadelphia Eagles trade FB Charles Scott to Arizona Cardinals for CB Jorrick Calvin.</a>
   </p>
 
   <p>
@@ -82,7 +82,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.nationalfootballpost.com/Falcons-trade-Quinn-Ojinnaka-to-the-Patriots.html">Atlanta Falcons traded OL Quinn Ojinnaka to New England for an undisclosed draft pick.</a>
+    <a href="https://www.nationalfootballpost.com/Falcons-trade-Quinn-Ojinnaka-to-the-Patriots.html">Atlanta Falcons traded OL Quinn Ojinnaka to New England for an undisclosed draft pick.</a>
   </p>
 
   <p>
@@ -90,7 +90,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.sbnation.com/2010/8/18/1630228/lawrence-jackson-trade-lions-seahawks-2008-1st-round-pick">Seattle Seahawks traded DE Lawrence Jackson to Detroit for an undisclosed 2011 draft pick.</a>
+    <a href="https://www.sbnation.com/2010/8/18/1630228/lawrence-jackson-trade-lions-seahawks-2008-1st-round-pick">Seattle Seahawks traded DE Lawrence Jackson to Detroit for an undisclosed 2011 draft pick.</a>
   </p>
 
   <p>
@@ -98,7 +98,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.sbnation.com/2010/8/16/1625605/kentwan-balmer-trade-seahawks-49ers-2008-first-round-pick">San Francisco 49ers traded DT Kentwan Balmer to Seattle for an undisclosed 2011 draft pick.</a>
+    <a href="https://www.sbnation.com/2010/8/16/1625605/kentwan-balmer-trade-seahawks-49ers-2008-first-round-pick">San Francisco 49ers traded DT Kentwan Balmer to Seattle for an undisclosed 2011 draft pick.</a>
   </p>
 
   <p>
@@ -106,7 +106,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.sbnation.com/2010/8/2/1601137/john-beck-trade-redskins-ravens-quarterback">Washington Redskins traded CB Doug Dutch to Baltimore for QB John Beck.</a>
+    <a href="https://www.sbnation.com/2010/8/2/1601137/john-beck-trade-redskins-ravens-quarterback">Washington Redskins traded CB Doug Dutch to Baltimore for QB John Beck.</a>
   </p>
 
   <p>
@@ -114,7 +114,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.washingtonpost.com/wp-dyn/content/blog/2010/06/19/BL2010061903124.html">New Orleans traded T Jammal Brown to Washington Redskins for conditional draft picks</a>
+    <a href="https://www.washingtonpost.com/wp-dyn/content/blog/2010/06/19/BL2010061903124.html">New Orleans traded T Jammal Brown to Washington Redskins for conditional draft picks</a>
   </p>
 
   <p>
@@ -254,7 +254,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.cleveland.com/browns/index.ssf/2010/03/kamerion_wimbley_traded_by_bro.html">Cleveland Browns trade LB Kamerion Wimbley to Oakland Raiders for undisclosed draft compensation</a>
+    <a href="https://www.cleveland.com/browns/index.ssf/2010/03/kamerion_wimbley_traded_by_bro.html">Cleveland Browns trade LB Kamerion Wimbley to Oakland Raiders for undisclosed draft compensation</a>
   </p>
 
   <p>
@@ -262,7 +262,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.examiner.com/x-37659-Seattle-Seahawks-Examiner~y2010m3d10-Seahawks-trade-Wallace-to-Cleveland">Seattle Seahawks trade QB Seneca Wallace to Cleveland Browns for conditional 7th round pick in 2011</a>
+    <a href="https://www.examiner.com/x-37659-Seattle-Seahawks-Examiner~y2010m3d10-Seahawks-trade-Wallace-to-Cleveland">Seattle Seahawks trade QB Seneca Wallace to Cleveland Browns for conditional 7th round pick in 2011</a>
   </p>
 
   <p>
@@ -270,7 +270,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.freep.com/Story_not_found">Atlanta Falcons trade CB Chris Houston to Houston Texans for 5th round pick 2010</a>
+    <a href="https://www.freep.com/Story_not_found">Atlanta Falcons trade CB Chris Houston to Houston Texans for 5th round pick 2010</a>
   </p>
 
   <p>
@@ -282,7 +282,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.nytimes.com/2010/03/07/sports/football/07jets.html">New York Jets trade S Kerry Rhodes to Arizona Cardinals for 4th round pick in 2010 and 7th round pick in 2011</a>
+    <a href="https://www.nytimes.com/2010/03/07/sports/football/07jets.html">New York Jets trade S Kerry Rhodes to Arizona Cardinals for 4th round pick in 2010 and 7th round pick in 2011</a>
   </p>
 
   <p>

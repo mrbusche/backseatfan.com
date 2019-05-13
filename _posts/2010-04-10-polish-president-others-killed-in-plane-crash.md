@@ -58,6 +58,6 @@ tags:
   </p>
 
   <p>
-    For the full article check out <a href="http://www.cnn.com/2010/WORLD/europe/04/10/poland.president.plane.crash/index.html?hpt=T1">cnn.com</a>
+    For the full article check out <a href="https://www.cnn.com/2010/WORLD/europe/04/10/poland.president.plane.crash/index.html?hpt=T1">cnn.com</a>
   </p>
 </div>

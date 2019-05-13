@@ -40,7 +40,7 @@ categories:
   </p>
 
   <p>
-    Branch will be pivotal this year, <strong><a href="http://www.bet365.com/news/en/betting/">especially for fans making NFL bets</a></strong>, as the Raiders move to a far more attack-minded and diverse defensive scheme than the one run by Chuck Bresnahan in 2011.
+    Branch will be pivotal this year, <strong><a href="https://www.bet365.com/news/en/betting/">especially for fans making NFL bets</a></strong>, as the Raiders move to a far more attack-minded and diverse defensive scheme than the one run by Chuck Bresnahan in 2011.
   </p>
 
   <p>
@@ -56,6 +56,6 @@ categories:
   </p>
 
   <p>
-    Up next for Oakland; the <strong><a href="http://www.bet365.com/news/en/betting/us-sports/nfl">live in-play betting previews are predicting</a> </strong>a close encounter between the Raiders and the San Diego Chargers, on September 11.
+    Up next for Oakland; the <strong><a href="https://www.bet365.com/news/en/betting/us-sports/nfl">live in-play betting previews are predicting</a> </strong>a close encounter between the Raiders and the San Diego Chargers, on September 11.
   </p>
 </div>

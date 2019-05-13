@@ -34,7 +34,7 @@ tags:
   </p>
 
   <p>
-    The Philadelphia Eagles are projected for just 7.5 wins in 2013 according to <a href="http://www.topbettingaction.com/">TopBettingAction.com sportsbook sites</a> which I feel is too low. Chip Kelly may not turn out to be a great NFL coach, but there's no doubt in my mind he will confuse NFL defenses for at least the first half of the season this year and the Eagles will easily get to 8 wins.
+    The Philadelphia Eagles are projected for just 7.5 wins in 2013 according to <a href="https://www.topbettingaction.com/">TopBettingAction.com sportsbook sites</a> which I feel is too low. Chip Kelly may not turn out to be a great NFL coach, but there's no doubt in my mind he will confuse NFL defenses for at least the first half of the season this year and the Eagles will easily get to 8 wins.
   </p>
 
   <p>

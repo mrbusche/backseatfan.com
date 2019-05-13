@@ -38,6 +38,6 @@ tags:
   </p>
 
   <p>
-    [via <a href="http://www.startribune.com/local/87479262.html?page=2&c=y">Star Tribune</a>]
+    [via <a href="https://www.startribune.com/local/87479262.html?page=2&c=y">Star Tribune</a>]
   </p>
 </div>

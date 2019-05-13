@@ -26,7 +26,7 @@ tags:
   </p>
 
   <p>
-    EA's NCAA Football 11 cover features <a href="http://www.tebowzone.com/images/ncaa-2011-tebow.jpg">Tim Tebow gripping the ball and looking downfield</a>.   GameStop manager's in Tuscaloosa, Alabama had a better idea, so they made a custom cover just for their stores.  Their custom cover features Tim Tebow crying after losing to Alabama in the 2009 SEC Championship game. I prefer the crying cover.
+    EA's NCAA Football 11 cover features <a href="https://www.tebowzone.com/images/ncaa-2011-tebow.jpg">Tim Tebow gripping the ball and looking downfield</a>.   GameStop manager's in Tuscaloosa, Alabama had a better idea, so they made a custom cover just for their stores.  Their custom cover features Tim Tebow crying after losing to Alabama in the 2009 SEC Championship game. I prefer the crying cover.
   </p>
 
   <p>

@@ -22,7 +22,7 @@ tags:
   </p>
 
   <p>
-    For a more in depth description of each pick, check out this article from <a href="http://www.fangraphs.com/blogs/index.php/2010-mlb-draft-selections/">Fangraphs.com</a>
+    For a more in depth description of each pick, check out this article from <a href="https://www.fangraphs.com/blogs/index.php/2010-mlb-draft-selections/">Fangraphs.com</a>
   </p>
 
   <p>

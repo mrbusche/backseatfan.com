@@ -12,10 +12,10 @@ categories:
 
 <div class="entry">
   <p>
-    Youtube Video was taken down, but I was sent <a href="http://www.tmz.com/videos?autoplay=true&mediaKey=9794715a-0202-440f-8c52-8424f433f60e">this link of it on TMZ</a>, Thanks Jocelyn!. A lot of people are saying it sounded like an iPhone fart machine, but who knows? Only Tiger. Pretty funny though.
+    Youtube Video was taken down, but I was sent <a href="https://www.tmz.com/videos?autoplay=true&mediaKey=9794715a-0202-440f-8c52-8424f433f60e">this link of it on TMZ</a>, Thanks Jocelyn!. A lot of people are saying it sounded like an iPhone fart machine, but who knows? Only Tiger. Pretty funny though.
   </p><figure id="attachment_340" style="width: 299px" class="wp-caption aligncenter">
 
-  <a href="http://www.tmz.com/videos?autoplay=true&mediaKey=9794715a-0202-440f-8c52-8424f433f60e"><img class="size-full wp-image-340" title="tiger" src="/images/2009/06/tiger.jpg" alt="Smells funny" width="299" height="301" srcset="/images/2009/06/tiger.jpg 299w, /images/2009/06/tiger-150x150.jpg 150w, /images/2009/06/tiger-298x300.jpg 298w" sizes="(max-width: 299px) 100vw, 299px" /></a><figcaption class="wp-caption-text">Smells funny</figcaption></figure>
+  <a href="https://www.tmz.com/videos?autoplay=true&mediaKey=9794715a-0202-440f-8c52-8424f433f60e"><img class="size-full wp-image-340" title="tiger" src="/images/2009/06/tiger.jpg" alt="Smells funny" width="299" height="301" srcset="/images/2009/06/tiger.jpg 299w, /images/2009/06/tiger-150x150.jpg 150w, /images/2009/06/tiger-298x300.jpg 298w" sizes="(max-width: 299px) 100vw, 299px" /></a><figcaption class="wp-caption-text">Smells funny</figcaption></figure>
 
   <p>
     Update from TMZ:

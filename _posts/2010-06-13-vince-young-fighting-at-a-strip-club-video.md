@@ -31,6 +31,6 @@ tags:
   </p>
 
   <p>
-    <br /> video via [<a href="http://www.sportsbybrooks.com">Sports By Brooks</a>]
+    <br /> video via [<a href="https://www.sportsbybrooks.com">Sports By Brooks</a>]
   </p>
 </div>

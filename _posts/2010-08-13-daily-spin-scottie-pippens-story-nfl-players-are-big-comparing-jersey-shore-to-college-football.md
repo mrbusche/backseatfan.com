@@ -30,7 +30,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.chicagotribune.com/sports/basketball/bulls/ct-spt-0813-haugh-chicago--20100812,0,145825.column">How Scottie Pippen became the Scottie Pippen we know today</a>, a hall of famer.   Scottie Pippen helped make Michael Jordan the champion that he is today.  Just like how LeBron will be Wades' Pippen? [ via <a href="http://www.chicagotribune.com/sports/basketball/bulls/ct-spt-0813-haugh-chicago--20100812,0,145825.column">Chicago Tribune</a>]
+    <a href="https://www.chicagotribune.com/sports/basketball/bulls/ct-spt-0813-haugh-chicago--20100812,0,145825.column">How Scottie Pippen became the Scottie Pippen we know today</a>, a hall of famer.   Scottie Pippen helped make Michael Jordan the champion that he is today.  Just like how LeBron will be Wades' Pippen? [ via <a href="https://www.chicagotribune.com/sports/basketball/bulls/ct-spt-0813-haugh-chicago--20100812,0,145825.column">Chicago Tribune</a>]
   </p>
 
   <p>

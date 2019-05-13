@@ -17,7 +17,7 @@ tags:
 
 <div class="entry">
   <p>
-    The New York Jets made the list for <a href="http://www.inc.com/top-workplaces/2010/team-building-with-the-new-york-jets.html">Top Small Companies Workplaces</a>.  Wait, an NFL team made the list?  Oh, that's right, they are businesses trying to make money like everyone else.
+    The New York Jets made the list for <a href="https://www.inc.com/top-workplaces/2010/team-building-with-the-new-york-jets.html">Top Small Companies Workplaces</a>.  Wait, an NFL team made the list?  Oh, that's right, they are businesses trying to make money like everyone else.
   </p><figure id="attachment_6250" style="width: 575px" class="wp-caption aligncenter">
 
   <a href="/images/2010/06/jetfieldhouse.jpg"><img class="size-full wp-image-6250" title="jetfieldhouse" src="/images/2010/06/jetfieldhouse.jpg" alt="" width="575" height="270" srcset="/images/2010/06/jetfieldhouse.jpg 575w, /images/2010/06/jetfieldhouse-300x140.jpg 300w" sizes="(max-width: 575px) 100vw, 575px" /></a><figcaption class="wp-caption-text">The Jets Fieldhouse</figcaption></figure>
@@ -54,5 +54,5 @@ tags:
     </p>
 
     <p>
-      via [<a href="http://www.inc.com/top-workplaces/2010/team-building-with-the-new-york-jets.html">Inc.com</a>]
+      via [<a href="https://www.inc.com/top-workplaces/2010/team-building-with-the-new-york-jets.html">Inc.com</a>]
     </p></div>

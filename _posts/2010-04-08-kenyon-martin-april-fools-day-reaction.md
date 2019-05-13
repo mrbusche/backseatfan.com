@@ -78,6 +78,6 @@ tags:
   </p>
 
   <p>
-    [<a href="http://www.tmz.com/">TMZ</a>]
+    [<a href="https://www.tmz.com/">TMZ</a>]
   </p>
 </div>

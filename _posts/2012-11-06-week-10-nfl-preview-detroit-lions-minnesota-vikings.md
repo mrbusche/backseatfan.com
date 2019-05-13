@@ -26,6 +26,6 @@ categories:
   </p>
 
   <p>
-    The betting line started out as Vikings -2.5, but has moved to Vikings +1 on numerous sites. Interested in betting on Sunday's game? Check out a <a href="http://www.carbonsports.ag/">new USA facing sportsbook</a>.
+    The betting line started out as Vikings -2.5, but has moved to Vikings +1 on numerous sites. Interested in betting on Sunday's game? Check out a <a href="https://www.carbonsports.ag/">new USA facing sportsbook</a>.
   </p>
 </div>

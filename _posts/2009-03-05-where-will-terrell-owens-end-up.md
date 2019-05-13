@@ -7,7 +7,7 @@ layout: post
 guid: https://backseatfan.com/?p=42
 permalink: /2009/03/where-will-terrell-owens-end-up/
 DiggUrl:
-  - http://digg.com/football/Now_that_he_s_a_FA_where_will_Terrell_Owens_end_up
+  - https://digg.com/football/Now_that_he_s_a_FA_where_will_Terrell_Owens_end_up
 categories:
   - NFL
 tags:

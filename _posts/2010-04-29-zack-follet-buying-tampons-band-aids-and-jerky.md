@@ -21,6 +21,6 @@ tags:
   </p>
 
   <p>
-    Zack Follet thought he would go to Target to buy tampons, band-aids and Beef Jerky. Apparently it is for opponents, but it could very well be for himself. I like Follet's underground campaign to win back the heart of Lions fans, through Jerky and Tampons. And almost getting <a href="http://www.dumbfans.com/2010/03/zach-follet-almost-gets-tackled-by-lion/">killed in a Lion cage</a>.
+    Zack Follet thought he would go to Target to buy tampons, band-aids and Beef Jerky. Apparently it is for opponents, but it could very well be for himself. I like Follet's underground campaign to win back the heart of Lions fans, through Jerky and Tampons. And almost getting <a href="https://www.dumbfans.com/2010/03/zach-follet-almost-gets-tackled-by-lion/">killed in a Lion cage</a>.
   </p>
 </div>

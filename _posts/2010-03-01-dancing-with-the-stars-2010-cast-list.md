@@ -40,6 +40,6 @@ tags:
   </p>
 
   <p>
-    Watch all the dancing action on one of the <a href="http://www.directsattv.com/directv/packages.html">Direct TV Packages</a>.
+    Watch all the dancing action on one of the <a href="https://www.directsattv.com/directv/packages.html">Direct TV Packages</a>.
   </p>
 </div>

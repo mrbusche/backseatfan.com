@@ -20,7 +20,7 @@ tags:
 
 <div class="entry">
   <p>
-    Brett Favre did an Interview with Men's Journal a few months ago, right when he said he needed ankle surgery.  Now is this all a Brett Favre diabolical plot?, or is it awww shucks Brett, and he doesn't know any better?  <a href="http://www.startribune.com/sports/vikings/blogs/98426974.html">Star Tribune has a few pieces</a> on their site, and <a href="http://www.mensjournal.com/in-the-august-issue-favre">Men's journal has a little preview</a> as well.  I think that the issue hit the newsstands today, maybe I'll read it at the grocery store, because magazines are a waste of money unless you subscribe to them.
+    Brett Favre did an Interview with Men's Journal a few months ago, right when he said he needed ankle surgery.  Now is this all a Brett Favre diabolical plot?, or is it awww shucks Brett, and he doesn't know any better?  <a href="https://www.startribune.com/sports/vikings/blogs/98426974.html">Star Tribune has a few pieces</a> on their site, and <a href="https://www.mensjournal.com/in-the-august-issue-favre">Men's journal has a little preview</a> as well.  I think that the issue hit the newsstands today, maybe I'll read it at the grocery store, because magazines are a waste of money unless you subscribe to them.
   </p>
 
   <p>
@@ -86,6 +86,6 @@ tags:
   </p>
 
   <p>
-    [via <a href="http://www.mensjournal.com/in-the-august-issue-favre">Mens Journal</a> / <a href="http://www.startribune.com/sports/vikings/blogs/98426974.html">Star Tribune</a>]
+    [via <a href="https://www.mensjournal.com/in-the-august-issue-favre">Mens Journal</a> / <a href="https://www.startribune.com/sports/vikings/blogs/98426974.html">Star Tribune</a>]
   </p>
 </div>

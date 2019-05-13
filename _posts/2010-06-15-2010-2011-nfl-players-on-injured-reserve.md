@@ -351,7 +351,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.usatoday.com/sports/football/nfl/ravens/2010-07-30-domonique-foxworth_N.htm"> torn ACL</a>
+        <a href="https://www.usatoday.com/sports/football/nfl/ravens/2010-07-30-domonique-foxworth_N.htm"> torn ACL</a>
       </td>
     </tr>
 
@@ -2937,7 +2937,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.nationalfootballpost.com/Jaguars-Bryan-Smith-out-for-season-with-torn-ACL.html"> torn ACL in right knee</a>
+        <a href="https://www.nationalfootballpost.com/Jaguars-Bryan-Smith-out-for-season-with-torn-ACL.html"> torn ACL in right knee</a>
       </td>
     </tr>
 
@@ -3971,7 +3971,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.nydailynews.com/sports/football/giants/2010/06/16/2010-06-16_domenik_hixon_tears_acl_at_new_york_giants_minicamp_big_blue_kick_returner_will_.html">torn ACL in right knee</a>
+        <a href="https://www.nydailynews.com/sports/football/giants/2010/06/16/2010-06-16_domenik_hixon_tears_acl_at_new_york_giants_minicamp_big_blue_kick_returner_will_.html">torn ACL in right knee</a>
       </td>
     </tr>
 
@@ -4535,7 +4535,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.post-gazette.com/pg/10123/1055230-66.stm?cmpid=steelers.xml">torn left Achilles tendon</a>
+        <a href="https://www.post-gazette.com/pg/10123/1055230-66.stm?cmpid=steelers.xml">torn left Achilles tendon</a>
       </td>
     </tr>
 
@@ -5551,7 +5551,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.miamiherald.com/2010/06/14/1680208/titans-lose-cb-hood-to-acl-tear.html">torn ACL</a>
+        <a href="https://www.miamiherald.com/2010/06/14/1680208/titans-lose-cb-hood-to-acl-tear.html">torn ACL</a>
       </td>
     </tr>
 

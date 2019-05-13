@@ -34,6 +34,6 @@ tags:
   </p>
 
   <p>
-    via [<a href="http://www.usmagazine.com/healthylifestyle/news/kim-kardsahian-has-a-new-football-beau-2010236">US Weekly</a>]
+    via [<a href="https://www.usmagazine.com/healthylifestyle/news/kim-kardsahian-has-a-new-football-beau-2010236">US Weekly</a>]
   </p>
 </div>

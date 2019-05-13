@@ -36,7 +36,7 @@ tags:
 
 <div class="entry">
   <p>
-    There are <a href="http://www.rehabs.com/">a number of exclusive centers in the US</a> that cater to the treatment needs of the rich and famous who have substance abuse <a href="http://www.futuresofpalmbeach.com/codeine-abuse">problems</a>.
+    There are <a href="https://www.rehabs.com/">a number of exclusive centers in the US</a> that cater to the treatment needs of the rich and famous who have substance abuse <a href="https://www.futuresofpalmbeach.com/codeine-abuse">problems</a>.
   </p>
 
   <p>
@@ -62,7 +62,7 @@ tags:
   </blockquote>
 
   <p>
-    The<a href="http://www.jsonline.com/sports/packers/95671704.html?utm_source=twitterfeed&utm_medium=twitter&utm_term=packers"> <em>Milwaukee Journal Sentinel</em></a> reported last month that Jolly faces a litany of evidence including that he "bought, sold, funded, transported and aided in the buying, selling, funding and transportation of illegal narcotics including cocaine and marijuana" in Texas from 2006 through May 2008.
+    The<a href="https://www.jsonline.com/sports/packers/95671704.html?utm_source=twitterfeed&utm_medium=twitter&utm_term=packers"> <em>Milwaukee Journal Sentinel</em></a> reported last month that Jolly faces a litany of evidence including that he "bought, sold, funded, transported and aided in the buying, selling, funding and transportation of illegal narcotics including cocaine and marijuana" in Texas from 2006 through May 2008.
   </p>
 
   <p>

@@ -19,7 +19,7 @@ tags:
 
 <div class="entry">
   <p>
-    Detroit Lion's President <a href="http://www.freep.com/article/20100629/SPORTS01/6290344/1049/SPORTS01/Inside-Tom-Lewands-arrest">Tom Lewand got a DUI</a> this week?  He blew a 2.1, but played it off  decently until the cops started getting pissed at him? Oh yeah and he smelled of alcohol.  Here is the video:
+    Detroit Lion's President <a href="https://www.freep.com/article/20100629/SPORTS01/6290344/1049/SPORTS01/Inside-Tom-Lewands-arrest">Tom Lewand got a DUI</a> this week?  He blew a 2.1, but played it off  decently until the cops started getting pissed at him? Oh yeah and he smelled of alcohol.  Here is the video:
   </p>
 
   <p>
@@ -30,6 +30,6 @@ tags:
   </p>
 
   <p>
-    via [<a href="http://www.freep.com/article/20100629/SPORTS01/6290344/1049/SPORTS01/Inside-Tom-Lewands-arrest">Detroit Free Press</a>]
+    via [<a href="https://www.freep.com/article/20100629/SPORTS01/6290344/1049/SPORTS01/Inside-Tom-Lewands-arrest">Detroit Free Press</a>]
   </p>
 </div>

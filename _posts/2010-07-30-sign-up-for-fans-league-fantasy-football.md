@@ -18,11 +18,11 @@ tags:
 
 <div class="entry">
   <p>
-    We are going to run another fantasy football  league this year.  This will be the Second annual Fan's league - 16 team league.  It was pretty good last year, so leave a comment below (with a real email address so we can contact you),<a href="http://www.twitter.com/backseatfan"> tweet us</a>, or <a href="mailto:info@backseatfan.com">email  us (info@backseatfan.com)</a> if you want to join.
+    We are going to run another fantasy football  league this year.  This will be the Second annual Fan's league - 16 team league.  It was pretty good last year, so leave a comment below (with a real email address so we can contact you),<a href="https://www.twitter.com/backseatfan"> tweet us</a>, or <a href="mailto:info@backseatfan.com">email  us (info@backseatfan.com)</a> if you want to join.
   </p>
 
   <p>
-    It is free to join, and heck we might even give something away.  Maybe. No Promises. We will see how we feel? And it might not be much. Maybe like a t shirt. But be optimistic, we are giving away <a href="http://www.backseatfan.com/madden11">Madden 11</a> right now.  So who knows what we will give away if you beat us in fantasy football.  Maybe nothing, if we are bitter.
+    It is free to join, and heck we might even give something away.  Maybe. No Promises. We will see how we feel? And it might not be much. Maybe like a t shirt. But be optimistic, we are giving away <a href="https://www.backseatfan.com/madden11">Madden 11</a> right now.  So who knows what we will give away if you beat us in fantasy football.  Maybe nothing, if we are bitter.
   </p>
 
   <p>

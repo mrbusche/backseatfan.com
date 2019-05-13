@@ -39,7 +39,7 @@ tags:
   </blockquote>
 
   <p>
-    via [<a href="http://www.sun-sentinel.com/sports/miami-heat/sfl-miami-heat-kevin-garnett-s041710,0,2183499.story">Sun-Sentinel</a>]
+    via [<a href="https://www.sun-sentinel.com/sports/miami-heat/sfl-miami-heat-kevin-garnett-s041710,0,2183499.story">Sun-Sentinel</a>]
   </p>
 
   <p>

@@ -12,7 +12,7 @@ categories:
 
 <div class="entry">
   <p>
-    <embed src="http://www.metacafe.com/fplayer/765043/adam_carollas_touchdown_dance.swf" width="400" height="345" wmode="transparent" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" allowFullScreen="true" allowScriptAccess="always" name="Metacafe_765043">
+    <embed src="https://www.metacafe.com/fplayer/765043/adam_carollas_touchdown_dance.swf" width="400" height="345" wmode="transparent" pluginspage="https://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" allowFullScreen="true" allowScriptAccess="always" name="Metacafe_765043">
     </embed>
 
     <br /> Someone should really do Adam Carolla's Touchdown Dance. It would be worth the 15k fine. TO? Ochocinco? Some no namer that wants to be on sports center?

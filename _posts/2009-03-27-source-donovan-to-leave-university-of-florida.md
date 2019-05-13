@@ -14,7 +14,7 @@ tags:
 
 <div class="entry">
   <p>
-    A source close to the University of Kentucky athletic program told Fox 35 Sports that Billy Donovan will resign as <a href="http://www.ufl.edu/" target="_blank">Florida Gators'</a> head basketball coach to take the same position at Kentucky.
+    A source close to the University of Kentucky athletic program told Fox 35 Sports that Billy Donovan will resign as <a href="https://www.ufl.edu/" target="_blank">Florida Gators'</a> head basketball coach to take the same position at Kentucky.
   </p>
 
   <p>

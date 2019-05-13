@@ -55,5 +55,5 @@ tags:
 
         <p style="text-align: left;">
           <p>
-            Via [<a href="http://www.clarionledger.com/apps/pbcs.dll/section?category=PluckPersona&U=7dd1ad9f2be5463c88b30377822ff491&plckPersonaPage=BlogViewPost&plckUserId=7dd1ad9f2be5463c88b30377822ff491&plckPostId=Blog:7dd1ad9f2be5463c88b30377822ff491Post:555f5471-950c-4abf-b179-0ec2fa6438ed&plckController=PersonaBlog&plckScript=personaScript&plckElementId=personaDest">Clarion Ledger</a>] -  FYI they got a call from Bus Cook asking to take the pictures down. Until I get that call I keep them up! I do want to talk to Bus though - that would be cool.
+            Via [<a href="https://www.clarionledger.com/apps/pbcs.dll/section?category=PluckPersona&U=7dd1ad9f2be5463c88b30377822ff491&plckPersonaPage=BlogViewPost&plckUserId=7dd1ad9f2be5463c88b30377822ff491&plckPostId=Blog:7dd1ad9f2be5463c88b30377822ff491Post:555f5471-950c-4abf-b179-0ec2fa6438ed&plckController=PersonaBlog&plckScript=personaScript&plckElementId=personaDest">Clarion Ledger</a>] -  FYI they got a call from Bus Cook asking to take the pictures down. Until I get that call I keep them up! I do want to talk to Bus though - that would be cool.
           </p></div>

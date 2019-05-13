@@ -39,6 +39,6 @@ tags:
   </p>
 
   <p>
-    <img class="aligncenter size-full wp-image-9606" title="jordanspriggs" src="/images/2011/02/jordanspriggs.jpg" alt="" width="400" height="469" srcset="/images/2011/02/jordanspriggs.jpg 400w, /images/2011/02/jordanspriggs-255x300.jpg 255w" sizes="(max-width: 400px) 100vw, 400px" />[via <a href="http://www.sportsbybrooks.com/who-is-good-at-writing-papers-i-pay-29497">SPORTSbyBrooks</a>]
+    <img class="aligncenter size-full wp-image-9606" title="jordanspriggs" src="/images/2011/02/jordanspriggs.jpg" alt="" width="400" height="469" srcset="/images/2011/02/jordanspriggs.jpg 400w, /images/2011/02/jordanspriggs-255x300.jpg 255w" sizes="(max-width: 400px) 100vw, 400px" />[via <a href="https://www.sportsbybrooks.com/who-is-good-at-writing-papers-i-pay-29497">SPORTSbyBrooks</a>]
   </p>
 </div>

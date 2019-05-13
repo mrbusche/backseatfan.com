@@ -39,16 +39,16 @@ tags:
   </div>
 
   <p>
-    Go to <a href="http://www.facebook.com/VisaNFL?sk=app_259824094080710">Visa’s YOU+TEN Draft app</a> on Facebook and you will be able to find the 10 best friends and family to watch football with. It is worth it, because the best game day experience is always better with friends and family.
+    Go to <a href="https://www.facebook.com/VisaNFL?sk=app_259824094080710">Visa’s YOU+TEN Draft app</a> on Facebook and you will be able to find the 10 best friends and family to watch football with. It is worth it, because the best game day experience is always better with friends and family.
   </p>
 
   <p>
-    With Visa’s XLVII NFL Super Bowl Sweepstakes, you and ten friends could win a trip to Super Bowl XLVII just by using your Visa card. Picking 10 people for Super Bowl XLVII can be pretty difficult but you can pick a lot easier by using <a href="http://www.facebook.com/VisaNFL?sk=app_259824094080710">Visa's YOU+TEN Draft app</a>. It analyzes your Facebook friends to draft the 10 best people to have with you for a Football event. I have my 10 best friends and family selected, so visit <a href="http://www.facebook.com/VisaNFL?sk=app_259824094080710" target="_blank">http://www.facebook.com/<wbr>VisaNFL?sk=app_259824094080710</wbr></a><wbr> and find yours!</wbr>
+    With Visa’s XLVII NFL Super Bowl Sweepstakes, you and ten friends could win a trip to Super Bowl XLVII just by using your Visa card. Picking 10 people for Super Bowl XLVII can be pretty difficult but you can pick a lot easier by using <a href="https://www.facebook.com/VisaNFL?sk=app_259824094080710">Visa's YOU+TEN Draft app</a>. It analyzes your Facebook friends to draft the 10 best people to have with you for a Football event. I have my 10 best friends and family selected, so visit <a href="https://www.facebook.com/VisaNFL?sk=app_259824094080710" target="_blank">https://www.facebook.com/<wbr>VisaNFL?sk=app_259824094080710</wbr></a><wbr> and find yours!</wbr>
   </p>
 
   <div>
     <p>
-       <em>Disclosure: We received compensation from Visa for sharing our views in this post, but the views expressed here are solely ours, not Visa or the NFL’s. For more information about Visa NFL’s YOU+TEN Draft App, please visit: </em><a href="http://www.facebook.com/VisaNFL?sk=app_259824094080710" target="_blank">http://www.facebook.<wbr>com/VisaNFL?sk=app_<wbr>259824094080710</wbr></wbr></a>
+       <em>Disclosure: We received compensation from Visa for sharing our views in this post, but the views expressed here are solely ours, not Visa or the NFL’s. For more information about Visa NFL’s YOU+TEN Draft App, please visit: </em><a href="https://www.facebook.com/VisaNFL?sk=app_259824094080710" target="_blank">https://www.facebook.<wbr>com/VisaNFL?sk=app_<wbr>259824094080710</wbr></wbr></a>
     </p>
   </div>
 </div>

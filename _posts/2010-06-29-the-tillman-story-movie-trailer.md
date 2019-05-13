@@ -26,6 +26,6 @@ tags:
   </p>
 
   <p>
-    Check out the <a href="http://www.pattillmanfoundation.org/">Pat Tillman Foundation</a>, they help keep Pat's legacy alive.
+    Check out the <a href="https://www.pattillmanfoundation.org/">Pat Tillman Foundation</a>, they help keep Pat's legacy alive.
   </p>
 </div>

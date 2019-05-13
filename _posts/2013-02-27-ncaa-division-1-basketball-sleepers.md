@@ -34,7 +34,7 @@ tags:
   </p>
 
   <p>
-    For the common people, a sleeper team may often exceed expectations and even has a chance to win unexpectedly. These sleeper teams can be a good bet and one can check websites like <a href="http://www.wageronsports.com/wagering-strategy/college-basketball">wageronsports.com</a> for the betting options. These kinds of websites also provide NCAA basketball betting strategies, if someone is interested in learning the tricks.
+    For the common people, a sleeper team may often exceed expectations and even has a chance to win unexpectedly. These sleeper teams can be a good bet and one can check websites like <a href="https://www.wageronsports.com/wagering-strategy/college-basketball">wageronsports.com</a> for the betting options. These kinds of websites also provide NCAA basketball betting strategies, if someone is interested in learning the tricks.
   </p>
 
   <p>

@@ -43,6 +43,6 @@ tags:
   </p>
 
   <p>
-    via [<a href="http://www.usatoday.com/sports/football/nfl/2010-07-05-Russell-arrested_N.htm">USA Today / AP</a>]
+    via [<a href="https://www.usatoday.com/sports/football/nfl/2010-07-05-Russell-arrested_N.htm">USA Today / AP</a>]
   </p>
 </div>

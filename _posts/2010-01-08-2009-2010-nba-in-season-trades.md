@@ -18,19 +18,19 @@ categories:
   </p>
 
   <p>
-    <a href="http://www.chicagonow.com/blogs/sarah-spain/2010/02/bulls-trade-tyrus-thomas-to-bobcats-send-john-salmons-to-bucks.html">Charlotte Bobcats acquired F Tyrus Thomas from Chicago Bulls for a future first-round draft pick, G Flip Murray and G Acie Law. </a>
+    <a href="https://www.chicagonow.com/blogs/sarah-spain/2010/02/bulls-trade-tyrus-thomas-to-bobcats-send-john-salmons-to-bucks.html">Charlotte Bobcats acquired F Tyrus Thomas from Chicago Bulls for a future first-round draft pick, G Flip Murray and G Acie Law. </a>
   </p>
 
   <p>
-    <a href="http://www.mysanantonio.com/sports/spurs/84754662.html">Charlotte Bobcats acquired F Theo Ratliff from San Antonio for a future second-round draft pick.</a>
+    <a href="https://www.mysanantonio.com/sports/spurs/84754662.html">Charlotte Bobcats acquired F Theo Ratliff from San Antonio for a future second-round draft pick.</a>
   </p>
 
   <p>
-    <a href="http://www.chicagonow.com/blogs/sarah-spain/2010/02/bulls-trade-tyrus-thomas-to-bobcats-send-john-salmons-to-bucks.html">Chicago Bulls trade G John Salmons, 2011 second-round pick, and a 2012 second-round pick to Milwauke Brewers for F Joe Alexander and F Hakim Warrick</a>
+    <a href="https://www.chicagonow.com/blogs/sarah-spain/2010/02/bulls-trade-tyrus-thomas-to-bobcats-send-john-salmons-to-bucks.html">Chicago Bulls trade G John Salmons, 2011 second-round pick, and a 2012 second-round pick to Milwauke Brewers for F Joe Alexander and F Hakim Warrick</a>
   </p>
 
   <p>
-    <a href="http://www.nytimes.com/2010/02/19/sports/basketball/19mcgrady.html">New York Knicks acquired G-F Tracy McGrady from Houston for G-F Jared Jeffries, F Jordan Hill, a protected 2012 first-round pick and the right to exchange first-round picks in 2011. Houston received G Kevin Martin and F Hilton Armstrong from Sacramento for F Carl Landry and F Joey Dorsey. Sacramento received G Larry Hughes from New York for G Sergio Rodriguez. </a>
+    <a href="https://www.nytimes.com/2010/02/19/sports/basketball/19mcgrady.html">New York Knicks acquired G-F Tracy McGrady from Houston for G-F Jared Jeffries, F Jordan Hill, a protected 2012 first-round pick and the right to exchange first-round picks in 2011. Houston received G Kevin Martin and F Hilton Armstrong from Sacramento for F Carl Landry and F Joey Dorsey. Sacramento received G Larry Hughes from New York for G Sergio Rodriguez. </a>
   </p>
 
   <p>
@@ -38,7 +38,7 @@ categories:
   </p>
 
   <p>
-    <a href="http://www.philly.com/philly/sports/sixers/84762967.html">Philadelphia 76ers traded C Primoz Brezec, G Royal Ivey and a 2010 second-round draft pick to Milwaukee Bucks for G Jodies Meeks and C Francisco Elson</a>
+    <a href="https://www.philly.com/philly/sports/sixers/84762967.html">Philadelphia 76ers traded C Primoz Brezec, G Royal Ivey and a 2010 second-round draft pick to Milwaukee Bucks for G Jodies Meeks and C Francisco Elson</a>
   </p>
 
   <p>
@@ -46,7 +46,7 @@ categories:
   </p>
 
   <p>
-    <a href="http://www.nba.com/wizards/news/mcguire_100219.html">Washington Wizards traded F Dominic McGuire to Sacramento Kings for future second-round draft pick and cash</a>
+    <a href="https://www.nba.com/wizards/news/mcguire_100219.html">Washington Wizards traded F Dominic McGuire to Sacramento Kings for future second-round draft pick and cash</a>
   </p>
 
   <p>
@@ -54,7 +54,7 @@ categories:
   </p>
 
   <p>
-    <a href="http://www.twincities.com/sports/ci_14421520?nclick_check=1">New York Knicks trade F Darko Milicic to Minnesota Timberwolves for F Brian Cardinal</a>
+    <a href="https://www.twincities.com/sports/ci_14421520?nclick_check=1">New York Knicks trade F Darko Milicic to Minnesota Timberwolves for F Brian Cardinal</a>
   </p>
 
   <p>
@@ -74,7 +74,7 @@ categories:
   </p>
 
   <p>
-    <a href="http://www.usatoday.com/sports/basketball/nba/2010-01-26-hornets-clippers-trade_N.htm">New Orleans Hornets trade G Bobby Brown to Los Angeles Clippers for conditional 2nd round pick in 2014</a>
+    <a href="https://www.usatoday.com/sports/basketball/nba/2010-01-26-hornets-clippers-trade_N.htm">New Orleans Hornets trade G Bobby Brown to Los Angeles Clippers for conditional 2nd round pick in 2014</a>
   </p>
 
   <p>
@@ -94,7 +94,7 @@ categories:
   </p>
 
   <p>
-    <a href="http://www.insidehoops.com/blog/?p=5246">New Jersey nets acquired F Kris Humphries and F Shawne Williams from Dallas Mavericks for F Eduardo Najera</a>
+    <a href="https://www.insidehoops.com/blog/?p=5246">New Jersey nets acquired F Kris Humphries and F Shawne Williams from Dallas Mavericks for F Eduardo Najera</a>
   </p>
 
   <p>
@@ -110,7 +110,7 @@ categories:
   </p>
 
   <p>
-    <a href="http://www.azcentral.com/sports/suns/articles/2009/12/29/20091229-suns-alando-tucker-trade.html">Phoenix Suns trade G Alando Tucket to Minnesota Timberwolves for Jason Hart and a conditional 2nd round pick</a>
+    <a href="https://www.azcentral.com/sports/suns/articles/2009/12/29/20091229-suns-alando-tucker-trade.html">Phoenix Suns trade G Alando Tucket to Minnesota Timberwolves for Jason Hart and a conditional 2nd round pick</a>
   </p>
 
   <p>

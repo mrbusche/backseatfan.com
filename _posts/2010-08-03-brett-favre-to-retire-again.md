@@ -38,7 +38,7 @@ tags:
   </p>
 
   <p style="padding-left: 30px;">
-    <strong>A.)</strong> Favre is going unretire and play for one more season<br /> <strong>B.)</strong> Favre is going to <a href="http://www.nytimes.com/1996/05/15/sports/pro-football-favre-says-he-abused-painkillers-and-will-enter-treatment-center.html">overdose on painkillers</a>
+    <strong>A.)</strong> Favre is going unretire and play for one more season<br /> <strong>B.)</strong> Favre is going to <a href="https://www.nytimes.com/1996/05/15/sports/pro-football-favre-says-he-abused-painkillers-and-will-enter-treatment-center.html">overdose on painkillers</a>
   </p>
 
   <p>
@@ -46,7 +46,7 @@ tags:
   </p>
 
   <p>
-    He want's to build up the drama, he wants to get people talking, he wants people to want him back.  Everyone and their mother assumed Favre was coming back, so nobody made a big deal about it. Favre doesn't like that.  He wants to be on ESPN, he wants to be in all of the newspapers.  That's why he <a href="https://backseatfan.com/2010/04/favre-needs-ankle-surgery/">announced his surgery to Ed Werder</a>, and <a href="http://www.google.com/url?sa=t&source=web&cd=10&ved=0CD8QFjAJ&url=http%3A%2F%2Fbackseatfan.com%2F2010%2F02%2Fbrett-favre-injury-pictures%2F&ei=9TxYTJS0EsT58Ab1n9CUCw&usg=AFQjCNFCwtapVp8a6RsgElpZhkyoexDVFQ">took pictures of his disgusting ankle.</a>
+    He want's to build up the drama, he wants to get people talking, he wants people to want him back.  Everyone and their mother assumed Favre was coming back, so nobody made a big deal about it. Favre doesn't like that.  He wants to be on ESPN, he wants to be in all of the newspapers.  That's why he <a href="https://backseatfan.com/2010/04/favre-needs-ankle-surgery/">announced his surgery to Ed Werder</a>, and <a href="https://www.google.com/url?sa=t&source=web&cd=10&ved=0CD8QFjAJ&url=http%3A%2F%2Fbackseatfan.com%2F2010%2F02%2Fbrett-favre-injury-pictures%2F&ei=9TxYTJS0EsT58Ab1n9CUCw&usg=AFQjCNFCwtapVp8a6RsgElpZhkyoexDVFQ">took pictures of his disgusting ankle.</a>
   </p>
 
   <p>
@@ -54,7 +54,7 @@ tags:
   </p>
 
   <p>
-    When will Favre come back?  My Guess is about the <a href="http://www.youtube.com/watch?v=4Fsm0WIXqcE&feature=related">same time he came back last season</a>.  He will test his ankle out at the local high school, he will tell reporters he feels great, and Brad Childress will drive him into the Vikings Headquarters in a blacked out SUV. Favre will hold the same awww shucks press conference as he did last year.  And we will all eat it up.
+    When will Favre come back?  My Guess is about the <a href="https://www.youtube.com/watch?v=4Fsm0WIXqcE&feature=related">same time he came back last season</a>.  He will test his ankle out at the local high school, he will tell reporters he feels great, and Brad Childress will drive him into the Vikings Headquarters in a blacked out SUV. Favre will hold the same awww shucks press conference as he did last year.  And we will all eat it up.
   </p>
 
   <p>

@@ -23,7 +23,7 @@ tags:
   </p>
 
   <p>
-    <br /> <strong><a href="http://www.dailymotion.com/video/xe8mnb_brawl-at-arizona-cardinals-training_sport"><br /> </a></strong><em><a href="http://www.dailymotion.com/us/channel/sport"></a></em>
+    <br /> <strong><a href="https://www.dailymotion.com/video/xe8mnb_brawl-at-arizona-cardinals-training_sport"><br /> </a></strong><em><a href="https://www.dailymotion.com/us/channel/sport"></a></em>
   </p>
 
   <p>
@@ -41,6 +41,6 @@ tags:
   </p>
 
   <p>
-    <strong>Here is a <a href="http://www.azcardinals.com/photos-videos/videos/Spirited-Practice/43db0a84-e2ac-4cf5-98a6-b7fedeb76b95">better angle</a>:</strong>
+    <strong>Here is a <a href="https://www.azcardinals.com/photos-videos/videos/Spirited-Practice/43db0a84-e2ac-4cf5-98a6-b7fedeb76b95">better angle</a>:</strong>
   </p>
 </div>

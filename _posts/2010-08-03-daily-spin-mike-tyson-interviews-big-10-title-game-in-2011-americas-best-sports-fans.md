@@ -31,7 +31,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://sportsillustrated.cnn.com/2010/mma/boxing/07/28/tyson.interview/index.html">Mike Tyson Interview with Sports Illustrated</a>?  Why are <a href="http://www.details.com/culture-trends/news-and-politics/201008/interview-boxing-mike-tyson">crazy Mike Tyson interviews</a> coming out lately?  Not to mention he was doing the movie<a href="http://sportsradiointerviews.com/2010/08/02/mike-tyson-on-the-hangover-i-was-doing-that-to-supply-my-drug-habit/"> 'The Hangover' for drug money</a>? Is he really coming clean or just trying to make more money?  Either way, they are fantastic? [via <a href="http://sportsillustrated.cnn.com/2010/mma/boxing/07/28/tyson.interview/index.html">SI.com</a> / <a href="http://sportsradiointerviews.com/2010/08/02/mike-tyson-on-the-hangover-i-was-doing-that-to-supply-my-drug-habit/">Sports Radio Interviews</a>]
+    <a href="http://sportsillustrated.cnn.com/2010/mma/boxing/07/28/tyson.interview/index.html">Mike Tyson Interview with Sports Illustrated</a>?  Why are <a href="https://www.details.com/culture-trends/news-and-politics/201008/interview-boxing-mike-tyson">crazy Mike Tyson interviews</a> coming out lately?  Not to mention he was doing the movie<a href="http://sportsradiointerviews.com/2010/08/02/mike-tyson-on-the-hangover-i-was-doing-that-to-supply-my-drug-habit/"> 'The Hangover' for drug money</a>? Is he really coming clean or just trying to make more money?  Either way, they are fantastic? [via <a href="http://sportsillustrated.cnn.com/2010/mma/boxing/07/28/tyson.interview/index.html">SI.com</a> / <a href="http://sportsradiointerviews.com/2010/08/02/mike-tyson-on-the-hangover-i-was-doing-that-to-supply-my-drug-habit/">Sports Radio Interviews</a>]
   </p>
 
   <p>
@@ -39,7 +39,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.cleveland.com/cavs/index.ssf/2010/08/lebron_james_takes_out_an_ad_t.html">LeBron James Thanks Akron</a> by taking out a Newspaper Ad?  Well maybe if you did this in the begining things would have been different, but you had to follow Ilgauskas' Ad? [via <a href="http://www.cleveland.com/cavs/index.ssf/2010/08/lebron_james_takes_out_an_ad_t.html">Cleveland Plain Dealer</a>]
+    <a href="https://www.cleveland.com/cavs/index.ssf/2010/08/lebron_james_takes_out_an_ad_t.html">LeBron James Thanks Akron</a> by taking out a Newspaper Ad?  Well maybe if you did this in the begining things would have been different, but you had to follow Ilgauskas' Ad? [via <a href="https://www.cleveland.com/cavs/index.ssf/2010/08/lebron_james_takes_out_an_ad_t.html">Cleveland Plain Dealer</a>]
   </p>
 
   <p>
@@ -51,7 +51,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.forbes.com/2010/08/02/best-fans-teams-lifestyle-sports-fandom.html">America's Best Sports Fans</a>? I don't know how my Royals, Suns, and Vikings didn't make the cut? [via <a href="http://www.forbes.com/2010/08/02/best-fans-teams-lifestyle-sports-fandom.html">Forbes</a>]
+    <a href="https://www.forbes.com/2010/08/02/best-fans-teams-lifestyle-sports-fandom.html">America's Best Sports Fans</a>? I don't know how my Royals, Suns, and Vikings didn't make the cut? [via <a href="https://www.forbes.com/2010/08/02/best-fans-teams-lifestyle-sports-fandom.html">Forbes</a>]
   </p>
 
   <p>

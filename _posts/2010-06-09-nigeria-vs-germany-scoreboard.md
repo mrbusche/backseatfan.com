@@ -25,7 +25,7 @@ tags:
 
 <div class="entry">
   <p>
-    I'm not sure how many people thought this was real, but <a href="http://deadspin.com/">deadspin</a> did some fact checking and this definitely isn't a <a href="http://deadspin.com/5571852/debunking-the-ridiculous-racist-nigeria%20germany-scoreboard-e%20mail-forward">scoreboard from a real game</a>, rather a scoreboard from <a href="http://www.youtube.com/watch?v=-4beVIEEgKM">EA Sports' </a><em><a href="http://www.youtube.com/watch?v=-4beVIEEgKM">2010 FIFA World Cup South Africa</a>. </em>
+    I'm not sure how many people thought this was real, but <a href="http://deadspin.com/">deadspin</a> did some fact checking and this definitely isn't a <a href="http://deadspin.com/5571852/debunking-the-ridiculous-racist-nigeria%20germany-scoreboard-e%20mail-forward">scoreboard from a real game</a>, rather a scoreboard from <a href="https://www.youtube.com/watch?v=-4beVIEEgKM">EA Sports' </a><em><a href="https://www.youtube.com/watch?v=-4beVIEEgKM">2010 FIFA World Cup South Africa</a>. </em>
   </p>
 
   <p style="text-align: center;">

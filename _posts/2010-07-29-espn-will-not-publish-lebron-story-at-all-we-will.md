@@ -27,7 +27,7 @@ tags:
 
   <blockquote>
     <p>
-      via <a href="http://www.twitter.com/darrenrovell1">@darrenrovell1</a> said:
+      via <a href="https://www.twitter.com/darrenrovell1">@darrenrovell1</a> said:
     </p>
 
     <p>

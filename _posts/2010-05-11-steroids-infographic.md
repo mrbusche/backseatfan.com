@@ -28,6 +28,6 @@ tags:
   </p>
 
   <p style="text-align: center;">
-    <a href="http://www.medicalassistantschools.org/15-things-to-know-about-steroids/">[Medical Assistant  Schools]</a>
+    <a href="https://www.medicalassistantschools.org/15-things-to-know-about-steroids/">[Medical Assistant  Schools]</a>
   </p>
 </div>

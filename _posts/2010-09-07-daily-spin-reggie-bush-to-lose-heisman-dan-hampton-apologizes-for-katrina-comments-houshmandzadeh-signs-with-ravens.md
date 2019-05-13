@@ -25,11 +25,11 @@ tags:
   </p>
 
   <p>
-    Recently released Quarterback <a href="http://www.azcentral.com/sports/cardinals/articles/2010/09/06/20100906matt-leinart-houston-texans.html">Matt Leinart agrees to one-year deal with the Houston Texans</a>?.  Looks like Leinart isn't going to compete for a starting job, he will be competing to be the back up to Matt Schaub. I guess that is better than being the back up to Derek Anderson.  [via <a href="http://www.azcentral.com/sports/cardinals/articles/2010/09/06/20100906matt-leinart-houston-texans.html">AZ Central</a>]
+    Recently released Quarterback <a href="https://www.azcentral.com/sports/cardinals/articles/2010/09/06/20100906matt-leinart-houston-texans.html">Matt Leinart agrees to one-year deal with the Houston Texans</a>?.  Looks like Leinart isn't going to compete for a starting job, he will be competing to be the back up to Matt Schaub. I guess that is better than being the back up to Derek Anderson.  [via <a href="https://www.azcentral.com/sports/cardinals/articles/2010/09/06/20100906matt-leinart-houston-texans.html">AZ Central</a>]
   </p>
 
   <p>
-    <a href="http://www.profootballweekly.com/2010/09/06/dan-hamptons-statement-and-apology-for-katrina-com">Dan Hampton apologizes</a> for saying that the "<a href="https://backseatfan.com/2010/09/dan-hampton-vikings-should-hit-new-orleans-like-katrina/">Vikings should Hit New Orleans like Katrina</a>"?  I don't think that comment will ever be acceptable to say, you don't hear people in the media  commenting like that about other tragedies. [ via <a href="http://www.profootballweekly.com/2010/09/06/dan-hamptons-statement-and-apology-for-katrina-com">Pro Football Weekly</a>]
+    <a href="https://www.profootballweekly.com/2010/09/06/dan-hamptons-statement-and-apology-for-katrina-com">Dan Hampton apologizes</a> for saying that the "<a href="https://backseatfan.com/2010/09/dan-hampton-vikings-should-hit-new-orleans-like-katrina/">Vikings should Hit New Orleans like Katrina</a>"?  I don't think that comment will ever be acceptable to say, you don't hear people in the media  commenting like that about other tragedies. [ via <a href="https://www.profootballweekly.com/2010/09/06/dan-hamptons-statement-and-apology-for-katrina-com">Pro Football Weekly</a>]
   </p>
 
   <p>
@@ -37,6 +37,6 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.youtube.com/watch?v=m6tmrOolg6c">Boise State beat Virginia Tech</a>, here are some nice highlights.  Seems like everyone thinks Boise State is ready to compete for a National Championship, but isn't it a little to early to crown them?  Shouldn't we look at the rest of the field as well?  Maybe see how the rest of the season goes? [via <a href="http://www.youtube.com/watch?v=m6tmrOolg6c">ESPN</a>]<br />
+    <a href="https://www.youtube.com/watch?v=m6tmrOolg6c">Boise State beat Virginia Tech</a>, here are some nice highlights.  Seems like everyone thinks Boise State is ready to compete for a National Championship, but isn't it a little to early to crown them?  Shouldn't we look at the rest of the field as well?  Maybe see how the rest of the season goes? [via <a href="https://www.youtube.com/watch?v=m6tmrOolg6c">ESPN</a>]<br />
   </p>
 </div>

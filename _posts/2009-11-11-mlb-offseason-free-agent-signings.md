@@ -71,7 +71,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.mlbtraderumors.com/2010/03/red-sox-sign-scott-schoeneweis-.html">signed by Red Sox</a>
+        <a href="https://www.mlbtraderumors.com/2010/03/red-sox-sign-scott-schoeneweis-.html">signed by Red Sox</a>
       </td>
 
       <td>
@@ -141,7 +141,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.bizofbaseball.com/index.php?option=com_content&view=article&id=4147:transaction-action-dodgers-sign-garret-anderson-to-a-minor-league-contract&catid=66:free-agency-and-trades&Itemid=153">signed by Dodgers</a>
+        <a href="https://www.bizofbaseball.com/index.php?option=com_content&view=article&id=4147:transaction-action-dodgers-sign-garret-anderson-to-a-minor-league-contract&catid=66:free-agency-and-trades&Itemid=153">signed by Dodgers</a>
       </td>
 
       <td>
@@ -162,7 +162,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.bizofbaseball.com/index.php?option=com_content&view=article&id=3937:transaction-action-ryan-church-joins-pirates&catid=66:free-agency-and-trades&Itemid=153">signed by Pirates</a>
+        <a href="https://www.bizofbaseball.com/index.php?option=com_content&view=article&id=3937:transaction-action-ryan-church-joins-pirates&catid=66:free-agency-and-trades&Itemid=153">signed by Pirates</a>
       </td>
 
       <td>
@@ -205,7 +205,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.mlbtraderumors.com/2009/12/dbacks-close-to-deal-with-kelly-johnson.html">signed by Diamondbacks</a>
+        <a href="https://www.mlbtraderumors.com/2009/12/dbacks-close-to-deal-with-kelly-johnson.html">signed by Diamondbacks</a>
       </td>
 
       <td>
@@ -360,7 +360,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.mlbtraderumors.com/2010/01/orioles-reach-agreement-with-mark-hendrickson.htmlhttp://baltimore.orioles.mlb.com/news/article.jsp?ymd=20100209&content_id=8043714&vkey=news_bal&fext=.jsp&c_id=bal">resigned by Orioles</a>
+        <a href="https://www.mlbtraderumors.com/2010/01/orioles-reach-agreement-with-mark-hendrickson.htmlhttp://baltimore.orioles.mlb.com/news/article.jsp?ymd=20100209&content_id=8043714&vkey=news_bal&fext=.jsp&c_id=bal">resigned by Orioles</a>
       </td>
 
       <td>
@@ -403,7 +403,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.seattlepi.com/scorecard/mlbnews.asp?articleID=274125">signed by Rockies</a>
+        <a href="https://www.seattlepi.com/scorecard/mlbnews.asp?articleID=274125">signed by Rockies</a>
       </td>
 
       <td>
@@ -451,7 +451,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.mlbtraderumors.com/2010/03/baldelli-to-serve-as-special-assistant-for-rays.html">signed by Rays (Special Asst)</a>
+        <a href="https://www.mlbtraderumors.com/2010/03/baldelli-to-serve-as-special-assistant-for-rays.html">signed by Rays (Special Asst)</a>
       </td>
 
       <td>
@@ -473,7 +473,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.sportingnews.com/mlb/article/2009-12-29/report-mets-will-announce-jason-bay-signing">signed by Mets</a>
+        <a href="https://www.sportingnews.com/mlb/article/2009-12-29/report-mets-will-announce-jason-bay-signing">signed by Mets</a>
       </td>
 
       <td>
@@ -625,7 +625,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.bucsdugout.com/2010/1/4/1233487/bucs-sign-neal-cotts-brian-burres">signed by Pirates</a>
+        <a href="https://www.bucsdugout.com/2010/1/4/1233487/bucs-sign-neal-cotts-brian-burres">signed by Pirates</a>
       </td>
 
       <td>
@@ -710,7 +710,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.usatoday.com/sports/baseball/al/2010-02-05-3063021301_x.htm">signed by Blue Jays</a>
+        <a href="https://www.usatoday.com/sports/baseball/al/2010-02-05-3063021301_x.htm">signed by Blue Jays</a>
       </td>
 
       <td>
@@ -753,7 +753,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.usatoday.com/sports/baseball/nl/2010-02-02-692067445_x.htm">signed by Dodgers</a>
+        <a href="https://www.usatoday.com/sports/baseball/nl/2010-02-02-692067445_x.htm">signed by Dodgers</a>
       </td>
 
       <td>
@@ -780,7 +780,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.cbssports.com/mlb/players/playerpage/390710/dj-carrasco">signed by Pirates</a>
+        <a href="https://www.cbssports.com/mlb/players/playerpage/390710/dj-carrasco">signed by Pirates</a>
       </td>
 
       <td>
@@ -801,7 +801,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.mlbtraderumors.com/2010/01/white-sox-resign-ramon-castro.html">resigned by White Sox</a>
+        <a href="https://www.mlbtraderumors.com/2010/01/white-sox-resign-ramon-castro.html">resigned by White Sox</a>
       </td>
 
       <td>
@@ -912,7 +912,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.mlbtraderumors.com/2010/02/reds-sign-kip-wells.html">resigned by Reds</a>
+        <a href="https://www.mlbtraderumors.com/2010/02/reds-sign-kip-wells.html">resigned by Reds</a>
       </td>
 
       <td>
@@ -960,7 +960,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.cleveland.com/tribe/index.ssf/2009/12/rafael_perez_gets_contract_ant.html">resigned by Indians</a>
+        <a href="https://www.cleveland.com/tribe/index.ssf/2009/12/rafael_perez_gets_contract_ant.html">resigned by Indians</a>
       </td>
 
       <td>
@@ -981,7 +981,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.mlbtraderumors.com/2010/04/yokohama-baystars-sign-tomo-ohka.html">signed with Yokohama (Japan)</a>
+        <a href="https://www.mlbtraderumors.com/2010/04/yokohama-baystars-sign-tomo-ohka.html">signed with Yokohama (Japan)</a>
       </td>
 
       <td>
@@ -1002,7 +1002,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.cleveland.com/tribe/index.ssf/2009/12/rafael_perez_gets_contract_ant.html">resigned by Indians</a>
+        <a href="https://www.cleveland.com/tribe/index.ssf/2009/12/rafael_perez_gets_contract_ant.html">resigned by Indians</a>
       </td>
 
       <td>
@@ -1023,7 +1023,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.mlbtraderumors.com/2010/01/marlins-sign-jose-veras.html">signed by Marlins</a>
+        <a href="https://www.mlbtraderumors.com/2010/01/marlins-sign-jose-veras.html">signed by Marlins</a>
       </td>
 
       <td>
@@ -1050,7 +1050,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.google.com/url?sa=t&source=web&oi=news_result&ct=res&cd=1&ved=0CAkQqQIwAA&url=http%3A%2F%2Fwww.google.com%2Fhostednews%2Fap%2Farticle%2FALeqM5jfTNk-i5232ulRUv3ogh8whHmfkQD9CLAO5G1&ei=SPYqS6iPGcvclAfSsaGhBw&usg=AFQjCNGOfSpNX3vRpG5QreBYqT7_t6vwyQ&sig2=Wc1DYysyb24ZPS09qbE1Lghttp://www.purplerow.com/2009/12/17/1205274/thursday-rockpile-garrett-atkins">signed by Orioles</a>
+        <a href="https://www.google.com/url?sa=t&source=web&oi=news_result&ct=res&cd=1&ved=0CAkQqQIwAA&url=http%3A%2F%2Fwww.google.com%2Fhostednews%2Fap%2Farticle%2FALeqM5jfTNk-i5232ulRUv3ogh8whHmfkQD9CLAO5G1&ei=SPYqS6iPGcvclAfSsaGhBw&usg=AFQjCNGOfSpNX3vRpG5QreBYqT7_t6vwyQ&sig2=Wc1DYysyb24ZPS09qbE1Lghttps://www.purplerow.com/2009/12/17/1205274/thursday-rockpile-garrett-atkins">signed by Orioles</a>
       </td>
 
       <td>
@@ -1094,7 +1094,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.rotoworld.com/content/playerpages/player_main.aspx?sport=Mlb&id=2720">resigned by Rockies</a>
+        <a href="https://www.rotoworld.com/content/playerpages/player_main.aspx?sport=Mlb&id=2720">resigned by Rockies</a>
       </td>
 
       <td>
@@ -1115,7 +1115,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.lehighvalleylive.com/sports/index.ssf/2010/01/jose_contreras_signs_a_one-yea.html">signed by Phillies</a>
+        <a href="https://www.lehighvalleylive.com/sports/index.ssf/2010/01/jose_contreras_signs_a_one-yea.html">signed by Phillies</a>
       </td>
 
       <td>
@@ -1136,7 +1136,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.mlbtraderumors.com/2010/03/red-sox-sign-alan-embree.html">signed by Red Sox</a>
+        <a href="https://www.mlbtraderumors.com/2010/03/red-sox-sign-alan-embree.html">signed by Red Sox</a>
       </td>
 
       <td>
@@ -1178,7 +1178,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.miamiherald.com/2010/01/23/1441792/rockies-bring-back-giambi-for.html">resigned by Rockies</a>
+        <a href="https://www.miamiherald.com/2010/01/23/1441792/rockies-bring-back-giambi-for.html">resigned by Rockies</a>
       </td>
 
       <td>
@@ -1199,7 +1199,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.mlbtraderumors.com/2010/01/royals-sign-matt-herges.html">signed by Royals</a>
+        <a href="https://www.mlbtraderumors.com/2010/01/royals-sign-matt-herges.html">signed by Royals</a>
       </td>
 
       <td>
@@ -1221,7 +1221,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.mlbtraderumors.com/2009/12/nationals-to-sign-jason-marquis.html">signed by Nationals</a>
+        <a href="https://www.mlbtraderumors.com/2009/12/nationals-to-sign-jason-marquis.html">signed by Nationals</a>
       </td>
 
       <td>
@@ -1242,7 +1242,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.rotoworld.com/CONTENT/playerpages/player_main.aspx?sport=Mlb&id=3221">resigned by Rockies</a>
+        <a href="https://www.rotoworld.com/CONTENT/playerpages/player_main.aspx?sport=Mlb&id=3221">resigned by Rockies</a>
       </td>
 
       <td>
@@ -1311,7 +1311,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.mlbtraderumors.com/2010/01/giants-agree-to-sign-aubrey-huff.html">signed by Giants</a>
+        <a href="https://www.mlbtraderumors.com/2010/01/giants-agree-to-sign-aubrey-huff.html">signed by Giants</a>
       </td>
 
       <td>
@@ -1377,7 +1377,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.nytimes.com/auth/login?URI=/2009/12/25/sports/baseball/25base.html&OQ=_rQ3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR">signed by Angels</a>
+        <a href="https://www.nytimes.com/auth/login?URI=/2009/12/25/sports/baseball/25base.html&OQ=_rQ3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR">signed by Angels</a>
       </td>
 
       <td>
@@ -1445,7 +1445,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.usatoday.com/sports/baseball/nl/2010-03-04-1469921682_x.htm">signed by Mets</a>
+        <a href="https://www.usatoday.com/sports/baseball/nl/2010-03-04-1469921682_x.htm">signed by Mets</a>
       </td>
 
       <td>
@@ -1487,7 +1487,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.mlbtraderumors.com/2009/12/nationals-to-sign-jason-marquis.html">signed by Phillies</a>
+        <a href="https://www.mlbtraderumors.com/2009/12/nationals-to-sign-jason-marquis.html">signed by Phillies</a>
       </td>
 
       <td>
@@ -1509,7 +1509,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.nypost.com/p/sports/yankees/yankees_johnson_agree_to_deal_krNyE5NGv1klqolEe7j3iM">signed by Yankees</a>
+        <a href="https://www.nypost.com/p/sports/yankees/yankees_johnson_agree_to_deal_krNyE5NGv1klqolEe7j3iM">signed by Yankees</a>
       </td>
 
       <td>
@@ -1536,7 +1536,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.usatoday.com/sports/baseball/2010-02-23-aaron-boone-espn_N.htm">retired</a>
+        <a href="https://www.usatoday.com/sports/baseball/2010-02-23-aaron-boone-espn_N.htm">retired</a>
       </td>
 
       <td>
@@ -1557,7 +1557,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.mlbtraderumors.com/2010/01/doug-brocail-retires.html">retired</a>
+        <a href="https://www.mlbtraderumors.com/2010/01/doug-brocail-retires.html">retired</a>
       </td>
 
       <td>
@@ -1708,7 +1708,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.mlbtraderumors.com/2010/01/reds-sign-josh-anderson-to-minor-league-deal.html">signed by Reds</a>
+        <a href="https://www.mlbtraderumors.com/2010/01/reds-sign-josh-anderson-to-minor-league-deal.html">signed by Reds</a>
       </td>
 
       <td>
@@ -1750,7 +1750,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.mlbtraderumors.com/2009/12/royals-sign-bruce-chen-vance-wilson-four-others.html">resigned by Royals</a>
+        <a href="https://www.mlbtraderumors.com/2009/12/royals-sign-bruce-chen-vance-wilson-four-others.html">resigned by Royals</a>
       </td>
 
       <td>
@@ -1814,7 +1814,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.mlbtraderumors.com/2010/02/indians-sign-jamey-wright.html">signed by Indians</a>
+        <a href="https://www.mlbtraderumors.com/2010/02/indians-sign-jamey-wright.html">signed by Indians</a>
       </td>
 
       <td>
@@ -1862,7 +1862,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.mlbtraderumors.com/2010/01/rangers-sign-matt-brown.html">signed by Rangers</a>
+        <a href="https://www.mlbtraderumors.com/2010/01/rangers-sign-matt-brown.html">signed by Rangers</a>
       </td>
 
       <td>
@@ -1925,7 +1925,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.associatedcontent.com/article/2575181/texas_rangers_sign_vladimir_guerrero.html">signed by Rangers</a>
+        <a href="https://www.associatedcontent.com/article/2575181/texas_rangers_sign_vladimir_guerrero.html">signed by Rangers</a>
       </td>
 
       <td>
@@ -1967,7 +1967,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.mlbtraderumors.com/2010/02/yankees-sign-dustin-moseley.html">signed by Yankees</a>
+        <a href="https://www.mlbtraderumors.com/2010/02/yankees-sign-dustin-moseley.html">signed by Yankees</a>
       </td>
 
       <td>
@@ -2009,7 +2009,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.mlbtraderumors.com/2010/02/angels-to-resign-robb-quinlan.html">resigned by Angels</a>
+        <a href="https://www.mlbtraderumors.com/2010/02/angels-to-resign-robb-quinlan.html">resigned by Angels</a>
       </td>
 
       <td>
@@ -2036,7 +2036,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.mlbtraderumors.com/2010/01/dodgers-agree-to-deal-with-brad-ausmus.html">resigned by Dodgers</a>
+        <a href="https://www.mlbtraderumors.com/2010/01/dodgers-agree-to-deal-with-brad-ausmus.html">resigned by Dodgers</a>
       </td>
 
       <td>
@@ -2058,7 +2058,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.tsn.ca/mlb/story/?id=307743">resigned by Dodgers</a>
+        <a href="https://www.tsn.ca/mlb/story/?id=307743">resigned by Dodgers</a>
       </td>
 
       <td>
@@ -2144,7 +2144,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.usatoday.com/sports/baseball/nl/2010-01-25-3691356135_x.htm">retired, hired by Padres FO</a>
+        <a href="https://www.usatoday.com/sports/baseball/nl/2010-01-25-3691356135_x.htm">retired, hired by Padres FO</a>
       </td>
 
       <td>
@@ -2206,7 +2206,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.mlbtraderumors.com/2010/02/giants-sign-guillermo-mota.html">signed by Giants</a>
+        <a href="https://www.mlbtraderumors.com/2010/02/giants-sign-guillermo-mota.html">signed by Giants</a>
       </td>
 
       <td>
@@ -2228,7 +2228,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.baltimoresun.com/topic/sports/baseball/major-league-baseball-T15007055.topic">signed by Orioles</a>
+        <a href="https://www.baltimoresun.com/topic/sports/baseball/major-league-baseball-T15007055.topic">signed by Orioles</a>
       </td>
 
       <td>
@@ -2383,7 +2383,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.mlbtraderumors.com/2010/01/mets-sign-frank-catalanatto.html">signed by Mets</a>
+        <a href="https://www.mlbtraderumors.com/2010/01/mets-sign-frank-catalanatto.html">signed by Mets</a>
       </td>
 
       <td>
@@ -2404,7 +2404,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.mercurynews.com/giants/ci_13994545">resigned by Brewers</a>
+        <a href="https://www.mercurynews.com/giants/ci_13994545">resigned by Brewers</a>
       </td>
 
       <td>
@@ -2510,7 +2510,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.fantasysp.com/player/mlb/Seth_McClung/772889">signed by Marlins</a>
+        <a href="https://www.fantasysp.com/player/mlb/Seth_McClung/772889">signed by Marlins</a>
       </td>
 
       <td>
@@ -2552,7 +2552,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.prosportsdaily.com/forums/showthread.php?t=438533">signed by Yankees</a>
+        <a href="https://www.prosportsdaily.com/forums/showthread.php?t=438533">signed by Yankees</a>
       </td>
 
       <td>
@@ -2573,7 +2573,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.mlbtraderumors.com/2010/01/athletics-eyeing-sheets-or-damon.html">signed by Athletics</a>
+        <a href="https://www.mlbtraderumors.com/2010/01/athletics-eyeing-sheets-or-damon.html">signed by Athletics</a>
       </td>
 
       <td>
@@ -2594,7 +2594,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.mlbtraderumors.com/2009/12/brewers-to-resign-claudio-vargas.html">resigned by Brewers</a>
+        <a href="https://www.mlbtraderumors.com/2009/12/brewers-to-resign-claudio-vargas.html">resigned by Brewers</a>
       </td>
 
       <td>
@@ -2682,7 +2682,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.sportsnetwork.com/merge/tsnform.aspx?c=sportsnetwork&page=mlb/news/newstest.aspx?id=4300003">resigned by Twins</a>
+        <a href="https://www.sportsnetwork.com/merge/tsnform.aspx?c=sportsnetwork&page=mlb/news/newstest.aspx?id=4300003">resigned by Twins</a>
       </td>
 
       <td>
@@ -2704,7 +2704,7 @@ tags:
       </td>
 
       <td>
-        <a href="https://secure.passport.mnginteractive.com/mngi/servletDispatch/ErightsPassportServlet.dyn?url=http://www.twincities.com/allheadlines/ci_13946714?nclick_check=1&forced=true">Accepted Arbitration</a>
+        <a href="https://secure.passport.mnginteractive.com/mngi/servletDispatch/ErightsPassportServlet.dyn?url=https://www.twincities.com/allheadlines/ci_13946714?nclick_check=1&forced=true">Accepted Arbitration</a>
       </td>
 
       <td>
@@ -2725,7 +2725,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.mlbtraderumors.com/2010/01/indians-sign-mike-redmond.html">signed by Indians</a>
+        <a href="https://www.mlbtraderumors.com/2010/01/indians-sign-mike-redmond.html">signed by Indians</a>
       </td>
 
       <td>
@@ -2814,7 +2814,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.usatoday.com/sports/baseball/nl/2009-12-11-3437121638_x.htm">resigned by Mets</a>
+        <a href="https://www.usatoday.com/sports/baseball/nl/2009-12-11-3437121638_x.htm">resigned by Mets</a>
       </td>
 
       <td>
@@ -2854,7 +2854,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.mlbtraderumors.com/2009/12/white-sox-jj-putz-agree-to-terms.html">signed by White Sox</a>
+        <a href="https://www.mlbtraderumors.com/2009/12/white-sox-jj-putz-agree-to-terms.html">signed by White Sox</a>
       </td>
 
       <td>
@@ -2875,7 +2875,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.mlbtraderumors.com/2010/01/rockies-sign-tim-redding.html">signed by Rockies</a>
+        <a href="https://www.mlbtraderumors.com/2010/01/rockies-sign-tim-redding.html">signed by Rockies</a>
       </td>
 
       <td>
@@ -2957,7 +2957,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.metsblog.com/2010/01/20/news-cory-sullivan-agrees-to-deal-with-astros/">signed by Astros</a>
+        <a href="https://www.metsblog.com/2010/01/20/news-cory-sullivan-agrees-to-deal-with-astros/">signed by Astros</a>
       </td>
 
       <td>
@@ -3027,7 +3027,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.rotowire.com/Jerry-HairstonJr.-googid310171-spmlb.htm">signed by Padres</a>
+        <a href="https://www.rotowire.com/Jerry-HairstonJr.-googid310171-spmlb.htm">signed by Padres</a>
       </td>
 
       <td>
@@ -3069,7 +3069,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.philly.com/philly/hp/sports/79477792.html">signed by Angels</a>
+        <a href="https://www.philly.com/philly/hp/sports/79477792.html">signed by Angels</a>
       </td>
 
       <td>
@@ -3203,7 +3203,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.usatoday.com/sports/baseball/al/2010-01-07-1059320622_x.htm">resigned by Athletics</a>
+        <a href="https://www.usatoday.com/sports/baseball/al/2010-01-07-1059320622_x.htm">resigned by Athletics</a>
       </td>
 
       <td>
@@ -3225,7 +3225,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.mlbtraderumors.com/2009/12/athletics-optimistic-about-signing-duchscherer.html">resigned by Athletics</a>
+        <a href="https://www.mlbtraderumors.com/2009/12/athletics-optimistic-about-signing-duchscherer.html">resigned by Athletics</a>
       </td>
 
       <td>
@@ -3267,7 +3267,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.mlbtraderumors.com/2010/02/nationals-agree-to-deal-with-adam-kennedy.html">signed by Nationals</a>
+        <a href="https://www.mlbtraderumors.com/2010/02/nationals-agree-to-deal-with-adam-kennedy.html">signed by Nationals</a>
       </td>
 
       <td>
@@ -3288,7 +3288,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.mlbtraderumors.com/2010/02/athletics-sign-brett-tomko-jason-jennings.html">resigned by Athletics</a>
+        <a href="https://www.mlbtraderumors.com/2010/02/athletics-sign-brett-tomko-jason-jennings.html">resigned by Athletics</a>
       </td>
 
       <td>
@@ -3334,7 +3334,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.mlbtraderumors.com/2010/01/reds-sign-miguel-cairo.html">signed by Reds</a>
+        <a href="https://www.mlbtraderumors.com/2010/01/reds-sign-miguel-cairo.html">signed by Reds</a>
       </td>
 
       <td>
@@ -3377,7 +3377,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.mlbtraderumors.com/2010/01/scott-eyre-retires.html">announced retirement</a>
+        <a href="https://www.mlbtraderumors.com/2010/01/scott-eyre-retires.html">announced retirement</a>
       </td>
 
       <td>
@@ -3398,7 +3398,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.fantasysp.com/player/mlb/Pedro_Feliz/689247">signed by Astros</a>
+        <a href="https://www.fantasysp.com/player/mlb/Pedro_Feliz/689247">signed by Astros</a>
       </td>
 
       <td>
@@ -3460,7 +3460,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.mlbtraderumors.com/2010/02/yankees-sign-chan-ho-park.html">signed by Yankees</a>
+        <a href="https://www.mlbtraderumors.com/2010/02/yankees-sign-chan-ho-park.html">signed by Yankees</a>
       </td>
 
       <td>
@@ -3535,7 +3535,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.metsblog.com/2009/12/10/news-mets-renegotiate-hanry-blancos-contract/">signed by Mets</a>
+        <a href="https://www.metsblog.com/2009/12/10/news-mets-renegotiate-hanry-blancos-contract/">signed by Mets</a>
       </td>
 
       <td>
@@ -3557,7 +3557,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.mlbtraderumors.com/2010/02/dodgers-sign-brian-giles.html">signed by Dodgers</a>/<a href="http://latimesblogs.latimes.com/dodgers/2010/03/brian-giles-the-dodger-experiment-comes-to-a-close-with-his-retirement.html">Retired</a>
+        <a href="https://www.mlbtraderumors.com/2010/02/dodgers-sign-brian-giles.html">signed by Dodgers</a>/<a href="http://latimesblogs.latimes.com/dodgers/2010/03/brian-giles-the-dodger-experiment-comes-to-a-close-with-his-retirement.html">Retired</a>
       </td>
 
       <td>
@@ -3578,7 +3578,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.baseball-fever.com/showthread.php?95104-Padres-sign-Kevin-Correia-non-tender-Worrell-and-Quezada">resgined by Padres</a>
+        <a href="https://www.baseball-fever.com/showthread.php?95104-Padres-sign-Kevin-Correia-non-tender-Worrell-and-Quezada">resgined by Padres</a>
       </td>
 
       <td>
@@ -3626,7 +3626,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.seattlepi.com/scorecard/mlbnews.asp?articleID=182743">retirement</a>
+        <a href="https://www.seattlepi.com/scorecard/mlbnews.asp?articleID=182743">retirement</a>
       </td>
 
       <td>
@@ -3668,7 +3668,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.azcentral.com/sports/diamondbacks/articles/2009/12/26/20091226spt-diamondbacks-bob-howry.html">signed by Diamondbacks</a>
+        <a href="https://www.azcentral.com/sports/diamondbacks/articles/2009/12/26/20091226spt-diamondbacks-bob-howry.html">signed by Diamondbacks</a>
       </td>
 
       <td>
@@ -3754,7 +3754,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.mlbtraderumors.com/2009/12/giants-reach-agreement-with-juan-uribe.htmlhttp://www.mlbtraderumors.com/2009/01/giants-sign-jua.html">resigned by Giants</a>
+        <a href="https://www.mlbtraderumors.com/2009/12/giants-reach-agreement-with-juan-uribe.htmlhttps://www.mlbtraderumors.com/2009/01/giants-sign-jua.html">resigned by Giants</a>
       </td>
 
       <td>
@@ -3803,7 +3803,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.usatoday.com/sports/baseball/nl/2010-01-29-3568539069_x.htm">signed by Nationals</a>
+        <a href="https://www.usatoday.com/sports/baseball/nl/2010-01-29-3568539069_x.htm">signed by Nationals</a>
       </td>
 
       <td>
@@ -3931,7 +3931,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.mlbtraderumors.com/2010/02/mariners-sign-mike-sweeney.html">resigned by Mariners</a>
+        <a href="https://www.mlbtraderumors.com/2010/02/mariners-sign-mike-sweeney.html">resigned by Mariners</a>
       </td>
 
       <td>
@@ -4085,7 +4085,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.ksdk.com/news/local/story.aspx?storyid=190713&catid=3">resigned by Cardinals</a>
+        <a href="https://www.ksdk.com/news/local/story.aspx?storyid=190713&catid=3">resigned by Cardinals</a>
       </td>
 
       <td>
@@ -4146,7 +4146,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.csnbayarea.com/02/10/10/Giants-Sign-RHP-Wellemeyer/landing.html?blockID=178360&feedID=2796">signed by Giants</a>
+        <a href="https://www.csnbayarea.com/02/10/10/Giants-Sign-RHP-Wellemeyer/landing.html?blockID=178360&feedID=2796">signed by Giants</a>
       </td>
 
       <td>
@@ -4192,7 +4192,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.mlbtraderumors.com/2010/01/athletics-pursuing-gabe-gross.html">signed by Athletics</a>
+        <a href="https://www.mlbtraderumors.com/2010/01/athletics-pursuing-gabe-gross.html">signed by Athletics</a>
       </td>
 
       <td>
@@ -4273,7 +4273,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.mlbtraderumors.com/2010/02/mets-sign-shawn-riggans.html">signed by Mets</a>
+        <a href="https://www.mlbtraderumors.com/2010/02/mets-sign-shawn-riggans.html">signed by Mets</a>
       </td>
 
       <td>
@@ -4295,7 +4295,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.mlbtraderumors.com/2010/01/red-sox-sign-brian-shouse.html">signed by Red Sox</a>
+        <a href="https://www.mlbtraderumors.com/2010/01/red-sox-sign-brian-shouse.html">signed by Red Sox</a>
       </td>
 
       <td>
@@ -4364,7 +4364,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.mlbtraderumors.com/2010/02/rays-sign-joaquin-benoit.html">signed by Rays</a>
+        <a href="https://www.mlbtraderumors.com/2010/02/rays-sign-joaquin-benoit.html">signed by Rays</a>
       </td>
 
       <td>
@@ -4385,7 +4385,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.sportingnews.com/mlb/article/2010-03-07/rays-hank-blalock-reportedly-close-agreement">signed by Rays</a>
+        <a href="https://www.sportingnews.com/mlb/article/2010-03-07/rays-hank-blalock-reportedly-close-agreement">signed by Rays</a>
       </td>
 
       <td>
@@ -4428,7 +4428,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.nationalslocker.com/2009/12/26/the-washington-nationals-sign-eddie-guardado/">signed by Nationals</a>, then released
+        <a href="https://www.nationalslocker.com/2009/12/26/the-washington-nationals-sign-eddie-guardado/">signed by Nationals</a>, then released
       </td>
 
       <td>
@@ -4492,7 +4492,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.google.com/hostednews/ap/article/ALeqM5jl1XX7vou7vc_5xsi8UBHw00z6IAD9C5INJ00">signed by White Sox</a>
+        <a href="https://www.google.com/hostednews/ap/article/ALeqM5jl1XX7vou7vc_5xsi8UBHw00z6IAD9C5INJ00">signed by White Sox</a>
       </td>
 
       <td>
@@ -4541,7 +4541,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.mlbtraderumors.com/2009/12/blue-jays-sign-joey-gathright-raul-chavez.html">resigned by Blue Jays</a>
+        <a href="https://www.mlbtraderumors.com/2009/12/blue-jays-sign-joey-gathright-raul-chavez.html">resigned by Blue Jays</a>
       </td>
 
       <td>
@@ -4583,7 +4583,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.mlbtraderumors.com/2010/02/cubs-to-sign-kevin-millar.html">signed by Cubs</a>
+        <a href="https://www.mlbtraderumors.com/2010/02/cubs-to-sign-kevin-millar.html">signed by Cubs</a>
       </td>
 
       <td>
@@ -4653,7 +4653,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.miamiherald.com/2010/02/24/1497981/nationals-sign-livan-hernandez.html">resigned by Nationals</a>
+        <a href="https://www.miamiherald.com/2010/02/24/1497981/nationals-sign-livan-hernandez.html">resigned by Nationals</a>
       </td>
 
       <td>
@@ -4674,7 +4674,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.mlbtraderumors.com/2010/01/indians-sign-austin-kearns.html">signed by Indians</a>
+        <a href="https://www.mlbtraderumors.com/2010/01/indians-sign-austin-kearns.html">signed by Indians</a>
       </td>
 
       <td>
@@ -4695,7 +4695,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.mlbtraderumors.com/2010/02/marlins-sign-mike-macdougal.html">signed by Marlins</a>
+        <a href="https://www.mlbtraderumors.com/2010/02/marlins-sign-mike-macdougal.html">signed by Marlins</a>
       </td>
 
       <td>
@@ -4716,7 +4716,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.washingtonpost.com/wp-dyn/content/article/2009/12/13/AR2009121303264.html">resigned by Nationals</a>
+        <a href="https://www.washingtonpost.com/wp-dyn/content/article/2009/12/13/AR2009121303264.html">resigned by Nationals</a>
       </td>
 
       <td>
@@ -4785,7 +4785,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.mercurynews.com/giants/ci_14142431">signed by Royals</a>
+        <a href="https://www.mercurynews.com/giants/ci_14142431">signed by Royals</a>
       </td>
 
       <td>
@@ -4833,7 +4833,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.mlbtraderumors.com/2010/02/braves-interested-in-edward-salcedo.html">signed by Braves</a>
+        <a href="https://www.mlbtraderumors.com/2010/02/braves-interested-in-edward-salcedo.html">signed by Braves</a>
       </td>
 
       <td>
@@ -4860,7 +4860,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.nypost.com/p/sports/mets/mets_sign_igarashi_to_two_year_deal_z66M0MoaH3aJOaq16RtAsN">signed by Mets</a>
+        <a href="https://www.nypost.com/p/sports/mets/mets_sign_igarashi_to_two_year_deal_z66M0MoaH3aJOaq16RtAsN">signed by Mets</a>
       </td>
 
       <td>
@@ -4998,7 +4998,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.mlbtraderumors.com/2010/02/giants-to-sign-byunghyun-kim.html">signed by Giants</a>
+        <a href="https://www.mlbtraderumors.com/2010/02/giants-to-sign-byunghyun-kim.html">signed by Giants</a>
       </td>
 
       <td>
@@ -5019,7 +5019,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.mlbtraderumors.com/2010/02/nationals-sign-shawn-estes-to-minor-league-deal.html">signed by Nationals</a>
+        <a href="https://www.mlbtraderumors.com/2010/02/nationals-sign-shawn-estes-to-minor-league-deal.html">signed by Nationals</a>
       </td>
 
       <td>
@@ -5040,7 +5040,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.mlbtraderumors.com/2010/02/brad-wilkerson-agrees-to-deal-with-phillies.html">signed by Phillies</a>
+        <a href="https://www.mlbtraderumors.com/2010/02/brad-wilkerson-agrees-to-deal-with-phillies.html">signed by Phillies</a>
       </td>
 
       <td>
@@ -5054,6 +5054,6 @@ tags:
   </p>
 
   <div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 855px; width: 1px; height: 1px;">
-    http://www.google.com/url?sa=t&source=web&oi=news_result&ct=res&cd=1&ved=0CAkQqQIwAA&url=http%3A%2F%2Fwww.google.com%2Fhostednews%2Fap%2Farticle%2FALeqM5iCmhVlsr17KQPskw3YTRjA2A7hFAD9CILV501&ei=BfYqS6KRB4OylAfFoNmbBw&usg=AFQjCNE9UDeTY7KxtZaviSDgQq19N27XFA&sig2=Zk6fFRzdE7vTD0tuArefug
+    https://www.google.com/url?sa=t&source=web&oi=news_result&ct=res&cd=1&ved=0CAkQqQIwAA&url=http%3A%2F%2Fwww.google.com%2Fhostednews%2Fap%2Farticle%2FALeqM5iCmhVlsr17KQPskw3YTRjA2A7hFAD9CILV501&ei=BfYqS6KRB4OylAfFoNmbBw&usg=AFQjCNE9UDeTY7KxtZaviSDgQq19N27XFA&sig2=Zk6fFRzdE7vTD0tuArefug
   </div>
 </div>

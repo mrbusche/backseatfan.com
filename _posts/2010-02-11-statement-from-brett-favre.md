@@ -17,7 +17,7 @@ tags:
 
 <div class="entry">
   <p>
-    Here is a statement from Brett Favre off of his <a href="http://www.officialbrettfavre.com/">website</a>
+    Here is a statement from Brett Favre off of his <a href="https://www.officialbrettfavre.com/">website</a>
   </p>
 
   <blockquote>

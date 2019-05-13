@@ -16,7 +16,7 @@ categories:
 
 <div class="entry">
   <p>
-    <a href="http://www.nfl.com/videos/nfl-game-highlights/09000d5d813ade41/Peterson-runs-over-William-Gay">Adrian Peterson runs over William Gay</a> Since it is an NFL.com video it can't be embedded. Adrian Peterson is just a beast, there aren't many offensive players in the NFL who love contact as much as he does. I'd like to hear what William Gay had to say after that play.
+    <a href="https://www.nfl.com/videos/nfl-game-highlights/09000d5d813ade41/Peterson-runs-over-William-Gay">Adrian Peterson runs over William Gay</a> Since it is an NFL.com video it can't be embedded. Adrian Peterson is just a beast, there aren't many offensive players in the NFL who love contact as much as he does. I'd like to hear what William Gay had to say after that play.
   </p>
 
   <p>

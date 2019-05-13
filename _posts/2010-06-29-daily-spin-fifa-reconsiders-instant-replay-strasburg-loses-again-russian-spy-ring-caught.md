@@ -30,11 +30,11 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.kpho.com/news/24073325/detail.html">Father kills infant child</a> for crying during the World Cup?  He prefers vuvuzela noise over crying baby noise?  That guy is crazy, deserves to be in jail.  [via <a href="http://www.kpho.com/news/24073325/detail.html">KPHO</a>]
+    <a href="https://www.kpho.com/news/24073325/detail.html">Father kills infant child</a> for crying during the World Cup?  He prefers vuvuzela noise over crying baby noise?  That guy is crazy, deserves to be in jail.  [via <a href="https://www.kpho.com/news/24073325/detail.html">KPHO</a>]
   </p>
 
   <p>
-    Mark Brunell filed for <a href="http://www.jaxdailyrecord.com/showstory.php?Story_id=531319">chapter 11 bankruptcy</a> -  He earned roughly $52 million while playing in NFL? In related news, Mark Brunell considering coming out of retirement? - [via <a href="http://www.jaxdailyrecord.com/showstory.php?Story_id=531319">Jax Daily Record</a>]
+    Mark Brunell filed for <a href="https://www.jaxdailyrecord.com/showstory.php?Story_id=531319">chapter 11 bankruptcy</a> -  He earned roughly $52 million while playing in NFL? In related news, Mark Brunell considering coming out of retirement? - [via <a href="https://www.jaxdailyrecord.com/showstory.php?Story_id=531319">Jax Daily Record</a>]
   </p>
 
   <p>
@@ -46,7 +46,7 @@ tags:
   </p>
 
   <p>
-    US Justice Department broke up a <a href="http://www.bloomberg.com/news/2010-06-29/u-s-espionage-claims-recall-cold-war-spy-mania-russian-government-says.html">Russian Spy Ring</a>? I had no idea the cold war was still going on, this should make Olympic hockey a little more interesting in 2014? Especially considering it is in Sochi, Russia.   [ via <a href="http://www.bloomberg.com/news/2010-06-29/u-s-espionage-claims-recall-cold-war-spy-mania-russian-government-says.html">Bloomberg</a>]
+    US Justice Department broke up a <a href="https://www.bloomberg.com/news/2010-06-29/u-s-espionage-claims-recall-cold-war-spy-mania-russian-government-says.html">Russian Spy Ring</a>? I had no idea the cold war was still going on, this should make Olympic hockey a little more interesting in 2014? Especially considering it is in Sochi, Russia.   [ via <a href="https://www.bloomberg.com/news/2010-06-29/u-s-espionage-claims-recall-cold-war-spy-mania-russian-government-says.html">Bloomberg</a>]
   </p>
 
   <p>

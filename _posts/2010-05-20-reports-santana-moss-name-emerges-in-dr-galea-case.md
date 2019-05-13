@@ -18,7 +18,7 @@ categories:
   </p>
 
   <p>
-    According to the <a href="http://www.buffalonews.com/2010/05/20/1056021/nfl-name-emerges-in-doping-case.html">Buffalo News</a> Redskins WR Santana Moss is/was a patient of Dr. Galea. It hasn't been reported that Santana Moss was the player Dr. Galea was going to visit, but that seems like the likely outcome here.
+    According to the <a href="https://www.buffalonews.com/2010/05/20/1056021/nfl-name-emerges-in-doping-case.html">Buffalo News</a> Redskins WR Santana Moss is/was a patient of Dr. Galea. It hasn't been reported that Santana Moss was the player Dr. Galea was going to visit, but that seems like the likely outcome here.
   </p>
 
   <p>

@@ -22,6 +22,6 @@ categories:
   </p>
 
   <p>
-    <a href="http://www.nfl.com/videos/nfl-game-highlights/09000d5d81c1aac7/WK-10-Can-t-Miss-Play-Hail-Mary">David Garrard threw a 50 yard Hail Mary</a> pass to that was batted down by Glover Quinn and bounced right into the hands of a sprinting Mike Thomas. If there is not a website dedicating to what game Gus Johnson is calling each week there needs to be. It's hard not to love this guy.
+    <a href="https://www.nfl.com/videos/nfl-game-highlights/09000d5d81c1aac7/WK-10-Can-t-Miss-Play-Hail-Mary">David Garrard threw a 50 yard Hail Mary</a> pass to that was batted down by Glover Quinn and bounced right into the hands of a sprinting Mike Thomas. If there is not a website dedicating to what game Gus Johnson is calling each week there needs to be. It's hard not to love this guy.
   </p>
 </div>

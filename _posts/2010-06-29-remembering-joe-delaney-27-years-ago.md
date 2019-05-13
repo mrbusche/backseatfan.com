@@ -53,6 +53,6 @@ tags:
   </p>
 
   <p>
-    Sources: <a href="http://www.arrowheadpride.com/2009/6/29/928757/kansas-city-chiefs-rb-joe-delaney">Arrowhead Pride</a> and <a href="http://sportsillustrated.cnn.com/vault/article/magazine/MAG1121456/index.htm">Sports Illustrated Archive</a>
+    Sources: <a href="https://www.arrowheadpride.com/2009/6/29/928757/kansas-city-chiefs-rb-joe-delaney">Arrowhead Pride</a> and <a href="http://sportsillustrated.cnn.com/vault/article/magazine/MAG1121456/index.htm">Sports Illustrated Archive</a>
   </p>
 </div>

@@ -14,6 +14,6 @@ categories:
 
 <div class="entry">
   <p>
-    The 30th ranked Tennessee Titans pass defense shut down the Miami Dolphins and rookie QB Ryan Tannehill today. Tannehill, who had put together a string of 'good enough' games to get the Dolphins wins in 3 of the last 4 games (one win aided by matt Moore in relief). This is a game I'm sure many of the bettors in the world had money on, especially with Miami a 4.5 point favorite against a Tennessee team that hasn't had a semblance of an offense all year. If you knew the Titans would roll today you may want to <a href="http://www.sportsbettingworld.com/home/">visit SportsBettingWorld.com for sports bets</a> and put your money where your mouth is!
+    The 30th ranked Tennessee Titans pass defense shut down the Miami Dolphins and rookie QB Ryan Tannehill today. Tannehill, who had put together a string of 'good enough' games to get the Dolphins wins in 3 of the last 4 games (one win aided by matt Moore in relief). This is a game I'm sure many of the bettors in the world had money on, especially with Miami a 4.5 point favorite against a Tennessee team that hasn't had a semblance of an offense all year. If you knew the Titans would roll today you may want to <a href="https://www.sportsbettingworld.com/home/">visit SportsBettingWorld.com for sports bets</a> and put your money where your mouth is!
   </p>
 </div>

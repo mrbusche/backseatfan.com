@@ -28,7 +28,7 @@ categories:
   </p>
 
   <p>
-    NFL.com has full coverage of the game and all the injuries <a href="http://www.nfl.com/videos/nfl-game-highlights/09000d5d81a7b87f/Packers-vs-Eagles-highlights">here</a>
+    NFL.com has full coverage of the game and all the injuries <a href="https://www.nfl.com/videos/nfl-game-highlights/09000d5d81a7b87f/Packers-vs-Eagles-highlights">here</a>
   </p>
 
   <p>

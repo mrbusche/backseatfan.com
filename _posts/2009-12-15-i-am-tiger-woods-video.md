@@ -18,7 +18,7 @@ categories:
   </p>
 
   <div style="text-align:left;font-size:x-small;margin-top:0;width:512px;">
-    <a href="http://www.funnyordie.com/videos/a4820e5cbc/i-am-tiger-woods" title="from TWoods">I am Tiger Woods</a> from <a href="http://www.funnyordie.com/twoods">TWoods</a>
+    <a href="https://www.funnyordie.com/videos/a4820e5cbc/i-am-tiger-woods" title="from TWoods">I am Tiger Woods</a> from <a href="https://www.funnyordie.com/twoods">TWoods</a>
   </div>
 
   <p>

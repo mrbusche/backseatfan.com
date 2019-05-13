@@ -176,6 +176,6 @@ tags:
   </p>
 
   <p>
-    [via<a href="http://www.youtube.com/user/K0ACHK"> KOACHK Youtube</a>] - check out more madden videos from E3
+    [via<a href="https://www.youtube.com/user/K0ACHK"> KOACHK Youtube</a>] - check out more madden videos from E3
   </p>
 </div>

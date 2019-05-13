@@ -14,7 +14,7 @@ categories:
 
 <div class="entry">
   <p>
-    The <a href="http://www.nascarhall.com/">NASCAR Hall of Fame</a> is kicking off its opening day with a star-studded ceremony.
+    The <a href="https://www.nascarhall.com/">NASCAR Hall of Fame</a> is kicking off its opening day with a star-studded ceremony.
   </p>
 
   <p>

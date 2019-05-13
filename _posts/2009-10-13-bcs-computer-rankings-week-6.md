@@ -42,7 +42,7 @@ tags:
   </p>
 
   <p>
-    <strong><a href="http://prwolfe.bol.ucla.edu/cfootball/ratings.htm">Peter Wolfe </a></strong>- The first ratings will be posted October 18, 2009.<br /> <a href="http://www.colleyrankings.com/"><strong>Wes Colley</strong> </a>- Current<br /> <strong><a href="http://www.usatoday.com/sports/sagarin/fbt09.htm">Sagarin </a></strong>- Current<br /> <strong><a href="http://www.andersonsports.com/">Anderson/Hester Seattle Times </a></strong>- Current<br /> <strong><a href="http://www.cfrc.com/">Richard Billingsley </a></strong>- Current<br /> <strong><a href="http://www.masseyratings.com/">Kenneth Massey</a></strong> - Current
+    <strong><a href="http://prwolfe.bol.ucla.edu/cfootball/ratings.htm">Peter Wolfe </a></strong>- The first ratings will be posted October 18, 2009.<br /> <a href="https://www.colleyrankings.com/"><strong>Wes Colley</strong> </a>- Current<br /> <strong><a href="https://www.usatoday.com/sports/sagarin/fbt09.htm">Sagarin </a></strong>- Current<br /> <strong><a href="https://www.andersonsports.com/">Anderson/Hester Seattle Times </a></strong>- Current<br /> <strong><a href="https://www.cfrc.com/">Richard Billingsley </a></strong>- Current<br /> <strong><a href="https://www.masseyratings.com/">Kenneth Massey</a></strong> - Current
   </p>
 
   <p>
@@ -60,25 +60,25 @@ tags:
   <table style="cursor: default;" border="1" cellspacing="0" cellpadding="4">
     <tr>
       <td style="color: #000000; font-size: 11px; cursor: text; margin: 8px;">
-        <strong><a href="http://www.colleyrankings.com/">Colley</a></strong><br /> 1. Iowa<br /> 2. Alabama<br /> 3. Virginia Tech<br /> 4. Florida<br /> 5. Texas<br /> 6. LSU<br /> 7. TCU<br /> 8. Kansas<br /> 9. Oregon<br /> 10. Cincinnati
+        <strong><a href="https://www.colleyrankings.com/">Colley</a></strong><br /> 1. Iowa<br /> 2. Alabama<br /> 3. Virginia Tech<br /> 4. Florida<br /> 5. Texas<br /> 6. LSU<br /> 7. TCU<br /> 8. Kansas<br /> 9. Oregon<br /> 10. Cincinnati
       </td>
 
       <td style="color: #000000; font-size: 11px; cursor: text; margin: 8px;">
-        <strong><a href="http://www.usatoday.com/sports/sagarin/fbt09.htm">Sagarin<br /> </a></strong>1. Florida<br /> 2. Alabama<br /> 3. Virginia Tech<br /> 4. Boise State<br /> 5. LSU<br /> 6. Oregon<br /> 7. Iowa<br /> 8. USC<br /> 9. Cincinnati<br /> 10. Miami - Florida
+        <strong><a href="https://www.usatoday.com/sports/sagarin/fbt09.htm">Sagarin<br /> </a></strong>1. Florida<br /> 2. Alabama<br /> 3. Virginia Tech<br /> 4. Boise State<br /> 5. LSU<br /> 6. Oregon<br /> 7. Iowa<br /> 8. USC<br /> 9. Cincinnati<br /> 10. Miami - Florida
       </td>
 
       <td style="color: #000000; font-size: 11px; cursor: text; margin: 8px;">
-        <strong><a href="http://www.cfrc.com/">Billingsley<br /> </a></strong>1. Florida<br /> 2. Alabama<br /> 3. LSU<br /> 4. Texas<br /> 5. TCU<br /> 6. Boise State<br /> 7. Oregon<br /> 8. Iowa<br /> 9. Ohio State<br /> 10. Virginia Tech
+        <strong><a href="https://www.cfrc.com/">Billingsley<br /> </a></strong>1. Florida<br /> 2. Alabama<br /> 3. LSU<br /> 4. Texas<br /> 5. TCU<br /> 6. Boise State<br /> 7. Oregon<br /> 8. Iowa<br /> 9. Ohio State<br /> 10. Virginia Tech
       </td>
     </tr>
 
     <tr>
       <td style="color: #000000; font-size: 11px; cursor: text; margin: 8px;">
-        <strong><a href="http://www.masseyratings.com/">Massey</a></strong><strong><span style="font-weight: normal;"> </span></strong><br /> 1. Alabama<br /> 2. Florida<br /> 3. Virginia Tech<br /> 4. Texas<br /> 5. Nebraska<br /> 6. Boise State<br /> 7. USC<br /> 8. Cincinnati<br /> 9. TCU<br /> 10. Iowa
+        <strong><a href="https://www.masseyratings.com/">Massey</a></strong><strong><span style="font-weight: normal;"> </span></strong><br /> 1. Alabama<br /> 2. Florida<br /> 3. Virginia Tech<br /> 4. Texas<br /> 5. Nebraska<br /> 6. Boise State<br /> 7. USC<br /> 8. Cincinnati<br /> 9. TCU<br /> 10. Iowa
       </td>
 
       <td style="color: #000000; font-size: 11px; cursor: text; margin: 8px;">
-        <strong><a href="http://www.andersonsports.com/">Seattle Times</a></strong><strong><span style="font-weight: normal;"> </span></strong><br /> 1. Florida<br /> 2. Alabama<br /> 3. Iowa<br /> 4. Boise State<br /> 5. Texas<br /> 6. LSU<br /> 7. Cincinnati<br /> 8. Virginia Tech<br /> 9. Oregon<br /> 10. TCU
+        <strong><a href="https://www.andersonsports.com/">Seattle Times</a></strong><strong><span style="font-weight: normal;"> </span></strong><br /> 1. Florida<br /> 2. Alabama<br /> 3. Iowa<br /> 4. Boise State<br /> 5. Texas<br /> 6. LSU<br /> 7. Cincinnati<br /> 8. Virginia Tech<br /> 9. Oregon<br /> 10. TCU
       </td>
 
       <td style="color: #000000; font-size: 11px; cursor: text; margin: 8px;" valign="top">

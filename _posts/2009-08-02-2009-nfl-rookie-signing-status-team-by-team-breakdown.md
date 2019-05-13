@@ -33,7 +33,7 @@ categories:
   </p>
 
   <p>
-    <em>Latest to sign 6. Cincinnati - Andre Smith, OT, Alabama<a href="http://www.bengals.com/news/article-1/update-smith-in-fold/633533b2-1318-48ad-8453-c077b1930aca">4 years $26M; $21M G</a></em>
+    <em>Latest to sign 6. Cincinnati - Andre Smith, OT, Alabama<a href="https://www.bengals.com/news/article-1/update-smith-in-fold/633533b2-1318-48ad-8453-c077b1930aca">4 years $26M; $21M G</a></em>
   </p>
 
   <p>
@@ -65,7 +65,7 @@ categories:
   </p>
 
   <p>
-    Cincinnati Bengals<br /> 6. Andre Smith, OT, Alabama <a href="http://www.bengals.com/news/article-1/update-smith-in-fold/633533b2-1318-48ad-8453-c077b1930aca">4 years $26M; $21M G</a><br /> 38. Rey Maualuga, LB, USC 4 years $4.66M; $2.84G<br /> 70. Michael Johnson, DE, Georgia Tech 4 years $ undisclosed<br /> 98. Chase Coffman, TE, Missouri 4 years $ undisclosed<br /> 106. Jonathan Luigs, OC, Arkansas 4 years $2.259M: $509,500 SB<br /> 142. Kevin Huber, P, Cincinnati 4 years $ undisclosed<br /> 179. Morgan Trent, CB, Michigan 4 years, $1.862M; $112K SB<br /> 209. Bernard Scott, RB, Abilene Christian 4 years $1.827M; $77,500 SB<br /> 215. Fui Vakapuna, FB, BYU 4 years $1.811M; $62K SB<br /> 249. Clinton McDonald, DE, Memphis 4 years $1.789M; $39K SB<br /> 252. Freddie Brown, WR, Utah 4 years $1.7875M; $37,588 SB
+    Cincinnati Bengals<br /> 6. Andre Smith, OT, Alabama <a href="https://www.bengals.com/news/article-1/update-smith-in-fold/633533b2-1318-48ad-8453-c077b1930aca">4 years $26M; $21M G</a><br /> 38. Rey Maualuga, LB, USC 4 years $4.66M; $2.84G<br /> 70. Michael Johnson, DE, Georgia Tech 4 years $ undisclosed<br /> 98. Chase Coffman, TE, Missouri 4 years $ undisclosed<br /> 106. Jonathan Luigs, OC, Arkansas 4 years $2.259M: $509,500 SB<br /> 142. Kevin Huber, P, Cincinnati 4 years $ undisclosed<br /> 179. Morgan Trent, CB, Michigan 4 years, $1.862M; $112K SB<br /> 209. Bernard Scott, RB, Abilene Christian 4 years $1.827M; $77,500 SB<br /> 215. Fui Vakapuna, FB, BYU 4 years $1.811M; $62K SB<br /> 249. Clinton McDonald, DE, Memphis 4 years $1.789M; $39K SB<br /> 252. Freddie Brown, WR, Utah 4 years $1.7875M; $37,588 SB
   </p>
 
   <p>
@@ -77,7 +77,7 @@ categories:
   </p>
 
   <p>
-    Denver Broncos<br /> 12. Denver - Knowshon Moreno, RB, Georgia -<a href="http://www.sltrib.com/sports/ci_13018923">5 years $23M $13M G</a><br /> 18. Robert Ayers, DE, Tennessee - 5 Years $ undisclosed<br /> 37. Alphonso Smith, CB, Wake Forest 4 years $4.08M; $2.15M SB<br /> 48. Darcel McBath, DB, Texas Tech 4 years $ $3.85M; $2.01M G<br /> 64. Richard Quinn, TE, North Carolina 4 years $ $2.68M; $1.24M G<br /> 114. David Bruton, S, Notre Dame 4 years $ undisclosed<br /> 132. Seth Olsen, G, Iowa 4 years $2.16M; $414K SB<br /> 141. Kenny McKinley, WR, South Carolina 4 years $ undisclosed<br /> 174. Tom Brandstater, QB, Fresno State 4 years $ undisclosed<br /> 225. Blake Schlueter, OC, TCU 4 years$1.807M; $57K SB
+    Denver Broncos<br /> 12. Denver - Knowshon Moreno, RB, Georgia -<a href="https://www.sltrib.com/sports/ci_13018923">5 years $23M $13M G</a><br /> 18. Robert Ayers, DE, Tennessee - 5 Years $ undisclosed<br /> 37. Alphonso Smith, CB, Wake Forest 4 years $4.08M; $2.15M SB<br /> 48. Darcel McBath, DB, Texas Tech 4 years $ $3.85M; $2.01M G<br /> 64. Richard Quinn, TE, North Carolina 4 years $ $2.68M; $1.24M G<br /> 114. David Bruton, S, Notre Dame 4 years $ undisclosed<br /> 132. Seth Olsen, G, Iowa 4 years $2.16M; $414K SB<br /> 141. Kenny McKinley, WR, South Carolina 4 years $ undisclosed<br /> 174. Tom Brandstater, QB, Fresno State 4 years $ undisclosed<br /> 225. Blake Schlueter, OC, TCU 4 years$1.807M; $57K SB
   </p>
 
   <p>
@@ -85,11 +85,11 @@ categories:
   </p>
 
   <p>
-    Green Bay Packers<br /> 9. B.J. Raji, DT, Boston College<a style="color: #cc0000;" href="http://www.jsonline.com/blogs/sports/53185617.html">5 years $28.5M; 18M G</a><br /> 26. Clay Matthews, LB, USC 5 years $10M w/ max $13.275M<br /> 109. T.J. Lang, OT, Eastern Michigan 4 years $1.75M; $502,500SB<br /> 145. Quinn Johnson, FB, LSU 4 years $ undisclosed<br /> 162. Jamon Meredith, OT, South Carolina 4 years $1.922M; $172,500 SB<br /> 182. Jarius Wynn, DE, Georgia 4 years $1.858M; $108K SB<br /> 187. Brandon Underwood, CB, Cincinnati 4 years $1.852M; $102,200 SB<br /> 218. Brad Jones, LB, Colorado 4 years $1.81M; $60,250 SB
+    Green Bay Packers<br /> 9. B.J. Raji, DT, Boston College<a style="color: #cc0000;" href="https://www.jsonline.com/blogs/sports/53185617.html">5 years $28.5M; 18M G</a><br /> 26. Clay Matthews, LB, USC 5 years $10M w/ max $13.275M<br /> 109. T.J. Lang, OT, Eastern Michigan 4 years $1.75M; $502,500SB<br /> 145. Quinn Johnson, FB, LSU 4 years $ undisclosed<br /> 162. Jamon Meredith, OT, South Carolina 4 years $1.922M; $172,500 SB<br /> 182. Jarius Wynn, DE, Georgia 4 years $1.858M; $108K SB<br /> 187. Brandon Underwood, CB, Cincinnati 4 years $1.852M; $102,200 SB<br /> 218. Brad Jones, LB, Colorado 4 years $1.81M; $60,250 SB
   </p>
 
   <p>
-    Houston Texans<br /> 15. Brian Cushing, LB, USC -<a style="color: #cc0000;" href="http://www.chron.com/disp/story.mpl/sports/fb/texansfront/6557049.html">5 Years $14M $10.44M G</a><br /> 46. Connor Barwin, DE, Cincinnati 4 years $ undisclosed<br /> 77. Antoine Caldwell, OC, Alabama 4 years $ undisclosed<br /> 112. Glover Quin, CB, New Mexico 4 years $ undisclosed<br /> 122. Anthony Hill, TE, North Carolina State 4 years $2.2065M; $456,500SB<br /> 152. James Casey, TE, Rice 4 years $ undisclosed<br /> 188. Brice McCain, CB, Utah 4 years $1.851M; $101,750 SB<br /> 223. Troy Nolan, S, Arizona State 4 years $1.808M; $58,260 SB
+    Houston Texans<br /> 15. Brian Cushing, LB, USC -<a style="color: #cc0000;" href="https://www.chron.com/disp/story.mpl/sports/fb/texansfront/6557049.html">5 Years $14M $10.44M G</a><br /> 46. Connor Barwin, DE, Cincinnati 4 years $ undisclosed<br /> 77. Antoine Caldwell, OC, Alabama 4 years $ undisclosed<br /> 112. Glover Quin, CB, New Mexico 4 years $ undisclosed<br /> 122. Anthony Hill, TE, North Carolina State 4 years $2.2065M; $456,500SB<br /> 152. James Casey, TE, Rice 4 years $ undisclosed<br /> 188. Brice McCain, CB, Utah 4 years $1.851M; $101,750 SB<br /> 223. Troy Nolan, S, Arizona State 4 years $1.808M; $58,260 SB
   </p>
 
   <p>
@@ -101,7 +101,7 @@ categories:
   </p>
 
   <p>
-    Kansas City Chiefs<br /> 3. Kansas City - Tyson Jackson, DE, LSU - <a href="http://www.arrowheadpride.com/2009/8/6/980248/report-tyson-jacksons-contract">5 Years <span><span>$57M $31M G </span></span></a><br /> 67. Alex Magee, DT, Purdue 3 years $ undisclosed<br /> 102. Donald Washington, CB, Ohio State 3 years $ undisclosed<br /> 139. Colin Brown, OT, Missouri 3 years, $1.33M; $154,000 SB<br /> 175. Quinten Lawrence, WR, McNeese State 3 years $1.275M; $90K SB<br /> 212. Javarris Williams, RB, Tennessee State 3 years $ undisclosed<br /> 237. Jake O'Connell, WR, Miami (Ohio) 3 years $1.785M; $35,175 SB<br /> 256. Ryan Succop, K, South Carolina 3years $1.21M; $25,000 SB
+    Kansas City Chiefs<br /> 3. Kansas City - Tyson Jackson, DE, LSU - <a href="https://www.arrowheadpride.com/2009/8/6/980248/report-tyson-jacksons-contract">5 Years <span><span>$57M $31M G </span></span></a><br /> 67. Alex Magee, DT, Purdue 3 years $ undisclosed<br /> 102. Donald Washington, CB, Ohio State 3 years $ undisclosed<br /> 139. Colin Brown, OT, Missouri 3 years, $1.33M; $154,000 SB<br /> 175. Quinten Lawrence, WR, McNeese State 3 years $1.275M; $90K SB<br /> 212. Javarris Williams, RB, Tennessee State 3 years $ undisclosed<br /> 237. Jake O'Connell, WR, Miami (Ohio) 3 years $1.785M; $35,175 SB<br /> 256. Ryan Succop, K, South Carolina 3years $1.21M; $25,000 SB
   </p>
 
   <p>
@@ -109,7 +109,7 @@ categories:
   </p>
 
   <p>
-    Minnesota Vikings<br /> 22. Percy Harvin, WR, Florida<a style="color: #cc0000;" href="http://www.mercurynews.com/breakingsports/ci_12978385?nclick_check=1">5 Years $14.2M max; $8.5MG</a><br /> 54. Phil Loadholt, OT, Oklahoma 4 years $ undisclosed<br /> 86. Asher Allen, CB, Georgia Terms undisclosed<br /> 150. Jasper Brinkley, LB, South Carolina 4 years terms undisclosed<br /> 231. Jamarca Sanford, S, Mississippi 4 years $1.799M; $49K SB
+    Minnesota Vikings<br /> 22. Percy Harvin, WR, Florida<a style="color: #cc0000;" href="https://www.mercurynews.com/breakingsports/ci_12978385?nclick_check=1">5 Years $14.2M max; $8.5MG</a><br /> 54. Phil Loadholt, OT, Oklahoma 4 years $ undisclosed<br /> 86. Asher Allen, CB, Georgia Terms undisclosed<br /> 150. Jasper Brinkley, LB, South Carolina 4 years terms undisclosed<br /> 231. Jamarca Sanford, S, Mississippi 4 years $1.799M; $49K SB
   </p>
 
   <p>
@@ -117,7 +117,7 @@ categories:
   </p>
 
   <p>
-    New Orleans Saints<br /> 14. Malcolm Jenkins, CB, Ohio State<a style="color: #cc0000;" href="http://www.2theadvocate.com/sports/saints/52874332.html">5 years $ undisclosed</a><br /> 116. Chip Vaughn, S, Wake Forest 4 years $ undisclosed<br /> 118. Stanley Arnoux, LB, Wake Forest - Injured most likely will not play this season<br /> 164. Thomas Morstead, P, Southern Methodist 4 years $ undisclosed
+    New Orleans Saints<br /> 14. Malcolm Jenkins, CB, Ohio State<a style="color: #cc0000;" href="https://www.2theadvocate.com/sports/saints/52874332.html">5 years $ undisclosed</a><br /> 116. Chip Vaughn, S, Wake Forest 4 years $ undisclosed<br /> 118. Stanley Arnoux, LB, Wake Forest - Injured most likely will not play this season<br /> 164. Thomas Morstead, P, Southern Methodist 4 years $ undisclosed
   </p>
 
   <p>

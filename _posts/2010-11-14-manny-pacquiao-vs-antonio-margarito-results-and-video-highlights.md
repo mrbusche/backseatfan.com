@@ -25,6 +25,6 @@ tags:
   </p>
 
   <p>
-    After the fight Antonio Margarito was rushed to the hospital, head on over to <a href="http://www.myboxingfans.com/2010/11/exclusive-antonio-margarito-rush-the-hospital/">MyBoxingFans.com</a> for the video<br />
+    After the fight Antonio Margarito was rushed to the hospital, head on over to <a href="https://www.myboxingfans.com/2010/11/exclusive-antonio-margarito-rush-the-hospital/">MyBoxingFans.com</a> for the video<br />
   </p>
 </div>

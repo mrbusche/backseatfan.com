@@ -43,7 +43,7 @@ tags:
   </p>
 
   <p>
-    For the past two years, <em>E:60 </em>has followed the story of Ed Thomas, the celebrated Iowa high school football coach who helped his town rebuild after a devastating tornado and was later murdered by one of his former players. In the aftermath of Mark Becker’s recent conviction for the killing, ESPN reporter <a href="http://www.espnmediazone3.com/us/2009/10/cyphers_steve/" target="_blank"><strong>Steve Cyphers</strong></a><strong> </strong>goes back to Iowa for exclusive interviews with Jan Thomas, the widow of Ed Thomas, and members of the Becker family. The Thomas and Becker families, friends before the tragedy, have helped each other with the healing process.
+    For the past two years, <em>E:60 </em>has followed the story of Ed Thomas, the celebrated Iowa high school football coach who helped his town rebuild after a devastating tornado and was later murdered by one of his former players. In the aftermath of Mark Becker’s recent conviction for the killing, ESPN reporter <a href="https://www.espnmediazone3.com/us/2009/10/cyphers_steve/" target="_blank"><strong>Steve Cyphers</strong></a><strong> </strong>goes back to Iowa for exclusive interviews with Jan Thomas, the widow of Ed Thomas, and members of the Becker family. The Thomas and Becker families, friends before the tragedy, have helped each other with the healing process.
   </p>
 
   <p>

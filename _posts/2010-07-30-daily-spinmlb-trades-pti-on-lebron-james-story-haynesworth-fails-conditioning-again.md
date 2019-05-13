@@ -27,11 +27,11 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.telegraph.co.uk/news/worldnews/asia/northkorea/7918468/North-Korean-football-team-shamed-in-six-hour-public-inquiry-over-World-Cup.html">North Korea  publicly shamed their Soccer team</a> for poor play in the World cup? I always thought they would have told their citizens that they won the World Cup, and it was a great success? [via <a href="http://www.telegraph.co.uk/news/worldnews/asia/northkorea/7918468/North-Korean-football-team-shamed-in-six-hour-public-inquiry-over-World-Cup.html">Telegraph</a>]
+    <a href="https://www.telegraph.co.uk/news/worldnews/asia/northkorea/7918468/North-Korean-football-team-shamed-in-six-hour-public-inquiry-over-World-Cup.html">North Korea  publicly shamed their Soccer team</a> for poor play in the World cup? I always thought they would have told their citizens that they won the World Cup, and it was a great success? [via <a href="https://www.telegraph.co.uk/news/worldnews/asia/northkorea/7918468/North-Korean-football-team-shamed-in-six-hour-public-inquiry-over-World-Cup.html">Telegraph</a>]
   </p>
 
   <p>
-    <a href="http://www.baltimoresun.com/sports/orioles/bs-sp-orioles-trade-miguel-tejada-07320100729,0,6356865.story">Baltimore Orioles traded Miguel Tejada</a> to the San Diego Padres for minor league right-handed pitcher Wynn Pelzer? [via <a href="http://www.baltimoresun.com/sports/orioles/bs-sp-orioles-trade-miguel-tejada-07320100729,0,6356865.story">Baltimore Sun</a>]
+    <a href="https://www.baltimoresun.com/sports/orioles/bs-sp-orioles-trade-miguel-tejada-07320100729,0,6356865.story">Baltimore Orioles traded Miguel Tejada</a> to the San Diego Padres for minor league right-handed pitcher Wynn Pelzer? [via <a href="https://www.baltimoresun.com/sports/orioles/bs-sp-orioles-trade-miguel-tejada-07320100729,0,6356865.story">Baltimore Sun</a>]
   </p>
 
   <p>
@@ -43,7 +43,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.usatoday.com/sports/football/nfl/ravens/2010-07-30-domonique-foxworth_N.htm">Ravens CB Domonique Foxworth is out for the season</a>? This kind of ruins my #2 power rankings spot for the Ravens, but hopefully they will find a decent replacement? [via<a href="http://www.usatoday.com/sports/football/nfl/ravens/2010-07-30-domonique-foxworth_N.htm"> USA Today</a>]
+    <a href="https://www.usatoday.com/sports/football/nfl/ravens/2010-07-30-domonique-foxworth_N.htm">Ravens CB Domonique Foxworth is out for the season</a>? This kind of ruins my #2 power rankings spot for the Ravens, but hopefully they will find a decent replacement? [via<a href="https://www.usatoday.com/sports/football/nfl/ravens/2010-07-30-domonique-foxworth_N.htm"> USA Today</a>]
   </p>
 
   <p>

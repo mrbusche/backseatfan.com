@@ -32,7 +32,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.nydailynews.com/sports/football/jets/2010/08/01/2010-08-01_darrelle_revis_officially_holding_out_from_new_york_jets_training_camp_amid_cont.html">Jet's CB Darrelle Revis is holding out</a>.He wants to be the top paid CB in the league, since he is the best CB in the league? Just pay the man his money and get him into camp.  He is worth it? [via <a href="http://www.nydailynews.com/sports/football/jets/2010/08/01/2010-08-01_darrelle_revis_officially_holding_out_from_new_york_jets_training_camp_amid_cont.html">NYDN</a>]
+    <a href="https://www.nydailynews.com/sports/football/jets/2010/08/01/2010-08-01_darrelle_revis_officially_holding_out_from_new_york_jets_training_camp_amid_cont.html">Jet's CB Darrelle Revis is holding out</a>.He wants to be the top paid CB in the league, since he is the best CB in the league? Just pay the man his money and get him into camp.  He is worth it? [via <a href="https://www.nydailynews.com/sports/football/jets/2010/08/01/2010-08-01_darrelle_revis_officially_holding_out_from_new_york_jets_training_camp_amid_cont.html">NYDN</a>]
   </p>
 
   <p>
@@ -48,7 +48,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.miamiherald.com/2010/08/01/v-fullstory/1755789/james-story-points-out-flaws-of.html">A nice article on LeBron</a>, journalism, and the story that ESPN published then pulled? The E in ESPN stands for Entertainment? Why isn't there a M for Money in there somewhere?  [via <a href="http://www.miamiherald.com/2010/08/01/v-fullstory/1755789/james-story-points-out-flaws-of.html">Miami Herald</a>]
+    <a href="https://www.miamiherald.com/2010/08/01/v-fullstory/1755789/james-story-points-out-flaws-of.html">A nice article on LeBron</a>, journalism, and the story that ESPN published then pulled? The E in ESPN stands for Entertainment? Why isn't there a M for Money in there somewhere?  [via <a href="https://www.miamiherald.com/2010/08/01/v-fullstory/1755789/james-story-points-out-flaws-of.html">Miami Herald</a>]
   </p>
 
   <p>
@@ -59,7 +59,7 @@ tags:
   </p>
 
   <p>
-    via [<a href="http://www.myfoxdfw.com/dpp/sports/nfl/cowboys/kardashian-visits-miles-at-camp">Fox DFW</a>]
+    via [<a href="https://www.myfoxdfw.com/dpp/sports/nfl/cowboys/kardashian-visits-miles-at-camp">Fox DFW</a>]
   </p>
 
   <p>

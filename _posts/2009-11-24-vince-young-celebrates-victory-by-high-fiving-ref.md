@@ -22,7 +22,7 @@ categories:
   </p>
 
   <p>
-    With this new picture (via <a href="http://www.sportspickle.com/">Sports Pickle</a>), it looks like this maybe wasn't quite a spur of the moment thing? Maybe referee Jerome Boger had the Titans in his eliminator pool? This picture looks like it may have been photoshopped though, since Vince does not appear to be running like he does in the first picture.<a href="/images/2009/11/VY2.jpg"><img class="aligncenter size-medium wp-image-2741" title="VY2" src="/images/2009/11/VY2-300x234.jpg" alt="VY2" width="300" height="234" srcset="/images/2009/11/VY2-300x234.jpg 300w, /images/2009/11/VY2.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+    With this new picture (via <a href="https://www.sportspickle.com/">Sports Pickle</a>), it looks like this maybe wasn't quite a spur of the moment thing? Maybe referee Jerome Boger had the Titans in his eliminator pool? This picture looks like it may have been photoshopped though, since Vince does not appear to be running like he does in the first picture.<a href="/images/2009/11/VY2.jpg"><img class="aligncenter size-medium wp-image-2741" title="VY2" src="/images/2009/11/VY2-300x234.jpg" alt="VY2" width="300" height="234" srcset="/images/2009/11/VY2-300x234.jpg 300w, /images/2009/11/VY2.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   </p>
 
   <p>

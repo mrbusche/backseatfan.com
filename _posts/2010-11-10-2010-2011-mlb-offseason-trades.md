@@ -95,15 +95,15 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.fangraphs.com/blogs/index.php/mark-reynolds-trade-baltimores-end/">Baltimore Orioles</a> acquired 3B Mark Reynolds and a player to be named or cash from Arizona for RHP David Hernandez and RHP Kam Mickolio.
+    <a href="https://www.fangraphs.com/blogs/index.php/mark-reynolds-trade-baltimores-end/">Baltimore Orioles</a> acquired 3B Mark Reynolds and a player to be named or cash from Arizona for RHP David Hernandez and RHP Kam Mickolio.
   </p>
 
   <p>
-    <a href="http://www.sbnation.com/mlb/2010/12/5/1857603/shaun-marcum-trade-brewers-blue-jays-prospects">Boston Red Sox</a> acquired 1B Adrian Gonzalez from San Diego for OF Reymond Fuentes, RHP Casey Kelly, 1B Anthony Rizzo and a player to be named.
+    <a href="https://www.sbnation.com/mlb/2010/12/5/1857603/shaun-marcum-trade-brewers-blue-jays-prospects">Boston Red Sox</a> acquired 1B Adrian Gonzalez from San Diego for OF Reymond Fuentes, RHP Casey Kelly, 1B Anthony Rizzo and a player to be named.
   </p>
 
   <p>
-    <a href="http://www.sbnation.com/mlb/2010/12/5/1857603/shaun-marcum-trade-brewers-blue-jays-prospects">Toronto Blue Jays</a> acquired 2B Brett Lawrie from Milwaukee for RHP Shaun Marcum.
+    <a href="https://www.sbnation.com/mlb/2010/12/5/1857603/shaun-marcum-trade-brewers-blue-jays-prospects">Toronto Blue Jays</a> acquired 2B Brett Lawrie from Milwaukee for RHP Shaun Marcum.
   </p>
 
   <p>
@@ -115,7 +115,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.bluebirdbanter.com/2010/12/3/1853425/jays-trade-for-carlos-villanueva">Toronto Blue Jays</a> acquired RHP Carlos Villanueva from Milwaukee Brewers for a player to be named.
+    <a href="https://www.bluebirdbanter.com/2010/12/3/1853425/jays-trade-for-carlos-villanueva">Toronto Blue Jays</a> acquired RHP Carlos Villanueva from Milwaukee Brewers for a player to be named.
   </p>
 
   <p>
@@ -139,7 +139,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.mlbtraderumors.com/2010/11/blue-jays-acquire-rajai-davis.html">Toronto Blue Jays</a> acquire Rajai Davis from the Oakland Athletics for Dany Farquhar and Trystan Magnuson
+    <a href="https://www.mlbtraderumors.com/2010/11/blue-jays-acquire-rajai-davis.html">Toronto Blue Jays</a> acquire Rajai Davis from the Oakland Athletics for Dany Farquhar and Trystan Magnuson
   </p>
 
   <p>
@@ -163,7 +163,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.mlbtraderumors.com/andrew_miller/">Boston Red Sox</a> traded LHP Dustin Richardson to Florida for LHP Andrew Miller.
+    <a href="https://www.mlbtraderumors.com/andrew_miller/">Boston Red Sox</a> traded LHP Dustin Richardson to Florida for LHP Andrew Miller.
   </p>
 
   <p>
@@ -179,7 +179,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.usatoday.com/sports/baseball/al/2010-11-04-4224295069_x.htm">Detroit Tigers</a> traded INF Brent Dlugach to Boston for a player to be named or cash considerations
+    <a href="https://www.usatoday.com/sports/baseball/al/2010-11-04-4224295069_x.htm">Detroit Tigers</a> traded INF Brent Dlugach to Boston for a player to be named or cash considerations
   </p>
 
   <p>

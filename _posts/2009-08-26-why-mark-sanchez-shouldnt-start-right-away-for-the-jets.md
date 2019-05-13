@@ -23,7 +23,7 @@ tags:
   </p>
 
   <p>
-    If you want to see Mark Sanchez's INT to the house by Haloti Ngata here's a <a href="http://www.nfl.com/videos/nfl-cant-miss-plays/09000d5d8122014e/Pre-WK-2-Can-t-Miss-Play-Ngata-good-throw">link</a> to that
+    If you want to see Mark Sanchez's INT to the house by Haloti Ngata here's a <a href="https://www.nfl.com/videos/nfl-cant-miss-plays/09000d5d8122014e/Pre-WK-2-Can-t-Miss-Play-Ngata-good-throw">link</a> to that
   </p>
 
   <p style="text-align: center;">

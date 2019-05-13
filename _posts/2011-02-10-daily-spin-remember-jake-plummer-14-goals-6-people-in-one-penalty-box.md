@@ -38,7 +38,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.cbssports.com/nhl/gametracker/recap/NHL_20110209_MON@BOS/ugly-slugfest-bruins-top-habs-combine-for-14-goals-121-pim">14 Goal NHL Game?!  14 Goals in a NHL Game! (via CBS Sports)</a>
+    <a href="https://www.cbssports.com/nhl/gametracker/recap/NHL_20110209_MON@BOS/ugly-slugfest-bruins-top-habs-combine-for-14-goals-121-pim">14 Goal NHL Game?!  14 Goals in a NHL Game! (via CBS Sports)</a>
   </p>
 
   <p>
