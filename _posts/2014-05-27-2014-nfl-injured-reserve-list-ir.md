@@ -32,7 +32,7 @@ categories:
   </p>
 
   <p>
-    Domenik Hixon - <a href="http://www.nfl.com/news/story/0ap2000000353753/article/chicago-bears-domenik-hixon-suffers-third-torn-acl">torn ACL</a>
+    Domenik Hixon - <a href="https://www.nfl.com/news/story/0ap2000000353753/article/chicago-bears-domenik-hixon-suffers-third-torn-acl">torn ACL</a>
   </p>
 
   <p>
@@ -48,7 +48,7 @@ categories:
   </p>
 
   <p>
-    Corey Lynch - <a href="http://www.indystar.com/story/sports/nfl/colts/2014/06/13/colts-lose-s-corey-lynch-undisclosed-injury/10447325/">undisclosed injury</a>
+    Corey Lynch - <a href="https://www.indystar.com/story/sports/nfl/colts/2014/06/13/colts-lose-s-corey-lynch-undisclosed-injury/10447325/">undisclosed injury</a>
   </p>
 
   <p>

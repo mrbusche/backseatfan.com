@@ -27,7 +27,7 @@ tags:
   </h3>
 
   <p>
-    <span style="color: #000000;"><a href="http://www.cbc.ca/sports/?ref=cbcsports">CBC Sports</a> - This is the official broadcaster of the 2011 World Cup</span>
+    <span style="color: #000000;"><a href="https://www.cbc.ca/sports/?ref=cbcsports">CBC Sports</a> - This is the official broadcaster of the 2011 World Cup</span>
   </p>
 
   <p>
@@ -43,6 +43,6 @@ tags:
   </p>
 
   <p>
-    <span style="color: #000000;">To find out when your team is playing, check out the </span><a href="http://www.fifa.com/worldcup/matches/index.html"><span style="color: #000000;">official World Cup soccer schedule</span></a><span style="color: #000000;"> on FIFA's website.</span>
+    <span style="color: #000000;">To find out when your team is playing, check out the </span><a href="https://www.fifa.com/worldcup/matches/index.html"><span style="color: #000000;">official World Cup soccer schedule</span></a><span style="color: #000000;"> on FIFA's website.</span>
   </p>
 </div>

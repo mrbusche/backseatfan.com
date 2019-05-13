@@ -65,5 +65,5 @@ tags:
     </p>
 
     <p>
-      via [<a href="http://www.lohud.com/article/20100506/NEWS03/5060403/-1/newsfront/Football-great-Lawrence-Taylor-charged-in-Ramapo-with-rape?loc=interstitialskip">lohud</a>]
+      via [<a href="https://www.lohud.com/article/20100506/NEWS03/5060403/-1/newsfront/Football-great-Lawrence-Taylor-charged-in-Ramapo-with-rape?loc=interstitialskip">lohud</a>]
     </p></div>

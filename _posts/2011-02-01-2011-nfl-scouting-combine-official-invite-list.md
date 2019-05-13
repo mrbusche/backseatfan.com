@@ -17,7 +17,7 @@ tags:
 
 <div class="entry">
   <p>
-    Thanks to the <a href="http://www.nflcombine.net/players/official-invite-list">NFLCombine.net</a> we've got a complete list of the invites to the 2011 NFL Scouting combine
+    Thanks to the <a href="https://www.nflcombine.net/players/official-invite-list">NFLCombine.net</a> we've got a complete list of the invites to the 2011 NFL Scouting combine
   </p>
 
   <p>

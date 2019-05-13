@@ -27,7 +27,7 @@ categories:
   </h2>
 
   <p>
-    Behind the success of a good sport website there is always a good programming language (html, xml or xhtml) or even a website building software (for those who have no knowledge of <a href="http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html">internet technologies</a>) and most of all much will to try and to give sport fans what they look for.
+    Behind the success of a good sport website there is always a good programming language (html, xml or xhtml) or even a website building software (for those who have no knowledge of <a href="https://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html">internet technologies</a>) and most of all much will to try and to give sport fans what they look for.
   </p>
 
   <p>

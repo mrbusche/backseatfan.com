@@ -7,7 +7,7 @@ layout: post
 guid: https://backseatfan.com/?p=123
 permalink: /2009/03/pitinonottouk/
 DiggUrl:
-  - http://digg.com/basketball/Why_Rick_Pitino_should_and_will_leave_Louisville_for_UK
+  - https://digg.com/basketball/Why_Rick_Pitino_should_and_will_leave_Louisville_for_UK
 categories:
   - NCAA
   - NCAA Tournament

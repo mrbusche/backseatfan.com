@@ -174,7 +174,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.post-gazette.com/pg/10056/1038588-100.stm">$2.814 million</a>
+        <a href="https://www.post-gazette.com/pg/10056/1038588-100.stm">$2.814 million</a>
       </td>
 
       <td>

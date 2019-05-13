@@ -19,7 +19,7 @@ tags:
 
 <div class="entry">
   <p>
-    West Des Moines resident Shawn Johnson, a gold medal winner at the 2008 Olympic Games announced Tuesday morning that she will <a href="http://www.usatoday.com/sports/olympics/2010-05-04-shawn-johnson-london-olympics_N.htm">attempt to make the USA roster</a> for the 2012 London Olympics.
+    West Des Moines resident Shawn Johnson, a gold medal winner at the 2008 Olympic Games announced Tuesday morning that she will <a href="https://www.usatoday.com/sports/olympics/2010-05-04-shawn-johnson-london-olympics_N.htm">attempt to make the USA roster</a> for the 2012 London Olympics.
   </p>
 
   <p>

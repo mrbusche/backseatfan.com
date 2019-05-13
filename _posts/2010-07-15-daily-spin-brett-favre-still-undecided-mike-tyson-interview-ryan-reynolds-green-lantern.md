@@ -29,11 +29,11 @@ tags:
   </p>
 
   <p>
-    Mike Tyson says his life was a<a href="http://www.details.com/culture-trends/news-and-politics/201008/interview-boxing-mike-tyson"> fucking waste of time</a>?  Mike Tyson goes in depth a little on how he looked at himself, and a few other items.  Mike Tyson maybe a little crazy, but he does a pretty good  Q&A? [via <a href="http://www.details.com/culture-trends/news-and-politics/201008/interview-boxing-mike-tyson">Details</a>]
+    Mike Tyson says his life was a<a href="https://www.details.com/culture-trends/news-and-politics/201008/interview-boxing-mike-tyson"> fucking waste of time</a>?  Mike Tyson goes in depth a little on how he looked at himself, and a few other items.  Mike Tyson maybe a little crazy, but he does a pretty good  Q&A? [via <a href="https://www.details.com/culture-trends/news-and-politics/201008/interview-boxing-mike-tyson">Details</a>]
   </p>
 
   <p>
-    MLB All Star Game <a href="http://www.digitalsportsdaily.com/sports-business/tv/2340-mlb-all-star-draws-worst-tv-rating-ever.html">Ratings were the worst ever</a>?  Lebron's Decision scored higher ratings than the All Star Game? Conclusion?  Making the All Star game worth something doesn't mean people will watch it? [via <a href="http://www.digitalsportsdaily.com/sports-business/tv/2340-mlb-all-star-draws-worst-tv-rating-ever.html">Digital Sports Daily</a>]
+    MLB All Star Game <a href="https://www.digitalsportsdaily.com/sports-business/tv/2340-mlb-all-star-draws-worst-tv-rating-ever.html">Ratings were the worst ever</a>?  Lebron's Decision scored higher ratings than the All Star Game? Conclusion?  Making the All Star game worth something doesn't mean people will watch it? [via <a href="https://www.digitalsportsdaily.com/sports-business/tv/2340-mlb-all-star-draws-worst-tv-rating-ever.html">Digital Sports Daily</a>]
   </p>
 
   <p>
@@ -41,7 +41,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.usatoday.com/sports/basketball/nba/warriors/2010-07-15-warriors-sale-lacob-guber_N.htm?loc=interstitialskip">Golden State Warriors sold</a> for $450 Million? Really good news for the Warriors, they get a chance to become a solid franchise if this owner treats them like the Celtics? [via <a href="http://www.usatoday.com/sports/basketball/nba/warriors/2010-07-15-warriors-sale-lacob-guber_N.htm?loc=interstitialskip">USA Today</a>]
+    <a href="https://www.usatoday.com/sports/basketball/nba/warriors/2010-07-15-warriors-sale-lacob-guber_N.htm?loc=interstitialskip">Golden State Warriors sold</a> for $450 Million? Really good news for the Warriors, they get a chance to become a solid franchise if this owner treats them like the Celtics? [via <a href="https://www.usatoday.com/sports/basketball/nba/warriors/2010-07-15-warriors-sale-lacob-guber_N.htm?loc=interstitialskip">USA Today</a>]
   </p>
 
   <p>

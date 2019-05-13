@@ -29,6 +29,6 @@ categories:
   </p>
 
   <p>
-    <a href="http://www.wkbw.com/sports/Bills-TE-Shawn-Nelson-Suspended-for-Four-Games-101167059.html">WKBW in Buffalo</a> was the first to report the news.
+    <a href="https://www.wkbw.com/sports/Bills-TE-Shawn-Nelson-Suspended-for-Four-Games-101167059.html">WKBW in Buffalo</a> was the first to report the news.
   </p>
 </div>

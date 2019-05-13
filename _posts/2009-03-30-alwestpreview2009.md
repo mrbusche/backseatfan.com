@@ -7,7 +7,7 @@ layout: post
 guid: https://backseatfan.com/?p=126
 permalink: /2009/03/alwestpreview2009/
 DiggUrl:
-  - http://digg.com/baseball/AL_West_Preview_2009
+  - https://digg.com/baseball/AL_West_Preview_2009
 categories:
   - MLB
 ---

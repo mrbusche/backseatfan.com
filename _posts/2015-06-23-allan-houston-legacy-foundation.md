@@ -34,11 +34,11 @@ categories:
   </p>
 
   <p>
-    In 2001, Houston organized a charitable fund under his name which would then turn into the <a href="http://www.allanhouston.com/bio/">Legacy Foundation</a> later that year. It was originally founded to provide aid and funding to families affected by the tragic scenes of 9/11. During the succeeding years, the Legacy Foundation would execute a series of programs that would help the community of New York get back on its feet.
+    In 2001, Houston organized a charitable fund under his name which would then turn into the <a href="https://www.allanhouston.com/bio/">Legacy Foundation</a> later that year. It was originally founded to provide aid and funding to families affected by the tragic scenes of 9/11. During the succeeding years, the Legacy Foundation would execute a series of programs that would help the community of New York get back on its feet.
   </p>
 
   <p>
-    It’s primary goals according to the <a href="http://www.allanhouston.com/2014/allan-houston-legacy-foundation-hosts-charity-poker-tournament/">Legacy’s official website</a> was to help:
+    It’s primary goals according to the <a href="https://www.allanhouston.com/2014/allan-houston-legacy-foundation-hosts-charity-poker-tournament/">Legacy’s official website</a> was to help:
   </p>
 
   <p>
@@ -58,7 +58,7 @@ categories:
   </p>
 
   <p>
-    However, none of this is cheap, and only someone of Houston’s standing can fund so much. That’s why the Knicks legend regularly enlists his team’s roster in many of the fundraisers that the Legacy Foundation organizes. The most popular annual event is their <a href="http://www.allanhouston.com/2014/allan-houston-legacy-foundation-hosts-charity-poker-tournament/">Charity Poker Tournament held in New York City</a>. The event, in the past, has attracted basketball stars such as Iman Shumpert and JR Smith, now both will the Cleveland Cavaliers and Amar’e Stoudemire who has also left the Knicks, this time for the Dallas Mavericks.
+    However, none of this is cheap, and only someone of Houston’s standing can fund so much. That’s why the Knicks legend regularly enlists his team’s roster in many of the fundraisers that the Legacy Foundation organizes. The most popular annual event is their <a href="https://www.allanhouston.com/2014/allan-houston-legacy-foundation-hosts-charity-poker-tournament/">Charity Poker Tournament held in New York City</a>. The event, in the past, has attracted basketball stars such as Iman Shumpert and JR Smith, now both will the Cleveland Cavaliers and Amar’e Stoudemire who has also left the Knicks, this time for the Dallas Mavericks.
   </p>
 
   <p>

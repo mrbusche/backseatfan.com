@@ -7,7 +7,7 @@ layout: post
 guid: https://backseatfan.com/?p=141
 permalink: /2009/03/jay-cutler-will-be-traded-who-would-want-him/
 DiggUrl:
-  - http://digg.com/football/Jay_Cutler_will_be_traded_Who_would_want_him
+  - https://digg.com/football/Jay_Cutler_will_be_traded_Who_would_want_him
 categories:
   - NFL
 ---

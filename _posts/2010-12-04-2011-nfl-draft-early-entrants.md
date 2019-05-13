@@ -180,7 +180,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.courant.com/sports/uconn-football/hc-late-fiesta-sidebar-0102-20110101,0,5986552.story">1/1/2011</a>
+        <a href="https://www.courant.com/sports/uconn-football/hc-late-fiesta-sidebar-0102-20110101,0,5986552.story">1/1/2011</a>
       </td>
     </tr>
 
@@ -268,7 +268,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.miamiherald.com/2011/01/04/1999895/um-cornerback-junior-brandon-harris.html">1/3/2011</a>
+        <a href="https://www.miamiherald.com/2011/01/04/1999895/um-cornerback-junior-brandon-harris.html">1/3/2011</a>
       </td>
     </tr>
 
@@ -290,7 +290,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.wndu.com/hometop/headlines/112918024.html">1/4/2011</a>
+        <a href="https://www.wndu.com/hometop/headlines/112918024.html">1/4/2011</a>
       </td>
     </tr>
 
@@ -400,7 +400,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.arkansassports360.com/22937/mallett-to-declare-for-nfl-draft">1/6/2011</a>
+        <a href="https://www.arkansassports360.com/22937/mallett-to-declare-for-nfl-draft">1/6/2011</a>
       </td>
     </tr>
 
@@ -444,7 +444,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.orlandosentinel.com/sports/nationworld/sns-ap-fbc-t25-nfl-draft-alabama,0,3967026.story">1/7/2011</a>
+        <a href="https://www.orlandosentinel.com/sports/nationworld/sns-ap-fbc-t25-nfl-draft-alabama,0,3967026.story">1/7/2011</a>
       </td>
     </tr>
 
@@ -466,7 +466,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.waow.com/Global/story.asp?S=13804292">1/7/2011</a>
+        <a href="https://www.waow.com/Global/story.asp?S=13804292">1/7/2011</a>
       </td>
     </tr>
 
@@ -510,7 +510,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.nfl.com/news/story/09000d5d81d9266e/article/west-virginias-sands-to-pursue-his-dream-apply-for-draft">1/8/2011</a>
+        <a href="https://www.nfl.com/news/story/09000d5d81d9266e/article/west-virginias-sands-to-pursue-his-dream-apply-for-draft">1/8/2011</a>
       </td>
     </tr>
 
@@ -598,7 +598,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.stltoday.com/sports/college/illini/article_06c6a7ee-1cf3-11e0-bf1f-0017a4a78c22.html">1/10/2011</a>
+        <a href="https://www.stltoday.com/sports/college/illini/article_06c6a7ee-1cf3-11e0-bf1f-0017a4a78c22.html">1/10/2011</a>
       </td>
     </tr>
 
@@ -620,7 +620,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.osubeavers.com/sports/m-footbl/spec-rel/011011aaa.html">1/10/2011</a>
+        <a href="https://www.osubeavers.com/sports/m-footbl/spec-rel/011011aaa.html">1/10/2011</a>
       </td>
     </tr>
 
@@ -642,7 +642,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.nfl.com/news/story/09000d5d81d9b263/article/lewis-baldwin-hynoski-leaving-pitt-for-nfl-draft">1/10/2011</a>
+        <a href="https://www.nfl.com/news/story/09000d5d81d9b263/article/lewis-baldwin-hynoski-leaving-pitt-for-nfl-draft">1/10/2011</a>
       </td>
     </tr>
 
@@ -664,7 +664,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.nfl.com/news/story/09000d5d81d9b263/article/lewis-baldwin-hynoski-leaving-pitt-for-nfl-draft">1/10/2011</a>
+        <a href="https://www.nfl.com/news/story/09000d5d81d9b263/article/lewis-baldwin-hynoski-leaving-pitt-for-nfl-draft">1/10/2011</a>
       </td>
     </tr>
 
@@ -686,7 +686,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.nfl.com/news/story/09000d5d81d9b263/article/lewis-baldwin-hynoski-leaving-pitt-for-nfl-draft">1/10/2011</a>
+        <a href="https://www.nfl.com/news/story/09000d5d81d9b263/article/lewis-baldwin-hynoski-leaving-pitt-for-nfl-draft">1/10/2011</a>
       </td>
     </tr>
 
@@ -1356,7 +1356,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.washingtonpost.com/wp-dyn/content/article/2011/01/05/AR2011010504071.html">1/5/2011</a>
+        <a href="https://www.washingtonpost.com/wp-dyn/content/article/2011/01/05/AR2011010504071.html">1/5/2011</a>
       </td>
     </tr>
 
@@ -1422,7 +1422,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.orlandosentinel.com/sports/nationworld/sns-ap-fbc-t25-nfl-draft-alabama,0,3967026.story">1/7/2011</a>
+        <a href="https://www.orlandosentinel.com/sports/nationworld/sns-ap-fbc-t25-nfl-draft-alabama,0,3967026.story">1/7/2011</a>
       </td>
     </tr>
 

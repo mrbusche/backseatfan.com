@@ -31,11 +31,11 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.boston.com/sports/football/patriots/articles/2010/07/24/its_ready_set_go_for_welker/">Wes Welker is ready for training camp</a>? This is good news considering it was rumored he might not even play this season? [ via <a href="http://www.boston.com/sports/football/patriots/articles/2010/07/24/its_ready_set_go_for_welker/">Boston Globe</a>]
+    <a href="https://www.boston.com/sports/football/patriots/articles/2010/07/24/its_ready_set_go_for_welker/">Wes Welker is ready for training camp</a>? This is good news considering it was rumored he might not even play this season? [ via <a href="https://www.boston.com/sports/football/patriots/articles/2010/07/24/its_ready_set_go_for_welker/">Boston Globe</a>]
   </p>
 
   <p>
-    <a href="http://www.usatoday.com/sports/basketball/nba/2010-07-20-summer-league-coaches-sons_N.htm">Coaches and sons during NBA Summer League</a>?  Three Former NBA players are now coaching their sons in NBA summer league, could we hear former NBA names come to life again?  [via <a href="http://www.usatoday.com/sports/basketball/nba/2010-07-20-summer-league-coaches-sons_N.htm">USA Today</a>]
+    <a href="https://www.usatoday.com/sports/basketball/nba/2010-07-20-summer-league-coaches-sons_N.htm">Coaches and sons during NBA Summer League</a>?  Three Former NBA players are now coaching their sons in NBA summer league, could we hear former NBA names come to life again?  [via <a href="https://www.usatoday.com/sports/basketball/nba/2010-07-20-summer-league-coaches-sons_N.htm">USA Today</a>]
   </p>
 
   <p>
@@ -43,11 +43,11 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.chicagobreakingsports.com/2010/07/mcgrady-works-out-for-bulls.html">Tracy McGrady works out with the Bulls</a>? He could still play some decent ball if he could recover from his injury? [via <a href="http://www.chicagobreakingsports.com/2010/07/mcgrady-works-out-for-bulls.html">Chicago Tribune</a>]
+    <a href="https://www.chicagobreakingsports.com/2010/07/mcgrady-works-out-for-bulls.html">Tracy McGrady works out with the Bulls</a>? He could still play some decent ball if he could recover from his injury? [via <a href="https://www.chicagobreakingsports.com/2010/07/mcgrady-works-out-for-bulls.html">Chicago Tribune</a>]
   </p>
 
   <p>
-    The new<a href="http://www.fordvehicles.com/suvs/explorer/2011/">2011 Ford Explore</a>r looks Bad Ass? I would get one of those and stick a Backseat Fan Logo on the side, if I could afford it? [via <a href="http://www.fordvehicles.com/suvs/explorer/2011/">Ford</a>]
+    The new<a href="https://www.fordvehicles.com/suvs/explorer/2011/">2011 Ford Explore</a>r looks Bad Ass? I would get one of those and stick a Backseat Fan Logo on the side, if I could afford it? [via <a href="https://www.fordvehicles.com/suvs/explorer/2011/">Ford</a>]
   </p>
 
   <p>

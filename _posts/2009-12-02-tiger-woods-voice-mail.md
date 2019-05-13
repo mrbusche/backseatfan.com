@@ -57,7 +57,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.tmz.com/2009/12/02/tiger-woods-crash-report-3200-in-damage/">http://www.tmz.com/2009/12/02/tiger-woods-crash-report-3200-in-damage/</a>
+    <a href="https://www.tmz.com/2009/12/02/tiger-woods-crash-report-3200-in-damage/">https://www.tmz.com/2009/12/02/tiger-woods-crash-report-3200-in-damage/</a>
   </p>
 
   <p>

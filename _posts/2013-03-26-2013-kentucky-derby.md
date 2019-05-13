@@ -17,11 +17,11 @@ tags:
 
 <div class="entry">
   <p>
-    The 139th Kentucky Derby will take place May 3rd and 4th. I'm not much of a gambler, but most people I know take part in <a href="http://www.kentuckyderbyonline.com/betting.html">Kentucky Derby horse betting</a>. The derby doesn't take place for another 6 weeks, but my early favorite to win is Verrazano. Trainer Todd Pletcher won the 2010 Kentucky Derby with Super Saver and in 2011 he was the leading money winner among all trainers.
+    The 139th Kentucky Derby will take place May 3rd and 4th. I'm not much of a gambler, but most people I know take part in <a href="https://www.kentuckyderbyonline.com/betting.html">Kentucky Derby horse betting</a>. The derby doesn't take place for another 6 weeks, but my early favorite to win is Verrazano. Trainer Todd Pletcher won the 2010 Kentucky Derby with Super Saver and in 2011 he was the leading money winner among all trainers.
   </p>
 
   <p>
-    Will Pletcher's previous success lead to success in <a href="http://www.kentuckyderbyonline.com/">KY Derby 2013</a>? No one knows for sure, but that certainly won't deter me from placing a bet on Verrazano.
+    Will Pletcher's previous success lead to success in <a href="https://www.kentuckyderbyonline.com/">KY Derby 2013</a>? No one knows for sure, but that certainly won't deter me from placing a bet on Verrazano.
   </p>
 
   <p>

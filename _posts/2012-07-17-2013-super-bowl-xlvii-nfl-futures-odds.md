@@ -15,7 +15,7 @@ categories:
 
 <div class="entry">
   <p>
-    We're a mere 6 weeks away from the begin of the NFL season, so it's time to post an updated Super Bowl Futures Odds. The 49ers seem like an even better bet to make the Super Bowl after Seahawk RB Marshawn Lynch was arrested for his 2nd DUI on July 16th. The<a href="http://www.mytopsportsbooks.com/" target="_blank"> current likely outcome is certainly not what most sorts betting sites are predicting it to be</a> now that the Seahawks are sure to be without Lynch for a couple of games this season. I personally still like Green Bay to win it all, <a href="http://www.mytopsportsbooks.com/">but as recent history has shown us, the likely preseason winner</a> almost never wins the Super Bowl.
+    We're a mere 6 weeks away from the begin of the NFL season, so it's time to post an updated Super Bowl Futures Odds. The 49ers seem like an even better bet to make the Super Bowl after Seahawk RB Marshawn Lynch was arrested for his 2nd DUI on July 16th. The<a href="https://www.mytopsportsbooks.com/" target="_blank"> current likely outcome is certainly not what most sorts betting sites are predicting it to be</a> now that the Seahawks are sure to be without Lynch for a couple of games this season. I personally still like Green Bay to win it all, <a href="https://www.mytopsportsbooks.com/">but as recent history has shown us, the likely preseason winner</a> almost never wins the Super Bowl.
   </p>
 
   <p>

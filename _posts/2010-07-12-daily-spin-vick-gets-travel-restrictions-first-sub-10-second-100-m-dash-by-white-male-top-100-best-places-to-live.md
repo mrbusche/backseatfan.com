@@ -38,11 +38,11 @@ tags:
   </p>
 
   <p>
-    Iowa DE Broderick<a href="http://www.press-citizen.com/article/20100709/HAWKS0104/100709001/Iowa-defensive-end-Broderick-Binns-charged-with-OWI"> Binns gets a DUI</a>? Looks like Broderick will probably be suspended for the Hawkeyes first game of the season.  3  DUI's this year for Hawkeye Football, really not that bad for Iowa standards.  [via <a href="http://www.press-citizen.com/article/20100709/HAWKS0104/100709001/Iowa-defensive-end-Broderick-Binns-charged-with-OWI">Press Citizen</a>]
+    Iowa DE Broderick<a href="https://www.press-citizen.com/article/20100709/HAWKS0104/100709001/Iowa-defensive-end-Broderick-Binns-charged-with-OWI"> Binns gets a DUI</a>? Looks like Broderick will probably be suspended for the Hawkeyes first game of the season.  3  DUI's this year for Hawkeye Football, really not that bad for Iowa standards.  [via <a href="https://www.press-citizen.com/article/20100709/HAWKS0104/100709001/Iowa-defensive-end-Broderick-Binns-charged-with-OWI">Press Citizen</a>]
   </p>
 
   <p>
-    <a href="http://www.indystar.com/article/20100712/SPORTS04/7120329/1004/SPORTS/Pacers-getting-33.5-million-to-stay">Indiana Pacers are staying</a> in Indianapolis, but it will cost taxpayers at least $33.5 million over the next three years? If I was an Indiana tax payer I would be pissed.  No chance of the Pacers winning a title over the next three years anyway, let them move and grab the next franchise instead? [via <a href="http://www.indystar.com/article/20100712/SPORTS04/7120329/1004/SPORTS/Pacers-getting-33.5-million-to-stay">IndyStar</a>]
+    <a href="https://www.indystar.com/article/20100712/SPORTS04/7120329/1004/SPORTS/Pacers-getting-33.5-million-to-stay">Indiana Pacers are staying</a> in Indianapolis, but it will cost taxpayers at least $33.5 million over the next three years? If I was an Indiana tax payer I would be pissed.  No chance of the Pacers winning a title over the next three years anyway, let them move and grab the next franchise instead? [via <a href="https://www.indystar.com/article/20100712/SPORTS04/7120329/1004/SPORTS/Pacers-getting-33.5-million-to-stay">IndyStar</a>]
   </p>
 
   <p>

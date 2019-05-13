@@ -39,7 +39,7 @@ tags:
   </p>
 
   <p>
-    If you <span style="color: #222222;"><a href="http://www.allpro.eu/mlb-betting">check the odds at allpro</a> the Braves have fallen to 8-1 favorites to win the NL pennant even though they're currently leading their division. On the bright side rookie Tommy LaStella has played well in place of Dan Uggla since he's been called up, but it's only 27 at bats. BJ Upton will never turn into a walk machine, but he has improved this year at the plate, enough at least to hold off Jordan Schafer for everyday at bats although Upton should really be sitting vs righties with Schafer is those days.</span>
+    If you <span style="color: #222222;"><a href="https://www.allpro.eu/mlb-betting">check the odds at allpro</a> the Braves have fallen to 8-1 favorites to win the NL pennant even though they're currently leading their division. On the bright side rookie Tommy LaStella has played well in place of Dan Uggla since he's been called up, but it's only 27 at bats. BJ Upton will never turn into a walk machine, but he has improved this year at the plate, enough at least to hold off Jordan Schafer for everyday at bats although Upton should really be sitting vs righties with Schafer is those days.</span>
   </p>
 
   <p>

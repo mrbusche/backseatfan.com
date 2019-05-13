@@ -66,6 +66,6 @@ tags:
   </p>
 
   <p>
-    RIP Coach Thomas<br /> via [<a href="http://www.wcfcourier.com/news/local/article_ea2a0a1e-261b-11df-9506-001cc4c03286.html">WCFCourier</a>]
+    RIP Coach Thomas<br /> via [<a href="https://www.wcfcourier.com/news/local/article_ea2a0a1e-261b-11df-9506-001cc4c03286.html">WCFCourier</a>]
   </p>
 </div>

@@ -26,6 +26,6 @@ tags:
   </p>
 
   <p>
-    via [<a href="http://www.mint.com/blog/trends/the-economics-of-the-world-cup-2010/">Mint</a>]
+    via [<a href="https://www.mint.com/blog/trends/the-economics-of-the-world-cup-2010/">Mint</a>]
   </p>
 </div>

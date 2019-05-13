@@ -28,7 +28,7 @@ tags:
 
 <div class="entry">
   <p>
-    The <a href="http://www.nba.com/knicks/">New York Knicks</a> are an awful basketball team. A team coming into 2013 with championship aspirations dropped their 6th straight game last night and are now 3-10 on the season. 1 1/2 game worse than a Celtics team whose best player is Jeff Green. Carmelo Anthony is just 42.9% his worst career mark since 2003 and is shooting just 32.7% on threes. His rebounding is nearly 3 rebound per game higher than his career high, but he's not getting any help from his teammates and he's not exactly helping them out much either.
+    The <a href="https://www.nba.com/knicks/">New York Knicks</a> are an awful basketball team. A team coming into 2013 with championship aspirations dropped their 6th straight game last night and are now 3-10 on the season. 1 1/2 game worse than a Celtics team whose best player is Jeff Green. Carmelo Anthony is just 42.9% his worst career mark since 2003 and is shooting just 32.7% on threes. His rebounding is nearly 3 rebound per game higher than his career high, but he's not getting any help from his teammates and he's not exactly helping them out much either.
   </p>
 
   <p>

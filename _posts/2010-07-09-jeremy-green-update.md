@@ -35,6 +35,6 @@ tags:
   </p>
 
   <p>
-    via [<a href="http://www.bristolpress.com/articles/2010/07/09/news/doc4c3782dd87b8e593397932.txt">Bristol Press</a>]
+    via [<a href="https://www.bristolpress.com/articles/2010/07/09/news/doc4c3782dd87b8e593397932.txt">Bristol Press</a>]
   </p>
 </div>

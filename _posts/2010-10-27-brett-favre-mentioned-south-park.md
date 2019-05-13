@@ -26,7 +26,7 @@ tags:
       </p>
 
       <p style="background-color: #ffffff; padding: 4px; margin-top: 4px; margin-bottom: 0px; font-family: Arial, Helvetica, sans-serif; font-size: 12px;">
-        <strong><a href="http://www.southparkstudios.com/full-episodes/s14e11-coon-2-hindsight">Coon 2: Hindsight</a></strong><br /> Tags: <a style="display: block; position: relative; top: -1.33em; float: right; font-weight: bold; color: #ffcc00; text-decoration: none;" href="http://www.southparkstudios.com/">SOUTH<br /> PARK</a><a href="http://www.southparkstudios.com/guide/characters/eric-cartman">Eric Cartman</a>,<a href="http://www.southparkstudios.com/guide/episodes/s14e11-coon-2-hindsight">more?</a>
+        <strong><a href="https://www.southparkstudios.com/full-episodes/s14e11-coon-2-hindsight">Coon 2: Hindsight</a></strong><br /> Tags: <a style="display: block; position: relative; top: -1.33em; float: right; font-weight: bold; color: #ffcc00; text-decoration: none;" href="https://www.southparkstudios.com/">SOUTH<br /> PARK</a><a href="https://www.southparkstudios.com/guide/characters/eric-cartman">Eric Cartman</a>,<a href="https://www.southparkstudios.com/guide/episodes/s14e11-coon-2-hindsight">more?</a>
       </p>
     </div>
   </div>

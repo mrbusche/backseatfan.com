@@ -38,7 +38,7 @@ categories:
   </p>
 
   <p>
-    We won't go into great detail the rest of the book, you'll have to pick it up yourself at <a href="http://www.amazon.com/Death-BCS-Definitive-Against-Championship/dp/1592405703/ref=sr_1_1?ie=UTF8&s=books&qid=1287013902&sr=8-1">amazon</a> or enter to win a <a href="backseatfan.com/bookgiveaway/">copy here</a>, but we believe this book will get the news out to everyone about the corruption involved with the BCS and the current college bowl system.
+    We won't go into great detail the rest of the book, you'll have to pick it up yourself at <a href="https://www.amazon.com/Death-BCS-Definitive-Against-Championship/dp/1592405703/ref=sr_1_1?ie=UTF8&s=books&qid=1287013902&sr=8-1">amazon</a> or enter to win a <a href="backseatfan.com/bookgiveaway/">copy here</a>, but we believe this book will get the news out to everyone about the corruption involved with the BCS and the current college bowl system.
   </p>
 
   <p>

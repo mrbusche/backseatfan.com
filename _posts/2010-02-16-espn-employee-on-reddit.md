@@ -21,7 +21,7 @@ tags:
   </p>
 
   <p>
-    An Employee from ESPN decided to do a tell all on reddit, and it is pretty funny. Follow the link,<a href="http://www.reddit.com/r/IAmA/comments/b1s9a/i_work_for_espn_ama/">I work for ESPN AMA</a>.
+    An Employee from ESPN decided to do a tell all on reddit, and it is pretty funny. Follow the link,<a href="https://www.reddit.com/r/IAmA/comments/b1s9a/i_work_for_espn_ama/">I work for ESPN AMA</a>.
   </p>
 
   <p>

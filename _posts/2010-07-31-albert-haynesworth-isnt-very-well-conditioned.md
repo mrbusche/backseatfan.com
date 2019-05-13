@@ -22,7 +22,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.myfoxdc.com/dpp/sports/how-hard-is-albert-haynesworths-conditioning-test-073010">Fox 5's Lindsay Murphy</a> ran the first sprint in 68 seconds, but ran the second in 81 seconds.
+    <a href="https://www.myfoxdc.com/dpp/sports/how-hard-is-albert-haynesworths-conditioning-test-073010">Fox 5's Lindsay Murphy</a> ran the first sprint in 68 seconds, but ran the second in 81 seconds.
   </p>
 
   <p>

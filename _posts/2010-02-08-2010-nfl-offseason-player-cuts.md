@@ -183,7 +183,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.buffalobills.com/news/article-1/Bills-release-seven-players/1ae34ecb-c9c2-4f82-b85d-ba4031dc9069">2/16/2010</a>
+        <a href="https://www.buffalobills.com/news/article-1/Bills-release-seven-players/1ae34ecb-c9c2-4f82-b85d-ba4031dc9069">2/16/2010</a>
       </td>
     </tr>
 
@@ -200,7 +200,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.buffalobills.com/news/article-1/Bills-release-seven-players/1ae34ecb-c9c2-4f82-b85d-ba4031dc9069">2/16/2010</a>
+        <a href="https://www.buffalobills.com/news/article-1/Bills-release-seven-players/1ae34ecb-c9c2-4f82-b85d-ba4031dc9069">2/16/2010</a>
       </td>
     </tr>
 
@@ -217,7 +217,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.buffalobills.com/news/article-1/Bills-release-seven-players/1ae34ecb-c9c2-4f82-b85d-ba4031dc9069">2/16/2010</a>
+        <a href="https://www.buffalobills.com/news/article-1/Bills-release-seven-players/1ae34ecb-c9c2-4f82-b85d-ba4031dc9069">2/16/2010</a>
       </td>
     </tr>
 
@@ -234,7 +234,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.buffalobills.com/news/article-1/Bills-release-seven-players/1ae34ecb-c9c2-4f82-b85d-ba4031dc9069">2/16/2010</a>
+        <a href="https://www.buffalobills.com/news/article-1/Bills-release-seven-players/1ae34ecb-c9c2-4f82-b85d-ba4031dc9069">2/16/2010</a>
       </td>
     </tr>
 
@@ -251,7 +251,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.buffalobills.com/news/article-1/Bills-release-seven-players/1ae34ecb-c9c2-4f82-b85d-ba4031dc9069">2/16/2010</a>
+        <a href="https://www.buffalobills.com/news/article-1/Bills-release-seven-players/1ae34ecb-c9c2-4f82-b85d-ba4031dc9069">2/16/2010</a>
       </td>
     </tr>
 
@@ -268,7 +268,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.buffalobills.com/news/article-1/Bills-release-seven-players/1ae34ecb-c9c2-4f82-b85d-ba4031dc9069">2/16/2010</a>
+        <a href="https://www.buffalobills.com/news/article-1/Bills-release-seven-players/1ae34ecb-c9c2-4f82-b85d-ba4031dc9069">2/16/2010</a>
       </td>
     </tr>
 
@@ -285,7 +285,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.buffalobills.com/news/article-1/Bills-release-seven-players/1ae34ecb-c9c2-4f82-b85d-ba4031dc9069">2/16/2010</a>
+        <a href="https://www.buffalobills.com/news/article-1/Bills-release-seven-players/1ae34ecb-c9c2-4f82-b85d-ba4031dc9069">2/16/2010</a>
       </td>
     </tr>
 
@@ -563,7 +563,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.nytimes.com/2010/02/18/sports/football/18sportsbriefs-lewis.html">2/17/2010</a>
+        <a href="https://www.nytimes.com/2010/02/18/sports/football/18sportsbriefs-lewis.html">2/17/2010</a>
       </td>
     </tr>
 
@@ -614,7 +614,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.cleveland.com/browns/index.ssf/2010/03/cleveland_browns_release_tight.html">3/13/2010</a>
+        <a href="https://www.cleveland.com/browns/index.ssf/2010/03/cleveland_browns_release_tight.html">3/13/2010</a>
       </td>
     </tr>
 
@@ -740,7 +740,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.mtrmedia.com/lions/2010/02/lions-cut-jared-devries.html">2/25/2010</a>
+        <a href="https://www.mtrmedia.com/lions/2010/02/lions-cut-jared-devries.html">2/25/2010</a>
       </td>
     </tr>
 
@@ -1025,7 +1025,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.macsfootballblog.com/2010/03/chiefs-release-wr-darling-rb-savage.html">3/3/2010</a>
+        <a href="https://www.macsfootballblog.com/2010/03/chiefs-release-wr-darling-rb-savage.html">3/3/2010</a>
       </td>
     </tr>
 
@@ -1042,7 +1042,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.macsfootballblog.com/2010/03/chiefs-release-wr-darling-rb-savage.html">3/3/2010</a>
+        <a href="https://www.macsfootballblog.com/2010/03/chiefs-release-wr-darling-rb-savage.html">3/3/2010</a>
       </td>
     </tr>
 
@@ -1059,7 +1059,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.kansascity.com/2010/02/24/1771788/chiefs-sign-two-cut-one.html">2/24/2010</a>
+        <a href="https://www.kansascity.com/2010/02/24/1771788/chiefs-sign-two-cut-one.html">2/24/2010</a>
       </td>
     </tr>
 
@@ -1099,7 +1099,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.miamidolphins.com/news/dolphins-release-joey-porter">2/12/2010</a>
+        <a href="https://www.miamidolphins.com/news/dolphins-release-joey-porter">2/12/2010</a>
       </td>
     </tr>
 

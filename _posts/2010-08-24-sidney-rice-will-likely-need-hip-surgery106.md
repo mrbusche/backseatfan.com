@@ -25,7 +25,7 @@ tags:
 
 <div class="entry">
   <p>
-    Minnesota Vikings WR Sidney Rice traveled to Vail, Colorado on Monday to visit a hip specialist and the <em><a href="http://www.startribune.com/sports/vikings/101351219.html?elr=KArksi8cyaiU9PmP:QiUiD3aPc:_Yyc:aUU">Star-Tribune</a><span style="font-style: normal;">'s Judd Zulgad is</span></em> reporting that surgery is likely.
+    Minnesota Vikings WR Sidney Rice traveled to Vail, Colorado on Monday to visit a hip specialist and the <em><a href="https://www.startribune.com/sports/vikings/101351219.html?elr=KArksi8cyaiU9PmP:QiUiD3aPc:_Yyc:aUU">Star-Tribune</a><span style="font-style: normal;">'s Judd Zulgad is</span></em> reporting that surgery is likely.
   </p>
 
   <p>

@@ -38,7 +38,7 @@ tags:
   </p>
 
   <p>
-    These two teams are great matchups for each other with two of the best PG's in the league and three of the best forwards in the league squaring off in this series. Looking at <a href="http://www.bestsportsbooks.co/">online sportsbooks</a> the Thunder are the favorite, but nothing would surprise me in this series. Chris Paul is injured, but if he can fight through his injuries he has the ability to lead the Clippers in the Western Conference Finals. Blake Griffin was a double-double machine in the regular season, but hasn't hit his stride yet in these playoffs. DeAndre Jordan has been the player we've all been waiting for him to become scoring 12 points a night, pulling down 15 points and blocking 4 shots on average.
+    These two teams are great matchups for each other with two of the best PG's in the league and three of the best forwards in the league squaring off in this series. Looking at <a href="https://www.bestsportsbooks.co/">online sportsbooks</a> the Thunder are the favorite, but nothing would surprise me in this series. Chris Paul is injured, but if he can fight through his injuries he has the ability to lead the Clippers in the Western Conference Finals. Blake Griffin was a double-double machine in the regular season, but hasn't hit his stride yet in these playoffs. DeAndre Jordan has been the player we've all been waiting for him to become scoring 12 points a night, pulling down 15 points and blocking 4 shots on average.
   </p>
 
   <p>

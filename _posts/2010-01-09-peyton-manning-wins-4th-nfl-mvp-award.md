@@ -20,7 +20,7 @@ categories:
   </p>
 
   <p>
-    Mike Chappell of the <em>Indianapolis Star</em> reports that <a href="http://www.indystar.com/Story_not_found">Manning finished first</a> in MVP voting by the 50-member <em>Associated Press</em> panel that chooses the award.
+    Mike Chappell of the <em>Indianapolis Star</em> reports that <a href="https://www.indystar.com/Story_not_found">Manning finished first</a> in MVP voting by the 50-member <em>Associated Press</em> panel that chooses the award.
   </p>
 
   <p>

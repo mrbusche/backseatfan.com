@@ -27,6 +27,6 @@ tags:
   </p>
 
   <p>
-    via [<a href="http://www.deadspin.com">Deadspin</a>]
+    via [<a href="https://www.deadspin.com">Deadspin</a>]
   </p>
 </div>

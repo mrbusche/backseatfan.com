@@ -21,7 +21,7 @@ tags:
 
 <div class="entry">
   <p>
-    According to <a href="http://www.cleveland.com/browns/index.ssf/2010/07/cleveland_browns_agree_to_term_1.html">Mary Kay Cabot</a> from the Cleveland Plain Dealer, the Browns have agree to terms on a deal with 2nd round RB Montario Hardesty. Terms were undisclosed but it is likely the deal is for 4 years and around $3 million with somewhere between $1.5 and $1.6M guaranteed according to <a href="https://backseatfan.com/index.php/2010/04/2010-nfl-draft-rookie-signing-status/">other players signed</a> around Hardesty.
+    According to <a href="https://www.cleveland.com/browns/index.ssf/2010/07/cleveland_browns_agree_to_term_1.html">Mary Kay Cabot</a> from the Cleveland Plain Dealer, the Browns have agree to terms on a deal with 2nd round RB Montario Hardesty. Terms were undisclosed but it is likely the deal is for 4 years and around $3 million with somewhere between $1.5 and $1.6M guaranteed according to <a href="https://backseatfan.com/index.php/2010/04/2010-nfl-draft-rookie-signing-status/">other players signed</a> around Hardesty.
   </p>
 
   <p>

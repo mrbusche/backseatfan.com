@@ -32,11 +32,11 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.kansascity.com/2010/06/23/2040201/royals-call-off-strasmas-in-1.html">Stephen Strasburg Loses</a> to the KC Royals Brian Bannister  (Woohoo)?  It must have been all that <a href="http://www.usatoday.com/sports/baseball/al/royals/2010-06-21-bannister-ahead-of-tech-curve_N.htm">PITCHf/x stuff</a> that everyone has been talking about lately?  via [<a href="http://www.kansascity.com/2010/06/23/2040201/royals-call-off-strasmas-in-1.html">KC Star</a> and <a href="http://www.usatoday.com/sports/baseball/al/royals/2010-06-21-bannister-ahead-of-tech-curve_N.htm">USA Today</a>]
+    <a href="https://www.kansascity.com/2010/06/23/2040201/royals-call-off-strasmas-in-1.html">Stephen Strasburg Loses</a> to the KC Royals Brian Bannister  (Woohoo)?  It must have been all that <a href="https://www.usatoday.com/sports/baseball/al/royals/2010-06-21-bannister-ahead-of-tech-curve_N.htm">PITCHf/x stuff</a> that everyone has been talking about lately?  via [<a href="https://www.kansascity.com/2010/06/23/2040201/royals-call-off-strasmas-in-1.html">KC Star</a> and <a href="https://www.usatoday.com/sports/baseball/al/royals/2010-06-21-bannister-ahead-of-tech-curve_N.htm">USA Today</a>]
   </p>
 
   <p>
-    <a href="http://www.moviehole.net/201025262-exclusive-sheen-could-return-to-the-major-league  ">Major League 4 might be in the works</a>, sounds like they are trying to get Charlie Sheen to come back and star as Wild Thing.  Wait?  There was a Major League 3?!?!  Hopefully they can get 4 back on track. [via <a href="http://www.moviehole.net/201025262-exclusive-sheen-could-return-to-the-major-league  ">Movie Hole</a>]
+    <a href="https://www.moviehole.net/201025262-exclusive-sheen-could-return-to-the-major-league  ">Major League 4 might be in the works</a>, sounds like they are trying to get Charlie Sheen to come back and star as Wild Thing.  Wait?  There was a Major League 3?!?!  Hopefully they can get 4 back on track. [via <a href="https://www.moviehole.net/201025262-exclusive-sheen-could-return-to-the-major-league  ">Movie Hole</a>]
   </p>
 
   <p>
@@ -48,15 +48,15 @@ tags:
   </p>
 
   <p>
-    Ex-Giants star <a href="http://www.nydailynews.com/news/ny_crime/2010/06/23/2010-06-23_lawrence_taylor_indicted_on_charges_of_rape_criminal_sexual_act_sexual_abuse.html">Lawrence Taylor indicted for rape</a>, criminal sexual act, sexual abuse charges.  What they didn't try blame it all on concussions?  [<a href="http://www.nydailynews.com/news/ny_crime/2010/06/23/2010-06-23_lawrence_taylor_indicted_on_charges_of_rape_criminal_sexual_act_sexual_abuse.html">NY Daily News</a>]
+    Ex-Giants star <a href="https://www.nydailynews.com/news/ny_crime/2010/06/23/2010-06-23_lawrence_taylor_indicted_on_charges_of_rape_criminal_sexual_act_sexual_abuse.html">Lawrence Taylor indicted for rape</a>, criminal sexual act, sexual abuse charges.  What they didn't try blame it all on concussions?  [<a href="https://www.nydailynews.com/news/ny_crime/2010/06/23/2010-06-23_lawrence_taylor_indicted_on_charges_of_rape_criminal_sexual_act_sexual_abuse.html">NY Daily News</a>]
   </p>
 
   <p>
-    Baltimore Ravens sign Marc Bulger to a 1-year deal? Does that mean Troy Smith has a chance to get traded? [via <a href="http://www.baltimoresun.com/sports/ravens/bs-sp-bulger-ravens-20100623,0,2487049.story" target="_blank">Baltimore Sun</a>]
+    Baltimore Ravens sign Marc Bulger to a 1-year deal? Does that mean Troy Smith has a chance to get traded? [via <a href="https://www.baltimoresun.com/sports/ravens/bs-sp-bulger-ravens-20100623,0,2487049.story" target="_blank">Baltimore Sun</a>]
   </p>
 
   <p>
-    Some <a href="http://www.boygeniusreport.com/2010/06/24/were-live-from-the-apple-store-on-5th-avenue/">new iPhone</a> came out today? please come to Verizon? Please?  [via <a href="http://www.boygeniusreport.com/2010/06/24/were-live-from-the-apple-store-on-5th-avenue/">BGR</a>]
+    Some <a href="https://www.boygeniusreport.com/2010/06/24/were-live-from-the-apple-store-on-5th-avenue/">new iPhone</a> came out today? please come to Verizon? Please?  [via <a href="https://www.boygeniusreport.com/2010/06/24/were-live-from-the-apple-store-on-5th-avenue/">BGR</a>]
   </p>
 
   <p>

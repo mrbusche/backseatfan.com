@@ -71,6 +71,6 @@ tags:
   </p>
 
   <p>
-    [via <a href="http://www.msnbc.msn.com/id/38347400/?GT1=43001">MSNBC</a>]
+    [via <a href="https://www.msnbc.msn.com/id/38347400/?GT1=43001">MSNBC</a>]
   </p>
 </div>

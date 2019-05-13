@@ -21,7 +21,7 @@ tags:
   </p>
 
   <p>
-    Interesting Story on <a href="http://www.gq.com/sports/profiles/201002/marvin-harrison?printable=true&currentPage=7">Marvin Harrison in GQ</a>, Really long read, but it is worth it. The video above is the one they reference in the story.
+    Interesting Story on <a href="https://www.gq.com/sports/profiles/201002/marvin-harrison?printable=true&currentPage=7">Marvin Harrison in GQ</a>, Really long read, but it is worth it. The video above is the one they reference in the story.
   </p>
 
   <p>

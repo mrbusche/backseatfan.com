@@ -34,6 +34,6 @@ tags:
   </p>
 
   <p>
-    Video courtesy of [<a href="http://www.hockey-fights.com/" target="_blank">Hockey Fights</a>]
+    Video courtesy of [<a href="https://www.hockey-fights.com/" target="_blank">Hockey Fights</a>]
   </p>
 </div>

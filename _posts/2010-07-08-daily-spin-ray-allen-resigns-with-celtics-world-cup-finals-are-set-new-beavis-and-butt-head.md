@@ -51,15 +51,15 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.telegraph.co.uk/sport/football/world-cup-2010/news/7878037/World-Cup-final-Holland-v-Spain-match-preview.html">World Cup Finals are set</a>, the match will be Holland vs Spain, the game kicks off on Sunday July 11th at 2:30 ET?  Anyone else not care as much about the World Cup  since US is out of it? [via <a href="http://www.telegraph.co.uk/sport/football/world-cup-2010/news/7878037/World-Cup-final-Holland-v-Spain-match-preview.html">Telegraph</a>]
+    <a href="https://www.telegraph.co.uk/sport/football/world-cup-2010/news/7878037/World-Cup-final-Holland-v-Spain-match-preview.html">World Cup Finals are set</a>, the match will be Holland vs Spain, the game kicks off on Sunday July 11th at 2:30 ET?  Anyone else not care as much about the World Cup  since US is out of it? [via <a href="https://www.telegraph.co.uk/sport/football/world-cup-2010/news/7878037/World-Cup-final-Holland-v-Spain-match-preview.html">Telegraph</a>]
   </p>
 
   <p>
-    Mike Freeman of CBS <a href="http://www.cbssports.com/columns/story/13610695?tag=pageRow;pageContainer">tries the Purple Drank</a>, for journalistic purposes? So the Purple Drank makes you feel woozy like when you are on cough syrup, weird, because that's what it is.  I think the real high is when you mix hard alcohol with it.  But doesn't that work with every prescription drug that says do not take with alcohol?  [via <a href="http://www.cbssports.com/columns/story/13610695?tag=pageRow;pageContainer">CBS Sports</a>]
+    Mike Freeman of CBS <a href="https://www.cbssports.com/columns/story/13610695?tag=pageRow;pageContainer">tries the Purple Drank</a>, for journalistic purposes? So the Purple Drank makes you feel woozy like when you are on cough syrup, weird, because that's what it is.  I think the real high is when you mix hard alcohol with it.  But doesn't that work with every prescription drug that says do not take with alcohol?  [via <a href="https://www.cbssports.com/columns/story/13610695?tag=pageRow;pageContainer">CBS Sports</a>]
   </p>
 
   <p>
-    Mike Judge is working on  30 new episodes of <a href="http://www.examiner.com/x-43585-Entertainment-Reviews-Examiner~y2010m7d6-REVIEWniverse-exclusive-Beavis-and-ButtHead-creator-Mike-Judge-working-on-30-new-episodes">Beavis and Butt-Head</a>, MTV Should be picking up the series?  This is exciting, I remember growing up and watching Beavis and Butt-Head every day.  Now if they could only bring King of the Hill back too?  [via <a href="http://www.examiner.com/x-43585-Entertainment-Reviews-Examiner~y2010m7d6-REVIEWniverse-exclusive-Beavis-and-ButtHead-creator-Mike-Judge-working-on-30-new-episodes">REVIEWniverse</a>]
+    Mike Judge is working on  30 new episodes of <a href="https://www.examiner.com/x-43585-Entertainment-Reviews-Examiner~y2010m7d6-REVIEWniverse-exclusive-Beavis-and-ButtHead-creator-Mike-Judge-working-on-30-new-episodes">Beavis and Butt-Head</a>, MTV Should be picking up the series?  This is exciting, I remember growing up and watching Beavis and Butt-Head every day.  Now if they could only bring King of the Hill back too?  [via <a href="https://www.examiner.com/x-43585-Entertainment-Reviews-Examiner~y2010m7d6-REVIEWniverse-exclusive-Beavis-and-ButtHead-creator-Mike-Judge-working-on-30-new-episodes">REVIEWniverse</a>]
   </p>
 
   <p>

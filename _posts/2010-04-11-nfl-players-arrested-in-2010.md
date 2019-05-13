@@ -30,7 +30,7 @@ tags:
   </p>
 
   <p>
-    12/27/10:  Redskins DT Joe Joseph is <a href="http://www.huffingtonpost.com/2010/12/27/joe-joseph-arrested-dui_n_801715.html">arrested for DUI</a>.
+    12/27/10:  Redskins DT Joe Joseph is <a href="https://www.huffingtonpost.com/2010/12/27/joe-joseph-arrested-dui_n_801715.html">arrested for DUI</a>.
   </p>
 
   <p>
@@ -42,27 +42,27 @@ tags:
   </p>
 
   <p>
-    12/13/2010: Buccaneers LB Geno Hayes is arrested for <a href="http://www.tampabay.com/news/publicsafety/crime/tampa-bay-buccaneers-linebacker-geno-hayes-arrested-in-tampa/1139742">disorderly conduct and trespassing</a>.
+    12/13/2010: Buccaneers LB Geno Hayes is arrested for <a href="https://www.tampabay.com/news/publicsafety/crime/tampa-bay-buccaneers-linebacker-geno-hayes-arrested-in-tampa/1139742">disorderly conduct and trespassing</a>.
   </p>
 
   <p>
-    12/10/2010:  Broncos CB Perrish Cox is arrested for <a href="http://www.denverpost.com/sports/ci_16825846">sexual assault</a>.
+    12/10/2010:  Broncos CB Perrish Cox is arrested for <a href="https://www.denverpost.com/sports/ci_16825846">sexual assault</a>.
   </p>
 
   <p>
-    11/27/2010:  Saints DE Will Smith is arrested for <a href="http://www.nola.com/saints/index.ssf/2010/11/will_smith_arrested_on_domesti.html">domestic violence</a>.
+    11/27/2010:  Saints DE Will Smith is arrested for <a href="https://www.nola.com/saints/index.ssf/2010/11/will_smith_arrested_on_domesti.html">domestic violence</a>.
   </p>
 
   <p>
-    11/19/2010:  Buccaneers WR Mike Williams is arrested for <a href="http://www.tmz.com/2010/11/19/nfl-star-mike-williams-arrested-for-dui-breathalyzer-tampa-bay-buccaneers/">suspicion of DUI</a>.
+    11/19/2010:  Buccaneers WR Mike Williams is arrested for <a href="https://www.tmz.com/2010/11/19/nfl-star-mike-williams-arrested-for-dui-breathalyzer-tampa-bay-buccaneers/">suspicion of DUI</a>.
   </p>
 
   <p>
-    11/13/2010:  Seahawks DE Raheem Brock is <a href="http://www.theindychannel.com/sports/25803199/detail.html">arrested for DUI</a>.
+    11/13/2010:  Seahawks DE Raheem Brock is <a href="https://www.theindychannel.com/sports/25803199/detail.html">arrested for DUI</a>.
   </p>
 
   <p>
-    11/12/2010:  Broncos LB D.J. Williams is arrested for <a href="http://www.denverpost.com/news/ci_16595086">suspicion of DUI</a>.
+    11/12/2010:  Broncos LB D.J. Williams is arrested for <a href="https://www.denverpost.com/news/ci_16595086">suspicion of DUI</a>.
   </p>
 
   <p>
@@ -70,7 +70,7 @@ tags:
   </p>
 
   <p>
-    10/20/2010:  Colts P Patrick McAfee is arrested for <a href="http://www.wishtv.com/dpp/sports/colts_and_nfl/Colts-punter-arrested-for-swimming-in-Broad-Ripple-canal--">drunk and disorderly conduct</a>.
+    10/20/2010:  Colts P Patrick McAfee is arrested for <a href="https://www.wishtv.com/dpp/sports/colts_and_nfl/Colts-punter-arrested-for-swimming-in-Broad-Ripple-canal--">drunk and disorderly conduct</a>.
   </p>
 
   <p>
@@ -82,11 +82,11 @@ tags:
   </p>
 
   <p>
-    9/18/10:  Ravens assistant coach Andy Moeller is <a href="http://www.huffingtonpost.com/2010/09/21/andy-moeller-arrested-rav_n_732651.html">arrested for DUI</a>.
+    9/18/10:  Ravens assistant coach Andy Moeller is <a href="https://www.huffingtonpost.com/2010/09/21/andy-moeller-arrested-rav_n_732651.html">arrested for DUI</a>.
   </p>
 
   <p>
-    9/3/10:  Colts DT Fili Moala is <a href="http://www.huffingtonpost.com/2010/09/04/fili-moala-arrested-colts_n_705733.html">arrested for DUI</a>.
+    9/3/10:  Colts DT Fili Moala is <a href="https://www.huffingtonpost.com/2010/09/04/fili-moala-arrested-colts_n_705733.html">arrested for DUI</a>.
   </p>
 
   <p>
@@ -94,15 +94,15 @@ tags:
   </p>
 
   <p>
-    8/17/10:  Browns DB Gerard Lawson pleads <a href="http://www.huffingtonpost.com/2010/08/09/gerard-lawson-arrested-br_n_675765.html">no contest to DUI charges</a>.
+    8/17/10:  Browns DB Gerard Lawson pleads <a href="https://www.huffingtonpost.com/2010/08/09/gerard-lawson-arrested-br_n_675765.html">no contest to DUI charges</a>.
   </p>
 
   <p>
-    8/9/10:  Colts DT John Gill is arrested for <a href="http://www.huffingtonpost.com/2010/08/09/john-gill-arrested-colts-_n_675324.html">public intoxication</a>.
+    8/9/10:  Colts DT John Gill is arrested for <a href="https://www.huffingtonpost.com/2010/08/09/john-gill-arrested-colts-_n_675324.html">public intoxication</a>.
   </p>
 
   <p>
-    8/8/10:  Browns DB Gerard Lawson is <a href="http://www.huffingtonpost.com/2010/08/09/john-gill-arrested-colts-_n_675324.html">charged with drunk driving and hit-skip</a>.
+    8/8/10:  Browns DB Gerard Lawson is <a href="https://www.huffingtonpost.com/2010/08/09/john-gill-arrested-colts-_n_675324.html">charged with drunk driving and hit-skip</a>.
   </p>
 
   <p>
@@ -114,7 +114,7 @@ tags:
   </p>
 
   <p>
-    7/7/2010: Buccaners OT Jeremy Trueblood is arrested for <a href="http://www.tampabay.com/news/publicsafety/crime/article1107413.ece">public intoxication</a>.
+    7/7/2010: Buccaners OT Jeremy Trueblood is arrested for <a href="https://www.tampabay.com/news/publicsafety/crime/article1107413.ece">public intoxication</a>.
   </p>
 
   <p>
@@ -126,7 +126,7 @@ tags:
   </p>
 
   <div id="_mcePaste">
-    6/29/2010:  Bengals RB Cedric Benson is arrested for <a href="http://www.nfl.com/news/story/09000d5d818e3f24/article/bengals-benson-out-on-bail-after-arrest-on-assault-charge">assault with injury</a>.
+    6/29/2010:  Bengals RB Cedric Benson is arrested for <a href="https://www.nfl.com/news/story/09000d5d818e3f24/article/bengals-benson-out-on-bail-after-arrest-on-assault-charge">assault with injury</a>.
   </div>
 
   <p>
@@ -138,7 +138,7 @@ tags:
   </p>
 
   <p>
-    6/13/2010:  Titans QB Vince Young is cited for <a href="http://www.huffingtonpost.com/2010/06/13/vince-young-assault-qb-su_n_610548.html">misdemeanor assault</a>.
+    6/13/2010:  Titans QB Vince Young is cited for <a href="https://www.huffingtonpost.com/2010/06/13/vince-young-assault-qb-su_n_610548.html">misdemeanor assault</a>.
   </p>
 
   <p>
@@ -146,15 +146,15 @@ tags:
   </p>
 
   <p>
-    5/24/2010: Chargers S Kevin Ellison is arrested for <a href="http://www.huffingtonpost.com/2010/05/25/kevin-ellison-arrested-ch_n_588433.html">possession of 100 Vicodin pills</a>.
+    5/24/2010: Chargers S Kevin Ellison is arrested for <a href="https://www.huffingtonpost.com/2010/05/25/kevin-ellison-arrested-ch_n_588433.html">possession of 100 Vicodin pills</a>.
   </p>
 
   <p>
-    5/23/2010: Saints rookie Harry Coleman is arrested for <a href="http://www.nola.com/saints/index.ssf/2010/05/new_orleans_saints_free_agent_4.html">simple battery</a>.
+    5/23/2010: Saints rookie Harry Coleman is arrested for <a href="https://www.nola.com/saints/index.ssf/2010/05/new_orleans_saints_free_agent_4.html">simple battery</a>.
   </p>
 
   <p>
-    5/16/2010: Buccaneers WR Mario Urrutia is arrested for a <a href="http://www.mkrob.com/bucs-wr-mario-urrutia-arrested-for-license-violation/">misdemeanor drivers license violation</a>.
+    5/16/2010: Buccaneers WR Mario Urrutia is arrested for a <a href="https://www.mkrob.com/bucs-wr-mario-urrutia-arrested-for-license-violation/">misdemeanor drivers license violation</a>.
   </p>
 
   <p>
@@ -166,7 +166,7 @@ tags:
   </p>
 
   <p>
-    4/27/2010:  Free-agent S Clinton Hart is arrested for <a href="http://www.wesh.com/sports/23287988/detail.html">domestic battery</a>.
+    4/27/2010:  Free-agent S Clinton Hart is arrested for <a href="https://www.wesh.com/sports/23287988/detail.html">domestic battery</a>.
   </p>
 
   <p>
@@ -174,7 +174,7 @@ tags:
   </p>
 
   <p>
-    4/10/2010:  Seahawks LB Leroy Hill is arrested for <a href="http://www.huffingtonpost.com/2010/04/14/leroy-hill-domestic-viole_n_536926.html">domestic violence</a>.
+    4/10/2010:  Seahawks LB Leroy Hill is arrested for <a href="https://www.huffingtonpost.com/2010/04/14/leroy-hill-domestic-viole_n_536926.html">domestic violence</a>.
   </p>
 
   <p>
@@ -186,15 +186,15 @@ tags:
   </p>
 
   <p>
-    3/27/10: Cardinals LB Joey Porter is arrested for <a href="http://www.bakersfield.com/news/local/x449497570/Joey-Porter-arrested-on-DUI-battery-charges">DUI, resisting arrest, and assaulting a peace officer</a>.
+    3/27/10: Cardinals LB Joey Porter is arrested for <a href="https://www.bakersfield.com/news/local/x449497570/Joey-Porter-arrested-on-DUI-battery-charges">DUI, resisting arrest, and assaulting a peace officer</a>.
   </p>
 
   <p>
-    3/26/10: Bears OL Lance Louis pleads guilty to <a href="http://www.nationalfootballpost.com/Bears-Lance-Louis-pleads-guilty-to-battery.html">misdemeanor battery</a>.
+    3/26/10: Bears OL Lance Louis pleads guilty to <a href="https://www.nationalfootballpost.com/Bears-Lance-Louis-pleads-guilty-to-battery.html">misdemeanor battery</a>.
   </p>
 
   <p>
-    3/19/10: Dolphins RB Ronnie Brown is arrested on <a href="http://www.miamiherald.com/2010/03/21/1540924/miami-dolphins-ronnie-brown-is.html">suspicion of DUI</a>.
+    3/19/10: Dolphins RB Ronnie Brown is arrested on <a href="https://www.miamiherald.com/2010/03/21/1540924/miami-dolphins-ronnie-brown-is.html">suspicion of DUI</a>.
   </p>
 
   <p>
@@ -210,7 +210,7 @@ tags:
   </p>
 
   <p>
-    2/19/10: Redskins CB Byron Westbrook is arrested for <a href="http://www.washingtonpost.com/wp-dyn/content/article/2010/02/19/AR2010021904997.html">DUI, negligent driving, and failure to drive right of center</a>.
+    2/19/10: Redskins CB Byron Westbrook is arrested for <a href="https://www.washingtonpost.com/wp-dyn/content/article/2010/02/19/AR2010021904997.html">DUI, negligent driving, and failure to drive right of center</a>.
   </p>
 
   <p>
@@ -222,11 +222,11 @@ tags:
   </p>
 
   <p>
-    2/2/10: Bengals LB Rey Maualuga pleads guilty to <a href="http://www.tmz.com/2010/01/29/rey-maualuga-dui-crash-photo-picture-cincinnati-bengals/">DUI</a>.
+    2/2/10: Bengals LB Rey Maualuga pleads guilty to <a href="https://www.tmz.com/2010/01/29/rey-maualuga-dui-crash-photo-picture-cincinnati-bengals/">DUI</a>.
   </p>
 
   <p>
-    1/30/10: Chiefs CB Michael Richardson is arrested for <a href="http://www.arrowheadpride.com/2010/1/31/1285498/chiefs-cb-michael-richardson">various alcohol-related charges</a>.
+    1/30/10: Chiefs CB Michael Richardson is arrested for <a href="https://www.arrowheadpride.com/2010/1/31/1285498/chiefs-cb-michael-richardson">various alcohol-related charges</a>.
   </p>
 
   <p>
@@ -234,7 +234,7 @@ tags:
   </p>
 
   <p>
-    1/17/10: Chargers WR Vincent Jackson is arrested for <a href="http://www.san-diego-criminal-defense-lawyer-blog.com/2010/03/vincent-jackson-arrested-again.html">driving with a suspended license</a>.
+    1/17/10: Chargers WR Vincent Jackson is arrested for <a href="https://www.san-diego-criminal-defense-lawyer-blog.com/2010/03/vincent-jackson-arrested-again.html">driving with a suspended license</a>.
   </p>
 
   <p>

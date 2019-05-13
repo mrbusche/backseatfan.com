@@ -28,7 +28,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.vanityfair.com/online/oscars/2010/08/shaquille-oneal-has-a-message-for-boston-tanya-says-hello.html">Shaq interview with Vanity Fair</a>? Shaq does internet stings, he pretends he is a little girl named tanya? [via <a href="http://www.vanityfair.com/online/oscars/2010/08/shaquille-oneal-has-a-message-for-boston-tanya-says-hello.html">Vanity Fair</a>]
+    <a href="https://www.vanityfair.com/online/oscars/2010/08/shaquille-oneal-has-a-message-for-boston-tanya-says-hello.html">Shaq interview with Vanity Fair</a>? Shaq does internet stings, he pretends he is a little girl named tanya? [via <a href="https://www.vanityfair.com/online/oscars/2010/08/shaquille-oneal-has-a-message-for-boston-tanya-says-hello.html">Vanity Fair</a>]
   </p>
 
   <p>

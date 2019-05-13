@@ -16,11 +16,11 @@ categories:
   </p>
 
   <p>
-    2. Many Ramirez - <a href="http://www.nytimes.com/auth/login?URI=/2009/07/31/sports/baseball/31doping.html&#038;OQ=_rQ3D5Q26hp&#038;REFUSE_COOKIE_ERROR=SHOW_ERROR">New York Times</a>
+    2. Many Ramirez - <a href="https://www.nytimes.com/auth/login?URI=/2009/07/31/sports/baseball/31doping.html&#038;OQ=_rQ3D5Q26hp&#038;REFUSE_COOKIE_ERROR=SHOW_ERROR">New York Times</a>
   </p>
 
   <p>
-    3. David Ortiz - <a href="http://www.nytimes.com/auth/login?URI=/2009/07/31/sports/baseball/31doping.html&#038;OQ=_rQ3D5Q26hp&#038;REFUSE_COOKIE_ERROR=SHOW_ERROR">New York Times</a>
+    3. David Ortiz - <a href="https://www.nytimes.com/auth/login?URI=/2009/07/31/sports/baseball/31doping.html&#038;OQ=_rQ3D5Q26hp&#038;REFUSE_COOKIE_ERROR=SHOW_ERROR">New York Times</a>
   </p>
 
   <p>
@@ -28,7 +28,7 @@ categories:
   </p>
 
   <p>
-    5. Jason Grimsley - <a href="http://www.washingtonpost.com/wp-dyn/content/article/2006/06/07/AR2006060701480.html">Washington Post</a>
+    5. Jason Grimsley - <a href="https://www.washingtonpost.com/wp-dyn/content/article/2006/06/07/AR2006060701480.html">Washington Post</a>
   </p>
 
   <p>

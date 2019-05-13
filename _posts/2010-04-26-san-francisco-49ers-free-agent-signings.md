@@ -14,7 +14,7 @@ categories:
 
 <div class="entry">
   <p>
-    The <a href="http://www.49ers.com/news-and-events/article-2/49ers-Announce-Undrafted-Free-Agents/4caad3df-6632-449a-b314-e32989752165">San Francisco 49ers</a> have announced 10 NFL Draft Free Agent Signings. The headliner appears to be former West Virginia QB Jarrett Brown who had 15 career starts.
+    The <a href="https://www.49ers.com/news-and-events/article-2/49ers-Announce-Undrafted-Free-Agents/4caad3df-6632-449a-b314-e32989752165">San Francisco 49ers</a> have announced 10 NFL Draft Free Agent Signings. The headliner appears to be former West Virginia QB Jarrett Brown who had 15 career starts.
   </p>
 
   <p>

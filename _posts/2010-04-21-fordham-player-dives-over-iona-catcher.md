@@ -27,6 +27,6 @@ tags:
   </p>
 
   <p>
-    via [<a href="http://www.sportingnews.com/blog/the_sporting_blog/entry/view/63471/fordham_basketball_might_want_to_contact_brian_kownacki">The Sporting Blog</a>]
+    via [<a href="https://www.sportingnews.com/blog/the_sporting_blog/entry/view/63471/fordham_basketball_might_want_to_contact_brian_kownacki">The Sporting Blog</a>]
   </p>
 </div>

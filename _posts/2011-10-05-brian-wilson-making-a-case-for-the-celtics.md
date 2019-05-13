@@ -26,7 +26,7 @@ tags:
   </p>
 
   <p>
-    Join the debat on <a title="http://www.NBA2KDebate.com" dir="ltr" href="http://www.nba2kdebate.com/" target="_blank">http://www.NBA2KDebate.com</a>, my vote goes for the Bulls.
+    Join the debat on <a title="https://www.NBA2KDebate.com" dir="ltr" href="https://www.nba2kdebate.com/" target="_blank">https://www.NBA2KDebate.com</a>, my vote goes for the Bulls.
   </p>
 
   <p>

@@ -31,7 +31,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.nbcwashington.com/news/local-beat/Dan-Snyder-Sues-Washington-City-Paper-115174714.html?dr">Dan Snyder sues Washington City newspaper</a> because they smeared his business and personal reputation, by calling him a terrible owner. [via <a href="http://www.nbcwashington.com/news/local-beat/Dan-Snyder-Sues-Washington-City-Paper-115174714.html?dr">NBC Washington</a>]
+    <a href="https://www.nbcwashington.com/news/local-beat/Dan-Snyder-Sues-Washington-City-Paper-115174714.html?dr">Dan Snyder sues Washington City newspaper</a> because they smeared his business and personal reputation, by calling him a terrible owner. [via <a href="https://www.nbcwashington.com/news/local-beat/Dan-Snyder-Sues-Washington-City-Paper-115174714.html?dr">NBC Washington</a>]
   </p>
 
   <p>
@@ -39,15 +39,15 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.usatoday.com/sports/basketball/nba/2011-02-03-heat-magic_N.htm">LeBron James scored 51 points last night</a>, and beat the Magic? [via <a href="http://www.usatoday.com/sports/basketball/nba/2011-02-03-heat-magic_N.htm">USA Today</a>]
+    <a href="https://www.usatoday.com/sports/basketball/nba/2011-02-03-heat-magic_N.htm">LeBron James scored 51 points last night</a>, and beat the Magic? [via <a href="https://www.usatoday.com/sports/basketball/nba/2011-02-03-heat-magic_N.htm">USA Today</a>]
   </p>
 
   <p>
-    <a href="http://www.nytimes.com/2011/02/04/sports/04runner.html?_r=1&#038;ref=sports">Joseph Chirlee can serve in the Army, but can't run</a> in an Olympics qualifying marathon? [via <a href="http://www.nytimes.com/2011/02/04/sports/04runner.html?_r=1&#038;ref=sports">NY Times</a>]
+    <a href="https://www.nytimes.com/2011/02/04/sports/04runner.html?_r=1&#038;ref=sports">Joseph Chirlee can serve in the Army, but can't run</a> in an Olympics qualifying marathon? [via <a href="https://www.nytimes.com/2011/02/04/sports/04runner.html?_r=1&#038;ref=sports">NY Times</a>]
   </p>
 
   <p>
-    <a href="http://www.cbssports.com/collegefootball/story/14640415/rich-rod-we-thought-it-was-just-getting-ready-to-take-off?ttag=gen10_on_all_fb_na_txt_0001">Rich Rodriguez on all of the drama at Michigan</a>, oh what a soap opera? [via <a href="http://www.cbssports.com/collegefootball/story/14640415/rich-rod-we-thought-it-was-just-getting-ready-to-take-off?ttag=gen10_on_all_fb_na_txt_0001">CBS Sports</a>]
+    <a href="https://www.cbssports.com/collegefootball/story/14640415/rich-rod-we-thought-it-was-just-getting-ready-to-take-off?ttag=gen10_on_all_fb_na_txt_0001">Rich Rodriguez on all of the drama at Michigan</a>, oh what a soap opera? [via <a href="https://www.cbssports.com/collegefootball/story/14640415/rich-rod-we-thought-it-was-just-getting-ready-to-take-off?ttag=gen10_on_all_fb_na_txt_0001">CBS Sports</a>]
   </p>
 
   <p>

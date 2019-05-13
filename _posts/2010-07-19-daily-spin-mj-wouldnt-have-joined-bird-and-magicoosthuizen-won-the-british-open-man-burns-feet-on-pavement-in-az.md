@@ -28,19 +28,19 @@ tags:
   </p>
 
   <p>
-    Michael Jordan said "There's no way, with hindsight,<a href="http://www.cbssports.com/nba/story/13651163/jordan-shares-his-disappointment-of-heat-big-3?tag=coverlist%3Bcoverlist_photo"> I would've ever called up Larry, called up Magic</a> and said, 'Hey, look, let's get together and play on one team'"?He was trying to beat Bird and Magic? Michael Jordan is pure competition. MJ wanted to be the best, and in order to do that you beat some of the best. You don't call them up and try to form a team, you stick with your team, people come to you, and you try to beat them?<span style="font-family: Arial,Helvetica; font-size: x-small;"> </span>[via <a href="http://www.cbssports.com/nba/story/13651163/jordan-shares-his-disappointment-of-heat-big-3?tag=coverlist%3Bcoverlist_photo">CBS Sports</a>]
+    Michael Jordan said "There's no way, with hindsight,<a href="https://www.cbssports.com/nba/story/13651163/jordan-shares-his-disappointment-of-heat-big-3?tag=coverlist%3Bcoverlist_photo"> I would've ever called up Larry, called up Magic</a> and said, 'Hey, look, let's get together and play on one team'"?He was trying to beat Bird and Magic? Michael Jordan is pure competition. MJ wanted to be the best, and in order to do that you beat some of the best. You don't call them up and try to form a team, you stick with your team, people come to you, and you try to beat them?<span style="font-family: Arial,Helvetica; font-size: x-small;"> </span>[via <a href="https://www.cbssports.com/nba/story/13651163/jordan-shares-his-disappointment-of-heat-big-3?tag=coverlist%3Bcoverlist_photo">CBS Sports</a>]
   </p>
 
   <p>
-    <a href="http://www.usatoday.com/sports/basketball/nba/heat/2010-07-19-dwyane-wade-world-trade-center_N.htm">Dwyane Wade apologizes for World Trade Center remarks</a>? He initially said "If we lose a couple in a row this season, it will be like the World Trade (Center) is coming down again." Too soon  D-Wade, maybe make a WWII reference, I think that will go over a little better? [ via <a href="http://www.usatoday.com/sports/basketball/nba/heat/2010-07-19-dwyane-wade-world-trade-center_N.htm">USA Today</a>]
+    <a href="https://www.usatoday.com/sports/basketball/nba/heat/2010-07-19-dwyane-wade-world-trade-center_N.htm">Dwyane Wade apologizes for World Trade Center remarks</a>? He initially said "If we lose a couple in a row this season, it will be like the World Trade (Center) is coming down again." Too soon  D-Wade, maybe make a WWII reference, I think that will go over a little better? [ via <a href="https://www.usatoday.com/sports/basketball/nba/heat/2010-07-19-dwyane-wade-world-trade-center_N.htm">USA Today</a>]
   </p>
 
   <p>
-    <a href="http://www.azcentral.com/sports/suns/articles/2010/07/16/20100716amare-stoudemire-newspaper-ad.html">Amare Stoudemire thanks Suns' fans</a> in a newspaper ad? Nice bit of class form Amare? Although he was a burden at times, without him the Sun's wouldn't have made it as far as they did this year. And at least his letter isn't in Comic Sans? [via <a href="http://www.azcentral.com/sports/suns/articles/2010/07/16/20100716amare-stoudemire-newspaper-ad.html">AZ Republic</a>]
+    <a href="https://www.azcentral.com/sports/suns/articles/2010/07/16/20100716amare-stoudemire-newspaper-ad.html">Amare Stoudemire thanks Suns' fans</a> in a newspaper ad? Nice bit of class form Amare? Although he was a burden at times, without him the Sun's wouldn't have made it as far as they did this year. And at least his letter isn't in Comic Sans? [via <a href="https://www.azcentral.com/sports/suns/articles/2010/07/16/20100716amare-stoudemire-newspaper-ad.html">AZ Republic</a>]
   </p>
 
   <p>
-    <a href="http://www.fanhouse.com/2010/07/18/first-class-little-league-coach-meets-tragic-end/">Little League coach dies</a> while saving drowning kids?  Tragic ending to a good coach, sad to see him go? [via <a href="http://www.fanhouse.com/2010/07/18/first-class-little-league-coach-meets-tragic-end/">Fan House</a>]
+    <a href="https://www.fanhouse.com/2010/07/18/first-class-little-league-coach-meets-tragic-end/">Little League coach dies</a> while saving drowning kids?  Tragic ending to a good coach, sad to see him go? [via <a href="https://www.fanhouse.com/2010/07/18/first-class-little-league-coach-meets-tragic-end/">Fan House</a>]
   </p>
 
   <p>

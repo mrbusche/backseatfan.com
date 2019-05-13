@@ -12,7 +12,7 @@ categories:
 
 <div class="entry">
   <p>
-    <a href="http://www.tmz.com">TMZ.com</a> reports that they are going to premiere the footage of Lebron James being dunked on TMZ TV tonight. They will also be posting the uncut in-your-face slam on the website at 6:45 PM EST. Hopefully we can get a copy of video on Backseat Fan later tonight.
+    <a href="https://www.tmz.com">TMZ.com</a> reports that they are going to premiere the footage of Lebron James being dunked on TMZ TV tonight. They will also be posting the uncut in-your-face slam on the website at 6:45 PM EST. Hopefully we can get a copy of video on Backseat Fan later tonight.
   </p>
 
   <p>

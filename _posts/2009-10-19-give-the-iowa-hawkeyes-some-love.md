@@ -41,7 +41,7 @@ tags:
   </p>
 
   <p>
-    <strong>Northern Iowa</strong> - One of the top teams in the FCS.<br /> <strong>Iowa State</strong> - Decent Big 12 team this year, likely bowling.<br /> <strong>Arizona</strong> - #22 in BCS<br /> <strong>Penn State </strong>- #13 in BCS<br /> <strong>Arkansas State</strong> - <a href="http://www.themoviemind.com/wp-content/uploads/2008/04/bobby-coucher.bmp">The water boy (Bobby Boucher)</a> might have been playing in that game. But Iowa wasn't losing to them, watch the games don't just look at the scores.<br /> <strong>Michigan</strong> - Solid team this year, definitely bowling<br /> <strong>Wisconsin </strong>- #21 in BCS
+    <strong>Northern Iowa</strong> - One of the top teams in the FCS.<br /> <strong>Iowa State</strong> - Decent Big 12 team this year, likely bowling.<br /> <strong>Arizona</strong> - #22 in BCS<br /> <strong>Penn State </strong>- #13 in BCS<br /> <strong>Arkansas State</strong> - <a href="https://www.themoviemind.com/wp-content/uploads/2008/04/bobby-coucher.bmp">The water boy (Bobby Boucher)</a> might have been playing in that game. But Iowa wasn't losing to them, watch the games don't just look at the scores.<br /> <strong>Michigan</strong> - Solid team this year, definitely bowling<br /> <strong>Wisconsin </strong>- #21 in BCS
   </p>
 
   <p>

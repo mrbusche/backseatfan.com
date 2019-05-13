@@ -18,7 +18,7 @@ categories:
   </p>
 
   <p>
-    <span><span><a rel="nofollow" href="http://www.rockapp.com/ocho/" target="_blank">www.rockapp.com/ocho</a></span></span>
+    <span><span><a rel="nofollow" href="https://www.rockapp.com/ocho/" target="_blank">www.rockapp.com/ocho</a></span></span>
   </p>
 
   <p>

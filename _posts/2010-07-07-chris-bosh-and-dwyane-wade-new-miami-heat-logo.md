@@ -24,6 +24,6 @@ tags:
   </p>
 
   <p>
-    [via <a href="http://www.twitter.com/SportsCenter">@sportscenter</a>]
+    [via <a href="https://www.twitter.com/SportsCenter">@sportscenter</a>]
   </p>
 </div>

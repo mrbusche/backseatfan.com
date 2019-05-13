@@ -17,7 +17,7 @@ tags:
 
 <div class="entry">
   <p>
-    Chyladin over at the <a href="http://www.arrowheadpride.com/" target="_blank">Kansas City Chiefs</a> blog Arrowhead Pride wrote up a great article about Eric Berry and his interaction with the some young fans after practice.
+    Chyladin over at the <a href="https://www.arrowheadpride.com/" target="_blank">Kansas City Chiefs</a> blog Arrowhead Pride wrote up a great article about Eric Berry and his interaction with the some young fans after practice.
   </p>
 
   <p>
@@ -29,6 +29,6 @@ tags:
   </p>
 
   <p>
-    Check out the <a href="http://www.arrowheadpride.com/2010/8/10/1614912/eric-berry-goes-the-extra-mile-for">full article</a> at Arrowhead Pride for more details
+    Check out the <a href="https://www.arrowheadpride.com/2010/8/10/1614912/eric-berry-goes-the-extra-mile-for">full article</a> at Arrowhead Pride for more details
   </p>
 </div>

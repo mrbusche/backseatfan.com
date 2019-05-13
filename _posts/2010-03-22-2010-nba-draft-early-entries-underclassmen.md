@@ -125,7 +125,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.sbnation.com/2010/4/1/1400216/al-farouq-aminu-nba-draft-wake-forest-declares">4/1/2010</a>
+        <a href="https://www.sbnation.com/2010/4/1/1400216/al-farouq-aminu-nba-draft-wake-forest-declares">4/1/2010</a>
       </td>
     </tr>
 
@@ -151,7 +151,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.tulsaworld.com/sportsextra/OSU/article.aspx?subjectid=93&articleid=20100323_93_B1_Oklaho12128">3/22/2010</a>
+        <a href="https://www.tulsaworld.com/sportsextra/OSU/article.aspx?subjectid=93&articleid=20100323_93_B1_Oklaho12128">3/22/2010</a>
       </td>
     </tr>
 
@@ -228,7 +228,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.nba.com/2010/news/04/07/kentucky.draft.ap/index.html">4/7/2010</a>
+        <a href="https://www.nba.com/2010/news/04/07/kentucky.draft.ap/index.html">4/7/2010</a>
       </td>
     </tr>
 
@@ -254,7 +254,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.foxnews.com/sports/2010/03/11/sources-brackins-gilstrap-declare/">3/11/2010</a>
+        <a href="https://www.foxnews.com/sports/2010/03/11/sources-brackins-gilstrap-declare/">3/11/2010</a>
       </td>
     </tr>
 
@@ -280,7 +280,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.thenewstribune.com/2010/04/09/1141133/avery-bradley-to-try-nba-draft.html">4/12/2010</a>
+        <a href="https://www.thenewstribune.com/2010/04/09/1141133/avery-bradley-to-try-nba-draft.html">4/12/2010</a>
       </td>
     </tr>
 
@@ -306,7 +306,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.sbnation.com/2010/3/29/1395874/derrick-caracter-nba-draft-utep-declares">4/12/2010</a>
+        <a href="https://www.sbnation.com/2010/3/29/1395874/derrick-caracter-nba-draft-utep-declares">4/12/2010</a>
       </td>
     </tr>
 
@@ -332,7 +332,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.nba.com/2010/news/04/07/kentucky.draft.ap/index.html">4/7/2010</a>
+        <a href="https://www.nba.com/2010/news/04/07/kentucky.draft.ap/index.html">4/7/2010</a>
       </td>
     </tr>
 
@@ -358,7 +358,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.atlantic10.com/sports/m-baskbl/spec-rel/040710aae.html">4/7/2010</a>
+        <a href="https://www.atlantic10.com/sports/m-baskbl/spec-rel/040710aae.html">4/7/2010</a>
       </td>
     </tr>
 
@@ -566,7 +566,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.detnews.com/article/20100326/SPORTS0201/3260444/1361/U-M-guard-Harris-appears-set-to-leave-program">3/26/2010</a>
+        <a href="https://www.detnews.com/article/20100326/SPORTS0201/3260444/1361/U-M-guard-Harris-appears-set-to-leave-program">3/26/2010</a>
       </td>
     </tr>
 
@@ -930,7 +930,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.nba.com/2010/news/04/07/kentucky.draft.ap/index.html">4/7/2010</a>
+        <a href="https://www.nba.com/2010/news/04/07/kentucky.draft.ap/index.html">4/7/2010</a>
       </td>
     </tr>
 
@@ -956,7 +956,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.usatoday.com/sports/college/mensbasketball/sec/2010-04-10-patterson-possible-return_N.htm">4/7/2010</a>
+        <a href="https://www.usatoday.com/sports/college/mensbasketball/sec/2010-04-10-patterson-possible-return_N.htm">4/7/2010</a>
       </td>
     </tr>
 
@@ -1160,7 +1160,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.nba.com/2010/news/04/07/kentucky.draft.ap/index.html">4/7/2010</a>
+        <a href="https://www.nba.com/2010/news/04/07/kentucky.draft.ap/index.html">4/7/2010</a>
       </td>
     </tr>
 

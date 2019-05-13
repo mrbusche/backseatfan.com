@@ -29,7 +29,7 @@ tags:
   </p>
 
   <p>
-    Blount was the was carrying the ball, his helmet got ripped off, the whistle blew and he ran into the end zone. There was a brief shoving match between players. Blount walked by and Bakhtiari whispered something in his ear, soon after Bakhtiari was clocked in the face mask. But that wasn't the first time Blount has punched a player in football. While at Oregon State <a href="http://www.youtube.com/watch?v=PNSXleiYnw0">Blount threw a punch at Boise State linebacker Byron Hout</a> after the losing a game.
+    Blount was the was carrying the ball, his helmet got ripped off, the whistle blew and he ran into the end zone. There was a brief shoving match between players. Blount walked by and Bakhtiari whispered something in his ear, soon after Bakhtiari was clocked in the face mask. But that wasn't the first time Blount has punched a player in football. While at Oregon State <a href="https://www.youtube.com/watch?v=PNSXleiYnw0">Blount threw a punch at Boise State linebacker Byron Hout</a> after the losing a game.
   </p>
 
   <p>

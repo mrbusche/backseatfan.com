@@ -35,7 +35,7 @@ tags:
   </p>
 
   <p>
-    <span style="font-family: georgia, palatino;">There is a cool fantasy game that goes with the whole series on <a href="http://www.msg.com/tv/shows/the-lineup">MSG.com</a></span><span style="font-family: georgia, palatino;">. Viewers can see how they stack up against The Lineup's experts. Fans will try to predict the five players who will be nominated each week and ultimately who will be selected as the starter in the final “Lineup.” Participants will receive points for each correct pick and will be eligible for weekly prizes such as signed memorabilia from baseball greats like Don Mattingly, Joe Torre, Reggie Jackson and Derek Jeter. At the end of the series, the participant with the most points will win a Grand Prize. The site will also feature chats for fans to interact and debate each position, quizzes about the nominated players, photo and video galleries, and player statistics for fans to comb through before making their picks.</span>
+    <span style="font-family: georgia, palatino;">There is a cool fantasy game that goes with the whole series on <a href="https://www.msg.com/tv/shows/the-lineup">MSG.com</a></span><span style="font-family: georgia, palatino;">. Viewers can see how they stack up against The Lineup's experts. Fans will try to predict the five players who will be nominated each week and ultimately who will be selected as the starter in the final “Lineup.” Participants will receive points for each correct pick and will be eligible for weekly prizes such as signed memorabilia from baseball greats like Don Mattingly, Joe Torre, Reggie Jackson and Derek Jeter. At the end of the series, the participant with the most points will win a Grand Prize. The site will also feature chats for fans to interact and debate each position, quizzes about the nominated players, photo and video galleries, and player statistics for fans to comb through before making their picks.</span>
   </p>
 
   <p>
@@ -43,11 +43,11 @@ tags:
   </p>
 
   <p>
-    <span style="font-family: georgia, palatino;">Tonight, </span><span><strong><span style="font-family: georgia, palatino;">Tuesday, April 27th at 10:30PM is the next episode, </span></strong></span><span><span style="font-family: georgia, palatino;">the panel will choose </span><strong><span style="font-family: georgia, palatino;">NY's All-Time Best</span></strong><strong><span style="font-family: georgia, palatino;"> Left Fielder</span></strong><span style="font-family: georgia, palatino;">. Will it be Rickey Henderson? Dave Winfield? or how about Monte Irvin? So many greats, but only ONE SPOT! Check out photos of the top left fielders </span><a href="http://www.msg.com/tv/shows/the-lineup"><span style="font-family: georgia, palatino;">here</span></a></span>
+    <span style="font-family: georgia, palatino;">Tonight, </span><span><strong><span style="font-family: georgia, palatino;">Tuesday, April 27th at 10:30PM is the next episode, </span></strong></span><span><span style="font-family: georgia, palatino;">the panel will choose </span><strong><span style="font-family: georgia, palatino;">NY's All-Time Best</span></strong><strong><span style="font-family: georgia, palatino;"> Left Fielder</span></strong><span style="font-family: georgia, palatino;">. Will it be Rickey Henderson? Dave Winfield? or how about Monte Irvin? So many greats, but only ONE SPOT! Check out photos of the top left fielders </span><a href="https://www.msg.com/tv/shows/the-lineup"><span style="font-family: georgia, palatino;">here</span></a></span>
   </p>
 
   <p>
-    <span style="font-family: georgia, palatino;">If you missed last week's episode of "Shortstops," check out more extended and uncut footage of the panel discussion </span><a href="http://www.msg.com/tv/shows/the-lineup/episode-5-the-shortstops-extended-and-uncut-panel-discussion-1.38079"><span style="font-family: georgia, palatino;">here</span></a><span style="font-family: georgia, palatino;">.</span>
+    <span style="font-family: georgia, palatino;">If you missed last week's episode of "Shortstops," check out more extended and uncut footage of the panel discussion </span><a href="https://www.msg.com/tv/shows/the-lineup/episode-5-the-shortstops-extended-and-uncut-panel-discussion-1.38079"><span style="font-family: georgia, palatino;">here</span></a><span style="font-family: georgia, palatino;">.</span>
   </p>
 
   <p>

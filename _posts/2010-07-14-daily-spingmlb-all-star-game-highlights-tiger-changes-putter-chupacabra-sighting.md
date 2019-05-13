@@ -28,7 +28,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.youtube.com/watch?v=m8f8NYgWrzY">ESPN makes fun of themselves </a>with Bill Simmons: The Decision? Should Bill renew his LA Clippers Season tickets? Tune in to find out, at least it's only 2 minutes instead of 50 minutes?  [via <a href="http://www.youtube.com/watch?v=m8f8NYgWrzY">ESPN</a>]
+    <a href="https://www.youtube.com/watch?v=m8f8NYgWrzY">ESPN makes fun of themselves </a>with Bill Simmons: The Decision? Should Bill renew his LA Clippers Season tickets? Tune in to find out, at least it's only 2 minutes instead of 50 minutes?  [via <a href="https://www.youtube.com/watch?v=m8f8NYgWrzY">ESPN</a>]
   </p>
 
   <p>
@@ -40,7 +40,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.nytimes.com/2010/07/14/sports/basketball/14nets.html?_r=2&partner=rss&emc=rss">Nets owner jokes</a> about shipping building to Moscow?  Sure he was making a joke, but now the FBI is watching him because of the Recent Russian Spies? [via <a href="http://www.nytimes.com/2010/07/14/sports/basketball/14nets.html?_r=2&partner=rss&emc=rss">NYT</a>]
+    <a href="https://www.nytimes.com/2010/07/14/sports/basketball/14nets.html?_r=2&partner=rss&emc=rss">Nets owner jokes</a> about shipping building to Moscow?  Sure he was making a joke, but now the FBI is watching him because of the Recent Russian Spies? [via <a href="https://www.nytimes.com/2010/07/14/sports/basketball/14nets.html?_r=2&partner=rss&emc=rss">NYT</a>]
   </p>
 
   <p>

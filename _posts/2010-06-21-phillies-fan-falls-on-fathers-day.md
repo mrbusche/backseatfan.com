@@ -28,6 +28,6 @@ tags:
   </p>
 
   <p>
-    Video via [<a href="http://www.thefightins.com/meechone/who-wants-to-see-someone-fall-flat-on-their-face/">TheFightins</a>]
+    Video via [<a href="https://www.thefightins.com/meechone/who-wants-to-see-someone-fall-flat-on-their-face/">TheFightins</a>]
   </p>
 </div>

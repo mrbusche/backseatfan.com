@@ -34,10 +34,10 @@ tags:
   </p>
 
   <p>
-    Above is a clip from the episode, watch the entire episode though, it was freaking awesome. The entire show features this video game, I only wish it was real. Watch the full Episode <a href="http://www.southparkstudios.com/episodes/267106">here</a>
+    Above is a clip from the episode, watch the entire episode though, it was freaking awesome. The entire show features this video game, I only wish it was real. Watch the full Episode <a href="https://www.southparkstudios.com/episodes/267106">here</a>
   </p>
 
   <p>
-    via [<a href="http://www.digitalspy.com/gaming/news/a210049/ea-upset-at-south-park-tiger-woods-ep.html">Digital Spy</a>]
+    via [<a href="https://www.digitalspy.com/gaming/news/a210049/ea-upset-at-south-park-tiger-woods-ep.html">Digital Spy</a>]
   </p>
 </div>

@@ -58,7 +58,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.nj.com/yankees/index.ssf/2010/07/yankees_land_outfielder_austin.html">Cleveland Indians</a> acquired RHP Zach McAllister from the N.Y. Yankees as the player to be named to complete the Austin Kearns trade.
+    <a href="https://www.nj.com/yankees/index.ssf/2010/07/yankees_land_outfielder_austin.html">Cleveland Indians</a> acquired RHP Zach McAllister from the N.Y. Yankees as the player to be named to complete the Austin Kearns trade.
   </p>
 
   <p>
@@ -66,7 +66,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.stltoday.com/sports/baseball/professional/article_a57e7840-abb4-11df-9ec8-0017a4a78c22.html">St. Louis Cardinals</a> acquired 3B Pedro Feliz from Houston for RHP David Carpenter.
+    <a href="https://www.stltoday.com/sports/baseball/professional/article_a57e7840-abb4-11df-9ec8-0017a4a78c22.html">St. Louis Cardinals</a> acquired 3B Pedro Feliz from Houston for RHP David Carpenter.
   </p>
 
   <p>
@@ -74,7 +74,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.mlbtraderumors.com/2010/08/braves-close-to-trading-for-derrek-lee.html">Chicago Cubs</a> traded 1B Derrek Lee and cash considerations to Atlanta for RHP Robinson Lopez, RHP Tyrelle Harris and LHP Jeffrey Lorick.
+    <a href="https://www.mlbtraderumors.com/2010/08/braves-close-to-trading-for-derrek-lee.html">Chicago Cubs</a> traded 1B Derrek Lee and cash considerations to Atlanta for RHP Robinson Lopez, RHP Tyrelle Harris and LHP Jeffrey Lorick.
   </p>
 
   <p>
@@ -82,7 +82,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.latimes.com/sports/la-sp-baseball-notes-20100814,0,273588.story">Kansas City Royals</a> traded OF Jose Guillen to San Francisco for a player to be named and cash considerations.
+    <a href="https://www.latimes.com/sports/la-sp-baseball-notes-20100814,0,273588.story">Kansas City Royals</a> traded OF Jose Guillen to San Francisco for a player to be named and cash considerations.
   </p>
 
   <p>
@@ -90,7 +90,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.sfgate.com/cgi-bin/blogs/giants/detail?entry_id=69929">Chicago Cubs</a> acquired OF Evan Crawford from San Francisco for INF Mike Fontenot
+    <a href="https://www.sfgate.com/cgi-bin/blogs/giants/detail?entry_id=69929">Chicago Cubs</a> acquired OF Evan Crawford from San Francisco for INF Mike Fontenot
   </p>
 
   <p>
@@ -118,11 +118,11 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.mlive.com/tigers/index.ssf/2010/07/tigers_trade_of_wilkin_ramirez.html">Detroit Tigers</a> traded OF Wilkin Ramirez to Atlanta for a player to be named or cash considerations.
+    <a href="https://www.mlive.com/tigers/index.ssf/2010/07/tigers_trade_of_wilkin_ramirez.html">Detroit Tigers</a> traded OF Wilkin Ramirez to Atlanta for a player to be named or cash considerations.
   </p>
 
   <p>
-    <a href="http://www.bottomlinesox.com/2010-articles/july/red-sox-trade-ramon-ramirez-giants-for-for-rp-daniel-turpen.html">Boston Red Sox</a> traded RHP Ramon Ramirez to San Francisco for RHP Daniel Turpen
+    <a href="https://www.bottomlinesox.com/2010-articles/july/red-sox-trade-ramon-ramirez-giants-for-for-rp-daniel-turpen.html">Boston Red Sox</a> traded RHP Ramon Ramirez to San Francisco for RHP Daniel Turpen
   </p>
 
   <p>
@@ -134,11 +134,11 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.bucsdugout.com/2010/7/31/1598693/rosenthal-pirates-trade-octavio">Los Angeles Dodgers</a> acquired RHP Octavio Dotel from Pittsburgh for RHP James McDonald and OF Andrew Lambo.
+    <a href="https://www.bucsdugout.com/2010/7/31/1598693/rosenthal-pirates-trade-octavio">Los Angeles Dodgers</a> acquired RHP Octavio Dotel from Pittsburgh for RHP James McDonald and OF Andrew Lambo.
   </p>
 
   <p>
-    <a href="http://www.nypost.com/p/sports/yankees/berk_ing_it_out_PE7UPUUwT9MRrEcigmDDOO">New York Yankees</a> acquired 1B Lance Berkman and cash considerations from Houston for RHP Mark Melancon and INF Jimmy Paredes. Acquired RHP Kerry Wood and cash from Cleveland for a player to be named or cash
+    <a href="https://www.nypost.com/p/sports/yankees/berk_ing_it_out_PE7UPUUwT9MRrEcigmDDOO">New York Yankees</a> acquired 1B Lance Berkman and cash considerations from Houston for RHP Mark Melancon and INF Jimmy Paredes. Acquired RHP Kerry Wood and cash from Cleveland for a player to be named or cash
   </p>
 
   <p>
@@ -158,7 +158,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.sbnation.com/2010/7/30/1596558/mlb-trade-rumors-adam-dunn-edwin-jackson-white-sox-yankees">Arizona Diamondbacks</a> traded RHP Edwin Jackson to Chicago (AL) for RHP Dan Hudson and LHP David Holmberg.
+    <a href="https://www.sbnation.com/2010/7/30/1596558/mlb-trade-rumors-adam-dunn-edwin-jackson-white-sox-yankees">Arizona Diamondbacks</a> traded RHP Edwin Jackson to Chicago (AL) for RHP Dan Hudson and LHP David Holmberg.
   </p>
 
   <p>
@@ -170,7 +170,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.mlbtraderumors.com/2010/07/astros-to-send-anthony-gose-to-blue-jays.html">Houston Astros</a> traded OF Anthony Gose to Toronto for 1B Brett Wallace.
+    <a href="https://www.mlbtraderumors.com/2010/07/astros-to-send-anthony-gose-to-blue-jays.html">Houston Astros</a> traded OF Anthony Gose to Toronto for 1B Brett Wallace.
   </p>
 
   <p>
@@ -186,7 +186,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.sbnation.com/2010/7/28/1593575/scott-podsednik-trade-dodgers-royals-lucas-may-elisaul-pimentel">Kansas City Royals</a> acquired C Lucas May and RHP Elisaul Pimentel from the Los Angeles Dodgers for OF Scott Podsednik
+    <a href="https://www.sbnation.com/2010/7/28/1593575/scott-podsednik-trade-dodgers-royals-lucas-may-elisaul-pimentel">Kansas City Royals</a> acquired C Lucas May and RHP Elisaul Pimentel from the Los Angeles Dodgers for OF Scott Podsednik
   </p>
 
   <p>
@@ -210,7 +210,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.fangraphs.com/blogs/index.php/the-yunel-escobar-trade-atlantas-perspective/">Toronto Blue Jays</a> acquired SS Yunel Escobar and LHP Jo-Jo Reyes from Atlanta Braves for SS Alex Gonzalez, LHP Tim Collins and INF Tyler Pastronicky
+    <a href="https://www.fangraphs.com/blogs/index.php/the-yunel-escobar-trade-atlantas-perspective/">Toronto Blue Jays</a> acquired SS Yunel Escobar and LHP Jo-Jo Reyes from Atlanta Braves for SS Alex Gonzalez, LHP Tim Collins and INF Tyler Pastronicky
   </p>
 
   <p>
@@ -226,7 +226,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.thepittsburghchannel.com/sports/24182906/detail.html">San Diego Padres</a> traded RHP Sean Gallagher to Pittsburgh for cash considerations.
+    <a href="https://www.thepittsburghchannel.com/sports/24182906/detail.html">San Diego Padres</a> traded RHP Sean Gallagher to Pittsburgh for cash considerations.
   </p>
 
   <p>
@@ -234,7 +234,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.mlbtraderumors.com/2010/07/royals-trade-edwin-bellorin-to-astros.html?utm_source=twitterfeed&utm_medium=twitter">Kansas City Royals</a> Trade Edwin Bellorin To Houston Astros for cash considerations
+    <a href="https://www.mlbtraderumors.com/2010/07/royals-trade-edwin-bellorin-to-astros.html?utm_source=twitterfeed&utm_medium=twitter">Kansas City Royals</a> Trade Edwin Bellorin To Houston Astros for cash considerations
   </p>
 
   <p>
@@ -242,7 +242,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.boston.com/sports/baseball/redsox/extras/extra_bases/2010/07/red_sox_trade_f_2.html">Houston Astros</a> traded C Kevin Cash to the Boston Red Sox for INF Angel Sanchez
+    <a href="https://www.boston.com/sports/baseball/redsox/extras/extra_bases/2010/07/red_sox_trade_f_2.html">Houston Astros</a> traded C Kevin Cash to the Boston Red Sox for INF Angel Sanchez
   </p>
 
   <p>
@@ -270,7 +270,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.mlbtraderumors.com/2010/06/mets-acquire-jorge-padilla-.html">Toronto Blue Jays</a> traded OF Jorge Padilla to the New York Mets for Clint Everts
+    <a href="https://www.mlbtraderumors.com/2010/06/mets-acquire-jorge-padilla-.html">Toronto Blue Jays</a> traded OF Jorge Padilla to the New York Mets for Clint Everts
   </p>
 
   <p>
@@ -278,7 +278,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.mlbtraderumors.com/2010/06/pirates-acquire-adam-davis.html">Cleveland Indians</a> traded 3B Adam Davis to Pittsburgh Pirates
+    <a href="https://www.mlbtraderumors.com/2010/06/pirates-acquire-adam-davis.html">Cleveland Indians</a> traded 3B Adam Davis to Pittsburgh Pirates
   </p>
 
   <p>
@@ -286,7 +286,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.mlbtraderumors.com/2010/06/as-acquire-conor-jackson.html">Arizona Diamondbacks</a> traded OF Conor Jackson to Oakland for RHP Sam Demel.
+    <a href="https://www.mlbtraderumors.com/2010/06/as-acquire-conor-jackson.html">Arizona Diamondbacks</a> traded OF Conor Jackson to Oakland for RHP Sam Demel.
   </p>
 
   <p>
@@ -294,7 +294,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.bluebirdbanter.com/2010/6/24/1534984/dana-eveland-trade-looks-even-more">Toronto Blue Jays</a> acquired RHP Ronald Uviedo from the Pittsburgh Pirates in exchange for LHP Dana Eveland.
+    <a href="https://www.bluebirdbanter.com/2010/6/24/1534984/dana-eveland-trade-looks-even-more">Toronto Blue Jays</a> acquired RHP Ronald Uviedo from the Pittsburgh Pirates in exchange for LHP Dana Eveland.
   </p>
 
   <p>
@@ -318,7 +318,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.azsnakepit.com/2010/5/1/1454320/dbacks-trade-for-rhp-carlos-rosa">Arizona Diamondbacks</a> acquired RHP Carlos Rosa from the Kansas City Royals in exchange SS Rey Navarro
+    <a href="https://www.azsnakepit.com/2010/5/1/1454320/dbacks-trade-for-rhp-carlos-rosa">Arizona Diamondbacks</a> acquired RHP Carlos Rosa from the Kansas City Royals in exchange SS Rey Navarro
   </p>
 
   <p>
@@ -326,7 +326,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.nesn.com/2010/06/red-sox-trade-jonathan-van-every-for-catcher-josue-peley.html">Boston Red Sox</a> acquired OF Jonathan Van Every from Pittsburgh for a player to be named
+    <a href="https://www.nesn.com/2010/06/red-sox-trade-jonathan-van-every-for-catcher-josue-peley.html">Boston Red Sox</a> acquired OF Jonathan Van Every from Pittsburgh for a player to be named
   </p>
 
   <p>
@@ -334,6 +334,6 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.sbnation.com/2010/4/15/1425368/fred-lewis-trade-giants-blue-jays-ptbnl">San Francisco Giants</a> traded LF Fred Lewis to Toronto Blue Jays for cash considerations or a player to be named later
+    <a href="https://www.sbnation.com/2010/4/15/1425368/fred-lewis-trade-giants-blue-jays-ptbnl">San Francisco Giants</a> traded LF Fred Lewis to Toronto Blue Jays for cash considerations or a player to be named later
   </p>
 </div>

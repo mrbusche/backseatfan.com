@@ -27,15 +27,15 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.usatoday.com/sports/soccer/worldcup/2010-06-27-usa-moves-on-from-defeat_N.htm">USA loses</a> in round 2 of the World Cup?  USA is really good at ties, if only this game could have ended in a tie? Soccer came close to being a well respected sport in the US?  [via <a href="http://www.usatoday.com/sports/soccer/worldcup/2010-06-27-usa-moves-on-from-defeat_N.htm">USA Today</a>]
+    <a href="https://www.usatoday.com/sports/soccer/worldcup/2010-06-27-usa-moves-on-from-defeat_N.htm">USA loses</a> in round 2 of the World Cup?  USA is really good at ties, if only this game could have ended in a tie? Soccer came close to being a well respected sport in the US?  [via <a href="https://www.usatoday.com/sports/soccer/worldcup/2010-06-27-usa-moves-on-from-defeat_N.htm">USA Today</a>]
   </p>
 
   <p>
-    Tiger Woods Divorce settlement is <a href="http://www.radaronline.com/exclusives/2010/06/exclusive-tiger-woods-final-divorce-settlement-about-be-signed">a lot of money</a>?  Seriously, a ridiculous amount of money?  Who needs $750 Million?!?!?  [via <a href="http://www.radaronline.com/exclusives/2010/06/exclusive-tiger-woods-final-divorce-settlement-about-be-signed">Radar Online</a>]
+    Tiger Woods Divorce settlement is <a href="https://www.radaronline.com/exclusives/2010/06/exclusive-tiger-woods-final-divorce-settlement-about-be-signed">a lot of money</a>?  Seriously, a ridiculous amount of money?  Who needs $750 Million?!?!?  [via <a href="https://www.radaronline.com/exclusives/2010/06/exclusive-tiger-woods-final-divorce-settlement-about-be-signed">Radar Online</a>]
   </p>
 
   <p>
-    <a href="http://www.telegraph.co.uk/sport/football/world-cup-2010/7858958/World-Cup-2010-eight-reasons-to-still-watch.html">8 Reasons</a> to still watch the World Cup? Ok let's be serious here, US isn't in it anymore it's a little harder to watch?. But you don't really have a lot options in the summer. [via <a href="http://www.telegraph.co.uk/sport/football/world-cup-2010/7858958/World-Cup-2010-eight-reasons-to-still-watch.html">Telegraph</a>]
+    <a href="https://www.telegraph.co.uk/sport/football/world-cup-2010/7858958/World-Cup-2010-eight-reasons-to-still-watch.html">8 Reasons</a> to still watch the World Cup? Ok let's be serious here, US isn't in it anymore it's a little harder to watch?. But you don't really have a lot options in the summer. [via <a href="https://www.telegraph.co.uk/sport/football/world-cup-2010/7858958/World-Cup-2010-eight-reasons-to-still-watch.html">Telegraph</a>]
   </p>
 
   <p>
@@ -43,7 +43,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.dailymail.co.uk/sciencetech/article-1289281/Oscar-bionic-cat-pioneering-surgery-gave-TWO-false-legs.html">Bionic Cat</a>, one of the coolest medical breakthroughs ever?  If only it was a Bionic Dog? [via <a href="http://www.dailymail.co.uk/sciencetech/article-1289281/Oscar-bionic-cat-pioneering-surgery-gave-TWO-false-legs.html">Daily Mail</a>]
+    <a href="https://www.dailymail.co.uk/sciencetech/article-1289281/Oscar-bionic-cat-pioneering-surgery-gave-TWO-false-legs.html">Bionic Cat</a>, one of the coolest medical breakthroughs ever?  If only it was a Bionic Dog? [via <a href="https://www.dailymail.co.uk/sciencetech/article-1289281/Oscar-bionic-cat-pioneering-surgery-gave-TWO-false-legs.html">Daily Mail</a>]
   </p>
 
   <p>

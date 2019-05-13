@@ -25,6 +25,6 @@ tags:
   </p>
 
   <p>
-    via [<a href="http://www.sportingnews.com/blog/the_sporting_blog">The Sporting Blog</a>]
+    via [<a href="https://www.sportingnews.com/blog/the_sporting_blog">The Sporting Blog</a>]
   </p>
 </div>

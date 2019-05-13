@@ -26,7 +26,7 @@ tags:
   </p>
 
   <p>
-    Cris Carter<a href="http://www.nfl.com/videos/nfl-rookie-symposium/09000d5d818eab34/Carter-speaks-his-mind"> Rookie Symposium</a> Speech?  This is a must see video, he always tells it straight.  Oh and he calls out Brett Favre.  [via <a href="http://www.nfl.com/videos/nfl-rookie-symposium/09000d5d818eab34/Carter-speaks-his-mind">NFL</a>]
+    Cris Carter<a href="https://www.nfl.com/videos/nfl-rookie-symposium/09000d5d818eab34/Carter-speaks-his-mind"> Rookie Symposium</a> Speech?  This is a must see video, he always tells it straight.  Oh and he calls out Brett Favre.  [via <a href="https://www.nfl.com/videos/nfl-rookie-symposium/09000d5d818eab34/Carter-speaks-his-mind">NFL</a>]
   </p>
 
   <p>
@@ -34,11 +34,11 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.azcentral.com/sports/diamondbacks/articles/2010/06/30/20100630arizona-diamondbacks-dontrelle-willis-moved.html">Dontrelle Willis</a> moved to the Bullpen? The D-backs  bullpen needs help, I hope Dontrelle can get back on track.  [via <a href="http://www.azcentral.com/sports/diamondbacks/articles/2010/06/30/20100630arizona-diamondbacks-dontrelle-willis-moved.html">AZ Central</a>]
+    <a href="https://www.azcentral.com/sports/diamondbacks/articles/2010/06/30/20100630arizona-diamondbacks-dontrelle-willis-moved.html">Dontrelle Willis</a> moved to the Bullpen? The D-backs  bullpen needs help, I hope Dontrelle can get back on track.  [via <a href="https://www.azcentral.com/sports/diamondbacks/articles/2010/06/30/20100630arizona-diamondbacks-dontrelle-willis-moved.html">AZ Central</a>]
   </p>
 
   <p>
-    <a href="http://www.usatoday.com/sports/basketball/nba/2010-07-01-scott-cavaliers-update_N.htm">Byron Scott to Coach</a> the Cleveland Cavaliers?  Probably one of the worst coaching jobs in the league since LeBron isn't going to be there. [via <a href="http://www.usatoday.com/sports/basketball/nba/2010-07-01-scott-cavaliers-update_N.htm">USA Today</a>]
+    <a href="https://www.usatoday.com/sports/basketball/nba/2010-07-01-scott-cavaliers-update_N.htm">Byron Scott to Coach</a> the Cleveland Cavaliers?  Probably one of the worst coaching jobs in the league since LeBron isn't going to be there. [via <a href="https://www.usatoday.com/sports/basketball/nba/2010-07-01-scott-cavaliers-update_N.htm">USA Today</a>]
   </p>
 
   <p>
@@ -46,7 +46,7 @@ tags:
   </p>
 
   <p>
-    Microsoft's terrible phone the <a href="http://www.engadget.com/2010/06/30/microsoft-kin-is-dead/">Kin is Dead</a>? When will the xbox 360 team just take over and make a good phone for Microsoft?  [via <a href="http://www.engadget.com/2010/06/30/microsoft-kin-is-dead/">engadget</a>]
+    Microsoft's terrible phone the <a href="https://www.engadget.com/2010/06/30/microsoft-kin-is-dead/">Kin is Dead</a>? When will the xbox 360 team just take over and make a good phone for Microsoft?  [via <a href="https://www.engadget.com/2010/06/30/microsoft-kin-is-dead/">engadget</a>]
   </p>
 
   <p>
@@ -56,7 +56,7 @@ tags:
   <table style="font: 11px arial; color: #333333; background-color: #f5f5f5; width: 360px; height: 353px;" cellspacing="0" cellpadding="0">
     <tr style="background-color: #e5e5e5;" valign="middle">
       <td style="padding: 2px 1px 0px 5px;">
-        <a style="color: #333; text-decoration: none; font-weight: bold;" href="http://www.thedailyshow.com" target="_blank">The Daily Show With Jon Stewart</a>
+        <a style="color: #333; text-decoration: none; font-weight: bold;" href="https://www.thedailyshow.com" target="_blank">The Daily Show With Jon Stewart</a>
       </td>
 
       <td style="padding: 2px 5px 0px 5px; text-align: right; font-weight: bold;">
@@ -66,13 +66,13 @@ tags:
 
     <tr style="height: 14px;" valign="middle">
       <td style="padding: 2px 1px 0px 5px;" colspan="2">
-        <a style="color: #333; text-decoration: none; font-weight: bold;" href="http://www.thedailyshow.com/watch/wed-june-30-2010/you-re-welcome---world-cup" target="_blank">You're Welcome - World Cup</a><a></a>
+        <a style="color: #333; text-decoration: none; font-weight: bold;" href="https://www.thedailyshow.com/watch/wed-june-30-2010/you-re-welcome---world-cup" target="_blank">You're Welcome - World Cup</a><a></a>
       </td>
     </tr>
 
     <tr style="height: 14px; background-color: #353535;" valign="middle">
       <td style="padding: 2px 5px 0px; width: 360px; overflow: hidden; text-align: right;" colspan="2">
-        <a style="color: #96deff; text-decoration: none; font-weight: bold;" href="http://www.thedailyshow.com/" target="_blank">www.thedailyshow.com</a>
+        <a style="color: #96deff; text-decoration: none; font-weight: bold;" href="https://www.thedailyshow.com/" target="_blank">www.thedailyshow.com</a>
       </td>
     </tr>
 
@@ -86,15 +86,15 @@ tags:
         <table style="text-align: center; width: 100%; height: 100%; margin: 0px;" cellspacing="0" cellpadding="0">
           <tr valign="middle">
             <td style="padding: 3px; width: 33%;">
-              <a style="font: 10px arial; color: #333; text-decoration: none;" href="http://www.thedailyshow.com/full-episodes/" target="_blank">Daily Show Full Episodes</a>
+              <a style="font: 10px arial; color: #333; text-decoration: none;" href="https://www.thedailyshow.com/full-episodes/" target="_blank">Daily Show Full Episodes</a>
             </td>
 
             <td style="padding: 3px; width: 33%;">
-              <a style="font: 10px arial; color: #333; text-decoration: none;" href="http://www.indecisionforever.com" target="_blank">Political Humor</a>
+              <a style="font: 10px arial; color: #333; text-decoration: none;" href="https://www.indecisionforever.com" target="_blank">Political Humor</a>
             </td>
 
             <td style="padding: 3px; width: 33%;">
-              <a style="font: 10px arial; color: #333; text-decoration: none;" href="http://www.thedailyshow.com/videos/tag/Tea+Party" target="_blank">Tea Party</a>
+              <a style="font: 10px arial; color: #333; text-decoration: none;" href="https://www.thedailyshow.com/videos/tag/Tea+Party" target="_blank">Tea Party</a>
             </td>
           </tr>
         </table>

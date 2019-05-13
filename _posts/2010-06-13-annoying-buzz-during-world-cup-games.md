@@ -34,7 +34,7 @@ tags:
   </p>
 
   <p>
-    <strong>Update:</strong> <a href="http://www.sportingnews.com/soccer/article/2010-06-14/fifa-backs-soutn-african-fans-on-blowing-vuvuzelas">FIFA will not Ban the Vuvuzela at the World Cup</a><br /> For those of you who want your ears to bleed, here is the sound of the vuvuzela:
+    <strong>Update:</strong> <a href="https://www.sportingnews.com/soccer/article/2010-06-14/fifa-backs-soutn-african-fans-on-blowing-vuvuzelas">FIFA will not Ban the Vuvuzela at the World Cup</a><br /> For those of you who want your ears to bleed, here is the sound of the vuvuzela:
   </p>
 
   <p>

@@ -155,7 +155,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.cbssports.com/nba/story/13579288">Signed with Rockets (Player option for $17.7 M)</a>
+        <a href="https://www.cbssports.com/nba/story/13579288">Signed with Rockets (Player option for $17.7 M)</a>
       </td>
     </tr>
 
@@ -177,7 +177,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.usatoday.com/sports/basketball/nba/hawks/2010-07-08-joe-johnson_N.htm">Signed with Hawks (6 years, $123.7M)</a>
+        <a href="https://www.usatoday.com/sports/basketball/nba/hawks/2010-07-08-joe-johnson_N.htm">Signed with Hawks (6 years, $123.7M)</a>
       </td>
     </tr>
 
@@ -199,7 +199,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.huffingtonpost.com/2010/07/06/amare-stoudemire-knicks-a_n_635903.html">Signed with Knicks (5 years, $99.8 M)</a>
+        <a href="https://www.huffingtonpost.com/2010/07/06/amare-stoudemire-knicks-a_n_635903.html">Signed with Knicks (5 years, $99.8 M)</a>
       </td>
     </tr>
 
@@ -287,7 +287,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.commercialappeal.com/news/2010/jul/01/sources-rudy-gay-grizzlies-agree-five-year-contrac/">Signed with Grizzlies (5 years, $82 M)</a>
+        <a href="https://www.commercialappeal.com/news/2010/jul/01/sources-rudy-gay-grizzlies-agree-five-year-contrac/">Signed with Grizzlies (5 years, $82 M)</a>
       </td>
     </tr>
 
@@ -309,7 +309,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.southcoasttoday.com/apps/pbcs.dll/article?AID=/20100710/SPORTS/7100363">Signed with Celtics (2 years, $20M)</a>
+        <a href="https://www.southcoasttoday.com/apps/pbcs.dll/article?AID=/20100710/SPORTS/7100363">Signed with Celtics (2 years, $20M)</a>
       </td>
     </tr>
 
@@ -375,7 +375,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.washingtonpost.com/wp-dyn/content/article/2010/07/08/AR2010070805973.html">Signed with Mavericks (6 years, $55M)</a>
+        <a href="https://www.washingtonpost.com/wp-dyn/content/article/2010/07/08/AR2010070805973.html">Signed with Mavericks (6 years, $55M)</a>
       </td>
     </tr>
 
@@ -397,7 +397,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.nydailynews.com/sports/basketball/2010/07/09/2010-07-09_nothing_but_nyet.html">Signed with Nets (5 years, $35M)</a>
+        <a href="https://www.nydailynews.com/sports/basketball/2010/07/09/2010-07-09_nothing_but_nyet.html">Signed with Nets (5 years, $35M)</a>
       </td>
     </tr>
 
@@ -551,7 +551,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.kolotv.com/sports/headlines/97639464.html">Signed with Raptors (5 years, $32 M)</a>
+        <a href="https://www.kolotv.com/sports/headlines/97639464.html">Signed with Raptors (5 years, $32 M)</a>
       </td>
     </tr>
 
@@ -639,7 +639,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.peachtreehoops.com/2010/7/12/1565154/goodbye-josh-childress-sign-and">Signed with Suns (5 years, $35M)</a>
+        <a href="https://www.peachtreehoops.com/2010/7/12/1565154/goodbye-josh-childress-sign-and">Signed with Suns (5 years, $35M)</a>
       </td>
     </tr>
 
@@ -661,7 +661,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.nypost.com/p/sports/knicks/felton_two_year_contract_with_knicks_J7oF0yuvxVnbbjoyq15XBP">Signed with Knicks (3 years, $25M)</a>
+        <a href="https://www.nypost.com/p/sports/knicks/felton_two_year_contract_with_knicks_J7oF0yuvxVnbbjoyq15XBP">Signed with Knicks (3 years, $25M)</a>
       </td>
     </tr>
 
@@ -683,7 +683,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.usatoday.com/sports/basketball/nba/heat/2005-07-13-haslem-contract_x.htm">Signed with Heat (5 years, $20M)</a>
+        <a href="https://www.usatoday.com/sports/basketball/nba/heat/2005-07-13-haslem-contract_x.htm">Signed with Heat (5 years, $20M)</a>
       </td>
     </tr>
 
@@ -705,7 +705,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.boston.com/sports/basketball/celtics/extras/celtics_blog/2010/07/celtics_re-sign.html">Signed with Celtics (2 years)</a>
+        <a href="https://www.boston.com/sports/basketball/celtics/extras/celtics_blog/2010/07/celtics_re-sign.html">Signed with Celtics (2 years)</a>
       </td>
     </tr>
 
@@ -749,7 +749,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.kansascity.com/2010/07/13/2081693/ilgauskas-follows-james-to-miami.html">Signed with Heat (2 years, $2.8M)</a>
+        <a href="https://www.kansascity.com/2010/07/13/2081693/ilgauskas-follows-james-to-miami.html">Signed with Heat (2 years, $2.8M)</a>
       </td>
     </tr>
 
@@ -793,7 +793,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.google.com/hostednews/ap/article/ALeqM5j8SygmckfqN5FD9mcJg3OPCwbrpgD9GU9SO80">Signed with Nets (3 years, $12M)</a>
+        <a href="https://www.google.com/hostednews/ap/article/ALeqM5j8SygmckfqN5FD9mcJg3OPCwbrpgD9GU9SO80">Signed with Nets (3 years, $12M)</a>
       </td>
     </tr>
 
@@ -859,7 +859,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.philly.com/inquirer/sports/20100715_NBA___Rockets_block_move_by_Cavs_to_sign_Lowry.html">Signed with Rockets (3 years, $24M)</a>
+        <a href="https://www.philly.com/inquirer/sports/20100715_NBA___Rockets_block_move_by_Cavs_to_sign_Lowry.html">Signed with Rockets (3 years, $24M)</a>
       </td>
     </tr>
 

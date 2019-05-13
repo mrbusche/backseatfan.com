@@ -7,7 +7,7 @@ layout: post
 guid: https://backseatfan.com/?p=152
 permalink: /2009/04/jaycutlertobears/
 DiggUrl:
-  - http://digg.com/football/Analyzing_the_Jay_Cutler_trade_to_the_Chicago_Bears
+  - https://digg.com/football/Analyzing_the_Jay_Cutler_trade_to_the_Chicago_Bears
 categories:
   - NBA
   - NFL

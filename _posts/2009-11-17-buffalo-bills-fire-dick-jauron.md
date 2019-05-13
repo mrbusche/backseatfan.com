@@ -36,7 +36,7 @@ tags:
   </p>
 
   <p>
-    Maybe the same question should be asked, what free agent wants to play in Buffalo? Freezing city, <a href="http://www.patriots.com/">brutal schedule</a>. The only bonus is you get to visit <a href="http://www.miami.com/">Miami</a> once a year. But I guess the fans are good there too. Oooo and <a href="http://www.buffalowings.com/">Buffalo Wings</a>.
+    Maybe the same question should be asked, what free agent wants to play in Buffalo? Freezing city, <a href="https://www.patriots.com/">brutal schedule</a>. The only bonus is you get to visit <a href="https://www.miami.com/">Miami</a> once a year. But I guess the fans are good there too. Oooo and <a href="https://www.buffalowings.com/">Buffalo Wings</a>.
   </p>
 
   <p>
@@ -80,7 +80,7 @@ tags:
   </p>
 
   <p>
-    8. He wouldn't be in <a href="http://www.vh1.com/shows/the_to_show/series.jhtml">T.O.'s Reality Show</a>
+    8. He wouldn't be in <a href="https://www.vh1.com/shows/the_to_show/series.jhtml">T.O.'s Reality Show</a>
   </p>
 
   <p>

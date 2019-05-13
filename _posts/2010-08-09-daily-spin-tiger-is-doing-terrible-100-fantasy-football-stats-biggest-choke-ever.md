@@ -37,11 +37,11 @@ tags:
   </p>
 
   <p>
-    Did you hear that sound?  <a href="http://www.golf.com/golf/tours_news/article/0,28136,2009323,00.html?eref=sihp">That is Tiger Woods hitting rock bottom</a>?.  Tiger just had the worst tournament of his career and is already having the worst year of his career. Maybe it's the lack of sex that is bringing him down? [via <a href="http://www.golf.com/golf/tours_news/article/0,28136,2009323,00.html?eref=sihp">Golf.com</a>]
+    Did you hear that sound?  <a href="https://www.golf.com/golf/tours_news/article/0,28136,2009323,00.html?eref=sihp">That is Tiger Woods hitting rock bottom</a>?.  Tiger just had the worst tournament of his career and is already having the worst year of his career. Maybe it's the lack of sex that is bringing him down? [via <a href="https://www.golf.com/golf/tours_news/article/0,28136,2009323,00.html?eref=sihp">Golf.com</a>]
   </p>
 
   <p>
-    Eastern Washington Football will be rolling out the red carpet for teams? Seriously, they will be playing on red turf.   [via <a href="http://www.thewizofodds.com/the_wiz_of_odds/2010/08/eastern-washington-rolls-out-the-red-carpet.html">The Wiz of Odds</a>]
+    Eastern Washington Football will be rolling out the red carpet for teams? Seriously, they will be playing on red turf.   [via <a href="https://www.thewizofodds.com/the_wiz_of_odds/2010/08/eastern-washington-rolls-out-the-red-carpet.html">The Wiz of Odds</a>]
   </p>
 
   <p>

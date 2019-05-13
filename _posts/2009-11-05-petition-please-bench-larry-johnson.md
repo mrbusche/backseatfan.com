@@ -22,7 +22,7 @@ categories:
   </p>
 
   <p>
-    <a href="http://www.PetitionOnline.com/StopLJ/petition.html">Here is the Petition</a>
+    <a href="https://www.PetitionOnline.com/StopLJ/petition.html">Here is the Petition</a>
   </p>
 
   <p>

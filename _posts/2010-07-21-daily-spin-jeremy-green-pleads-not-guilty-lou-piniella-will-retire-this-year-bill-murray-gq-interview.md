@@ -31,22 +31,22 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.suntimes.com/sports/baseball/cubs/2515460,lou-piniella-chicago-cubs-retire-20.article">Lou Piniella will retire as Cubs manager</a> at the end of this season? Maybe he just can't take the stress anymore, I mean he did get kicked out of  a few games?  <a href="http://www.suntimes.com/sports/baseball/cubs/2515460,lou-piniella-chicago-cubs-retire-20.article">[</a>via<a href="http://www.suntimes.com/sports/baseball/cubs/2515460,lou-piniella-chicago-cubs-retire-20.article"> Suntimes]</a>
+    <a href="https://www.suntimes.com/sports/baseball/cubs/2515460,lou-piniella-chicago-cubs-retire-20.article">Lou Piniella will retire as Cubs manager</a> at the end of this season? Maybe he just can't take the stress anymore, I mean he did get kicked out of  a few games?  <a href="https://www.suntimes.com/sports/baseball/cubs/2515460,lou-piniella-chicago-cubs-retire-20.article">[</a>via<a href="https://www.suntimes.com/sports/baseball/cubs/2515460,lou-piniella-chicago-cubs-retire-20.article"> Suntimes]</a>
   </p>
 
   <p>
   </p>
 
   <p>
-    <span style="text-decoration: underline;"><a href="http://www.courant.com/community/southington/hc-espn-child-porn-0721-20100720,0,5578465.story">Former</a></span><a href="http://www.courant.com/community/southington/hc-espn-child-porn-0721-20100720,0,5578465.story"> ESPN Analyst Jeremy Green</a> pleaded not guilty to Child Porn Charges?  Apparently I  <a href="http://myespn.go.com/s/conversations/show/story/5367617">missed this headline</a> on ESPN, where they said Green is no longer employed with ESPN. I'm surprised they even had that.  Green's bond is set at a ridiculous 750k, makes me wonder what the hell they found on his computer?   [via <a href="http://www.courant.com/community/southington/hc-espn-child-porn-0721-20100720,0,5578465.story">Courant</a>]
+    <span style="text-decoration: underline;"><a href="https://www.courant.com/community/southington/hc-espn-child-porn-0721-20100720,0,5578465.story">Former</a></span><a href="https://www.courant.com/community/southington/hc-espn-child-porn-0721-20100720,0,5578465.story"> ESPN Analyst Jeremy Green</a> pleaded not guilty to Child Porn Charges?  Apparently I  <a href="http://myespn.go.com/s/conversations/show/story/5367617">missed this headline</a> on ESPN, where they said Green is no longer employed with ESPN. I'm surprised they even had that.  Green's bond is set at a ridiculous 750k, makes me wonder what the hell they found on his computer?   [via <a href="https://www.courant.com/community/southington/hc-espn-child-porn-0721-20100720,0,5578465.story">Courant</a>]
   </p>
 
   <p>
-    <a href="http://www.nj.com/devils/index.ssf/2010/07/nhl_rejects_ilya_kovalchuk_con.html">NHL Rejected the 17-year, $102 million contract</a> that Ilya Kovalchuk signed with the Devils on the grounds it circumvents the league's salary cap. [via <a href="http://www.nj.com/devils/index.ssf/2010/07/nhl_rejects_ilya_kovalchuk_con.html">The Star Ledger</a>]
+    <a href="https://www.nj.com/devils/index.ssf/2010/07/nhl_rejects_ilya_kovalchuk_con.html">NHL Rejected the 17-year, $102 million contract</a> that Ilya Kovalchuk signed with the Devils on the grounds it circumvents the league's salary cap. [via <a href="https://www.nj.com/devils/index.ssf/2010/07/nhl_rejects_ilya_kovalchuk_con.html">The Star Ledger</a>]
   </p>
 
   <p>
-    <a href="http://www.gq.com/entertainment/celebrities/201008/bill-murray-dan-fierman-gq-interview?printable=true">Bill Murray GQ Interview</a>? Non Sports related, but it is still a good Q&A.  Ghostbusters 3 doesn't sound like it is happening?. [ via <a href="http://www.gq.com/entertainment/celebrities/201008/bill-murray-dan-fierman-gq-interview?printable=true">GQ</a>]
+    <a href="https://www.gq.com/entertainment/celebrities/201008/bill-murray-dan-fierman-gq-interview?printable=true">Bill Murray GQ Interview</a>? Non Sports related, but it is still a good Q&A.  Ghostbusters 3 doesn't sound like it is happening?. [ via <a href="https://www.gq.com/entertainment/celebrities/201008/bill-murray-dan-fierman-gq-interview?printable=true">GQ</a>]
   </p>
 
   <p>

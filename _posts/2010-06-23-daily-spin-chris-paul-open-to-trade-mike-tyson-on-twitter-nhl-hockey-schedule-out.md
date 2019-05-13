@@ -37,15 +37,15 @@ tags:
   </p>
 
   <p>
-    Tracy McGrady want's to sign with the Lakers? Who doesn't?  [via <a href="http://www.belmont.com/sports-news/tracy-mcgrady-wants-to-sign-with-the-los-angeles-lakers-1003309/">Belmont</a>]
+    Tracy McGrady want's to sign with the Lakers? Who doesn't?  [via <a href="https://www.belmont.com/sports-news/tracy-mcgrady-wants-to-sign-with-the-los-angeles-lakers-1003309/">Belmont</a>]
   </p>
 
   <p>
-    <a href="http://www.sportingnews.com/blog/The_Trenches/entry/view/69560/steve-smith-update-out-10-weeks">Carolina Panther's Steve Smith will be out 10 weeks</a> for breaking his arm in his YMCA flag football league..  Maybe Tony Romo will start to rethink joining every single rec league available. [via <a href="http://www.sportingnews.com/blog/The_Trenches/entry/view/69560/steve-smith-update-out-10-weeks">The Sporting News</a>]
+    <a href="https://www.sportingnews.com/blog/The_Trenches/entry/view/69560/steve-smith-update-out-10-weeks">Carolina Panther's Steve Smith will be out 10 weeks</a> for breaking his arm in his YMCA flag football league..  Maybe Tony Romo will start to rethink joining every single rec league available. [via <a href="https://www.sportingnews.com/blog/The_Trenches/entry/view/69560/steve-smith-update-out-10-weeks">The Sporting News</a>]
   </p>
 
   <p>
-    <a href="http://www.nhl.com/ice/schedulebyseason.htm">NHL Announces Schedule</a>? Millions Thousands of Hockey across the US rejoice [via <a href="http://www.nhl.com/ice/schedulebyseason.htm">NHL.com</a>]
+    <a href="https://www.nhl.com/ice/schedulebyseason.htm">NHL Announces Schedule</a>? Millions Thousands of Hockey across the US rejoice [via <a href="https://www.nhl.com/ice/schedulebyseason.htm">NHL.com</a>]
   </p>
 
   <p>
@@ -57,7 +57,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.usmagazine.com/celebritynews/news/khloe-kardashian-buys-lamar-odom-a-rolls-royce-for-lakers-win-2010226">Khloé Kardashian bought Lakers' Lamar Odom </a>a brand-new Rolls Royce for winning the NBA Championship [ via E! online]
+    <a href="https://www.usmagazine.com/celebritynews/news/khloe-kardashian-buys-lamar-odom-a-rolls-royce-for-lakers-win-2010226">Khloé Kardashian bought Lakers' Lamar Odom </a>a brand-new Rolls Royce for winning the NBA Championship [ via E! online]
   </p><figure id="attachment_6388" style="width: 308px" class="wp-caption alignnone">
 
   <a href="/images/2010/06/2010-Rolls-Royce-Phantom-Drophead-Coupe02-440x268.jpg"><img class="size-full wp-image-6388  " title="2010-Rolls-Royce-Phantom-Drophead-Coupe02-440x268" src="/images/2010/06/2010-Rolls-Royce-Phantom-Drophead-Coupe02-440x268.jpg" alt="" width="308" height="188" srcset="/images/2010/06/2010-Rolls-Royce-Phantom-Drophead-Coupe02-440x268.jpg 440w, /images/2010/06/2010-Rolls-Royce-Phantom-Drophead-Coupe02-440x268-300x182.jpg 300w" sizes="(max-width: 308px) 100vw, 308px" /></a><figcaption class="wp-caption-text"> </figcaption></figure>

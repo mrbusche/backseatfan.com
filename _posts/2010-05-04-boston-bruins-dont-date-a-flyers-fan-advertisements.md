@@ -22,7 +22,7 @@ tags:
   </p>
 
   <p>
-    The Boston Bruin's marketing department come up with the best advertisements. They keep us entertained while telling us simple sports rules that <a href="http://www.youtube.com/watch?v=HwchenZolCE">everyone NEEDS to follow</a>.  Seriously, no one wants to date a girl with a mustache, even if she shaves it.  You could get razor burn from the stubble.
+    The Boston Bruin's marketing department come up with the best advertisements. They keep us entertained while telling us simple sports rules that <a href="https://www.youtube.com/watch?v=HwchenZolCE">everyone NEEDS to follow</a>.  Seriously, no one wants to date a girl with a mustache, even if she shaves it.  You could get razor burn from the stubble.
   </p>
 
   <p>

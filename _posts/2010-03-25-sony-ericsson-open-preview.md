@@ -94,6 +94,6 @@ categories:
   </p>
 
   <p>
-    Richard Dedor is a writer, speaker and personal coach dedicated to helping each person achieve their dreams. He ran for political office at age 18 and recently published his first book, Anything is Possible (<a href="http://anythingispossiblethebook.com/">http://anythingispossiblethebook.com</a>). You can find him at his blog Finding Focus (<a href="http://www.richarddedor.com/blog/">http://www.richarddedor.com/blog</a>) and on Twitter @RichardDedor (<a href="http://twitter.com/richarddedor">http://twitter.com/richarddedor</a>). He also works for the USTA and this column is his personal opinion, and not that of the USTA’s.
+    Richard Dedor is a writer, speaker and personal coach dedicated to helping each person achieve their dreams. He ran for political office at age 18 and recently published his first book, Anything is Possible (<a href="http://anythingispossiblethebook.com/">http://anythingispossiblethebook.com</a>). You can find him at his blog Finding Focus (<a href="https://www.richarddedor.com/blog/">https://www.richarddedor.com/blog</a>) and on Twitter @RichardDedor (<a href="http://twitter.com/richarddedor">http://twitter.com/richarddedor</a>). He also works for the USTA and this column is his personal opinion, and not that of the USTA’s.
   </p>
 </div>

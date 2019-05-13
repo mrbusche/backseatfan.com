@@ -358,6 +358,6 @@ tags:
   </p>
 
   <p>
-    <span style="text-decoration: underline;">Websites we are featured on:</span><br /> <a href="http://dcprosportsreport.com/MockDraft.htm">DC Pro Sports Report Mock Draft DB</a><br /> <a href="http://www.footballfanspot.com/nflmockdraftdatabase.htm">Football Fan Spot Mock Draft DB</a><br /> <a href="http://www.hailredskins.com/MockDraft.htm">hailRedskins.com</a>
+    <span style="text-decoration: underline;">Websites we are featured on:</span><br /> <a href="http://dcprosportsreport.com/MockDraft.htm">DC Pro Sports Report Mock Draft DB</a><br /> <a href="https://www.footballfanspot.com/nflmockdraftdatabase.htm">Football Fan Spot Mock Draft DB</a><br /> <a href="https://www.hailredskins.com/MockDraft.htm">hailRedskins.com</a>
   </p>
 </div>

@@ -23,7 +23,7 @@ tags:
 
 <div class="entry">
   <p>
-    Favre was injured during the Patriots game last night.  He took a helmet under the chin, which caused him to leave the game and get eight stitches. <a href="http://www.nfl.com/videos/nfl-game-highlights/09000d5d81bc37f5/Brett-Favre-injury">Heres the video.</a>
+    Favre was injured during the Patriots game last night.  He took a helmet under the chin, which caused him to leave the game and get eight stitches. <a href="https://www.nfl.com/videos/nfl-game-highlights/09000d5d81bc37f5/Brett-Favre-injury">Heres the video.</a>
   </p>
 
   <p>

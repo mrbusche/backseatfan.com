@@ -20,7 +20,7 @@ categories:
 
 <div class="entry">
   <p>
-    We are officially Launching <a href="http://www.dumbfans.com">DumbFans.com</a>!
+    We are officially Launching <a href="https://www.dumbfans.com">DumbFans.com</a>!
   </p>
 
   <p>

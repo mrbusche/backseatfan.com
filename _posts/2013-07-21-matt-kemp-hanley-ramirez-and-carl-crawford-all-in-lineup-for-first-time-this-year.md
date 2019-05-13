@@ -33,7 +33,7 @@ tags:
   </p>
 
   <p>
-    This morning I was checking out places to make <a href="http://www.888sport.com/">free bets</a> and it looks like most sites haven't reacted to the improved Dodger lineup. The Dodgers are hitting .283/.338/.432 in July which puts them in the top 10 in each of the categories for the month whereas they had been in the bottom 5 all other months.
+    This morning I was checking out places to make <a href="https://www.888sport.com/">free bets</a> and it looks like most sites haven't reacted to the improved Dodger lineup. The Dodgers are hitting .283/.338/.432 in July which puts them in the top 10 in each of the categories for the month whereas they had been in the bottom 5 all other months.
   </p>
 
   <p>

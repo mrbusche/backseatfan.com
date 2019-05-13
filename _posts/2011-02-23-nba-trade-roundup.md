@@ -26,15 +26,15 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.statesmanjournal.com/article/20110225/SPORTS/102250335/Blazers-trade-Wallace?odyssey=tab|topnews|text|Sports">Charlotte Bobcats</a> trade forward Gerald Wallace to the Portland Trail Blazers for C Joel Przybilla, F Dante Cunningham, F/C Sean Marks, a conditional 2011 pick, and a conditional 2013 first-round draft pick.
+    <a href="https://www.statesmanjournal.com/article/20110225/SPORTS/102250335/Blazers-trade-Wallace?odyssey=tab|topnews|text|Sports">Charlotte Bobcats</a> trade forward Gerald Wallace to the Portland Trail Blazers for C Joel Przybilla, F Dante Cunningham, F/C Sean Marks, a conditional 2011 pick, and a conditional 2013 first-round draft pick.
   </p>
 
   <p>
-    <a href="http://www.azcentral.com/sports/suns/articles/2011/02/24/20110224phoenix-suns-goran-dragic-aaron-brooks-houston-rockets-nba-trade.html">Phoenix Suns</a> trade Goran Dragic and a lottery-protected first-round pick to the Houston Rockets for point guard Aaron Brooks
+    <a href="https://www.azcentral.com/sports/suns/articles/2011/02/24/20110224phoenix-suns-goran-dragic-aaron-brooks-houston-rockets-nba-trade.html">Phoenix Suns</a> trade Goran Dragic and a lottery-protected first-round pick to the Houston Rockets for point guard Aaron Brooks
   </p>
 
   <div>
-    <a href="http://www.azcentral.com/sports/suns/articles/2011/02/24/20110224phoenix-suns-goran-dragic-aaron-brooks-houston-rockets-nba-trade.html#ixzz1Ewa539Gy"></a>
+    <a href="https://www.azcentral.com/sports/suns/articles/2011/02/24/20110224phoenix-suns-goran-dragic-aaron-brooks-houston-rockets-nba-trade.html#ixzz1Ewa539Gy"></a>
   </div>
 
   <p>
@@ -50,7 +50,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.cleveland.com/cavs/index.ssf/2011/02/cleveland_cavaliers_insider_ra.html">Cleveland Cavaliers </a>trade G Mo Williams and F Jamario Moon to the L.A. Clippers for G Baron Davis and a 2011 first-round draft pick.
+    <a href="https://www.cleveland.com/cavs/index.ssf/2011/02/cleveland_cavaliers_insider_ra.html">Cleveland Cavaliers </a>trade G Mo Williams and F Jamario Moon to the L.A. Clippers for G Baron Davis and a 2011 first-round draft pick.
   </p>
 
   <p>
@@ -58,7 +58,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.cleveland.com/cavs/index.ssf/2011/02/report_says_cleveland_cavalier.html">Los Angeles Clippers</a> trade G Baron Davis, 1st round pick to Cleveland Cavaliers for G Mo Williams and F Jamario Moon
+    <a href="https://www.cleveland.com/cavs/index.ssf/2011/02/report_says_cleveland_cavalier.html">Los Angeles Clippers</a> trade G Baron Davis, 1st round pick to Cleveland Cavaliers for G Mo Williams and F Jamario Moon
   </p>
 
   <p>
@@ -66,11 +66,11 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.wbaltv.com/r/26967956/detail.html">New Orleans Hornets</a> acquire F Carl Landry from Sacramento Kings for G Marcus Thornton
+    <a href="https://www.wbaltv.com/r/26967956/detail.html">New Orleans Hornets</a> acquire F Carl Landry from Sacramento Kings for G Marcus Thornton
   </p>
 
   <p>
-    <a href="http://www.mercurynews.com/breaking-news/ci_17461554?nclick_check=1">Golden State Warriors</a> acquire PF Troy Murphy from New Jersey Nets for PF Brandan Wright and C Dan Gadzuric
+    <a href="https://www.mercurynews.com/breaking-news/ci_17461554?nclick_check=1">Golden State Warriors</a> acquire PF Troy Murphy from New Jersey Nets for PF Brandan Wright and C Dan Gadzuric
   </p>
 
   <p>

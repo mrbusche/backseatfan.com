@@ -30,6 +30,6 @@ categories:
   </p>
 
   <p style="padding-top: 0px; padding-right: 0px; padding-bottom: 12px; padding-left: 0px; margin: 0px;">
-    [Sources:<a href="http://www.cbsnews.com/8301-504083_162-6219885-504083.html">CBSNews</a> and <a href="http://sportsillustrated.cnn.com/2010/highschool/02/18/recruit-killed.ap/index.html?eref=twitter_feed">SI.com</a>]
+    [Sources:<a href="https://www.cbsnews.com/8301-504083_162-6219885-504083.html">CBSNews</a> and <a href="http://sportsillustrated.cnn.com/2010/highschool/02/18/recruit-killed.ap/index.html?eref=twitter_feed">SI.com</a>]
   </p>
 </div>

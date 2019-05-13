@@ -26,7 +26,7 @@ categories:
 
 <div class="entry">
   <p>
-    In just over 5 short weeks the Pittsburgh Steelers with travel to Foxboro to face the New England Patriots in a game each team will be missing arguably their best players. The Patriots will be missing Tom Brady who currently is suspended the first games of the season and the Steelers will be missing Le'Veon Bell. Now you could argue that Rob Gronkowski and Ben Roethlisberger are the teams best players and you wouldn't receive a ton of argument from me, but an improved Steelers defense with <a href="http://www.behindthesteelcurtain.com/nfl-pittsburgh-steelers-news/2015/6/5/8737883/steelers-first-round-pick-bud-dupree-is-a-quick-study-but-has-a-long">Bud Dupree</a> and Senquez Golson could put a lot of pressure on Jimmy Garoppolo which could put an end to that debate.
+    In just over 5 short weeks the Pittsburgh Steelers with travel to Foxboro to face the New England Patriots in a game each team will be missing arguably their best players. The Patriots will be missing Tom Brady who currently is suspended the first games of the season and the Steelers will be missing Le'Veon Bell. Now you could argue that Rob Gronkowski and Ben Roethlisberger are the teams best players and you wouldn't receive a ton of argument from me, but an improved Steelers defense with <a href="https://www.behindthesteelcurtain.com/nfl-pittsburgh-steelers-news/2015/6/5/8737883/steelers-first-round-pick-bud-dupree-is-a-quick-study-but-has-a-long">Bud Dupree</a> and Senquez Golson could put a lot of pressure on Jimmy Garoppolo which could put an end to that debate.
   </p>
 
   <p>

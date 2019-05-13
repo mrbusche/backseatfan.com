@@ -27,7 +27,7 @@ tags:
 
 <div class="entry">
   <p>
-    <em>Daily Spin is pretty late today, sorry about that, better late than never I guess? But don't forget to check out our </em><a href="http://www.backseatfan.com/madden11"><em>Madden 11 giveaway</em></a><em>!</em>
+    <em>Daily Spin is pretty late today, sorry about that, better late than never I guess? But don't forget to check out our </em><a href="https://www.backseatfan.com/madden11"><em>Madden 11 giveaway</em></a><em>!</em>
   </p>
 
   <p>
@@ -35,7 +35,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.tmz.com/2010/07/22/shaun-rogers-cleveland-browns-911-call-dui-drunk-driver/">Shaun Rodgers calls in a DUI</a> to the police?  We all thought he was an idiot when he had a gun in his bag, but he is turning out to be a model citizen? [via <a href="http://www.tmz.com/2010/07/22/shaun-rogers-cleveland-browns-911-call-dui-drunk-driver/">TMZ</a>]
+    <a href="https://www.tmz.com/2010/07/22/shaun-rogers-cleveland-browns-911-call-dui-drunk-driver/">Shaun Rodgers calls in a DUI</a> to the police?  We all thought he was an idiot when he had a gun in his bag, but he is turning out to be a model citizen? [via <a href="https://www.tmz.com/2010/07/22/shaun-rogers-cleveland-browns-911-call-dui-drunk-driver/">TMZ</a>]
   </p>
 
   <p>
@@ -43,7 +43,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.sportingnews.com/mlb/article/2010-07-22/mlb-begins-testing-for-hgh-minor-leagues">Minor League Baseball will start HGH testing</a>? Isn't this going to ruin all of the prospects chances of getting to the majors? [via <a href="http://www.sportingnews.com/mlb/article/2010-07-22/mlb-begins-testing-for-hgh-minor-leagues">Sporting News</a>]
+    <a href="https://www.sportingnews.com/mlb/article/2010-07-22/mlb-begins-testing-for-hgh-minor-leagues">Minor League Baseball will start HGH testing</a>? Isn't this going to ruin all of the prospects chances of getting to the majors? [via <a href="https://www.sportingnews.com/mlb/article/2010-07-22/mlb-begins-testing-for-hgh-minor-leagues">Sporting News</a>]
   </p>
 
   <p>

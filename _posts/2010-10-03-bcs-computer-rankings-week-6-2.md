@@ -30,7 +30,7 @@ tags:
   </p>
 
   <p>
-    1.  <strong><a href="http://www.cbssports.com/collegefootball/polls/full/harris">Harris Interactive Poll</a></strong>
+    1.  <strong><a href="https://www.cbssports.com/collegefootball/polls/full/harris">Harris Interactive Poll</a></strong>
   </p>
 
   <p>
@@ -42,7 +42,7 @@ tags:
   </p>
 
   <p>
-    <strong><a href="http://prwolfe.bol.ucla.edu/cfootball/ratings.htm">Peter Wolfe </a></strong>-  The first ratings will be posted October 17, 2010.<br /> <a href="http://www.colleyrankings.com/"><strong>Wes Colley</strong> </a>- Current<br /> <strong><a href="http://www.usatoday.com/sports/sagarin/fbt10.htm">Sagarin </a>(note:  Sagarin uses ELO CHESS for BCS) </strong>- Current<br /> <strong><a href="http://www.andersonsports.com/">Anderson/Hester Seattle Times </a></strong>- Current<br /> <strong><a href="http://www.cfrc.com/">Richard Billingsley </a></strong>- Current<br /> <strong><a href="http://www.masseyratings.com/">Kenneth Massey</a></strong> – Current
+    <strong><a href="http://prwolfe.bol.ucla.edu/cfootball/ratings.htm">Peter Wolfe </a></strong>-  The first ratings will be posted October 17, 2010.<br /> <a href="https://www.colleyrankings.com/"><strong>Wes Colley</strong> </a>- Current<br /> <strong><a href="https://www.usatoday.com/sports/sagarin/fbt10.htm">Sagarin </a>(note:  Sagarin uses ELO CHESS for BCS) </strong>- Current<br /> <strong><a href="https://www.andersonsports.com/">Anderson/Hester Seattle Times </a></strong>- Current<br /> <strong><a href="https://www.cfrc.com/">Richard Billingsley </a></strong>- Current<br /> <strong><a href="https://www.masseyratings.com/">Kenneth Massey</a></strong> – Current
   </p>
 
   <p>
@@ -52,31 +52,31 @@ tags:
   <table border="1" cellspacing="0" cellpadding="4">
     <tr>
       <td>
-        <strong><a href="http://www.colleyrankings.com/">Colley</a></strong></p>
+        <strong><a href="https://www.colleyrankings.com/">Colley</a></strong></p>
 
         <p>
           1. Oklahoma<br /> 2. LSU<br /> 3. Alabama<br /> 4. Arizona<br /> 5. Missouri<br /> 6. TCU<br /> 7. Kansas St<br /> 8. Auburn<br /> 9. Michigan<br /> 10. Michigan St</td>
 
           <td>
-            <strong><a href="http://www.usatoday.com/sports/sagarin/fbt10.htm">Sagarin</a></strong></p>
+            <strong><a href="https://www.usatoday.com/sports/sagarin/fbt10.htm">Sagarin</a></strong></p>
 
             <p>
               1.  Alabama<br /> 2.  Oklahoma<br /> 3.  Boise St<br /> 4.  LSU<br /> 5.  Florida<br /> 6.  Oregon<br /> 7.  Ohio St<br /> 8.  TCU<br /> 9.  Auburn<br /> 10. Arizona</td>
 
               <td>
-                <strong><a href="http://www.cfrc.com/">Billingsley</a></strong></p>
+                <strong><a href="https://www.cfrc.com/">Billingsley</a></strong></p>
 
                 <p>
                   1.  Alabama<br /> 2.  Boise St<br /> 3.  Oklahoma<br /> 4.  Florida<br /> 5.  LSU<br /> 6.  TCU<br /> 7.  Oregon<br /> 8.  Ohio St<br /> 9.  Utah<br /> 10. Arizona</td>
 
                   <td>
-                    <strong><a href="http://www.masseyratings.com/">Massey</a></strong></p>
+                    <strong><a href="https://www.masseyratings.com/">Massey</a></strong></p>
 
                     <p>
                       1.  Alabama<br /> 2.  Oregon<br /> 3.  TCU<br /> 4.  Stanford<br /> 5.  Ohio St<br /> 6.  Florida<br /> 7.  Boise St<br /> 8.  Arizona<br /> 9.  Oklahoma<br /> 10. Nebraska</td>
 
                       <td>
-                        <strong><a href="http://www.andersonsports.com/">Anderson</a></strong></p>
+                        <strong><a href="https://www.andersonsports.com/">Anderson</a></strong></p>
 
                         <p>
                           1. Alabama<br /> 2. LSU<br /> 3. Oklahoma<br /> 4. Arizona<br /> 5. Kansas St<br /> 6. Boise St<br /> 7. TCU<br /> 8. Auburn<br /> 9. Missouri<br /> 10. Oregon</td> </tr> </tbody> </table>

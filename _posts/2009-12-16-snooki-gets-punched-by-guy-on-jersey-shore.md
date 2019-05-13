@@ -14,7 +14,7 @@ categories:
 
 <div class="entry">
   <p>
-    This may be one of the most disgusting things I have ever seen but the <a href="http://www.cbsnews.com/8301-504083_162-5978779-504083.html">gym teacher was arrested</a> after punching Snooki who is a cast member on the reality TV Show Jersey Shore.
+    This may be one of the most disgusting things I have ever seen but the <a href="https://www.cbsnews.com/8301-504083_162-5978779-504083.html">gym teacher was arrested</a> after punching Snooki who is a cast member on the reality TV Show Jersey Shore.
   </p>
 
   <p>

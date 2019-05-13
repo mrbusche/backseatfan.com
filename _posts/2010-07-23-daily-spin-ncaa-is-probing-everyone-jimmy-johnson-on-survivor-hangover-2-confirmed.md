@@ -34,11 +34,11 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.tmz.com/2010/07/22/mark-ingram-heisman-trophy-winner-ncaa-investigation-party-washington-dc/">The NCAA is probing everyone</a>, they are really cracking down.  Their Latest probe is last year's Heisman winner Alabama RB Mark Ingram.  College players beware, the NCAA is trying to clean itself up?[via <a href="http://www.tmz.com/2010/07/22/mark-ingram-heisman-trophy-winner-ncaa-investigation-party-washington-dc/">TMZ</a>]
+    <a href="https://www.tmz.com/2010/07/22/mark-ingram-heisman-trophy-winner-ncaa-investigation-party-washington-dc/">The NCAA is probing everyone</a>, they are really cracking down.  Their Latest probe is last year's Heisman winner Alabama RB Mark Ingram.  College players beware, the NCAA is trying to clean itself up?[via <a href="https://www.tmz.com/2010/07/22/mark-ingram-heisman-trophy-winner-ncaa-investigation-party-washington-dc/">TMZ</a>]
   </p>
 
   <p>
-    <a href="http://www.baltimoresun.com/sports/ravens/bal-ravens-kenyon-cotton-dies-0721,0,3735857.story">Former Ravens FB Dies after surgery</a>? Sad to see someone go at such a young age, he was only 36.  RIP.   [via <a href="http://www.baltimoresun.com/sports/ravens/bal-ravens-kenyon-cotton-dies-0721,0,3735857.story">Baltimore Sun</a>]
+    <a href="https://www.baltimoresun.com/sports/ravens/bal-ravens-kenyon-cotton-dies-0721,0,3735857.story">Former Ravens FB Dies after surgery</a>? Sad to see someone go at such a young age, he was only 36.  RIP.   [via <a href="https://www.baltimoresun.com/sports/ravens/bal-ravens-kenyon-cotton-dies-0721,0,3735857.story">Baltimore Sun</a>]
   </p>
 
   <p>
@@ -46,11 +46,11 @@ tags:
   </p>
 
   <p>
-    3 Masked men robbed Bobcats' Stephen Jackson's home? His wife was held up by gunpoint, a few items were stolen? [via <a href="http://www.fanhouse.com/news/main/armed-men-rob-home-of-bobcats-stephen/1179854">Fanhouse</a>]
+    3 Masked men robbed Bobcats' Stephen Jackson's home? His wife was held up by gunpoint, a few items were stolen? [via <a href="https://www.fanhouse.com/news/main/armed-men-rob-home-of-bobcats-stephen/1179854">Fanhouse</a>]
   </p>
 
   <p>
-    <a href="http://www.examiner.com/x-15166-Comedy-Examiner~y2010m7d21-Confirmed-The-Hangover-2-will-take-place-in-Thailand-do-its-best-to-be-as-good-as-the-original">Hangover 2 confirmed</a>? It will take place in Thailand? It will have a hard time living up to the original, but it will still be funny? [via <a href="http://www.examiner.com/x-15166-Comedy-Examiner~y2010m7d21-Confirmed-The-Hangover-2-will-take-place-in-Thailand-do-its-best-to-be-as-good-as-the-original">examiner</a>]
+    <a href="https://www.examiner.com/x-15166-Comedy-Examiner~y2010m7d21-Confirmed-The-Hangover-2-will-take-place-in-Thailand-do-its-best-to-be-as-good-as-the-original">Hangover 2 confirmed</a>? It will take place in Thailand? It will have a hard time living up to the original, but it will still be funny? [via <a href="https://www.examiner.com/x-15166-Comedy-Examiner~y2010m7d21-Confirmed-The-Hangover-2-will-take-place-in-Thailand-do-its-best-to-be-as-good-as-the-original">examiner</a>]
   </p>
 
   <p>

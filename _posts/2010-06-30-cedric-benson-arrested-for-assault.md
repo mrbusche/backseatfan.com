@@ -21,7 +21,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.tmz.com/2010/06/29/cedric-benson-arrest-white-boys-nfl-star-assault-injury-punch-cincinnati-bengals-running-back/">TMZ has a few more details</a> on what went down that night. Including "All these white boys are ganging up on me and kicking me out."
+    <a href="https://www.tmz.com/2010/06/29/cedric-benson-arrest-white-boys-nfl-star-assault-injury-punch-cincinnati-bengals-running-back/">TMZ has a few more details</a> on what went down that night. Including "All these white boys are ganging up on me and kicking me out."
   </p>
 
   <p>

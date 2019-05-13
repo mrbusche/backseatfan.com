@@ -7,7 +7,7 @@ layout: post
 guid: https://backseatfan.com/?p=185
 permalink: /2009/04/2009-2010-ncaa-basketball-final-four-preview/
 DiggUrl:
-  - http://digg.com/basketball/2009_2010_NCAA_Basketball_Final_Four_Preview
+  - https://digg.com/basketball/2009_2010_NCAA_Basketball_Final_Four_Preview
 categories:
   - NCAA
 ---

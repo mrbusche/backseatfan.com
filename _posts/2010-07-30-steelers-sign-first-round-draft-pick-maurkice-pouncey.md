@@ -19,7 +19,7 @@ tags:
 
 <div class="entry">
   <p>
-    The Pittsburgh Steelers <a href="http://www.post-gazette.com/pg/10211/1076480-66.stm?cmpid=steelers.xml" target="_blank">agreed to a contract</a> on Friday with first-round draft choice Maurkice Pouncey.
+    The Pittsburgh Steelers <a href="https://www.post-gazette.com/pg/10211/1076480-66.stm?cmpid=steelers.xml" target="_blank">agreed to a contract</a> on Friday with first-round draft choice Maurkice Pouncey.
   </p>
 
   <p>

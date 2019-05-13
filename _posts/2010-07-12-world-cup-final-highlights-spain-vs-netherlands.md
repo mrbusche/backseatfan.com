@@ -21,7 +21,7 @@ tags:
 
 <div class="entry">
   <p>
-    Spain won the FIFA World Cup with a final score of 1-0 over the Netherlands. You can see a <a href="http://www.youtube.com/watch?v=Hd1gny9LBUU">full ESPN Highlight here</a>, but let's face it you probably want a shorter version. So here it is:
+    Spain won the FIFA World Cup with a final score of 1-0 over the Netherlands. You can see a <a href="https://www.youtube.com/watch?v=Hd1gny9LBUU">full ESPN Highlight here</a>, but let's face it you probably want a shorter version. So here it is:
   </p>
 
   <p>

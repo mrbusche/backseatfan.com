@@ -28,7 +28,7 @@ tags:
 
 <div class="entry">
   <p>
-    Finding a drug treatment center near you is not a problem, because there are <a href="http://www.projectknow.com/research/addiction-treatment/">local resources</a> that can easily help you out in this regard.
+    Finding a drug treatment center near you is not a problem, because there are <a href="https://www.projectknow.com/research/addiction-treatment/">local resources</a> that can easily help you out in this regard.
   </p>
 
   <p>

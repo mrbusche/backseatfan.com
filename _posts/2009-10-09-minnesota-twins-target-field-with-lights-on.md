@@ -21,10 +21,10 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.flickr.com/photos/18529139@N00/3995789092/">Flickr download link</a>
+    <a href="https://www.flickr.com/photos/18529139@N00/3995789092/">Flickr download link</a>
   </p>
 
   <p>
-    <a href="http://www.flickr.com/photos/18529139@N00/3995789092/"></a><img class="aligncenter size-large wp-image-2080" title="FieldLightOnFirstTime" src="/images/2009/10/FieldLightOnFirstTime-1024x766.jpg" alt="FieldLightOnFirstTime" width="512" height="383" srcset="/images/2009/10/FieldLightOnFirstTime-1024x766.jpg 1024w, /images/2009/10/FieldLightOnFirstTime-300x224.jpg 300w" sizes="(max-width: 512px) 100vw, 512px" />
+    <a href="https://www.flickr.com/photos/18529139@N00/3995789092/"></a><img class="aligncenter size-large wp-image-2080" title="FieldLightOnFirstTime" src="/images/2009/10/FieldLightOnFirstTime-1024x766.jpg" alt="FieldLightOnFirstTime" width="512" height="383" srcset="/images/2009/10/FieldLightOnFirstTime-1024x766.jpg 1024w, /images/2009/10/FieldLightOnFirstTime-300x224.jpg 300w" sizes="(max-width: 512px) 100vw, 512px" />
   </p>
 </div>

@@ -26,7 +26,7 @@ tags:
   </p>
 
   <p>
-    Former San Francisco 49er <a href="http://www.people.com/people/article/0,,20399672,00.html">Eric Johnson is dating Jessica Simpson</a>? I think this officially transfers the Jessica Simpson curse away from Tony Romo, even though they haven't dated in a while, he was still cursed. [via <a href="http://www.people.com/people/article/0,,20399672,00.html">People</a>]
+    Former San Francisco 49er <a href="https://www.people.com/people/article/0,,20399672,00.html">Eric Johnson is dating Jessica Simpson</a>? I think this officially transfers the Jessica Simpson curse away from Tony Romo, even though they haven't dated in a while, he was still cursed. [via <a href="https://www.people.com/people/article/0,,20399672,00.html">People</a>]
   </p>
 
   <p>
@@ -34,7 +34,7 @@ tags:
   </p>
 
   <p>
-    University of Georgia Athletic Director <a href="http://www.myfoxatlanta.com/dpp/news/UGA-President-to-Address-Evans-Resignation-20100706-am-sd">Damon Evans resigns</a> after DUI? Apparently he was trying to convince the officer to let him go as well.  Can't anyone just take a cab?  [via <a href="http://www.myfoxatlanta.com/dpp/news/UGA-President-to-Address-Evans-Resignation-20100706-am-sd">Fox Atlanta</a>]
+    University of Georgia Athletic Director <a href="https://www.myfoxatlanta.com/dpp/news/UGA-President-to-Address-Evans-Resignation-20100706-am-sd">Damon Evans resigns</a> after DUI? Apparently he was trying to convince the officer to let him go as well.  Can't anyone just take a cab?  [via <a href="https://www.myfoxatlanta.com/dpp/news/UGA-President-to-Address-Evans-Resignation-20100706-am-sd">Fox Atlanta</a>]
   </p>
 
   <p>
@@ -42,7 +42,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.telegraph.co.uk/news/worldnews/middleeast/iran/7873621/Iran-government-issues-style-guide-for-mens-hair.html">Mullets </a>and Pony Tails on men are banned in Iran? The Iranian government must have really hated the 80's?. Or America? Either one.   [ via <a href="http://www.telegraph.co.uk/news/worldnews/middleeast/iran/7873621/Iran-government-issues-style-guide-for-mens-hair.html">Telegraph</a>]
+    <a href="https://www.telegraph.co.uk/news/worldnews/middleeast/iran/7873621/Iran-government-issues-style-guide-for-mens-hair.html">Mullets </a>and Pony Tails on men are banned in Iran? The Iranian government must have really hated the 80's?. Or America? Either one.   [ via <a href="https://www.telegraph.co.uk/news/worldnews/middleeast/iran/7873621/Iran-government-issues-style-guide-for-mens-hair.html">Telegraph</a>]
   </p>
 
   <p>

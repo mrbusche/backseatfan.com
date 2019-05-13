@@ -33,7 +33,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.nydailynews.com/gossip/2010/07/28/2010-07-28_untitled__28lede2.html">Jay-Z is upset with LeBron</a> for not consulting with him?  Seriously? Sorry that no one wants to play in Newark.  Go try to form a super team with the Russian Billionaire when you move to Brooklyn? [via <a href="http://www.nydailynews.com/gossip/2010/07/28/2010-07-28_untitled__28lede2.html">NYDN</a>]
+    <a href="https://www.nydailynews.com/gossip/2010/07/28/2010-07-28_untitled__28lede2.html">Jay-Z is upset with LeBron</a> for not consulting with him?  Seriously? Sorry that no one wants to play in Newark.  Go try to form a super team with the Russian Billionaire when you move to Brooklyn? [via <a href="https://www.nydailynews.com/gossip/2010/07/28/2010-07-28_untitled__28lede2.html">NYDN</a>]
   </p>
 
   <p>
@@ -41,11 +41,11 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.bengals.com/news/article-1/Ocho-TO-No-1-receiver/603e2d36-cee9-4e8e-ae04-c691b8eab35a">T.O. is the Bengals #1</a> Receiver according to Ocho?  Out of respect of what he’s done in his career? But in the game, Ocho is #1 WR on this squad? [via <a href="http://www.bengals.com/news/article-1/Ocho-TO-No-1-receiver/603e2d36-cee9-4e8e-ae04-c691b8eab35a">Bengals.com</a>]
+    <a href="https://www.bengals.com/news/article-1/Ocho-TO-No-1-receiver/603e2d36-cee9-4e8e-ae04-c691b8eab35a">T.O. is the Bengals #1</a> Receiver according to Ocho?  Out of respect of what he’s done in his career? But in the game, Ocho is #1 WR on this squad? [via <a href="https://www.bengals.com/news/article-1/Ocho-TO-No-1-receiver/603e2d36-cee9-4e8e-ae04-c691b8eab35a">Bengals.com</a>]
   </p>
 
   <p>
-    <a href="http://www.torontosun.com/sports/basketball/2010/07/26/14836426.html">Raptors GM Bryan Colangelo bashes Chris Bosh</a> for heading to the Heat? Didn't he read all of the negative things said about the Cavs GM?  And how stupid and childlike it was to Bash LeBron?  I guess not? [via <a href="http://www.torontosun.com/sports/basketball/2010/07/26/14836426.html">Toronto Sun</a>]
+    <a href="https://www.torontosun.com/sports/basketball/2010/07/26/14836426.html">Raptors GM Bryan Colangelo bashes Chris Bosh</a> for heading to the Heat? Didn't he read all of the negative things said about the Cavs GM?  And how stupid and childlike it was to Bash LeBron?  I guess not? [via <a href="https://www.torontosun.com/sports/basketball/2010/07/26/14836426.html">Toronto Sun</a>]
   </p>
 
   <p>

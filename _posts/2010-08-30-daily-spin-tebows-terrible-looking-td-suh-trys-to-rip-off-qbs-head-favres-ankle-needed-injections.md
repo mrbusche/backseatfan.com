@@ -39,7 +39,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.omaha.com/article/20100830/SPORTS/708309886/-1#nighthawks-to-sign-clarett">UFL's Omaha Nighthawks sign former Ohio State RB Maurice Clarett</a>… Maybe he was in a rec league in prison? [via <a href="http://www.omaha.com/article/20100830/SPORTS/708309886/-1#nighthawks-to-sign-clarett">Omaha World Herald</a>]
+    <a href="https://www.omaha.com/article/20100830/SPORTS/708309886/-1#nighthawks-to-sign-clarett">UFL's Omaha Nighthawks sign former Ohio State RB Maurice Clarett</a>… Maybe he was in a rec league in prison? [via <a href="https://www.omaha.com/article/20100830/SPORTS/708309886/-1#nighthawks-to-sign-clarett">Omaha World Herald</a>]
   </p>
 
   <p>
@@ -47,7 +47,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.nfl.com/videos/nfl-game-highlights/09000d5d81a1c829/Decker-3-yard-TD-rec">Tebows horrific looking touchdown throw to Eric Decker</a>… If he was playing against first team offense, that would have been taken to the house. [ via <a href="http://www.nfl.com/videos/nfl-game-highlights/09000d5d81a1c829/Decker-3-yard-TD-rec">NFL.com</a>]
+    <a href="https://www.nfl.com/videos/nfl-game-highlights/09000d5d81a1c829/Decker-3-yard-TD-rec">Tebows horrific looking touchdown throw to Eric Decker</a>… If he was playing against first team offense, that would have been taken to the house. [ via <a href="https://www.nfl.com/videos/nfl-game-highlights/09000d5d81a1c829/Decker-3-yard-TD-rec">NFL.com</a>]
   </p>
 
   <p>

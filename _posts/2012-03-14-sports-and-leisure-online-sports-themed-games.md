@@ -24,7 +24,7 @@ categories:
   </h2>
 
   <p>
-    The study participants were asked to describe meaningful experiences they had while playing video or online sports games. To the surprise of the authors of the study, close to 60 percent of respondents claimed they have lived a very meaningful experience during gameplay, and they provided great details for it. Private, emotional stories were at the core of these confidences, and could be one of the main reasons why so many people enjoy playing sports themed games. Places like <a href="http://www.acekingdom.com/">Ace Kingdom</a> make for excellent choices in terms of sports games that can keep one entertained for a while &ndash; and potentially bring them some nice amounts of money they weren't expected in the form of casino wins. Arcade games, scratch cards games, progressive slots, you name it. They are all there, waiting for skilled or newbie players to try their luck at them. If we also add the fact that these games are available 24/7 and can be played from any remote location using a computer, tablet, or smartphone, it is easy to see why they are so popular.
+    The study participants were asked to describe meaningful experiences they had while playing video or online sports games. To the surprise of the authors of the study, close to 60 percent of respondents claimed they have lived a very meaningful experience during gameplay, and they provided great details for it. Private, emotional stories were at the core of these confidences, and could be one of the main reasons why so many people enjoy playing sports themed games. Places like <a href="https://www.acekingdom.com/">Ace Kingdom</a> make for excellent choices in terms of sports games that can keep one entertained for a while &ndash; and potentially bring them some nice amounts of money they weren't expected in the form of casino wins. Arcade games, scratch cards games, progressive slots, you name it. They are all there, waiting for skilled or newbie players to try their luck at them. If we also add the fact that these games are available 24/7 and can be played from any remote location using a computer, tablet, or smartphone, it is easy to see why they are so popular.
   </p>
 
   <p>
@@ -40,7 +40,7 @@ categories:
 
     <li>
       <p>
-        Also, lots of today's sports game players used to play some of the sports they now enjoy the most when they were little. Hence, playing a <a href="http://www.wikihow.com/Play-Soccer">football</a> themed game of slots on a popular gaming site is something reminiscent that makes them happy and puts them in a good mood.
+        Also, lots of today's sports game players used to play some of the sports they now enjoy the most when they were little. Hence, playing a <a href="https://www.wikihow.com/Play-Soccer">football</a> themed game of slots on a popular gaming site is something reminiscent that makes them happy and puts them in a good mood.
       </p>
     </li>
 

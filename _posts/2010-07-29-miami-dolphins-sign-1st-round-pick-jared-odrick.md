@@ -22,7 +22,7 @@ tags:
 
 <div class="entry">
   <p>
-    According to <a href="http://www.twitter.com/Adam_Schefter">Adam Schefters Twiter</a> the Miami Dolphins just reached agreement with first-round pick Jared Odrick.  The Dolphins drafted Penn State's Jared Odrick with the  28th overall pick in the first round.
+    According to <a href="https://www.twitter.com/Adam_Schefter">Adam Schefters Twiter</a> the Miami Dolphins just reached agreement with first-round pick Jared Odrick.  The Dolphins drafted Penn State's Jared Odrick with the  28th overall pick in the first round.
   </p>
 
   <p>

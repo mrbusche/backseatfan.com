@@ -7,7 +7,7 @@ layout: post
 guid: https://backseatfan.com/?p=85
 permalink: /2009/03/uconns-calhoun-transported-to-hospital/
 DiggUrl:
-  - http://digg.com/basketball/BREAKING_UCONN_Head_Coach_Jim_Calhoun_in_hospital
+  - https://digg.com/basketball/BREAKING_UCONN_Head_Coach_Jim_Calhoun_in_hospital
 categories:
   - NCAA
 ---

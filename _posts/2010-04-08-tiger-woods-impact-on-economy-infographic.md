@@ -24,7 +24,7 @@ tags:
   </p>
 
   <p>
-    This is a pretty interesting infographic from <a href="http://www.mint.com/blog/trends/the-tiger-woods-economy/?display=wide">Mint.com</a>.  Turns out Tiger woods is pretty damn important to the Golfing Economy.  $30 million dollars a city for the Buick Open alone.  I went to the Phoenix Open this year, and it was busy, but I am sure if Tiger was there it would go crazy.
+    This is a pretty interesting infographic from <a href="https://www.mint.com/blog/trends/the-tiger-woods-economy/?display=wide">Mint.com</a>.  Turns out Tiger woods is pretty damn important to the Golfing Economy.  $30 million dollars a city for the Buick Open alone.  I went to the Phoenix Open this year, and it was busy, but I am sure if Tiger was there it would go crazy.
   </p>
 
   <p>
@@ -32,6 +32,6 @@ tags:
   </p>
 
   <p>
-    via [<a href="http://www.mint.com/blog/trends/the-tiger-woods-economy/?display=wide">Mint.com</a>]
+    via [<a href="https://www.mint.com/blog/trends/the-tiger-woods-economy/?display=wide">Mint.com</a>]
   </p>
 </div>

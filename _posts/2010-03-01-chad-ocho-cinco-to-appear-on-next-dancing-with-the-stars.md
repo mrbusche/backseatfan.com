@@ -19,7 +19,7 @@ tags:
 
 <div class="entry">
   <p>
-    According to <a href="http://www.tmz.com/2010/03/01/dancing-scores-td-with-chad-ochocinco/">TMZ</a>, Chad Ocho Cinco is set to appear on the upcoming season of 'Dancing with the Stars'. I have never watched the show before, but I am going to have to say I am going to watch Chad.
+    According to <a href="https://www.tmz.com/2010/03/01/dancing-scores-td-with-chad-ochocinco/">TMZ</a>, Chad Ocho Cinco is set to appear on the upcoming season of 'Dancing with the Stars'. I have never watched the show before, but I am going to have to say I am going to watch Chad.
   </p>
 
   <p>
@@ -38,6 +38,6 @@ tags:
   </p>
 
   <p>
-    via [<a href="http://www.tmz.com/2010/03/01/dancing-scores-td-with-chad-ochocinco/">TMZ</a>]
+    via [<a href="https://www.tmz.com/2010/03/01/dancing-scores-td-with-chad-ochocinco/">TMZ</a>]
   </p>
 </div>

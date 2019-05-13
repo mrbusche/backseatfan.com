@@ -22,7 +22,7 @@ tags:
 
 <div class="entry">
   <p>
-    Tragic news being reported out of Las Vegas. Christian Cunningham, the 2 1/2 year old son of former Vikings and Eagles QB Randall Cunningham has died after drowning in a hot tub in his backyard. The tragedy was first reported by the <a href="http://www.lvrj.com/sports/son-of-ex-rebel-drowns-97458929.html">Las Vegas Review-Journal</a>
+    Tragic news being reported out of Las Vegas. Christian Cunningham, the 2 1/2 year old son of former Vikings and Eagles QB Randall Cunningham has died after drowning in a hot tub in his backyard. The tragedy was first reported by the <a href="https://www.lvrj.com/sports/son-of-ex-rebel-drowns-97458929.html">Las Vegas Review-Journal</a>
   </p>
 
   <p>

@@ -201,7 +201,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.zagsblog.com/2011/03/29/gibbs-to-test-nba-waters/">March 29</a>
+        <a href="https://www.zagsblog.com/2011/03/29/gibbs-to-test-nba-waters/">March 29</a>
       </td>
     </tr>
 
@@ -227,7 +227,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.zagsblog.com/2011/03/29/gibbs-to-test-nba-waters/"></a>
+        <a href="https://www.zagsblog.com/2011/03/29/gibbs-to-test-nba-waters/"></a>
       </td>
     </tr>
 
@@ -405,7 +405,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.wibw.com/sports/headlines/Dukes_Kyrie_Irving_To_Enter_NBA_Draft_119353384.html?ref=384">April 6</a>
+        <a href="https://www.wibw.com/sports/headlines/Dukes_Kyrie_Irving_To_Enter_NBA_Draft_119353384.html?ref=384">April 6</a>
       </td>
     </tr>
 
@@ -662,7 +662,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.baltimoresun.com/sports/nationworld/wire/sns-ap-bkc-georgia-thompkins,0,7342901.story"></a><a href="http://www.baltimoresun.com/sports/nationworld/wire/sns-ap-bkc-georgia-thompkins,0,7342901.story">April 5</a>
+        <a href="https://www.baltimoresun.com/sports/nationworld/wire/sns-ap-bkc-georgia-thompkins,0,7342901.story"></a><a href="https://www.baltimoresun.com/sports/nationworld/wire/sns-ap-bkc-georgia-thompkins,0,7342901.story">April 5</a>
       </td>
     </tr>
 
@@ -996,7 +996,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.gohuskies.com/sports/m-baskbl/spec-rel/033111aaa.html">March 31</a>
+        <a href="https://www.gohuskies.com/sports/m-baskbl/spec-rel/033111aaa.html">March 31</a>
       </td>
     </tr>
 
@@ -1022,7 +1022,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.baltimoresun.com/sports/nationworld/wire/sns-ap-bkc-georgia-thompkins,0,7342901.story">April 5</a>
+        <a href="https://www.baltimoresun.com/sports/nationworld/wire/sns-ap-bkc-georgia-thompkins,0,7342901.story">April 5</a>
       </td>
     </tr>
 
@@ -1099,7 +1099,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.dallasnews.com/sports/college-sports/texas-longhorns/20110421-report-longhorns_tristan-thompson-chooses-to-enter-nba-draft.ece">April 22</a>
+        <a href="https://www.dallasnews.com/sports/college-sports/texas-longhorns/20110421-report-longhorns_tristan-thompson-chooses-to-enter-nba-draft.ece">April 22</a>
       </td>
     </tr>
 
@@ -1261,7 +1261,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.digtriad.com/news/article/171842/13/UNCs-Harrison-Barnes-To-Return-For-Sophomore-Season">April 18</a>
+        <a href="https://www.digtriad.com/news/article/171842/13/UNCs-Harrison-Barnes-To-Return-For-Sophomore-Season">April 18</a>
       </td>
     </tr>
 
@@ -1433,7 +1433,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://tarheelblue.cstv.com/sports/m-baskbl/spec-rel/040611aab.html"></a><a href="http://www.kake.com/sports/headlines/Robinson_Taylor_To_Remain_At_Kansas_119352179.html?ref=179">April 6</a>
+        <a href="http://tarheelblue.cstv.com/sports/m-baskbl/spec-rel/040611aab.html"></a><a href="https://www.kake.com/sports/headlines/Robinson_Taylor_To_Remain_At_Kansas_119352179.html?ref=179">April 6</a>
       </td>
     </tr>
 
@@ -1455,7 +1455,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.kake.com/sports/headlines/Robinson_Taylor_To_Remain_At_Kansas_119352179.html?ref=179"></a>
+        <a href="https://www.kake.com/sports/headlines/Robinson_Taylor_To_Remain_At_Kansas_119352179.html?ref=179"></a>
       </td>
     </tr>
 
@@ -1499,7 +1499,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.kake.com/sports/headlines/Robinson_Taylor_To_Remain_At_Kansas_119352179.html?ref=179">April 6</a>
+        <a href="https://www.kake.com/sports/headlines/Robinson_Taylor_To_Remain_At_Kansas_119352179.html?ref=179">April 6</a>
       </td>
     </tr>
 
@@ -1521,7 +1521,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.kake.com/sports/headlines/Robinson_Taylor_To_Remain_At_Kansas_119352179.html?ref=179"></a>
+        <a href="https://www.kake.com/sports/headlines/Robinson_Taylor_To_Remain_At_Kansas_119352179.html?ref=179"></a>
       </td>
     </tr>
 
@@ -1543,7 +1543,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www.kake.com/sports/headlines/Robinson_Taylor_To_Remain_At_Kansas_119352179.html?ref=179"></a>
+        <a href="https://www.kake.com/sports/headlines/Robinson_Taylor_To_Remain_At_Kansas_119352179.html?ref=179"></a>
       </td>
     </tr>
 

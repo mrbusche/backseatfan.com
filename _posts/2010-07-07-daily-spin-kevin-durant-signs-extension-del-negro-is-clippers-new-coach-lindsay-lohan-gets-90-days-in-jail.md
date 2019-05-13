@@ -33,19 +33,19 @@ tags:
   </p>
 
   <p>
-    Former Seton hall coach Bobby <a href="http://www.nypost.com/p/sports/college/basketball/he_steal_at_it_4sNgOR3XJlQsoiancpyY6K">Gonzalez was busted for stealing a man purse</a>? It's a satchel damnit! Looks like this guys coaching career is over.  All because of a purse.  Satchel!   [via <a href="http://www.nypost.com/p/sports/college/basketball/he_steal_at_it_4sNgOR3XJlQsoiancpyY6K">New York Post</a>]
+    Former Seton hall coach Bobby <a href="https://www.nypost.com/p/sports/college/basketball/he_steal_at_it_4sNgOR3XJlQsoiancpyY6K">Gonzalez was busted for stealing a man purse</a>? It's a satchel damnit! Looks like this guys coaching career is over.  All because of a purse.  Satchel!   [via <a href="https://www.nypost.com/p/sports/college/basketball/he_steal_at_it_4sNgOR3XJlQsoiancpyY6K">New York Post</a>]
   </p>
 
   <p>
-    <a href="http://www.sportingnews.com/blog/The_Baseline/entry/view/70728/kevin_durant_agrees_to_five-year_extension_with_the_thunder">Kevin Durant quietly reaches a 5 year extension</a> with the OKC Thunder? The Thunder are going to be good,  [via<a href="http://www.sportingnews.com/blog/The_Baseline/entry/view/70728/kevin_durant_agrees_to_five-year_extension_with_the_thunder"> Sporting News</a>]
+    <a href="https://www.sportingnews.com/blog/The_Baseline/entry/view/70728/kevin_durant_agrees_to_five-year_extension_with_the_thunder">Kevin Durant quietly reaches a 5 year extension</a> with the OKC Thunder? The Thunder are going to be good,  [via<a href="https://www.sportingnews.com/blog/The_Baseline/entry/view/70728/kevin_durant_agrees_to_five-year_extension_with_the_thunder"> Sporting News</a>]
   </p>
 
   <p>
-    <a href="http://www.nydailynews.com/blogs/jets/2010/07/rb-shonn-greene-doesnt-plan-on.html">Shonn Greene doesn't run out of bounds</a>? Greene was a beast when he played for the Hawkeyes, he is going to go crazy this year behind the Jets O Line. [via <a href="http://www.nydailynews.com/blogs/jets/2010/07/rb-shonn-greene-doesnt-plan-on.html">NY Daily News</a>]
+    <a href="https://www.nydailynews.com/blogs/jets/2010/07/rb-shonn-greene-doesnt-plan-on.html">Shonn Greene doesn't run out of bounds</a>? Greene was a beast when he played for the Hawkeyes, he is going to go crazy this year behind the Jets O Line. [via <a href="https://www.nydailynews.com/blogs/jets/2010/07/rb-shonn-greene-doesnt-plan-on.html">NY Daily News</a>]
   </p>
 
   <p>
-    <a href="http://www.latimes.com/sports/la-sp-clippers-20100707,0,3515723.story">Vinny Del Negro is the new LA Clippers coach</a>?  When are they going to hire Bill Simmons as their GM? [via <a href="http://www.latimes.com/sports/la-sp-clippers-20100707,0,3515723.story">LA Times</a>]
+    <a href="https://www.latimes.com/sports/la-sp-clippers-20100707,0,3515723.story">Vinny Del Negro is the new LA Clippers coach</a>?  When are they going to hire Bill Simmons as their GM? [via <a href="https://www.latimes.com/sports/la-sp-clippers-20100707,0,3515723.story">LA Times</a>]
   </p>
 
   <p>
@@ -53,7 +53,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.thefalcoholic.com/2010/7/7/1467728/which-nfl-position-groups-suffer">Which NFL position is more likely to land on the Inured Reserve?</a> I have been wanting to do this number crunching for a while, but never got around to it. After next years data comes in I will for sure.  I mean <a href="https://backseatfan.com/2009/08/2009-nfl-season-players-on-injured-reserve/">Backseat Fan keeps track of NFL IR</a>, we might as well use the data.  [via  <a href="http://www.thefalcoholic.com/2010/7/7/1467728/which-nfl-position-groups-suffer">Falcoholic</a>]
+    <a href="https://www.thefalcoholic.com/2010/7/7/1467728/which-nfl-position-groups-suffer">Which NFL position is more likely to land on the Inured Reserve?</a> I have been wanting to do this number crunching for a while, but never got around to it. After next years data comes in I will for sure.  I mean <a href="https://backseatfan.com/2009/08/2009-nfl-season-players-on-injured-reserve/">Backseat Fan keeps track of NFL IR</a>, we might as well use the data.  [via  <a href="https://www.thefalcoholic.com/2010/7/7/1467728/which-nfl-position-groups-suffer">Falcoholic</a>]
   </p>
 
   <p>

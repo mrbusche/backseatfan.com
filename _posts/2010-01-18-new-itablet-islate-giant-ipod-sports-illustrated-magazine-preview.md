@@ -22,6 +22,6 @@ tags:
   </p>
 
   <p>
-    So this is the future of magazines, they already have the software developed, they are just waiting for apple to release the product to use it on. Apple has an <a href="http://www.boygeniusreport.com/2010/01/18/ruh-roh-its-official-apple-is-holding-an-event-on-january-27/">upcoming press conference</a>, so expect things to start happening soon!
+    So this is the future of magazines, they already have the software developed, they are just waiting for apple to release the product to use it on. Apple has an <a href="https://www.boygeniusreport.com/2010/01/18/ruh-roh-its-official-apple-is-holding-an-event-on-january-27/">upcoming press conference</a>, so expect things to start happening soon!
   </p>
 </div>

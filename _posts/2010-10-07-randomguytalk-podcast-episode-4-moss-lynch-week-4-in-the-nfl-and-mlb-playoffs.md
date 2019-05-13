@@ -23,10 +23,10 @@ tags:
 
 <div class="entry">
   <p>
-    I sit down with <a href="http://www.randomguytalk.com/">RandomGuyTalk</a> members Kevin, Will and Jimmy to discuss sports. We discuss the impact of the Randy Moss and Marshawn Lynch trades, week 4 in the NFL, we predict the MLB playoffs and discuss the Roy Halladay no hitter.
+    I sit down with <a href="https://www.randomguytalk.com/">RandomGuyTalk</a> members Kevin, Will and Jimmy to discuss sports. We discuss the impact of the Randy Moss and Marshawn Lynch trades, week 4 in the NFL, we predict the MLB playoffs and discuss the Roy Halladay no hitter.
   </p>
 
   <p>
-    Visit RandomGuyTalk.com to download <a href="http://www.randomguytalk.com/journal/2010/10/7/episode-4-all-sportsmoss-lynch-week-4-in-the-nfl-and-no-no-i.html">Episode 4</a>
+    Visit RandomGuyTalk.com to download <a href="https://www.randomguytalk.com/journal/2010/10/7/episode-4-all-sportsmoss-lynch-week-4-in-the-nfl-and-no-no-i.html">Episode 4</a>
   </p>
 </div>

@@ -55,7 +55,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.tmz.com/2010/06/08/golden-tate-seattle-seahawks-nfl-911-call-donut-shop/">TMZ</a> dropped the story and has obtained <a href="http://www.tmz.com/2010/06/08/golden-tate-seattle-seahawks-nfl-911-call-donut-shop/">a copy of the baker's 911 call</a>.  This story has only strengthened my hunger for donuts this morning.
+    <a href="https://www.tmz.com/2010/06/08/golden-tate-seattle-seahawks-nfl-911-call-donut-shop/">TMZ</a> dropped the story and has obtained <a href="https://www.tmz.com/2010/06/08/golden-tate-seattle-seahawks-nfl-911-call-donut-shop/">a copy of the baker's 911 call</a>.  This story has only strengthened my hunger for donuts this morning.
   </p><figure id="attachment_6089" style="width: 500px" class="wp-caption aligncenter">
 
 <a href="/images/2010/06/maplebars.jpg"><img class="size-full wp-image-6089" title="maplebars" src="/images/2010/06/maplebars.jpg" alt="" width="500" height="332" srcset="/images/2010/06/maplebars.jpg 500w, /images/2010/06/maplebars-300x199.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a><figcaption class="wp-caption-text">mmmmmm Maple Bars....</figcaption></figure>

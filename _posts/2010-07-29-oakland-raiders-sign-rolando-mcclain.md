@@ -18,7 +18,7 @@ tags:
 
 <div class="entry">
   <p>
-    The <a href="http://www.raiders.com/news/article-1/Raiders-Sign-McClain/0dfb1968-fa67-4105-a04c-63368e8e6494">Oakland Raiders</a> have signed LB Rolando McClain the 8th overall pick of the 2010 NFL Draft. McClain is the highest pick to sign from <a href="https://backseatfan.com/index.php/2010/04/2010-nfl-draft-rookie-signing-status/">this year's draft class</a>.
+    The <a href="https://www.raiders.com/news/article-1/Raiders-Sign-McClain/0dfb1968-fa67-4105-a04c-63368e8e6494">Oakland Raiders</a> have signed LB Rolando McClain the 8th overall pick of the 2010 NFL Draft. McClain is the highest pick to sign from <a href="https://backseatfan.com/index.php/2010/04/2010-nfl-draft-rookie-signing-status/">this year's draft class</a>.
   </p>
 
   <p>

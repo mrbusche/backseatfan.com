@@ -23,7 +23,7 @@ tags:
   </p>
 
   <p>
-    The folks at 2kSports were kind enough to give us a copy of MLB 2k11 for PS3 to giveaway.  So we are going to keep it simple. Leave a baseball prediction in the comments below, Fill out the form, and voila you are entered.  Super Bonus entry for anyone who follows <a href="http://www.twitter.com/backseatfan">@backseatfan</a> and retweets the following message:
+    The folks at 2kSports were kind enough to give us a copy of MLB 2k11 for PS3 to giveaway.  So we are going to keep it simple. Leave a baseball prediction in the comments below, Fill out the form, and voila you are entered.  Super Bonus entry for anyone who follows <a href="https://www.twitter.com/backseatfan">@backseatfan</a> and retweets the following message:
   </p>
 
   <p>
@@ -35,7 +35,7 @@ tags:
   </p>
 
   <p>
-    So, easy enough, <strong>Leave a comment</strong> or <a href="http://www.twitter.com/backseatfan">Follow us on twitter</a> /<a href="http://clicktotweet.com/O5Hf0"> tweet us.</a>
+    So, easy enough, <strong>Leave a comment</strong> or <a href="https://www.twitter.com/backseatfan">Follow us on twitter</a> /<a href="http://clicktotweet.com/O5Hf0"> tweet us.</a>
   </p>
 
   <p>

@@ -7,7 +7,7 @@ layout: post
 guid: https://backseatfan.com/?p=158
 permalink: /2009/04/nl-west-preview-2009/
 DiggUrl:
-  - http://digg.com/baseball/NL_West_Preview_2009
+  - https://digg.com/baseball/NL_West_Preview_2009
 categories:
   - MLB
 ---

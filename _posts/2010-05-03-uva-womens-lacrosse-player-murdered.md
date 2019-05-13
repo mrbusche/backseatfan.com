@@ -37,7 +37,7 @@ tags:
   </p>
 
   <p>
-    The victim and the suspect had a past relationship, <a href=" http://www.virginia.edu/emergency/message050310.html">the police said</a>.
+    The victim and the suspect had a past relationship, <a href=" https://www.virginia.edu/emergency/message050310.html">the police said</a>.
   </p>
 
   <blockquote>
@@ -51,7 +51,7 @@ tags:
   </blockquote>
 
   <p>
-    Huguly was an all american lacrosse palyer in high school, when he was a senior he spoke to the <a href="http://www.washingtonpost.com/wp-dyn/content/article/2006/03/31/AR2006033101879.html">Washington Post when the Duke Lacrosse team was suspended</a>.
+    Huguly was an all american lacrosse palyer in high school, when he was a senior he spoke to the <a href="https://www.washingtonpost.com/wp-dyn/content/article/2006/03/31/AR2006033101879.html">Washington Post when the Duke Lacrosse team was suspended</a>.
   </p>
 
   <blockquote>

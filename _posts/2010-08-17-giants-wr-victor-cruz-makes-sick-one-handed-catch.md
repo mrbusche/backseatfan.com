@@ -22,7 +22,7 @@ categories:
   </p>
 
   <p>
-    The NFL doesn't allow videos to be embedded, so  for better quality head on over to <a href="http://www.nfl.com/videos/nfl-game-highlights/09000d5d819cf7c2/Pre-Week-1-Can-t-Miss-Play-Crazy-catch-Cruz">NFL.com for the video</a>.
+    The NFL doesn't allow videos to be embedded, so  for better quality head on over to <a href="https://www.nfl.com/videos/nfl-game-highlights/09000d5d819cf7c2/Pre-Week-1-Can-t-Miss-Play-Crazy-catch-Cruz">NFL.com for the video</a>.
   </p>
 
   <p>

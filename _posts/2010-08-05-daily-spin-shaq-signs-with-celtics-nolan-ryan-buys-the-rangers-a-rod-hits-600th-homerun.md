@@ -38,7 +38,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://www.suntimes.com/sports/morrissey/2567864,CST-SPT-morrissey05.article">Mike Martz says Jay Cutler has Kurt Warner awareness</a>? Not sure that I agree with that, maybe the awareness of Marc Bulger? [via <a href="http://www.suntimes.com/sports/morrissey/2567864,CST-SPT-morrissey05.article">Sun Times</a>]
+    <a href="https://www.suntimes.com/sports/morrissey/2567864,CST-SPT-morrissey05.article">Mike Martz says Jay Cutler has Kurt Warner awareness</a>? Not sure that I agree with that, maybe the awareness of Marc Bulger? [via <a href="https://www.suntimes.com/sports/morrissey/2567864,CST-SPT-morrissey05.article">Sun Times</a>]
   </p>
 
   <p>

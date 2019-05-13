@@ -72,6 +72,6 @@ tags:
   </p>
 
   <p>
-    Information from <a href="http://rise.espn.go.com/Welcome.aspx">ESPN.com</a>, <a href="http://www.kwwl.com/Global/story.asp?S=10586585">kwwl.com</a>, <a href="http://wcfcourier.com/news/local/article_4a759a41-2e19-5df3-a77d-f946792a09eb.html">wcfcourier.com</a> and <a href="http://www.cnn.com/2009/CRIME/06/24/football.coach.shot/index.html">cnn.com</a> was used in this article
+    Information from <a href="http://rise.espn.go.com/Welcome.aspx">ESPN.com</a>, <a href="https://www.kwwl.com/Global/story.asp?S=10586585">kwwl.com</a>, <a href="http://wcfcourier.com/news/local/article_4a759a41-2e19-5df3-a77d-f946792a09eb.html">wcfcourier.com</a> and <a href="https://www.cnn.com/2009/CRIME/06/24/football.coach.shot/index.html">cnn.com</a> was used in this article
   </p>
 </div>

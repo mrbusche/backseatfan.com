@@ -18,7 +18,7 @@ tags:
 
 <div class="entry">
   <p>
-    During a radio broadcast on 97.5 in Philadelphia DeSean Jackson said "It was time for a change," according to the <a href="http://www.philly.com/philly/sports/eagles/20100407_Eagles_Notebook__Eagles_wideout_DeSean_Jackson___It_was_time_for_a_change_.html">Philadelphia Daily News</a>. "We've got some young players here. I'm just excited about everything."
+    During a radio broadcast on 97.5 in Philadelphia DeSean Jackson said "It was time for a change," according to the <a href="https://www.philly.com/philly/sports/eagles/20100407_Eagles_Notebook__Eagles_wideout_DeSean_Jackson___It_was_time_for_a_change_.html">Philadelphia Daily News</a>. "We've got some young players here. I'm just excited about everything."
   </p>
 
   <p>
@@ -32,7 +32,7 @@ tags:
   </blockquote>
 
   <p>
-    Jackson also told the <a href="http://www.philly.com/philly/blogs/inq-eagles/DeSean_Its_a_relief.html">Phildadelphia Inquirer</a>:
+    Jackson also told the <a href="https://www.philly.com/philly/blogs/inq-eagles/DeSean_Its_a_relief.html">Phildadelphia Inquirer</a>:
   </p>
 
   <blockquote>

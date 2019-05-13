@@ -15,7 +15,7 @@ categories:
   </p>
 
   <p>
-    For a start, the Alabama men&rsquo;s group saw a 93-91 loss in their match against Arkanas on 15th January in a match which has been described as &ldquo;<a href="http://www.rolltide.com/sports/m-baskbl/alab-m-baskbl-body.html">Heartbreaking</a>&rdquo; by various sports journalists. The game was obviously very close, so it was a frustrating evening for players and fans alike. However, the players still have plenty to be proud of &ndash; particularly Justin Coleman, a Freshman who managed to bag an incredible 22 points, all in the second half.
+    For a start, the Alabama men&rsquo;s group saw a 93-91 loss in their match against Arkanas on 15th January in a match which has been described as &ldquo;<a href="https://www.rolltide.com/sports/m-baskbl/alab-m-baskbl-body.html">Heartbreaking</a>&rdquo; by various sports journalists. The game was obviously very close, so it was a frustrating evening for players and fans alike. However, the players still have plenty to be proud of &ndash; particularly Justin Coleman, a Freshman who managed to bag an incredible 22 points, all in the second half.
   </p>
 
   <p>
@@ -27,6 +27,6 @@ categories:
   </p>
 
   <p>
-    Of course, you may have noticed that a lot of these developments have been quite negative for Alabama, however; the season isn&rsquo;t open yet. Let&rsquo;s hope that things start looking up for our sports stars in the upcoming year. if you&rsquo;re looking to make a game a bit more interesting, then why not put a bit of money on the table, for example, by using an online betting site? Alternatively, if you would rather take sports out of it then why not have a go on one of the the numerous online casinos and gambling sites? Check out some reviews to find the <a href="http://www.bingostrike.com">best bingo site</a>&nbsp;for you.
+    Of course, you may have noticed that a lot of these developments have been quite negative for Alabama, however; the season isn&rsquo;t open yet. Let&rsquo;s hope that things start looking up for our sports stars in the upcoming year. if you&rsquo;re looking to make a game a bit more interesting, then why not put a bit of money on the table, for example, by using an online betting site? Alternatively, if you would rather take sports out of it then why not have a go on one of the the numerous online casinos and gambling sites? Check out some reviews to find the <a href="https://www.bingostrike.com">best bingo site</a>&nbsp;for you.
   </p>
 </div>

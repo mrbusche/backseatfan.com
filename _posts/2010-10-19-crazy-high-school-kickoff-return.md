@@ -23,10 +23,10 @@ tags:
   </p>
 
   <p>
-    Butler High School had one of those lateral it back desperation type of kick returns with only 1.8 seconds left in the game (<a href="http://www.youtube.com/watch?v=FNsqpIfzeAQ">Cal- Standford</a> minus the band on the field). They pulled it off, plus made a two point conversion to stun Pleasure Ridge Park 42-41.
+    Butler High School had one of those lateral it back desperation type of kick returns with only 1.8 seconds left in the game (<a href="https://www.youtube.com/watch?v=FNsqpIfzeAQ">Cal- Standford</a> minus the band on the field). They pulled it off, plus made a two point conversion to stun Pleasure Ridge Park 42-41.
   </p>
 
   <p>
-    <a href="http://www.highschoolsports.net/local/Louisville/article/2010310150122">Go here to read more about the story.</a>
+    <a href="https://www.highschoolsports.net/local/Louisville/article/2010310150122">Go here to read more about the story.</a>
   </p>
 </div>

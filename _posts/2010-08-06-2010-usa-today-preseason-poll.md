@@ -19,7 +19,7 @@ tags:
 
 <div class="entry">
   <p>
-    The 2010 <a href="http://www.usatoday.com/sports/college/football/usatpoll.htm">USA Today Preseason Poll</a> for college football is out, with Alabama is topping the poll at #1 overall.  This is our first glimmer of light on the NCAA football rankings for 2010, besides the NCAA football video game.  So behold your 2010 USA Today Preseason Poll rankings:
+    The 2010 <a href="https://www.usatoday.com/sports/college/football/usatpoll.htm">USA Today Preseason Poll</a> for college football is out, with Alabama is topping the poll at #1 overall.  This is our first glimmer of light on the NCAA football rankings for 2010, besides the NCAA football video game.  So behold your 2010 USA Today Preseason Poll rankings:
   </p>
 
   <table style="width: 140px;" border="0" cellspacing="0" cellpadding="0">
@@ -279,6 +279,6 @@ tags:
   </p>
 
   <p>
-    [via <a href="http://www.usatoday.com/sports/college/football/usatpoll.htm">USA Today</a>]
+    [via <a href="https://www.usatoday.com/sports/college/football/usatpoll.htm">USA Today</a>]
   </p>
 </div>

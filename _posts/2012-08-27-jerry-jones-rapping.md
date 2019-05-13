@@ -23,6 +23,6 @@ tags:
   </p>
 
   <p>
-    Not really sure what to say about this. I totally see the cross branding, great idea. I can promote the Cowboys, and get paid for doing a Papa Johns Commercial. But a Papa John's Rap? Really Jerry? Really?! <a href="http://www.youtube.com/watch?v=LdE4FIYSmk8">Hopefully we can get a gem like this from SNL</a> about Jerry Jone's terrible rap.
+    Not really sure what to say about this. I totally see the cross branding, great idea. I can promote the Cowboys, and get paid for doing a Papa Johns Commercial. But a Papa John's Rap? Really Jerry? Really?! <a href="https://www.youtube.com/watch?v=LdE4FIYSmk8">Hopefully we can get a gem like this from SNL</a> about Jerry Jone's terrible rap.
   </p>
 </div>
