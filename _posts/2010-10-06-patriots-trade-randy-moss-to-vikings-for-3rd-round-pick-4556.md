@@ -24,7 +24,7 @@ tags:
 
 <div class="entry">
   <p>
-    Jay Glazer of Fox was the first to report it and it has now been made official according to <a href="http://twitter.com/Adam_Schefter/status/26547745972">ESPN's Adam Schefter</a>. The New England Patriots have traded Randy Moss to the Minnesota Vikings for a third-round pick in the 2011 NFL draft.
+    Jay Glazer of Fox was the first to report it and it has now been made official according to <a href="https://twitter.com/Adam_Schefter/status/26547745972">ESPN's Adam Schefter</a>. The New England Patriots have traded Randy Moss to the Minnesota Vikings for a third-round pick in the 2011 NFL draft.
   </p>
 
   <p>

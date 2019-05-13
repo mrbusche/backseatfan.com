@@ -22,7 +22,7 @@ tags:
 
 <div class="entry">
   <p>
-    If you'd like to listen to the Fantasy Focus 06010 podcast you can do so<a href="http://sports.espn.go.com/espnradio/podcast/archive?id=2942325"> here</a> If you'd like to <a href="mailto:fantasyfocus@espnradio.com">email the podcast</a>
+    If you'd like to listen to the Fantasy Focus 06010 podcast you can do so<a href="https://sports.espn.go.com/espnradio/podcast/archive?id=2942325"> here</a> If you'd like to <a href="mailto:fantasyfocus@espnradio.com">email the podcast</a>
   </p>
 
   <table border="0">

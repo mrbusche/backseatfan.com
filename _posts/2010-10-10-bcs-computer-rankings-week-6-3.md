@@ -1,6 +1,6 @@
 ---
 id: 8863
-title: "BCS Computer Rankings - Week 6"
+title: 'BCS Computer Rankings - Week 6'
 date: 2010-10-10T20:39:03+00:00
 author: Ryan M.
 layout: post
@@ -31,7 +31,7 @@ tags:
   </p>
 
   <p>
-    2.  <strong><a href="http://espn.go.com/college-football/rankings/_/poll/2">Coaches Poll</a></strong>
+    2.  <strong><a href="https://espn.go.com/college-football/rankings/_/poll/2">Coaches Poll</a></strong>
   </p>
 
   <p>
@@ -39,7 +39,7 @@ tags:
   </p>
 
   <p>
-    <strong><a href="http://prwolfe.bol.ucla.edu/cfootball/ratings.htm">Peter Wolfe </a></strong>-  The first ratings will be posted October 17, 2010.<br /> <a href="https://www.colleyrankings.com/"><strong>Wes Colley</strong> </a>- Current<br /> <strong><a href="https://www.usatoday.com/sports/sagarin/fbt10.htm">Sagarin </a>(Sagarin uses ELO CHESS for BCS) </strong>- Current<br /> <strong><a href="https://www.andersonsports.com/">Anderson/Hester Seattle Times </a></strong>- Waiting to update<br /> <strong><a href="https://www.cfrc.com/">Richard Billingsley </a></strong>- Current<br /> <strong><a href="https://www.masseyratings.com/">Kenneth Massey</a></strong> <strong>(Massey has a BCS Column) </strong>–  Current
+    <strong><a href="https://prwolfe.bol.ucla.edu/cfootball/ratings.htm">Peter Wolfe </a></strong>-  The first ratings will be posted October 17, 2010.<br /> <a href="https://www.colleyrankings.com/"><strong>Wes Colley</strong> </a>- Current<br /> <strong><a href="https://www.usatoday.com/sports/sagarin/fbt10.htm">Sagarin </a>(Sagarin uses ELO CHESS for BCS) </strong>- Current<br /> <strong><a href="https://www.andersonsports.com/">Anderson/Hester Seattle Times </a></strong>- Waiting to update<br /> <strong><a href="https://www.cfrc.com/">Richard Billingsley </a></strong>- Current<br /> <strong><a href="https://www.masseyratings.com/">Kenneth Massey</a></strong> <strong>(Massey has a BCS Column) </strong>–  Current
   </p>
 
   <p>

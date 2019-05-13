@@ -22,7 +22,7 @@ tags:
   </p>
 
   <p>
-    "The Ballad of Brett Favre, I Will If You Let Me" by <a href="http://theballadofbrettfavre.net/">Cuevas family</a>. If this doesn't get Brett Favre back on the Field this fall, I'm not sure what will.
+    "The Ballad of Brett Favre, I Will If You Let Me" by <a href="https://theballadofbrettfavre.net/">Cuevas family</a>. If this doesn't get Brett Favre back on the Field this fall, I'm not sure what will.
   </p>
 
   <p>

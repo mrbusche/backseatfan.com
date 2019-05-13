@@ -24,15 +24,15 @@ tags:
   </p>
 
   <p>
-    4/12/2011:  Titans WR Kenny Britt is arrested for <a href="http://msn.foxsports.com/nfl/story/kenny-britt-police-chase-tennessee-titans-arrested-041211">eluding police and obstruction</a>.
+    4/12/2011:  Titans WR Kenny Britt is arrested for <a href="https://msn.foxsports.com/nfl/story/kenny-britt-police-chase-tennessee-titans-arrested-041211">eluding police and obstruction</a>.
   </p>
 
   <p>
-    4/4/2011:  Chiefs LB Mike Vrabel is arrested for <a href="http://content.usatoday.com/communities/thehuddle/post/2011/04/mike-vrabel-arrested-for-alleged-theft-calls-it-misunderstanding/1">theft, a Class D felony, in Indiana</a>.
+    4/4/2011:  Chiefs LB Mike Vrabel is arrested for <a href="https://content.usatoday.com/communities/thehuddle/post/2011/04/mike-vrabel-arrested-for-alleged-theft-calls-it-misunderstanding/1">theft, a Class D felony, in Indiana</a>.
   </p>
 
   <p>
-    4/3/2011:  Raiders WR Louis Murphy is arrested for <a href="http://profootballtalk.nbcsports.com/2011/04/03/louis-murphy-arrested-on-multiple-charges-in-florida/">possession of a drug without a valid prescription, failure to obey a police officer and resisting arrest without violence</a>.
+    4/3/2011:  Raiders WR Louis Murphy is arrested for <a href="https://profootballtalk.nbcsports.com/2011/04/03/louis-murphy-arrested-on-multiple-charges-in-florida/">possession of a drug without a valid prescription, failure to obey a police officer and resisting arrest without violence</a>.
   </p>
 
   <p>
@@ -44,11 +44,11 @@ tags:
   </p>
 
   <p>
-    3/25/2011:  Packers DL Johnny Jolly is arrested for <a href="http://houston.cbslocal.com/2011/03/25/johnny-jolly-charged-with-possession-again/">possession of codeine</a>.
+    3/25/2011:  Packers DL Johnny Jolly is arrested for <a href="https://houston.cbslocal.com/2011/03/25/johnny-jolly-charged-with-possession-again/">possession of codeine</a>.
   </p>
 
   <p>
-    3/19/2011:  Cowboys CB Bryan McCann is arrested for <a href="http://sports.espn.go.com/dallas/nfl/news/story?id=6239360">public intoxication</a>.
+    3/19/2011:  Cowboys CB Bryan McCann is arrested for <a href="https://sports.espn.go.com/dallas/nfl/news/story?id=6239360">public intoxication</a>.
   </p>
 
   <p>
@@ -56,7 +56,7 @@ tags:
   </p>
 
   <p>
-    3/12/2011:  Vikings CB Chris Cook is arrested for <a href="http://msn.foxsports.com/nfl/story/Minnesota-Vikings-Chris-Cook-arrested-in-Virginia-031311">brandishing a handgun</a>.
+    3/12/2011:  Vikings CB Chris Cook is arrested for <a href="https://msn.foxsports.com/nfl/story/Minnesota-Vikings-Chris-Cook-arrested-in-Virginia-031311">brandishing a handgun</a>.
   </p>
 
   <p>
@@ -64,7 +64,7 @@ tags:
   </p>
 
   <p>
-    3/4/2011:  Bucs director of pro scouting Shelton Quarles is <a href="http://profootballtalk.nbcsports.com/2011/03/04/shelton-quarles-arrested-for-dui/">arrested for DUI</a>.
+    3/4/2011:  Bucs director of pro scouting Shelton Quarles is <a href="https://profootballtalk.nbcsports.com/2011/03/04/shelton-quarles-arrested-for-dui/">arrested for DUI</a>.
   </p>
 
   <p>
@@ -80,11 +80,11 @@ tags:
   </p>
 
   <p>
-    1/31/2011:  Vikings DE Everson Griffen is arrested for <a href="http://sports.yahoo.com/nfl/blog/shutdown_corner/post/Everson-Griffen-arrested-twice-in-three-days-ge?urn=nfl-315188">felony battery</a>.
+    1/31/2011:  Vikings DE Everson Griffen is arrested for <a href="https://sports.yahoo.com/nfl/blog/shutdown_corner/post/Everson-Griffen-arrested-twice-in-three-days-ge?urn=nfl-315188">felony battery</a>.
   </p>
 
   <p>
-    1/28/2011:  Vikings DE Everson Griffen is arrested for <a href="http://sports.yahoo.com/nfl/blog/shutdown_corner/post/Everson-Griffen-arrested-twice-in-three-days-ge?urn=nfl-315188">public intoxication</a>.
+    1/28/2011:  Vikings DE Everson Griffen is arrested for <a href="https://sports.yahoo.com/nfl/blog/shutdown_corner/post/Everson-Griffen-arrested-twice-in-three-days-ge?urn=nfl-315188">public intoxication</a>.
   </p>
 
   <p>

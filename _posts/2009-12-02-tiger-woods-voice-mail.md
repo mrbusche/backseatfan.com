@@ -49,11 +49,11 @@ tags:
   </p>
 
   <p>
-    <a href="http://thedirty.com/2009/12/02/caption-of-the-day-194/">http://thedirty.com/2009/12/02/caption-of-the-day-194/</a> - Thanks Jocelyn!<a href="http://thedirty.com/2009/12/02/caption-of-the-day-194/"></a>
+    <a href="https://thedirty.com/2009/12/02/caption-of-the-day-194/">https://thedirty.com/2009/12/02/caption-of-the-day-194/</a> - Thanks Jocelyn!<a href="https://thedirty.com/2009/12/02/caption-of-the-day-194/"></a>
   </p>
 
   <p>
-    <a href="http://adweek.blogs.com/adfreak/2009/12/spirit-airlines-latest-ad-mocks-tiger-woods.html">http://adweek.blogs.com/adfreak/2009/12/spirit-airlines-latest-ad-mocks-tiger-woods.html</a>
+    <a href="https://adweek.blogs.com/adfreak/2009/12/spirit-airlines-latest-ad-mocks-tiger-woods.html">https://adweek.blogs.com/adfreak/2009/12/spirit-airlines-latest-ad-mocks-tiger-woods.html</a>
   </p>
 
   <p>
@@ -65,7 +65,7 @@ tags:
   </p>
 
   <p>
-    <span> <strong><a title="eallen" href="http://twitter.com/mrfactoid">@mrfactoid</a></strong> RT <span>@<a href="http://twitter.com/sportspickle">sportspickle</a>: Running into things, skanky women ? EA Sports Tiger Woods Grand Theft Auto PGA Golf 11 is going to be AWESOME!!!</span></span>
+    <span> <strong><a title="eallen" href="https://twitter.com/mrfactoid">@mrfactoid</a></strong> RT <span>@<a href="https://twitter.com/sportspickle">sportspickle</a>: Running into things, skanky women ? EA Sports Tiger Woods Grand Theft Auto PGA Golf 11 is going to be AWESOME!!!</span></span>
   </p>
 
   <p>
@@ -77,7 +77,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://twitter.com/atfmpls">@atfmpls</a> <span id="msgtxt6281454945"><strong>Tiger</strong> Woods went from being a<strong>Tiger</strong> to a<strong>Cheat</strong>-<strong>ah</strong>.</span>
+    <a href="https://twitter.com/atfmpls">@atfmpls</a> <span id="msgtxt6281454945"><strong>Tiger</strong> Woods went from being a<strong>Tiger</strong> to a<strong>Cheat</strong>-<strong>ah</strong>.</span>
   </p>
 
   <p>

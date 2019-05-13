@@ -12,7 +12,7 @@ categories:
 
 <div class="entry">
   <p>
-    Buffalo Bills and Aaron Maybin have agreed to a <em><a href="http://sports.espn.go.com/nfl/trainingcamp09/news/story?id=4413437">5 year</a></em><a href="http://sports.espn.go.com/nfl/trainingcamp09/news/story?id=4413437"> $25 million</a> contract. Terrell Owens let the world know via twitter:
+    Buffalo Bills and Aaron Maybin have agreed to a <em><a href="https://sports.espn.go.com/nfl/trainingcamp09/news/story?id=4413437">5 year</a></em><a href="https://sports.espn.go.com/nfl/trainingcamp09/news/story?id=4413437"> $25 million</a> contract. Terrell Owens let the world know via twitter:
   </p>
 
   <blockquote>

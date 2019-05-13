@@ -19,7 +19,7 @@ tags:
 
 <div class="entry">
   <p>
-    The Washington Redskins have reached an agreement with No. 4 overall pick Trent Williams on a <a href="http://voices.washingtonpost.com/redskinsinsider/trent-williams/redskins-top-draft-pick-trent.html">six-year, $60 million contract</a>.
+    The Washington Redskins have reached an agreement with No. 4 overall pick Trent Williams on a <a href="https://voices.washingtonpost.com/redskinsinsider/trent-williams/redskins-top-draft-pick-trent.html">six-year, $60 million contract</a>.
   </p>
 
   <p>

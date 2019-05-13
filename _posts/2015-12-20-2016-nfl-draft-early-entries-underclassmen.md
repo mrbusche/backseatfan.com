@@ -19,7 +19,7 @@ hide_post_image:
 unlink_post_image:
   - default
 builder_switch_frontend:
-  - "0"
+  - '0'
 categories:
   - Big 12
   - Big Ten
@@ -34,7 +34,7 @@ categories:
   <table style="height: 405px;" width="341">
     <tr>
       <td>
-        <a href="http://sportsday.dallasnews.com/college-sports/baylorbears/2015/12/05/baylor-wr-corey-coleman-will-forego-senior-year-leave-early-nfl-draft">Corey Coleman</a>
+        <a href="https://sportsday.dallasnews.com/college-sports/baylorbears/2015/12/05/baylor-wr-corey-coleman-will-forego-senior-year-leave-early-nfl-draft">Corey Coleman</a>
       </td>
 
       <td>
@@ -62,7 +62,7 @@ categories:
 
     <tr>
       <td>
-        <a href="http://espn.go.com/nfl/draft2016/story/_/id/14381640/usc-trojans-linebacker-sua-cravens-enter-nfl-draft">Su'a Cravens</a>
+        <a href="https://espn.go.com/nfl/draft2016/story/_/id/14381640/usc-trojans-linebacker-sua-cravens-enter-nfl-draft">Su'a Cravens</a>
       </td>
 
       <td>
@@ -146,7 +146,7 @@ categories:
 
     <tr>
       <td>
-        <a href="http://247sports.com/Bolt/Terps-DL-Quinton-Jefferson-Declares-for-NFL-Draft-42116286">Quinton Jefferson</a>
+        <a href="https://247sports.com/Bolt/Terps-DL-Quinton-Jefferson-Declares-for-NFL-Draft-42116286">Quinton Jefferson</a>
       </td>
 
       <td>
@@ -188,7 +188,7 @@ categories:
 
     <tr>
       <td>
-        <a href="http://sportsagentblog.com/2015/12/18/eku-de-noah-spence-signs-with-relativity-sports/">Noah Spence</a>
+        <a href="https://sportsagentblog.com/2015/12/18/eku-de-noah-spence-signs-with-relativity-sports/">Noah Spence</a>
       </td>
 
       <td>
@@ -202,7 +202,7 @@ categories:
 
     <tr>
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2015/12/19/arizonas-scooby-wright-says-hell-enter-the-nfl-draft/">Scooby Wright III</a>
+        <a href="https://profootballtalk.nbcsports.com/2015/12/19/arizonas-scooby-wright-says-hell-enter-the-nfl-draft/">Scooby Wright III</a>
       </td>
 
       <td>

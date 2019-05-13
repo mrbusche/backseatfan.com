@@ -64,6 +64,6 @@ tags:
   </p>
 
   <p>
-    [via <a href="http://sports.yahoo.com/nfl/blog/shutdown_corner/post/Could-the-Browns-cut-Colt-McCoy-?urn=nfl-265084">Yahoo Sports</a>]
+    [via <a href="https://sports.yahoo.com/nfl/blog/shutdown_corner/post/Could-the-Browns-cut-Colt-McCoy-?urn=nfl-265084">Yahoo Sports</a>]
   </p>
 </div>

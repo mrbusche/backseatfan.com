@@ -1,6 +1,6 @@
 ---
 id: 7074
-title: "Daily Spin: Jeremy Green Pleads Not Guilty, Lou Piniella Will Retire This Year, Bill Murray GQ Interview"
+title: 'Daily Spin: Jeremy Green Pleads Not Guilty, Lou Piniella Will Retire This Year, Bill Murray GQ Interview'
 date: 2010-07-21T14:39:30+00:00
 author: Ryan M.
 layout: post
@@ -38,7 +38,7 @@ tags:
   </p>
 
   <p>
-    <span style="text-decoration: underline;"><a href="https://www.courant.com/community/southington/hc-espn-child-porn-0721-20100720,0,5578465.story">Former</a></span><a href="https://www.courant.com/community/southington/hc-espn-child-porn-0721-20100720,0,5578465.story"> ESPN Analyst Jeremy Green</a> pleaded not guilty to Child Porn Charges?  Apparently I  <a href="http://myespn.go.com/s/conversations/show/story/5367617">missed this headline</a> on ESPN, where they said Green is no longer employed with ESPN. I'm surprised they even had that.  Green's bond is set at a ridiculous 750k, makes me wonder what the hell they found on his computer?   [via <a href="https://www.courant.com/community/southington/hc-espn-child-porn-0721-20100720,0,5578465.story">Courant</a>]
+    <span style="text-decoration: underline;"><a href="https://www.courant.com/community/southington/hc-espn-child-porn-0721-20100720,0,5578465.story">Former</a></span><a href="https://www.courant.com/community/southington/hc-espn-child-porn-0721-20100720,0,5578465.story"> ESPN Analyst Jeremy Green</a> pleaded not guilty to Child Porn Charges?  Apparently I  <a href="https://myespn.go.com/s/conversations/show/story/5367617">missed this headline</a> on ESPN, where they said Green is no longer employed with ESPN. I'm surprised they even had that.  Green's bond is set at a ridiculous 750k, makes me wonder what the hell they found on his computer?   [via <a href="https://www.courant.com/community/southington/hc-espn-child-porn-0721-20100720,0,5578465.story">Courant</a>]
   </p>
 
   <p>
@@ -50,11 +50,11 @@ tags:
   </p>
 
   <p>
-    This kid traded his old<a href="http://jalopnik.com/5591644/how-a-17+year+old-craigslist+swapped-an-old-phone-for-a-porsche"> iPhone in on craiglist, and traded his way up to a Porche</a>? That kid made something out of nothing.  Pretty good profit on an old iPhone that most people would sell for a couple hundred dollars?  [via <a href="http://jalopnik.com/5591644/how-a-17+year+old-craigslist+swapped-an-old-phone-for-a-porsche">Jalopnik</a>]
+    This kid traded his old<a href="https://jalopnik.com/5591644/how-a-17+year+old-craigslist+swapped-an-old-phone-for-a-porsche"> iPhone in on craiglist, and traded his way up to a Porche</a>? That kid made something out of nothing.  Pretty good profit on an old iPhone that most people would sell for a couple hundred dollars?  [via <a href="https://jalopnik.com/5591644/how-a-17+year+old-craigslist+swapped-an-old-phone-for-a-porsche">Jalopnik</a>]
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/los-angeles/ncf/news/story?id=5395550">New USC AD</a>, Reggie Bush Heisman returned? Weird, if you get a free car you get your Heisman revoked, kill a few people you still get your Heisman.. [via <a href="http://sports.espn.go.com/los-angeles/ncf/news/story?id=5395550">ESPN</a>]
+    <a href="https://sports.espn.go.com/los-angeles/ncf/news/story?id=5395550">New USC AD</a>, Reggie Bush Heisman returned? Weird, if you get a free car you get your Heisman revoked, kill a few people you still get your Heisman.. [via <a href="https://sports.espn.go.com/los-angeles/ncf/news/story?id=5395550">ESPN</a>]
   </p>
 
   <p>

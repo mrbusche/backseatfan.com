@@ -49,6 +49,6 @@ tags:
   </p>
 
   <p>
-    If that youtube video dies,<a href="http://mlb.mlb.com/news/article.jsp?ymd=20100810&content_id=13276098&vkey=news_mlb&fext=.jsp&c_id=mlb"> heres the link to MLB</a>.
+    If that youtube video dies,<a href="https://mlb.mlb.com/news/article.jsp?ymd=20100810&content_id=13276098&vkey=news_mlb&fext=.jsp&c_id=mlb"> heres the link to MLB</a>.
   </p>
 </div>

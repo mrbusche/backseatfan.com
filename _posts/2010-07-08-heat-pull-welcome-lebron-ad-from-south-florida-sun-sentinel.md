@@ -21,6 +21,6 @@ tags:
   </p>
 
   <p>
-    [via <a href="http://twitter.com/EthanJSkolnick/statuses/18074515364">Ethan Skolnick</a>]
+    [via <a href="https://twitter.com/EthanJSkolnick/statuses/18074515364">Ethan Skolnick</a>]
   </p>
 </div>

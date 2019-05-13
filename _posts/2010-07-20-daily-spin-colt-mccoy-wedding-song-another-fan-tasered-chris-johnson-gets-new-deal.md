@@ -1,6 +1,6 @@
 ---
 id: 7050
-title: "Daily Spin: Colt McCoy Wedding Song, Another Fan Tasered, Chris Johnson Gets New Deal"
+title: 'Daily Spin: Colt McCoy Wedding Song, Another Fan Tasered, Chris Johnson Gets New Deal'
 date: 2010-07-20T10:54:42+00:00
 author: Ryan M.
 layout: post
@@ -42,7 +42,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://deadspin.com/5590836/ilya-kovalchuks-17+year-contract-is-so-so-illegal-and-the-nhl-cant-do-anything-about-it">Ilya Kovalchuk gets 17-year deal with the Devil</a>? 17 years?!  Really? Deadspin has a good argument on how the deal is technically illegal, since both ends don't intend on fulfilling the contract.  [via <a href="http://deadspin.com/5590836/ilya-kovalchuks-17+year-contract-is-so-so-illegal-and-the-nhl-cant-do-anything-about-it">Deadspin</a>]
+    <a href="https://deadspin.com/5590836/ilya-kovalchuks-17+year-contract-is-so-so-illegal-and-the-nhl-cant-do-anything-about-it">Ilya Kovalchuk gets 17-year deal with the Devil</a>? 17 years?!  Really? Deadspin has a good argument on how the deal is technically illegal, since both ends don't intend on fulfilling the contract.  [via <a href="https://deadspin.com/5590836/ilya-kovalchuks-17+year-contract-is-so-so-illegal-and-the-nhl-cant-do-anything-about-it">Deadspin</a>]
   </p>
 
   <p>
@@ -50,11 +50,11 @@ tags:
   </p>
 
   <p>
-    <a href="http://thebiglead.com/index.php/2010/07/20/the-skip-bayless-gun-show/">Does Skip Bayless have two tickets to the gun show</a>?  I wonder what Skips stance is on steroids and ephedrine?  [via <a href="http://thebiglead.com/index.php/2010/07/20/the-skip-bayless-gun-show/">The Big Lead</a>]
+    <a href="https://thebiglead.com/index.php/2010/07/20/the-skip-bayless-gun-show/">Does Skip Bayless have two tickets to the gun show</a>?  I wonder what Skips stance is on steroids and ephedrine?  [via <a href="https://thebiglead.com/index.php/2010/07/20/the-skip-bayless-gun-show/">The Big Lead</a>]
   </p>
 
   <p>
-    <a href="http://blogs.dallasobserver.com/sportatorium/2010/07/_this_weeks_death_of.php">Could the next George Steinbrenner be Mark Cuban</a>? I can definitely see Mark Cuban buying some championships.  If I was a NBA  player I would want to play for him.  He wants to surround people with good players, win championship, make money, and he is pretty freaking smart? [ via<a href="http://blogs.dallasobserver.com/sportatorium/2010/07/_this_weeks_death_of.php"> Dallas Observer</a>]
+    <a href="https://blogs.dallasobserver.com/sportatorium/2010/07/_this_weeks_death_of.php">Could the next George Steinbrenner be Mark Cuban</a>? I can definitely see Mark Cuban buying some championships.  If I was a NBA  player I would want to play for him.  He wants to surround people with good players, win championship, make money, and he is pretty freaking smart? [ via<a href="https://blogs.dallasobserver.com/sportatorium/2010/07/_this_weeks_death_of.php"> Dallas Observer</a>]
   </p>
 
   <p>

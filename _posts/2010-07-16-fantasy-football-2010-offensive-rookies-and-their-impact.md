@@ -55,7 +55,7 @@ tags:
   </p>
 
   <p>
-    <strong>Ryan Mathews, Chargers</strong> - Norv Turner has made it very clear that Ryan Mathews is the starting running back this year for the Chargers and he will get <a href="http://bleacherreport.com/articles/419736-vincent-jacksons-greatest-threat-is-ryan-mathews">300+ carries</a> this year. For a passing oriented coach such as Norv Turner to say this he must think this kid has huge potential. I think he is by far the highest impact rookie in this years <a href="https://backseatfan.com/index.php/2010/04/2010-nfl-draft-rookie-signing-status/">draft class</a>.
+    <strong>Ryan Mathews, Chargers</strong> - Norv Turner has made it very clear that Ryan Mathews is the starting running back this year for the Chargers and he will get <a href="https://bleacherreport.com/articles/419736-vincent-jacksons-greatest-threat-is-ryan-mathews">300+ carries</a> this year. For a passing oriented coach such as Norv Turner to say this he must think this kid has huge potential. I think he is by far the highest impact rookie in this years <a href="https://backseatfan.com/index.php/2010/04/2010-nfl-draft-rookie-signing-status/">draft class</a>.
   </p>
 
   <p>

@@ -19,7 +19,7 @@ hide_post_image:
 unlink_post_image:
   - default
 builder_switch_frontend:
-  - "0"
+  - '0'
 categories:
   - Injured Reserve
   - NFL
@@ -40,7 +40,7 @@ categories:
   </p>
 
   <p>
-    Sean Lee - <a href="http://espn.go.com/dallas/nfl/story/_/id/10990605/sean-lee-dallas-cowboys-injured-otas">torn left ACL</a>
+    Sean Lee - <a href="https://espn.go.com/dallas/nfl/story/_/id/10990605/sean-lee-dallas-cowboys-injured-otas">torn left ACL</a>
   </p>
 
   <p>
@@ -52,6 +52,6 @@ categories:
   </p>
 
   <p>
-    Fili Moala - <a href="http://profootballtalk.nbcsports.com/2014/06/11/colts-place-fili-moala-on-injured-reserve/">partially torn ACL</a>
+    Fili Moala - <a href="https://profootballtalk.nbcsports.com/2014/06/11/colts-place-fili-moala-on-injured-reserve/">partially torn ACL</a>
   </p>
 </div>

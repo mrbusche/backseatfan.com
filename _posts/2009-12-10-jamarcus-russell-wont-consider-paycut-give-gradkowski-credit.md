@@ -21,7 +21,7 @@ tags:
   </p>
 
   <p>
-    When asked about the <a href="http://profootballtalk.nbcsports.com/2009/12/10/jamarcus-wont-consider-a-pay-cut/">possibility of reworking his contract</a>, JaMarcus said, ""Oh, no. That's over and done with. I don't even consider that as a part of it." Russell admitted he was embarrassed by the benching but refused to give Gradkowski any credit for the team's success. JaMarcus said, "Now it's just all around. Guys are just making plays around him. In the Dallas game after you go out and win in Cincinnati there weren't plays really made the whole game, you know what I mean."
+    When asked about the <a href="https://profootballtalk.nbcsports.com/2009/12/10/jamarcus-wont-consider-a-pay-cut/">possibility of reworking his contract</a>, JaMarcus said, ""Oh, no. That's over and done with. I don't even consider that as a part of it." Russell admitted he was embarrassed by the benching but refused to give Gradkowski any credit for the team's success. JaMarcus said, "Now it's just all around. Guys are just making plays around him. In the Dallas game after you go out and win in Cincinnati there weren't plays really made the whole game, you know what I mean."
   </p>
 
   <p>

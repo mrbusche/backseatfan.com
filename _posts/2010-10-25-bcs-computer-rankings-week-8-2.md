@@ -1,6 +1,6 @@
 ---
 id: 9018
-title: "BCS Computer Rankings - Week 8"
+title: 'BCS Computer Rankings - Week 8'
 date: 2010-10-25T07:49:49+00:00
 author: Ryan M.
 layout: post
@@ -13,7 +13,7 @@ categories:
   - BCS Computer Rankings
   - NCAA
 tags:
-  - "#bsf"
+  - '#bsf'
   - BCS
   - bcs computer polls
   - BCS Computer Rankings
@@ -35,7 +35,7 @@ tags:
   </p>
 
   <p>
-    2.  <strong><a href="http://espn.go.com/college-football/rankings/_/poll/2">Coaches Poll</a></strong>
+    2.  <strong><a href="https://espn.go.com/college-football/rankings/_/poll/2">Coaches Poll</a></strong>
   </p>
 
   <p>
@@ -43,7 +43,7 @@ tags:
   </p>
 
   <p>
-    <strong><a href="http://prwolfe.bol.ucla.edu/cfootball/ratings.htm">Peter Wolfe </a></strong>-  The first ratings will be posted October 17, 2010.<br /> <a href="https://www.colleyrankings.com/"><strong>Wes Colley</strong> </a>- Current<br /> <strong><a href="https://www.usatoday.com/sports/sagarin/fbt10.htm">Sagarin </a>(Sagarin uses ELO CHESS for BCS) </strong>- Current<br /> <strong><a href="https://www.andersonsports.com/">Anderson/Hester Seattle Times </a></strong>- Waiting to update<br /> <strong><a href="https://www.cfrc.com/">Richard Billingsley </a></strong>- Current<br /> <strong><a href="https://www.masseyratings.com/">Kenneth Massey</a></strong> <strong>(Massey has a BCS Column) </strong>–  Current
+    <strong><a href="https://prwolfe.bol.ucla.edu/cfootball/ratings.htm">Peter Wolfe </a></strong>-  The first ratings will be posted October 17, 2010.<br /> <a href="https://www.colleyrankings.com/"><strong>Wes Colley</strong> </a>- Current<br /> <strong><a href="https://www.usatoday.com/sports/sagarin/fbt10.htm">Sagarin </a>(Sagarin uses ELO CHESS for BCS) </strong>- Current<br /> <strong><a href="https://www.andersonsports.com/">Anderson/Hester Seattle Times </a></strong>- Waiting to update<br /> <strong><a href="https://www.cfrc.com/">Richard Billingsley </a></strong>- Current<br /> <strong><a href="https://www.masseyratings.com/">Kenneth Massey</a></strong> <strong>(Massey has a BCS Column) </strong>–  Current
   </p>
 
   <p>
@@ -83,7 +83,7 @@ tags:
                           1. Auburn<br /> 2. Missouri<br /> 3. Michigan St<br /> 4. TCU<br /> 5. Boise State<br /> 6. LSU<br /> 7. Oklahoma<br /> 8. Oregon<br /> 9. Alabama<br /> 10. Utah</td>
 
                           <td>
-                            <a href="http://prwolfe.bol.ucla.edu/cfootball/ratings.htm"><strong>Wolfe</strong></a></p>
+                            <a href="https://prwolfe.bol.ucla.edu/cfootball/ratings.htm"><strong>Wolfe</strong></a></p>
 
                             <p>
                               1. Auburn<br /> 2. Michigan St<br /> 3. Missouri<br /> 4. TCU<br /> 5. Oklahoma<br /> 6. LSU<br /> 7. Boise St<br /> 8. Wisconsin<br /> 9. Utah<br /> 10. Ohio State</td> </tr> </tbody> </table>

@@ -1,6 +1,6 @@
 ---
 id: 2789
-title: "BCS Computer Rankings - Week 13"
+title: 'BCS Computer Rankings - Week 13'
 date: 2009-11-30T09:12:52+00:00
 author: Ryan M.
 layout: post
@@ -39,11 +39,11 @@ categories:
   </p>
 
   <p>
-    1.<strong style="font-weight: bold;"><a href="http://espn.go.com/college-football/rankings/_/poll/5">Harris Interactive Poll</a></strong>
+    1.<strong style="font-weight: bold;"><a href="https://espn.go.com/college-football/rankings/_/poll/5">Harris Interactive Poll</a></strong>
   </p>
 
   <p>
-    2.<strong style="font-weight: bold;"><a href="http://espn.go.com/college-football/rankings/_/poll/2">Coaches Poll</a></strong>
+    2.<strong style="font-weight: bold;"><a href="https://espn.go.com/college-football/rankings/_/poll/2">Coaches Poll</a></strong>
   </p>
 
   <p>
@@ -51,7 +51,7 @@ categories:
   </p>
 
   <p>
-    <strong style="font-weight: bold;"><a href="http://prwolfe.bol.ucla.edu/cfootball/ratings.htm">Peter Wolfe</a></strong><br /> <a href="https://www.colleyrankings.com/"><strong style="font-weight: bold;">Wes Colley</strong></a><br /> <strong style="font-weight: bold;"><a href="https://www.usatoday.com/sports/sagarin/fbt09.htm">Sagarin</a></strong><br /> <strong style="font-weight: bold;"><a href="https://www.andersonsports.com/">Anderson/Hester Seattle Times</a></strong><br /> <strong style="font-weight: bold;"><a href="https://www.cfrc.com/">Richard Billingsley</a></strong><br /> <strong style="font-weight: bold;"><a href="https://www.masseyratings.com/">Kenneth Massey</a></strong>
+    <strong style="font-weight: bold;"><a href="https://prwolfe.bol.ucla.edu/cfootball/ratings.htm">Peter Wolfe</a></strong><br /> <a href="https://www.colleyrankings.com/"><strong style="font-weight: bold;">Wes Colley</strong></a><br /> <strong style="font-weight: bold;"><a href="https://www.usatoday.com/sports/sagarin/fbt09.htm">Sagarin</a></strong><br /> <strong style="font-weight: bold;"><a href="https://www.andersonsports.com/">Anderson/Hester Seattle Times</a></strong><br /> <strong style="font-weight: bold;"><a href="https://www.cfrc.com/">Richard Billingsley</a></strong><br /> <strong style="font-weight: bold;"><a href="https://www.masseyratings.com/">Kenneth Massey</a></strong>
   </p>
 
   <p>
@@ -91,9 +91,10 @@ categories:
       </td>
 
       <td style="color: #000000; font-size: 11px; cursor: text; margin: 8px;" valign="top">
-        <strong style="font-weight: bold;"><a href="http://prwolfe.bol.ucla.edu/cfootball/ratings.htm">Wolfe</a></strong><br /> 1. Florida<br /> 2. Alabama<br /> 3. Cincinnati<br /> 4. Texas<br /> 5. TCU<br /> 6. Boise State<br /> 7. Oregon<br /> 8. LSU<br /> 9. Georgia Tech<br /> 10. Iowa
+        <strong style="font-weight: bold;"><a href="https://prwolfe.bol.ucla.edu/cfootball/ratings.htm">Wolfe</a></strong><br /> 1. Florida<br /> 2. Alabama<br /> 3. Cincinnati<br /> 4. Texas<br /> 5. TCU<br /> 6. Boise State<br /> 7. Oregon<br /> 8. LSU<br /> 9. Georgia Tech<br /> 10. Iowa
       </td>
     </tr>
+
   </table>
 
   <p>

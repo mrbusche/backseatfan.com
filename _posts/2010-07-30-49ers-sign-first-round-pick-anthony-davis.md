@@ -22,7 +22,7 @@ tags:
   </p>
 
   <p>
-    ESPNs Adam Schefter is reporting the deal is for 5 <a href="http://twitter.com/Adam_Schefter/statuses/19927700484">years $26.5 million with $15.954 million guaranteed</a>.
+    ESPNs Adam Schefter is reporting the deal is for 5 <a href="https://twitter.com/Adam_Schefter/statuses/19927700484">years $26.5 million with $15.954 million guaranteed</a>.
   </p>
 
   <p>

@@ -36,7 +36,7 @@ tags:
       Alex Mack - Mack can sign an offer sheet with another team, but the Browns would get 5 days to match that offer. If Mack does leave the Browns would receive nothing in return
     </li>
     <li>
-      Jason Worilds - Worilds signed his transition tag nearly immediately which led to <a href="http://espn.go.com/nfl/story/_/id/10583352/lamarr-woodley-released-pittsburgh-steelers">LaMarr Woodley getting cut today</a>.
+      Jason Worilds - Worilds signed his transition tag nearly immediately which led to <a href="https://espn.go.com/nfl/story/_/id/10583352/lamarr-woodley-released-pittsburgh-steelers">LaMarr Woodley getting cut today</a>.
     </li>
   </ol>
 

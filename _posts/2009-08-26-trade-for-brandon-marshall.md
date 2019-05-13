@@ -51,6 +51,6 @@ tags:
 
 
 <noscript>
-  <a href="http://polldaddy.com/poll/1921438" target="_blank">Take Our Poll</a>
+  <a href="https://polldaddy.com/poll/1921438" target="_blank">Take Our Poll</a>
 </noscript></pre>
 </div>

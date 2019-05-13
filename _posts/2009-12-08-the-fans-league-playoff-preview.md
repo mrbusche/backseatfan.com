@@ -74,6 +74,6 @@ categories:
   </p>
 
   <p>
-    As everyone knows the favorite never wins in the fantasy playoffs and that's why HotCarls OnTheBeach will win the league. <a href="http://games.espn.go.com/ffl/leagueoffice?leagueId=445785">Want to check out the teams</a>? Post your predictions below
+    As everyone knows the favorite never wins in the fantasy playoffs and that's why HotCarls OnTheBeach will win the league. <a href="https://games.espn.go.com/ffl/leagueoffice?leagueId=445785">Want to check out the teams</a>? Post your predictions below
   </p>
 </div>

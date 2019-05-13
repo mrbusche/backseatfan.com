@@ -34,11 +34,11 @@ categories:
   </p>
 
   <p>
-    Indeed, the apparent need for sports betting resources like <a href="http://sportsbooknation.com/">SportsbookNation</a>, a site offering sportsbook reviews, has shown that the industry is alive and well. America is putting money behind their NFL picks. But where’s best to put your cash in this huge game?
+    Indeed, the apparent need for sports betting resources like <a href="https://sportsbooknation.com/">SportsbookNation</a>, a site offering sportsbook reviews, has shown that the industry is alive and well. America is putting money behind their NFL picks. But where’s best to put your cash in this huge game?
   </p>
 
   <p>
-    The defending Super Bowl champions open as favorites when they host Denver in Seattle. However, they head into the big game against the 2-0 Broncos coming off a <a href="http://scores.espn.go.com/nfl/recap?gameId=400554278">Week 2 road loss</a> against the San Diego Chargers and are only barely favored at all when you consider that most home teams are generally spotted three points (Seattle is -3 on the point spread).
+    The defending Super Bowl champions open as favorites when they host Denver in Seattle. However, they head into the big game against the 2-0 Broncos coming off a <a href="https://scores.espn.go.com/nfl/recap?gameId=400554278">Week 2 road loss</a> against the San Diego Chargers and are only barely favored at all when you consider that most home teams are generally spotted three points (Seattle is -3 on the point spread).
   </p>
 
   <p>

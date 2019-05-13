@@ -26,7 +26,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/ncaa/news/story?id=5268408">Nebraska is probably going to join the Big 10</a>
+    <a href="https://sports.espn.go.com/ncaa/news/story?id=5268408">Nebraska is probably going to join the Big 10</a>
   </p>
 
   <p>
@@ -34,11 +34,11 @@ tags:
   </p>
 
   <p>
-    <a href="http://texas.rivals.com/content.asp?CID=1092612">Texas, Texas A&M, Texas Tech, Oklahoma, and Oklahoma State will join the Pac 10 as well</a>
+    <a href="https://texas.rivals.com/content.asp?CID=1092612">Texas, Texas A&M, Texas Tech, Oklahoma, and Oklahoma State will join the Pac 10 as well</a>
   </p>
 
   <p>
-    There are going to be <a href="http://cjonline.com/sports/football/2010-06-05/big_12_best_option_for_ku_ksu">5 pissed off teams in the former Big 12</a>?  Kansas, Kansas State, Iowa State, Baylor, and Missouri if you weren't keeping track.
+    There are going to be <a href="https://cjonline.com/sports/football/2010-06-05/big_12_best_option_for_ku_ksu">5 pissed off teams in the former Big 12</a>?  Kansas, Kansas State, Iowa State, Baylor, and Missouri if you weren't keeping track.
   </p>
 
   <p>
@@ -46,7 +46,7 @@ tags:
   </p>
 
   <p>
-    Oh? and unrelated to college football?  <a href="http://content.usatoday.com/communities/gameon/post/2010/06/tom-izzo-meets-with-players-but-no-decision-made-by-coach-or-players/1">Tom Izzo might be the next head coach of the Cleveland Cavaliers</a>
+    Oh? and unrelated to college football?  <a href="https://content.usatoday.com/communities/gameon/post/2010/06/tom-izzo-meets-with-players-but-no-decision-made-by-coach-or-players/1">Tom Izzo might be the next head coach of the Cleveland Cavaliers</a>
   </p>
 
   <p>

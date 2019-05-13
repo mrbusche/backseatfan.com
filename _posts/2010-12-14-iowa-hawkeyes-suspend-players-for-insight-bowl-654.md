@@ -18,7 +18,7 @@ categories:
   - NCAA News
   - News
 tags:
-  - "#bsf"
+  - '#bsf'
   - Adam Robinson
   - Derrell Johnson-Koulianos
   - Insight Bowl
@@ -56,11 +56,11 @@ tags:
   </p>
 
   <p>
-    If you want to read more about <a href="http://thegazette.com/2010/12/08/johnson-koulianos-arrested-for-drug-possession/">DJK's arrest go here</a>.
+    If you want to read more about <a href="https://thegazette.com/2010/12/08/johnson-koulianos-arrested-for-drug-possession/">DJK's arrest go here</a>.
   </p>
 
   <p>
-    Here is a little more on <a href="http://espn.go.com/blog/BigTen/post/_/id/21086/bad-news-continues-for-hawkeyes">Adam Robinson and Jewel Hampton.</a>
+    Here is a little more on <a href="https://espn.go.com/blog/BigTen/post/_/id/21086/bad-news-continues-for-hawkeyes">Adam Robinson and Jewel Hampton.</a>
   </p>
 
   <h2>

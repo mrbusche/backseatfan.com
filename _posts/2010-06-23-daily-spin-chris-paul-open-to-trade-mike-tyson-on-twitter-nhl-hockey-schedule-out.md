@@ -1,6 +1,6 @@
 ---
 id: 6375
-title: "Daily Spin: Chris Paul Open to Trade, Mike Tyson on Twitter, NHL Hockey Schedule Out"
+title: 'Daily Spin: Chris Paul Open to Trade, Mike Tyson on Twitter, NHL Hockey Schedule Out'
 date: 2010-06-23T07:22:02+00:00
 author: Ryan M.
 layout: post
@@ -29,7 +29,7 @@ tags:
   </p>
 
   <p>
-    New Orleans Hornets' <a href="http://sports.espn.go.com/nba/news/story?id=5317801">Chris Paul Open to Trade</a>? Pretty much stating he wants out and wants to be on a winning team [via <a href="http://sports.espn.go.com/nba/news/story?id=5317801">ESPN</a>]
+    New Orleans Hornets' <a href="https://sports.espn.go.com/nba/news/story?id=5317801">Chris Paul Open to Trade</a>? Pretty much stating he wants out and wants to be on a winning team [via <a href="https://sports.espn.go.com/nba/news/story?id=5317801">ESPN</a>]
   </p>
 
   <p>
@@ -49,7 +49,7 @@ tags:
   </p>
 
   <p>
-    A look at the <a href="http://snippets.com/how-different-are-major-league-baseball-fields.htm  ">different shapes of outdoor MLB baseball parks</a>? It's missing Indoor stadiums, and new Twins Stadium?  Bust still is pretty damn cool.  Can someone please create a fancy interactive version? [ via <a href="http://snippets.com/how-different-are-major-league-baseball-fields.htm">snippets</a>]
+    A look at the <a href="https://snippets.com/how-different-are-major-league-baseball-fields.htm  ">different shapes of outdoor MLB baseball parks</a>? It's missing Indoor stadiums, and new Twins Stadium?  Bust still is pretty damn cool.  Can someone please create a fancy interactive version? [ via <a href="https://snippets.com/how-different-are-major-league-baseball-fields.htm">snippets</a>]
   </p>
 
   <p>
@@ -60,7 +60,7 @@ tags:
     <a href="https://www.usmagazine.com/celebritynews/news/khloe-kardashian-buys-lamar-odom-a-rolls-royce-for-lakers-win-2010226">Khloé Kardashian bought Lakers' Lamar Odom </a>a brand-new Rolls Royce for winning the NBA Championship [ via E! online]
   </p><figure id="attachment_6388" style="width: 308px" class="wp-caption alignnone">
 
-  <a href="/images/2010/06/2010-Rolls-Royce-Phantom-Drophead-Coupe02-440x268.jpg"><img class="size-full wp-image-6388  " title="2010-Rolls-Royce-Phantom-Drophead-Coupe02-440x268" src="/images/2010/06/2010-Rolls-Royce-Phantom-Drophead-Coupe02-440x268.jpg" alt="" width="308" height="188" srcset="/images/2010/06/2010-Rolls-Royce-Phantom-Drophead-Coupe02-440x268.jpg 440w, /images/2010/06/2010-Rolls-Royce-Phantom-Drophead-Coupe02-440x268-300x182.jpg 300w" sizes="(max-width: 308px) 100vw, 308px" /></a><figcaption class="wp-caption-text"> </figcaption></figure>
+<a href="/images/2010/06/2010-Rolls-Royce-Phantom-Drophead-Coupe02-440x268.jpg"><img class="size-full wp-image-6388  " title="2010-Rolls-Royce-Phantom-Drophead-Coupe02-440x268" src="/images/2010/06/2010-Rolls-Royce-Phantom-Drophead-Coupe02-440x268.jpg" alt="" width="308" height="188" srcset="/images/2010/06/2010-Rolls-Royce-Phantom-Drophead-Coupe02-440x268.jpg 440w, /images/2010/06/2010-Rolls-Royce-Phantom-Drophead-Coupe02-440x268-300x182.jpg 300w" sizes="(max-width: 308px) 100vw, 308px" /></a><figcaption class="wp-caption-text"> </figcaption></figure>
 
   <p>
     Why won't they let me do this at the Rose Bowl?

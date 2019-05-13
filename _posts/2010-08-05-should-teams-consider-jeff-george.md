@@ -18,7 +18,7 @@ tags:
 
 <div class="entry">
   <p>
-    <a href="http://msn.foxsports.com/nfl/story/still-idolizing-jeff-george-after-all-these-years-080510">Jason Whitlock is campaigning for Jeff George</a> to play in the NFL again.  Sure he is George's friend, and is a little bit of a Jeff George homer, but  is he really that far off?  Teams need veteran quarterbacks for depth, experience, and insurance.  If Mark Brunell can get a job still, I am pretty sure Jeff George can too.  How many teams could use Jeff George as a backup QB?  I think there are at least a  couple that should put George on their radar.
+    <a href="https://msn.foxsports.com/nfl/story/still-idolizing-jeff-george-after-all-these-years-080510">Jason Whitlock is campaigning for Jeff George</a> to play in the NFL again.  Sure he is George's friend, and is a little bit of a Jeff George homer, but  is he really that far off?  Teams need veteran quarterbacks for depth, experience, and insurance.  If Mark Brunell can get a job still, I am pretty sure Jeff George can too.  How many teams could use Jeff George as a backup QB?  I think there are at least a  couple that should put George on their radar.
   </p>
 
   <p>

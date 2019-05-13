@@ -19,7 +19,7 @@ categories:
   </p>
 
   <p>
-    Remember all those endorsements you got because you were 'America's hero'? There were plenty of us who didn't buy into that and now you've proven that you're an insensitive jerk. Brees recently compared the evidence of Weapons of Mass Destruction to the <a href="http://en.wikipedia.org/wiki/New_Orleans_Saints_bounty_scandal">bounties</a> the Saints imposed on players.
+    Remember all those endorsements you got because you were 'America's hero'? There were plenty of us who didn't buy into that and now you've proven that you're an insensitive jerk. Brees recently compared the evidence of Weapons of Mass Destruction to the <a href="https://en.wikipedia.org/wiki/New_Orleans_Saints_bounty_scandal">bounties</a> the Saints imposed on players.
   </p>
 
   <p>
@@ -27,7 +27,7 @@ categories:
   </p>
 
   <p>
-    Now if Drew did any research before his statement he'd know that in 2009  <a href="http://en.wikipedia.org/wiki/Iraq_and_weapons_of_mass_destruction">OPCW Director General Rogelio Pfirter</a> announced that there were Weapons of Mass Destruction in Iraq in 2003. Maybe Drew was just saying it would take 6 years before they finally admitted to imposing the bounties on players?
+    Now if Drew did any research before his statement he'd know that in 2009  <a href="https://en.wikipedia.org/wiki/Iraq_and_weapons_of_mass_destruction">OPCW Director General Rogelio Pfirter</a> announced that there were Weapons of Mass Destruction in Iraq in 2003. Maybe Drew was just saying it would take 6 years before they finally admitted to imposing the bounties on players?
   </p>
 
   <p>
@@ -39,6 +39,6 @@ categories:
   </p>
 
   <p>
-    via <a href="https://twitter.com/drewbrees/status/214906846065082371">Drew Brees himself</a> <a href="http://profootballtalk.nbcsports.com/2012/06/19/drew-brees-compares-evidence-for-bounties-to-evidence-for-wmds/">PFT</a>
+    via <a href="https://twitter.com/drewbrees/status/214906846065082371">Drew Brees himself</a> <a href="https://profootballtalk.nbcsports.com/2012/06/19/drew-brees-compares-evidence-for-bounties-to-evidence-for-wmds/">PFT</a>
   </p>
 </div>

@@ -34,7 +34,7 @@ categories:
   </p>
 
   <p>
-    Things have been pretty stable at the top all season long. After the San Antonio Spurs stumbled out of the gate, and the Cleveland Cavaliers started to find their form, the outlook has been consistent. Combing through this <a href="http://sportsbooknation.com/">sportsbook reviews resource</a> shows that books such as TopBet, SportsInteraction and Pinnacle all have bettors looking at a Golden State Warriors vs Cleveland Cavaliers NBA final.
+    Things have been pretty stable at the top all season long. After the San Antonio Spurs stumbled out of the gate, and the Cleveland Cavaliers started to find their form, the outlook has been consistent. Combing through this <a href="https://sportsbooknation.com/">sportsbook reviews resource</a> shows that books such as TopBet, SportsInteraction and Pinnacle all have bettors looking at a Golden State Warriors vs Cleveland Cavaliers NBA final.
   </p>
 
   <p>
@@ -46,7 +46,7 @@ categories:
   </p>
 
   <p>
-    The Miami Heat (+4,000 to win the Eastern Conference at most books) are the favored team of the bunch still contending (a list that includes Brooklyn, Indiana, Charlotte, Boston, and Detroit), and look like the team that could upset a top seed come the playoffs, with <a href="http://scores.espn.go.com/nba/recap?gameId=400579179">Goran Dragic</a> bolstering a Heat lineup already boasting plenty of top tier talent.
+    The Miami Heat (+4,000 to win the Eastern Conference at most books) are the favored team of the bunch still contending (a list that includes Brooklyn, Indiana, Charlotte, Boston, and Detroit), and look like the team that could upset a top seed come the playoffs, with <a href="https://scores.espn.go.com/nba/recap?gameId=400579179">Goran Dragic</a> bolstering a Heat lineup already boasting plenty of top tier talent.
   </p>
 
   <p>

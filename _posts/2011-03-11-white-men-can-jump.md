@@ -21,7 +21,7 @@ tags:
 
 <div class="entry">
   <p>
-    It turns out white men can jump, well at least Jacob Tucker can.  Tucker is a 5'11" tall senior from Illinois College with a 50 inch running vertical. He is trying to get in the NCAA dunk competition with this video.  Based on these dunks, I declare him the winner. You can vote for his spot in the NCAA dunk competition by going to <a href="http://Facebook.com/collegeslam">Facebook</a> and voting on Thursday, March 17th.
+    It turns out white men can jump, well at least Jacob Tucker can.  Tucker is a 5'11" tall senior from Illinois College with a 50 inch running vertical. He is trying to get in the NCAA dunk competition with this video.  Based on these dunks, I declare him the winner. You can vote for his spot in the NCAA dunk competition by going to <a href="https://Facebook.com/collegeslam">Facebook</a> and voting on Thursday, March 17th.
   </p>
 
   <p>

@@ -12,7 +12,7 @@ categories:
 
 <div class="entry">
   <p>
-    The Minneapolis<a href="http://blogs.startribune.com/vikingsblog/?p=3077">Star Tribune</a> is reporting that Brett Favre is to stay retired.  Brad Childress said he talked to Brett Favre and that he was informed that Favre is staying retired. Childress cited the daily grind both mentally and physically as part of the reason why Favre remained retired.
+    The Minneapolis<a href="https://blogs.startribune.com/vikingsblog/?p=3077">Star Tribune</a> is reporting that Brett Favre is to stay retired.  Brad Childress said he talked to Brett Favre and that he was informed that Favre is staying retired. Childress cited the daily grind both mentally and physically as part of the reason why Favre remained retired.
   </p>
 
   <p>

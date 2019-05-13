@@ -39,5 +39,5 @@ tags:
     </p>
 
     <p>
-      via <a href="http://unionrecorder.com/local/x1029320403/Officers-posed-for-photos-with-QB-hours-before-complaint">Union Recorder</a>
+      via <a href="https://unionrecorder.com/local/x1029320403/Officers-posed-for-photos-with-QB-hours-before-complaint">Union Recorder</a>
     </p></div>

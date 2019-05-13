@@ -22,11 +22,11 @@ tags:
   </p>
 
   <p>
-    "<a href="http://twitter.com/berry1429/statuses/19923531126">Bout to head to st. Joe!!!</a>," Berry wrote before adding, "<a href="http://twitter.com/berry1429/statuses/19924209927">Aka the deals done!</a>".
+    "<a href="https://twitter.com/berry1429/statuses/19923531126">Bout to head to st. Joe!!!</a>," Berry wrote before adding, "<a href="https://twitter.com/berry1429/statuses/19924209927">Aka the deals done!</a>".
   </p>
 
   <p>
-    <a href="http://twitter.com/Adam_Schefter/statuses/19928330275">ESPN's Adam Schefter</a> is reporting the deal is for 6 years $60 million (max) including $34 million in guaranteed money.
+    <a href="https://twitter.com/Adam_Schefter/statuses/19928330275">ESPN's Adam Schefter</a> is reporting the deal is for 6 years $60 million (max) including $34 million in guaranteed money.
   </p>
 
   <p>

@@ -25,11 +25,11 @@ tags:
 
 <div class="entry">
   <p>
-    According to various sources the San Diego Padres have agreed to deal 1B Adrian Gonzalez to the Boston Red Sox for <a href="http://twitter.com/#!/SI_JonHeyman/status/11070898161324032">Casey Kelly</a>, <a href="http://twitter.com/#!/NCTPadres/status/11075583064674304">Anthony Rizzo and Reymond Fuentes</a>.
+    According to various sources the San Diego Padres have agreed to deal 1B Adrian Gonzalez to the Boston Red Sox for <a href="https://twitter.com/#!/SI_JonHeyman/status/11070898161324032">Casey Kelly</a>, <a href="https://twitter.com/#!/NCTPadres/status/11075583064674304">Anthony Rizzo and Reymond Fuentes</a>.
   </p>
 
   <p>
-    According to ESPN Boston's <a href="http://twitter.com/GordonEdes/status/11076008320966657">Gordon Ede</a>s, Theo Epstein flew from San Diego to Boston with Adrian Gonzalez.
+    According to ESPN Boston's <a href="https://twitter.com/GordonEdes/status/11076008320966657">Gordon Ede</a>s, Theo Epstein flew from San Diego to Boston with Adrian Gonzalez.
   </p>
 
   <p>
@@ -37,7 +37,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/boston/mlb/news/story?id=5882356">Kelly</a>, 21, is considered the top prospect in the Red Sox organization by Baseball America, though he struggled a bit in his first season at Double-A in 2010. He was 3-5 with a 5.31 ERA in 21 starts for the Portland Sea Dogs, and had a 6.75 ERA in four starts in the Arizona Fall League recently.
+    <a href="https://sports.espn.go.com/boston/mlb/news/story?id=5882356">Kelly</a>, 21, is considered the top prospect in the Red Sox organization by Baseball America, though he struggled a bit in his first season at Double-A in 2010. He was 3-5 with a 5.31 ERA in 21 starts for the Portland Sea Dogs, and had a 6.75 ERA in four starts in the Arizona Fall League recently.
   </p>
 
   <p>

@@ -18,7 +18,7 @@ tags:
 
 <div class="entry">
   <p>
-    <embed src="http://media.mtvnservices.com/mgid:cms:item:southparkstudios.com:267989" width="480" height="400" type="application/x-shockwave-flash" wmode="window" flashVars="autoPlay=false&#038;dist=www.southparkstudios.com&#038;orig=" allowFullScreen="true" allowScriptAccess="always" allownetworking="all" bgcolor="#000000">
+    <embed src="https://media.mtvnservices.com/mgid:cms:item:southparkstudios.com:267989" width="480" height="400" type="application/x-shockwave-flash" wmode="window" flashVars="autoPlay=false&#038;dist=www.southparkstudios.com&#038;orig=" allowFullScreen="true" allowScriptAccess="always" allownetworking="all" bgcolor="#000000">
     </embed>
   </p>
 

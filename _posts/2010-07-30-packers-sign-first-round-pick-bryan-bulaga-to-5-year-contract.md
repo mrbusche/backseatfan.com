@@ -32,7 +32,7 @@ tags:
   </p>
 
   <p>
-    ESPNs Adam Schefter was the <a href="http://twitter.com/Adam_Schefter/status/19912253296">first to report</a> the signing.
+    ESPNs Adam Schefter was the <a href="https://twitter.com/Adam_Schefter/status/19912253296">first to report</a> the signing.
   </p>
 
   <p>

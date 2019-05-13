@@ -19,7 +19,7 @@ tags:
 
 <div class="entry">
   <p>
-    The St Louis Rams have signed first overall pick Sam Bradford to a <a href="http://twitter.com/Adam_Schefter/statuses/19956060873">6 year $78 million deal</a> that includes $50 million guaranteed.
+    The St Louis Rams have signed first overall pick Sam Bradford to a <a href="https://twitter.com/Adam_Schefter/statuses/19956060873">6 year $78 million deal</a> that includes $50 million guaranteed.
   </p>
 
   <p>

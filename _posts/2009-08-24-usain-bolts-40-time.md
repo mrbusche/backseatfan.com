@@ -15,7 +15,7 @@ categories:
     <figure id="attachment_1302" style="width: 480px" class="wp-caption aligncenter"><img class="size-full wp-image-1302 " title="Usain Bolt" src="/images/2009/08/UsainBolt.jpg" alt="Run Bolt Run" width="480" height="240" srcset="/images/2009/08/UsainBolt.jpg 600w, /images/2009/08/UsainBolt-300x150.jpg 300w" sizes="(max-width: 480px) 100vw, 480px" /><figcaption class="wp-caption-text">Run Bolt Run</figcaption></figure>
 
     <p>
-      I just came across an article on <a href="http://sports.yahoo.com/fantasy/blog/roto_arcade/post/Usain-Bolt-would-run-the-40-in-WHAT-?urn=fantasy,184570">Yahoo Sports</a> that calculated Usain Bolts 40 time:
+      I just came across an article on <a href="https://sports.yahoo.com/fantasy/blog/roto_arcade/post/Usain-Bolt-would-run-the-40-in-WHAT-?urn=fantasy,184570">Yahoo Sports</a> that calculated Usain Bolts 40 time:
     </p>
 
     <p>

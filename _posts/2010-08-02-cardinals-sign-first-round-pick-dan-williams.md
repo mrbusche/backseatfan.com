@@ -20,7 +20,7 @@ tags:
 
 <div class="entry">
   <p>
-    The <a href="http://sports.espn.go.com/nfl/news/story?id=5429724">Arizona Cardinals have agreed to terms</a> with their first round draft pick Dan Williams.  The 26th overall pick out of Tennessee should sign the contract Monday when he gets into camp.
+    The <a href="https://sports.espn.go.com/nfl/news/story?id=5429724">Arizona Cardinals have agreed to terms</a> with their first round draft pick Dan Williams.  The 26th overall pick out of Tennessee should sign the contract Monday when he gets into camp.
   </p>
 
   <p>

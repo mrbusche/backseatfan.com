@@ -17,7 +17,7 @@ tags:
 
 <div class="entry">
   <p>
-    Ben Roethlisberger has a little explaining to do. This is a nice <a href="http://kdka.com/video/?id=70082@kdka.dayport.com">video explaining it all</a>,  but heres the sum of it.
+    Ben Roethlisberger has a little explaining to do. This is a nice <a href="https://kdka.com/video/?id=70082@kdka.dayport.com">video explaining it all</a>,  but heres the sum of it.
   </p>
 
   <p>

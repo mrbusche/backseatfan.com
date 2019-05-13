@@ -1,6 +1,6 @@
 ---
 id: 6799
-title: "Daily Spin: Vick Gets Travel Restrictions, First Sub 10 Second  100 M Dash by White Male, Top 100 Best Places to Live"
+title: 'Daily Spin: Vick Gets Travel Restrictions, First Sub 10 Second  100 M Dash by White Male, Top 100 Best Places to Live'
 date: 2010-07-12T09:35:22+00:00
 author: Ryan M.
 layout: post
@@ -26,15 +26,15 @@ tags:
   </p>
 
   <p>
-    World Cup Predicting <a href="http://latimesblogs.latimes.com/sports_blog/2010/07/world-cup-paul-the-octupus-is-hanging-up-his-touting-tentacles.html">Octopus (Paul) is retiring</a>?  Paul predicted 8 correct World Cup matches, including the final.  Whoever ends up eating paul in the long run will probably gain his oracle like powers? [via <a href="http://latimesblogs.latimes.com/sports_blog/2010/07/world-cup-paul-the-octupus-is-hanging-up-his-touting-tentacles.html"> LA Times</a>]
+    World Cup Predicting <a href="https://latimesblogs.latimes.com/sports_blog/2010/07/world-cup-paul-the-octupus-is-hanging-up-his-touting-tentacles.html">Octopus (Paul) is retiring</a>?  Paul predicted 8 correct World Cup matches, including the final.  Whoever ends up eating paul in the long run will probably gain his oracle like powers? [via <a href="https://latimesblogs.latimes.com/sports_blog/2010/07/world-cup-paul-the-octupus-is-hanging-up-his-touting-tentacles.html"> LA Times</a>]
   </p>
 
   <p>
-    Michael Vick faces <a href="http://sports.espn.go.com/nfl/news/story?id=5370940&campaign=rss&source=ESPNHeadlines">travel restrictions</a> due to his probation. Vick can't travel outside the state of Pennsylvania? Wow, it's like he's on some sort of leash? I hope it's one of those with spikes that dig into his neck.. [via <a href="http://sports.espn.go.com/nfl/news/story?id=5370940&campaign=rss&source=ESPNHeadlines">ESPN</a>]
+    Michael Vick faces <a href="https://sports.espn.go.com/nfl/news/story?id=5370940&campaign=rss&source=ESPNHeadlines">travel restrictions</a> due to his probation. Vick can't travel outside the state of Pennsylvania? Wow, it's like he's on some sort of leash? I hope it's one of those with spikes that dig into his neck.. [via <a href="https://sports.espn.go.com/nfl/news/story?id=5370940&campaign=rss&source=ESPNHeadlines">ESPN</a>]
   </p>
 
   <p>
-    <a href="http://news.yahoo.com/s/nm/20100709/sp_nm/us_athletics_lemaitre_1">First white man runs sub 10 second 100 meter dash</a>? I am not sure if this is sad news or good news for White Male Sprinters? [via <a href="http://news.yahoo.com/s/nm/20100709/sp_nm/us_athletics_lemaitre_1">Yahoo</a>]
+    <a href="https://news.yahoo.com/s/nm/20100709/sp_nm/us_athletics_lemaitre_1">First white man runs sub 10 second 100 meter dash</a>? I am not sure if this is sad news or good news for White Male Sprinters? [via <a href="https://news.yahoo.com/s/nm/20100709/sp_nm/us_athletics_lemaitre_1">Yahoo</a>]
   </p>
 
   <p>
@@ -50,6 +50,6 @@ tags:
   </p>
 
   <p>
-    <a href="http://money.cnn.com/magazines/moneymag/bplive/2010/top100/">Top 100 Best Places to Live</a> -  No idea now Ames, Iowa is #9? Apparently weather isn't a factor.  I would definitely take Scottsdale over Ames! Sorry Matt. [ via <a href="http://money.cnn.com/magazines/moneymag/bplive/2010/top100/">CNN</a>]
+    <a href="https://money.cnn.com/magazines/moneymag/bplive/2010/top100/">Top 100 Best Places to Live</a> -  No idea now Ames, Iowa is #9? Apparently weather isn't a factor.  I would definitely take Scottsdale over Ames! Sorry Matt. [ via <a href="https://money.cnn.com/magazines/moneymag/bplive/2010/top100/">CNN</a>]
   </p>
 </div>

@@ -34,7 +34,7 @@ categories:
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/boston/nba/news/story?id=4924052">New York Knicks traded G Nate Robinson and F Marcus Landry to Boston for G Eddie House, G J.R. Giddens, G-F Bill Walker and a future conditional second-round pick.</a>
+    <a href="https://sports.espn.go.com/boston/nba/news/story?id=4924052">New York Knicks traded G Nate Robinson and F Marcus Landry to Boston for G Eddie House, G J.R. Giddens, G-F Bill Walker and a future conditional second-round pick.</a>
   </p>
 
   <p>
@@ -42,7 +42,7 @@ categories:
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/nba/news/story?id=4925339">Utah Jazz traded G Ronnie Brewer to Memphis Grizzlies for a future first-round draft pick</a>
+    <a href="https://sports.espn.go.com/nba/news/story?id=4925339">Utah Jazz traded G Ronnie Brewer to Memphis Grizzlies for a future first-round draft pick</a>
   </p>
 
   <p>
@@ -58,7 +58,7 @@ categories:
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/nba/news/story?id=4922833">Clevaland Cavaliers, Los Angeles Clippers and Washington Wizards 3 way trade</a><br /> Cleveland Cavaliers trade C Zydrunas Ilgauskas and a first round pick to the Washington Wizards<br /> Los Angeles Clippers trade F Al Thorton to Washington Wizards and G Sebastian Telfair to Cleveland Cavaliers<br /> Washington Wizards trade Drew Gooden to Los Angeles Clippers and Antawn Jamison to Cleveland Cavaliers
+    <a href="https://sports.espn.go.com/nba/news/story?id=4922833">Clevaland Cavaliers, Los Angeles Clippers and Washington Wizards 3 way trade</a><br /> Cleveland Cavaliers trade C Zydrunas Ilgauskas and a first round pick to the Washington Wizards<br /> Los Angeles Clippers trade F Al Thorton to Washington Wizards and G Sebastian Telfair to Cleveland Cavaliers<br /> Washington Wizards trade Drew Gooden to Los Angeles Clippers and Antawn Jamison to Cleveland Cavaliers
   </p>
 
   <p>
@@ -66,7 +66,7 @@ categories:
   </p>
 
   <p>
-    <a href="http://sports.yahoo.com/nba/news?slug=ap-wizards-maverickstrade">Dallas Mavericks trade F Josh Howard, F Drew Gooden, F James Singleton and G-F Quinton Ross to Washington Wizards for G-F Caron Butler, C Brendan Haywood, G DeShawn Stevenson and cash considerations.</a>
+    <a href="https://sports.yahoo.com/nba/news?slug=ap-wizards-maverickstrade">Dallas Mavericks trade F Josh Howard, F Drew Gooden, F James Singleton and G-F Quinton Ross to Washington Wizards for G-F Caron Butler, C Brendan Haywood, G DeShawn Stevenson and cash considerations.</a>
   </p>
 
   <p>
@@ -82,7 +82,7 @@ categories:
   </p>
 
   <p>
-    <a href="http://nbcsports.msnbc.com/id/35064085/ns/sports-player_news/">Chicago Bulls trade C Aaron Gray to New Orleans Hornets for G Devin Brown</a>
+    <a href="https://nbcsports.msnbc.com/id/35064085/ns/sports-player_news/">Chicago Bulls trade C Aaron Gray to New Orleans Hornets for G Devin Brown</a>
   </p>
 
   <p>
@@ -90,7 +90,7 @@ categories:
   </p>
 
   <p>
-    <a href="http://sports.yahoo.com/nba/blog/ball_dont_lie/post/-Net-reaction-Hornets-Kings-trade?urn=nba,213099">Sacramento Kings acquired C Hilton Armstrong from Hornets for conditional 2nd-round pick in 2016</a>
+    <a href="https://sports.yahoo.com/nba/blog/ball_dont_lie/post/-Net-reaction-Hornets-Kings-trade?urn=nba,213099">Sacramento Kings acquired C Hilton Armstrong from Hornets for conditional 2nd-round pick in 2016</a>
   </p>
 
   <p>
@@ -102,7 +102,7 @@ categories:
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/nba/news/story?id=4799178">Miami Heat traded G Chris Quinn, cash, and 2012 2nd round pick to the New Jersey Nets for a 2nd round pick in 2012</a>
+    <a href="https://sports.espn.go.com/nba/news/story?id=4799178">Miami Heat traded G Chris Quinn, cash, and 2012 2nd round pick to the New Jersey Nets for a 2nd round pick in 2012</a>
   </p>
 
   <p>
@@ -118,7 +118,7 @@ categories:
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/nba/news/story?id=4766058">Utah Jazz trade G Eric Maynor and G Matt Harpring to Oklahoma City Thunder for Peter Fehse</a>
+    <a href="https://sports.espn.go.com/nba/news/story?id=4766058">Utah Jazz trade G Eric Maynor and G Matt Harpring to Oklahoma City Thunder for Peter Fehse</a>
   </p>
 
   <p>
@@ -126,6 +126,6 @@ categories:
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/nba/news/story?id=4659552">Golden State Warriers trade G/F Stephen Jackson and G Acie Law to Charlotte Bobcats for G Raja Bell and F Vladimir Radmanovic</a>
+    <a href="https://sports.espn.go.com/nba/news/story?id=4659552">Golden State Warriers trade G/F Stephen Jackson and G Acie Law to Charlotte Bobcats for G Raja Bell and F Vladimir Radmanovic</a>
   </p>
 </div>

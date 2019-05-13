@@ -25,7 +25,7 @@ tags:
   </p>
 
   <p>
-    Wilson's contract has a maximum value of $13 million with <a href="http://twitter.com/Adam_Schefter/status/20041970388">$7.12 million guaranteed</a>.
+    Wilson's contract has a maximum value of $13 million with <a href="https://twitter.com/Adam_Schefter/status/20041970388">$7.12 million guaranteed</a>.
   </p>
 
   <p>

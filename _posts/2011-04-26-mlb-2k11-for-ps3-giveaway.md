@@ -12,7 +12,7 @@ image: /images/2011/01/mlb2k11.jpg
 categories:
   - MLB
 tags:
-  - "#bsf"
+  - '#bsf'
   - MLB 2K11
   - mlb 2k11 giveaway
 ---
@@ -27,7 +27,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://clicktotweet.com/O5Hf0">Follow @BackseatFan for a chance to win a copy of MLB2k11 for PS3!</a>
+    <a href="https://clicktotweet.com/O5Hf0">Follow @BackseatFan for a chance to win a copy of MLB2k11 for PS3!</a>
   </p>
 
   <p>
@@ -35,7 +35,7 @@ tags:
   </p>
 
   <p>
-    So, easy enough, <strong>Leave a comment</strong> or <a href="https://www.twitter.com/backseatfan">Follow us on twitter</a> /<a href="http://clicktotweet.com/O5Hf0"> tweet us.</a>
+    So, easy enough, <strong>Leave a comment</strong> or <a href="https://www.twitter.com/backseatfan">Follow us on twitter</a> /<a href="https://clicktotweet.com/O5Hf0"> tweet us.</a>
   </p>
 
   <p>

@@ -1,6 +1,6 @@
 ---
 id: 7716
-title: "Daily Spin: Knowshon Moreno Injured, Darrelle Revis Officially Holding Out, Kardashian Sighting at Training Camp"
+title: 'Daily Spin: Knowshon Moreno Injured, Darrelle Revis Officially Holding Out, Kardashian Sighting at Training Camp'
 date: 2010-08-02T07:44:29+00:00
 author: Ryan M.
 layout: post
@@ -28,7 +28,7 @@ tags:
   </p>
 
   <p>
-    <em> </em><a href="http://nbcsports.msnbc.com/id/38515187/ns/sports-player_news/">Denver Broncos RB Knowshon Moreno will be out 2-3 weeks</a> with a 'slight' hamstring tear? This is good news for Bronco fans and fantasy football enthusiasts since Moreno shouldn't miss any of the regular season due to this injury. Correll Buckhalter is also injured, so Moreno won't be losing any position battles at the moment?   [via <a href="http://nbcsports.msnbc.com/id/38515187/ns/sports-player_news/">NBC Sports</a>]
+    <em> </em><a href="https://nbcsports.msnbc.com/id/38515187/ns/sports-player_news/">Denver Broncos RB Knowshon Moreno will be out 2-3 weeks</a> with a 'slight' hamstring tear? This is good news for Bronco fans and fantasy football enthusiasts since Moreno shouldn't miss any of the regular season due to this injury. Correll Buckhalter is also injured, so Moreno won't be losing any position battles at the moment?   [via <a href="https://nbcsports.msnbc.com/id/38515187/ns/sports-player_news/">NBC Sports</a>]
   </p>
 
   <p>
@@ -36,15 +36,15 @@ tags:
   </p>
 
   <p>
-    <a href="http://sports.yahoo.com/nfl/news;_ylt=AiARI5HDqjPaqhQXyRkS6.05nYcB?slug=ap-patriots-welker">Wes Welker removed from PUP list</a>?  First they said he could play, then they added him, now they removed him again? Welker must be right at the edge of playing, they should probably just let him take it easy though camp if he is that close? [ via <a href="http://sports.yahoo.com/nfl/news;_ylt=AiARI5HDqjPaqhQXyRkS6.05nYcB?slug=ap-patriots-welker">Yahoo Sports</a>]
+    <a href="https://sports.yahoo.com/nfl/news;_ylt=AiARI5HDqjPaqhQXyRkS6.05nYcB?slug=ap-patriots-welker">Wes Welker removed from PUP list</a>?  First they said he could play, then they added him, now they removed him again? Welker must be right at the edge of playing, they should probably just let him take it easy though camp if he is that close? [ via <a href="https://sports.yahoo.com/nfl/news;_ylt=AiARI5HDqjPaqhQXyRkS6.05nYcB?slug=ap-patriots-welker">Yahoo Sports</a>]
   </p>
 
   <p>
-    <a href="http://thebiglead.com/index.php/2010/08/02/heres-the-buster-olney-profile-youve-been-waiting-for/">Buster Olney is writing a book</a>?. About his childhood friend who is a convicted rapist?  Wait what?!  Did he play baseball at some point? [ via <a href="http://thebiglead.com/index.php/2010/08/02/heres-the-buster-olney-profile-youve-been-waiting-for/">The Big Lead</a>]
+    <a href="https://thebiglead.com/index.php/2010/08/02/heres-the-buster-olney-profile-youve-been-waiting-for/">Buster Olney is writing a book</a>?. About his childhood friend who is a convicted rapist?  Wait what?!  Did he play baseball at some point? [ via <a href="https://thebiglead.com/index.php/2010/08/02/heres-the-buster-olney-profile-youve-been-waiting-for/">The Big Lead</a>]
   </p>
 
   <p>
-    <a href="http://media.cleveland.com/cavs_impact/photo/ilgauskas-adjpg-5a767a72c8032494.jpg">Ilgauskas says goodbye to Cleveland</a> 100x better than LeBron? Although if LeBron did it this way he would still get shit, although probably less shit than he is getting now? [via <a href="http://media.cleveland.com/cavs_impact/photo/ilgauskas-adjpg-5a767a72c8032494.jpg">Cleveland Plain Dealer</a>]
+    <a href="https://media.cleveland.com/cavs_impact/photo/ilgauskas-adjpg-5a767a72c8032494.jpg">Ilgauskas says goodbye to Cleveland</a> 100x better than LeBron? Although if LeBron did it this way he would still get shit, although probably less shit than he is getting now? [via <a href="https://media.cleveland.com/cavs_impact/photo/ilgauskas-adjpg-5a767a72c8032494.jpg">Cleveland Plain Dealer</a>]
   </p>
 
   <p>

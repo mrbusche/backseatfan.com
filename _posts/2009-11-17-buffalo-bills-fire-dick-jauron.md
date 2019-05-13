@@ -32,7 +32,7 @@ tags:
   </p>
 
   <p>
-    So who will want to coach in Buffalo? No one. It is cold, and their team isn't very good. Although the team could move to LA in a few years if they keep up there crappy ways. So maybe it is a good job. Perhaps Turner Gill will leave Buffalo to coach for Buffalo. Although the Buffalo college team is probably a better job. Even though they both have the same <a href="http://sports.espn.go.com/ncf/clubhouse?teamId=2084"><span style="text-decoration: line-through;">winning</span> Losing record</a>. Man, Gill really should have taken that Nebraska job.
+    So who will want to coach in Buffalo? No one. It is cold, and their team isn't very good. Although the team could move to LA in a few years if they keep up there crappy ways. So maybe it is a good job. Perhaps Turner Gill will leave Buffalo to coach for Buffalo. Although the Buffalo college team is probably a better job. Even though they both have the same <a href="https://sports.espn.go.com/ncf/clubhouse?teamId=2084"><span style="text-decoration: line-through;">winning</span> Losing record</a>. Man, Gill really should have taken that Nebraska job.
   </p>
 
   <p>
@@ -44,7 +44,7 @@ tags:
   </p>
 
   <p>
-    Marty Schottenheimeranyone? Fred Jackson would thrive in <a href="http://en.wikipedia.org/wiki/Marty_Ball">his system</a>.
+    Marty Schottenheimeranyone? Fred Jackson would thrive in <a href="https://en.wikipedia.org/wiki/Marty_Ball">his system</a>.
   </p>
 
   <p>
@@ -56,7 +56,7 @@ tags:
   </p>
 
   <p>
-    2.<a href="http://sports.espn.go.com/nfl/teams/stats?team=buf#pass"> Fred Jackson had a better passer rating than his QBs</a>
+    2.<a href="https://sports.espn.go.com/nfl/teams/stats?team=buf#pass"> Fred Jackson had a better passer rating than his QBs</a>
   </p>
 
   <p>
@@ -76,7 +76,7 @@ tags:
   </p>
 
   <p>
-    7. <a href="http://twitter.com/backseatfan/status/5809719194">He flicked off Bud Adams (Titans Owner)</a>
+    7. <a href="https://twitter.com/backseatfan/status/5809719194">He flicked off Bud Adams (Titans Owner)</a>
   </p>
 
   <p>
@@ -88,7 +88,7 @@ tags:
   </p>
 
   <p>
-    10. He was looking ahead at the <a href="http://profootballtalk.nbcsports.com/2009/09/27/speculation-commences-that-mangini-wont-make-it-to-january/">Brown's Job</a>.
+    10. He was looking ahead at the <a href="https://profootballtalk.nbcsports.com/2009/09/27/speculation-commences-that-mangini-wont-make-it-to-january/">Brown's Job</a>.
   </p>
 
   <p>

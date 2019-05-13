@@ -26,6 +26,6 @@ tags:
   </p>
 
   <p>
-    [<a href=" http://cmonlebron.com">C'mon LeBron</a>]
+    [<a href=" https://cmonlebron.com">C'mon LeBron</a>]
   </p>
 </div>

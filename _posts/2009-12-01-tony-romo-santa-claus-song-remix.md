@@ -34,6 +34,6 @@ categories:
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/espnradio/podcast/archive?id=2799707">Download the Thundering Herd Podcasts at the ESPNRadio.com Pod Center</a>
+    <a href="https://sports.espn.go.com/espnradio/podcast/archive?id=2799707">Download the Thundering Herd Podcasts at the ESPNRadio.com Pod Center</a>
   </p>
 </div>

@@ -18,7 +18,7 @@ tags:
 
 <div class="entry">
   <p>
-    LeBron James and Chris Paul have both joined twitter. You can follow them as <a href="http://twitter.com/kingjames">@kingjames</a> and <a href="http://twitter.com/oneandonlycp3">@Oneandonlycp3</a>. Both accounts have been verified by twitter.
+    LeBron James and Chris Paul have both joined twitter. You can follow them as <a href="https://twitter.com/kingjames">@kingjames</a> and <a href="https://twitter.com/oneandonlycp3">@Oneandonlycp3</a>. Both accounts have been verified by twitter.
   </p>
 
   <p>
@@ -26,7 +26,7 @@ tags:
   </p>
 
   <p>
-    "Hello World, the Real King James is in the Building "Finally". My Brother @<a rel="nofollow" href="http://twitter.com/oneandonlycp3">oneandonlycp3</a> gas'd me up to jump on board so I'm here. Haaaa"
+    "Hello World, the Real King James is in the Building "Finally". My Brother @<a rel="nofollow" href="https://twitter.com/oneandonlycp3">oneandonlycp3</a> gas'd me up to jump on board so I'm here. Haaaa"
   </p>
 
   <p>

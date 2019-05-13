@@ -19,7 +19,7 @@ tags:
 
 <div class="entry">
   <p>
-    Jared Allen did the a terrible thing this week, he cut his mullet. Apparently looking good for his wedding is more important than winning a Super Bowl. <a href="http://en.wikipedia.org/wiki/Samson">Samson</a> lost all of his strength once his hair was cut, the same will happen to Jared Allen. Allen will lose all of his ability to play football, not sure who the Vikings are going to pick up at DE.
+    Jared Allen did the a terrible thing this week, he cut his mullet. Apparently looking good for his wedding is more important than winning a Super Bowl. <a href="https://en.wikipedia.org/wiki/Samson">Samson</a> lost all of his strength once his hair was cut, the same will happen to Jared Allen. Allen will lose all of his ability to play football, not sure who the Vikings are going to pick up at DE.
   </p>
 
   <blockquote>

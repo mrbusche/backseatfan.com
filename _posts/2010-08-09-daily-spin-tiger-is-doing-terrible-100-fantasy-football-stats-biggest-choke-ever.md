@@ -1,6 +1,6 @@
 ---
 id: 7953
-title: "Daily Spin: Tiger is doing terrible, 100 Fantasy Football Stats, Biggest Choke Ever"
+title: 'Daily Spin: Tiger is doing terrible, 100 Fantasy Football Stats, Biggest Choke Ever'
 date: 2010-08-09T11:44:27+00:00
 author: Ryan M.
 layout: post
@@ -29,11 +29,11 @@ tags:
   </p>
 
   <p>
-    DJ Steve Porter - How he turns sports into Viral Videos?  He has good beats, but can he keep cranking out winners? [ <a href="http://backporch.fanhouse.com/2010/08/06/dj-steve-porter-on-turning-sports-clips-into-funky-viral-classic/">Fanhouse</a>]
+    DJ Steve Porter - How he turns sports into Viral Videos?  He has good beats, but can he keep cranking out winners? [ <a href="https://backporch.fanhouse.com/2010/08/06/dj-steve-porter-on-turning-sports-clips-into-funky-viral-classic/">Fanhouse</a>]
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/fantasy/football/ffl/story?page=nfldk2k10berryfacts">100 Fantasy Footaball Statistics from 2009</a>?  TMR always has good insight, here are 100 stats from last year that might help you in 2010? [ via <a href="http://sports.espn.go.com/fantasy/football/ffl/story?page=nfldk2k10berryfacts">ESPN</a>]
+    <a href="https://sports.espn.go.com/fantasy/football/ffl/story?page=nfldk2k10berryfacts">100 Fantasy Footaball Statistics from 2009</a>?  TMR always has good insight, here are 100 stats from last year that might help you in 2010? [ via <a href="https://sports.espn.go.com/fantasy/football/ffl/story?page=nfldk2k10berryfacts">ESPN</a>]
   </p>
 
   <p>
@@ -45,7 +45,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://joeposnanski.si.com/2010/08/08/thirty-two-great-running-backs/?eref=sihp">32 great running backs</a>? Why the hell is Chris Johnson on this list? [via <a href="http://joeposnanski.si.com/2010/08/08/thirty-two-great-running-backs/?eref=sihp">SI</a>]
+    <a href="https://joeposnanski.si.com/2010/08/08/thirty-two-great-running-backs/?eref=sihp">32 great running backs</a>? Why the hell is Chris Johnson on this list? [via <a href="https://joeposnanski.si.com/2010/08/08/thirty-two-great-running-backs/?eref=sihp">SI</a>]
   </p>
 
   <p>

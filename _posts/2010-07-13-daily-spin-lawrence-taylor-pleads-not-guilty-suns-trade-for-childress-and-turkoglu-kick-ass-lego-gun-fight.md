@@ -1,6 +1,6 @@
 ---
 id: 6872
-title: "Daily Spin: Lawrence Taylor Pleads Not Guilty, Suns Trade for Childress and Turkoglu, Kick Ass Lego Gun Fight"
+title: 'Daily Spin: Lawrence Taylor Pleads Not Guilty, Suns Trade for Childress and Turkoglu, Kick Ass Lego Gun Fight'
 date: 2010-07-13T13:19:21+00:00
 author: Ryan M.
 layout: post
@@ -43,7 +43,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://deadspin.com/5585945/last-nights-winner-people-with-functioning-mute-buttons">Back, Back, Back, Back, Back</a> - Why watching the Home Run Derby is pointless until the bring in a soccer announcer? [ via <a href="http://deadspin.com/5585945/last-nights-winner-people-with-functioning-mute-buttons">Deadspin</a>]
+    <a href="https://deadspin.com/5585945/last-nights-winner-people-with-functioning-mute-buttons">Back, Back, Back, Back, Back</a> - Why watching the Home Run Derby is pointless until the bring in a soccer announcer? [ via <a href="https://deadspin.com/5585945/last-nights-winner-people-with-functioning-mute-buttons">Deadspin</a>]
   </p>
 
   <p>

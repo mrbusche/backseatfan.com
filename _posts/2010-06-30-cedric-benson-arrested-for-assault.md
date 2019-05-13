@@ -29,6 +29,6 @@ tags:
   </p>
 
   <p>
-    [via <a href="http://profootballtalk.nbcsports.com/2010/06/29/cedric-benson-busted-for-assault/">PFT</a>]
+    [via <a href="https://profootballtalk.nbcsports.com/2010/06/29/cedric-benson-busted-for-assault/">PFT</a>]
   </p>
 </div>

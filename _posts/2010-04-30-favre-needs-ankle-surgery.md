@@ -18,7 +18,7 @@ tags:
 
 <div class="entry">
   <p>
-    Brett Favre has been informed that  he <a href="http://sports.espn.go.com/nfl/news/story?id=5150940">needs surgery</a> on his left ankle in order to play the upcoming season for the Minnesota Vikings. Favre is debating on whether to have the procedure or simply to retire and end his 19-year NFL career.
+    Brett Favre has been informed that  he <a href="https://sports.espn.go.com/nfl/news/story?id=5150940">needs surgery</a> on his left ankle in order to play the upcoming season for the Minnesota Vikings. Favre is debating on whether to have the procedure or simply to retire and end his 19-year NFL career.
   </p>
 
   <p>

@@ -21,11 +21,11 @@ tags:
 
 <div class="entry">
   <p>
-    In this segment of Gruden's Camp,<a href="http://espn.go.com/video/clip?id=5118276"> Gruden critiques CJ Spiller</a>. I wish they would make an entire TV series with Jon Gruden critiquing NFL Draft prospects. I can't get enough of these videos. The best part about these videos in Jon Gruden says whatever he wants. It's all the truth but it's probably things these guys have never been told before.
+    In this segment of Gruden's Camp,<a href="https://espn.go.com/video/clip?id=5118276"> Gruden critiques CJ Spiller</a>. I wish they would make an entire TV series with Jon Gruden critiquing NFL Draft prospects. I can't get enough of these videos. The best part about these videos in Jon Gruden says whatever he wants. It's all the truth but it's probably things these guys have never been told before.
   </p>
 
   <p style="text-align: center;">
-    <a href="http://espn.go.com/video/clip?id=5118276"><img class="aligncenter size-medium wp-image-5382" title="CJSpiller" src="/images/2010/04/CJSpiller-300x199.jpg" alt="CJSpiller" width="300" height="199" srcset="/images/2010/04/CJSpiller-300x199.jpg 300w, /images/2010/04/CJSpiller.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+    <a href="https://espn.go.com/video/clip?id=5118276"><img class="aligncenter size-medium wp-image-5382" title="CJSpiller" src="/images/2010/04/CJSpiller-300x199.jpg" alt="CJSpiller" width="300" height="199" srcset="/images/2010/04/CJSpiller-300x199.jpg 300w, /images/2010/04/CJSpiller.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   </p>
 
   <p>

@@ -20,7 +20,7 @@ categories:
   </p>
 
   <p style="margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; vertical-align: baseline; background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: transparent; line-height: 17px; color: #333333; background-position: initial initial; padding: 0px; border: 0px initial initial;">
-    The <a href="http://blogs.chicagosports.chicagotribune.com/huddleup/2009/09/brian-urlacher-out-for-the-season-with-wrist-injury.html">Chicago Tribune</a>, citing anonymous sources, reported on Sunday night that Urlacher will have surgery back in Chicago.
+    The <a href="https://blogs.chicagosports.chicagotribune.com/huddleup/2009/09/brian-urlacher-out-for-the-season-with-wrist-injury.html">Chicago Tribune</a>, citing anonymous sources, reported on Sunday night that Urlacher will have surgery back in Chicago.
   </p>
 
   <p style="margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 12px; vertical-align: baseline; background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: transparent; line-height: 17px; color: #333333; background-position: initial initial; padding: 0px; border: 0px initial initial;">

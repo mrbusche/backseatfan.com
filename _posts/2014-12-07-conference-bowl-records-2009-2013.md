@@ -121,7 +121,7 @@ categories:
 
     <tr>
       <td>
-        <a href="http://en.wikipedia.org/wiki/Big_East_Conference_(1979%E2%80%932013)">Big East</a>
+        <a href="https://en.wikipedia.org/wiki/Big_East_Conference_(1979%E2%80%932013)">Big East</a>
       </td>
 
       <td>
@@ -177,7 +177,7 @@ categories:
 
     <tr>
       <td>
-        <a href="http://en.wikipedia.org/wiki/Southeastern_Conference">SEC</a>
+        <a href="https://en.wikipedia.org/wiki/Southeastern_Conference">SEC</a>
       </td>
 
       <td>
@@ -235,7 +235,7 @@ categories:
 
     <tr>
       <td>
-        <a href="http://en.wikipedia.org/wiki/NCAA_Division_I_FBS_independent_schools">Independents</a>
+        <a href="https://en.wikipedia.org/wiki/NCAA_Division_I_FBS_independent_schools">Independents</a>
       </td>
 
       <td>
@@ -292,7 +292,7 @@ categories:
 
     <tr>
       <td>
-        <a href="http://en.wikipedia.org/wiki/Sun_Belt_Conference">Sun Belt</a>
+        <a href="https://en.wikipedia.org/wiki/Sun_Belt_Conference">Sun Belt</a>
       </td>
 
       <td>
@@ -349,7 +349,7 @@ categories:
 
     <tr>
       <td>
-        <a href="http://en.wikipedia.org/wiki/Mountain_West_Conference">Mountain West</a>
+        <a href="https://en.wikipedia.org/wiki/Mountain_West_Conference">Mountain West</a>
       </td>
 
       <td>
@@ -407,7 +407,7 @@ categories:
 
     <tr>
       <td>
-        <a href="http://en.wikipedia.org/wiki/Conference_USA">Conference USA</a>
+        <a href="https://en.wikipedia.org/wiki/Conference_USA">Conference USA</a>
       </td>
 
       <td>
@@ -465,7 +465,7 @@ categories:
 
     <tr>
       <td>
-        <a href="http://en.wikipedia.org/wiki/Big_12_Conference">Big 12</a>
+        <a href="https://en.wikipedia.org/wiki/Big_12_Conference">Big 12</a>
       </td>
 
       <td>
@@ -577,7 +577,7 @@ categories:
 
     <tr>
       <td>
-        <a href="http://en.wikipedia.org/wiki/Pacific-12_Conference">Pac-12</a>
+        <a href="https://en.wikipedia.org/wiki/Pacific-12_Conference">Pac-12</a>
       </td>
 
       <td>
@@ -635,7 +635,7 @@ categories:
 
     <tr>
       <td>
-        <a href="http://en.wikipedia.org/wiki/Atlantic_Coast_Conference">ACC</a>
+        <a href="https://en.wikipedia.org/wiki/Atlantic_Coast_Conference">ACC</a>
       </td>
 
       <td>
@@ -693,7 +693,7 @@ categories:
 
     <tr>
       <td>
-        <a href="http://en.wikipedia.org/wiki/American_Athletic_Conference">American</a>
+        <a href="https://en.wikipedia.org/wiki/American_Athletic_Conference">American</a>
       </td>
 
       <td>
@@ -743,7 +743,7 @@ categories:
 
     <tr>
       <td>
-        <a href="http://en.wikipedia.org/wiki/Big_Ten_Conference">Big Ten</a>
+        <a href="https://en.wikipedia.org/wiki/Big_Ten_Conference">Big Ten</a>
       </td>
 
       <td>
@@ -801,7 +801,7 @@ categories:
 
     <tr>
       <td>
-        <a href="http://en.wikipedia.org/wiki/Mid-American_Conference">MAC</a>
+        <a href="https://en.wikipedia.org/wiki/Mid-American_Conference">MAC</a>
       </td>
 
       <td>

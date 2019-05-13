@@ -18,7 +18,7 @@ tags:
 
 <div class="entry">
   <p>
-    Jason La Canfora from NFL.com has reported the Broncos have agreed to terms with first round pick WR Demaryious Thomas on a <a href="http://twitter.com/JasonLaCanfora/statuses/20018920231">5 year contract</a>.
+    Jason La Canfora from NFL.com has reported the Broncos have agreed to terms with first round pick WR Demaryious Thomas on a <a href="https://twitter.com/JasonLaCanfora/statuses/20018920231">5 year contract</a>.
   </p>
 
   <p>

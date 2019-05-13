@@ -33,11 +33,11 @@ tags:
       </td>
 
       <td style="color: #000000; font-size: 11px; cursor: text; margin: 8px; border: 1px dashed #bbbbbb;">
-        <a href="http://insider.espn.go.com/nfl/draft10/insider/news/story?id=4968544&#038;action=login&#038;appRedirect=http%3a%2f%2finsider.espn.go.com%2fnfl%2fdraft10%2finsider%2fnews%2fstory%3fid%3d4968544">Kiper</a>(3rd)
+        <a href="https://insider.espn.go.com/nfl/draft10/insider/news/story?id=4968544&#038;action=login&#038;appRedirect=http%3a%2f%2finsider.espn.go.com%2fnfl%2fdraft10%2finsider%2fnews%2fstory%3fid%3d4968544">Kiper</a>(3rd)
       </td>
 
       <td style="color: #000000; font-size: 11px; cursor: text; margin: 8px; border: 1px dashed #bbbbbb;">
-        <a href="http://insider.espn.go.com/nfl/draft10/insider/news/story?id=4968544&#038;action=login&#038;appRedirect=http%3a%2f%2finsider.espn.go.com%2fnfl%2fdraft10%2finsider%2fnews%2fstory%3fid%3d4968544">McShay</a> (3rd)
+        <a href="https://insider.espn.go.com/nfl/draft10/insider/news/story?id=4968544&#038;action=login&#038;appRedirect=http%3a%2f%2finsider.espn.go.com%2fnfl%2fdraft10%2finsider%2fnews%2fstory%3fid%3d4968544">McShay</a> (3rd)
       </td>
 
       <td style="color: #000000; font-size: 11px; cursor: text; margin: 8px; border: 1px dashed #bbbbbb;">
@@ -45,7 +45,7 @@ tags:
       </td>
 
       <td style="color: #000000; font-size: 11px; cursor: text; margin: 8px; border: 1px dashed #bbbbbb;">
-        <a href="http://newnfldraft.com/">newnfldraft.com</a>
+        <a href="https://newnfldraft.com/">newnfldraft.com</a>
       </td>
     </tr>
 
@@ -752,6 +752,7 @@ tags:
         Everson Griffen, DE
       </td>
     </tr>
+
   </table>
 
   <table style="cursor: default; border: 1px dashed #bbbbbb;" border="0">
@@ -761,15 +762,15 @@ tags:
       </td>
 
       <td style="color: #000000; font-size: 11px; cursor: text; margin: 8px; border: 1px dashed #bbbbbb;">
-        <a href="http://nfl.fanhouse.com/2010/03/20/fanhouses-2010-nfl-mock-draft-3-0/">FanHouse</a>
+        <a href="https://nfl.fanhouse.com/2010/03/20/fanhouses-2010-nfl-mock-draft-3-0/">FanHouse</a>
       </td>
 
       <td>
-        <a href="http://bleacherreport.com/articles/362985-the-definitive-2010-nfl-mock-draft">bleacherreport</a>
+        <a href="https://bleacherreport.com/articles/362985-the-definitive-2010-nfl-mock-draft">bleacherreport</a>
       </td>
 
       <td>
-        <a href="http://walterfootball.com/draft2010.php">Walter Football</a>
+        <a href="https://walterfootball.com/draft2010.php">Walter Football</a>
       </td>
 
       <td>
@@ -1480,5 +1481,6 @@ tags:
         Jerry Hughes, DE
       </td>
     </tr>
+
   </table>
 </div>

@@ -21,7 +21,7 @@ tags:
   </p>
 
   <p>
-    Philadelphia Eagles - <a href="http://profootballtalk.nbcsports.com/2011/02/15/franchise-tag-coming-for-vick-transition-tag-for-akers/">David Akers</a> K
+    Philadelphia Eagles - <a href="https://profootballtalk.nbcsports.com/2011/02/15/franchise-tag-coming-for-vick-transition-tag-for-akers/">David Akers</a> K
   </p>
 
   <p>

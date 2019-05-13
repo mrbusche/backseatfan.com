@@ -28,5 +28,5 @@ tags:
 
   <p style="text-align: center;">
     <p>
-      But if the Jets lose you better hope that the Jets give refunds and not send out crappy merchandise. Although it would be kind of cool to have a t shirt that was totally wrong. [<a href="http://content.usatoday.com/communities/thehuddle/post/2010/01/even-before-playing-colts-jets-selling-afc-champs-merchandise-on-team-website/1">USA Today</a>]
+      But if the Jets lose you better hope that the Jets give refunds and not send out crappy merchandise. Although it would be kind of cool to have a t shirt that was totally wrong. [<a href="https://content.usatoday.com/communities/thehuddle/post/2010/01/even-before-playing-colts-jets-selling-afc-champs-merchandise-on-team-website/1">USA Today</a>]
     </p></div>

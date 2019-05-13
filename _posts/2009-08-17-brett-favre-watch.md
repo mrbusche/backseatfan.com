@@ -28,8 +28,8 @@ categories:
   </p>
 
   <h2>
-    <a href="http://flightaware.com/live/airport/KHBG"><span style="color: #ff0000;"><span style="text-decoration: none;"><span style="color: #ea0000;"><span style="color: #000000;"><span style="text-decoration: none;"><span style="color: #c51114;"><span style="text-decoration: none;">Brett Favre Flight Tracker</span></span></span></span></span></span></span></a>
+    <a href="https://flightaware.com/live/airport/KHBG"><span style="color: #ff0000;"><span style="text-decoration: none;"><span style="color: #ea0000;"><span style="color: #000000;"><span style="text-decoration: none;"><span style="color: #c51114;"><span style="text-decoration: none;">Brett Favre Flight Tracker</span></span></span></span></span></span></span></a>
   </h2><figure id="attachment_445" style="width: 240px" class="wp-caption aligncenter">
 
-  <a href="http://flightaware.com/live/airport/KHBG"><img class="size-full wp-image-445  " title="favreviking" src="/images/2009/07/favreviking.jpg" alt="Favre Tracker " width="240" height="244" srcset="/images/2009/07/favreviking.jpg 500w, /images/2009/07/favreviking-295x300.jpg 295w" sizes="(max-width: 240px) 100vw, 240px" /></a><figcaption class="wp-caption-text">Favre Watch Goes OnÂ </figcaption></figure>
+  <a href="https://flightaware.com/live/airport/KHBG"><img class="size-full wp-image-445  " title="favreviking" src="/images/2009/07/favreviking.jpg" alt="Favre Tracker " width="240" height="244" srcset="/images/2009/07/favreviking.jpg 500w, /images/2009/07/favreviking-295x300.jpg 295w" sizes="(max-width: 240px) 100vw, 240px" /></a><figcaption class="wp-caption-text">Favre Watch Goes OnÂ </figcaption></figure>
 </div>

@@ -1,6 +1,6 @@
 ---
 id: 2548
-title: "BCS Computer Rankings - Week 10"
+title: 'BCS Computer Rankings - Week 10'
 date: 2009-11-09T20:07:58+00:00
 author: Ryan M.
 layout: post
@@ -27,11 +27,11 @@ categories:
   </p>
 
   <p>
-    1. <strong><a href="http://espn.go.com/college-football/rankings/_/poll/5">Harris Interactive Poll</a></strong>
+    1. <strong><a href="https://espn.go.com/college-football/rankings/_/poll/5">Harris Interactive Poll</a></strong>
   </p>
 
   <p>
-    2. <strong><a href="http://espn.go.com/college-football/rankings/_/poll/2">Coaches Poll</a></strong>
+    2. <strong><a href="https://espn.go.com/college-football/rankings/_/poll/2">Coaches Poll</a></strong>
   </p>
 
   <p>
@@ -39,7 +39,7 @@ categories:
   </p>
 
   <p>
-    <strong><a href="http://prwolfe.bol.ucla.edu/cfootball/ratings.htm">Peter Wolfe</a></strong><br /> <a href="https://www.colleyrankings.com/"><strong>Wes Colley</strong></a><br /> <strong><a href="https://www.usatoday.com/sports/sagarin/fbt09.htm">Sagarin</a></strong><br /> <strong><a href="https://www.andersonsports.com/">Anderson/Hester Seattle Times</a></strong><br /> <strong><a href="https://www.cfrc.com/">Richard Billingsley</a></strong><br /> <strong><a href="https://www.masseyratings.com/">Kenneth Massey</a></strong>
+    <strong><a href="https://prwolfe.bol.ucla.edu/cfootball/ratings.htm">Peter Wolfe</a></strong><br /> <a href="https://www.colleyrankings.com/"><strong>Wes Colley</strong></a><br /> <strong><a href="https://www.usatoday.com/sports/sagarin/fbt09.htm">Sagarin</a></strong><br /> <strong><a href="https://www.andersonsports.com/">Anderson/Hester Seattle Times</a></strong><br /> <strong><a href="https://www.cfrc.com/">Richard Billingsley</a></strong><br /> <strong><a href="https://www.masseyratings.com/">Kenneth Massey</a></strong>
   </p>
 
   <p>
@@ -88,7 +88,7 @@ categories:
                             1. Florida<br /> 2. Alabama<br /> 3. Cincinnati<br /> 4. Texas<br /> 5. TCU<br /> 6. Boise State<br /> 7. Georgia Tech<br /> 8. Iowa<br /> 9. LSU<br /> 10. Oregon</td>
 
                             <td style="color: #000000; font-size: 11px; cursor: text; margin: 8px;" valign="top">
-                              <strong><a href="http://prwolfe.bol.ucla.edu/cfootball/ratings.htm">Wolfe</a></strong></p>
+                              <strong><a href="https://prwolfe.bol.ucla.edu/cfootball/ratings.htm">Wolfe</a></strong></p>
 
                               <p>
                                 1. Florida<br /> 2. Cincinnati<br /> 3. Alabama<br /> 4. TCU<br /> 5. Texas<br /> 6. Boise State<br /> 7. Georgia Tech<br /> 8. Iowa<br /> 9. LSU<br /> 10. Oregon</td> </tr> </tbody> </table>

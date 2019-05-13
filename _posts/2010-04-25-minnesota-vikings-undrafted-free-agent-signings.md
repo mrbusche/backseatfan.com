@@ -20,7 +20,7 @@ tags:
 
 <div class="entry">
   <p>
-    The Vikings have <a href="http://twitter.com/JuddZulgad/statuses/12792187934">agreed to terms</a> with 10 undrafted free agents, according to Judd Zulgad of the Minneapolis Star Tribune
+    The Vikings have <a href="https://twitter.com/JuddZulgad/statuses/12792187934">agreed to terms</a> with 10 undrafted free agents, according to Judd Zulgad of the Minneapolis Star Tribune
   </p>
 
   <p>

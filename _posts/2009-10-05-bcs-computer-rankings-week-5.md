@@ -1,6 +1,6 @@
 ---
 id: 1877
-title: "BCS Computer Rankings - Week 5"
+title: 'BCS Computer Rankings - Week 5'
 date: 2009-10-05T08:28:15+00:00
 author: Ryan M.
 layout: post
@@ -28,11 +28,11 @@ tags:
   </p>
 
   <p>
-    1.<strong><a href="http://espn.go.com/college-football/rankings/_/poll/5">Harris Interactive Poll</a></strong>
+    1.<strong><a href="https://espn.go.com/college-football/rankings/_/poll/5">Harris Interactive Poll</a></strong>
   </p>
 
   <p>
-    2.<strong><a href="http://espn.go.com/college-football/rankings/_/poll/2">Coaches Poll</a></strong>
+    2.<strong><a href="https://espn.go.com/college-football/rankings/_/poll/2">Coaches Poll</a></strong>
   </p>
 
   <p>
@@ -40,7 +40,7 @@ tags:
   </p>
 
   <p>
-    <strong><a href="http://prwolfe.bol.ucla.edu/cfootball/ratings.htm">Peter Wolfe </a></strong>- The first ratings will be posted October 18, 2009.<br /> <a href="https://www.colleyrankings.com/"><strong>Wes Colley</strong> </a>- Current<br /> <strong><a href="https://www.usatoday.com/sports/sagarin/fbt09.htm">Sagarin </a></strong>- Current<br /> <strong><a href="https://www.andersonsports.com/">Anderson/Hester Seattle Times </a></strong>- Current<br /> <strong><a href="https://www.cfrc.com/">Richard Billingsley </a></strong>- Current<br /> <strong><a href="https://www.masseyratings.com/">Kenneth Massey</a></strong> - Current
+    <strong><a href="https://prwolfe.bol.ucla.edu/cfootball/ratings.htm">Peter Wolfe </a></strong>- The first ratings will be posted October 18, 2009.<br /> <a href="https://www.colleyrankings.com/"><strong>Wes Colley</strong> </a>- Current<br /> <strong><a href="https://www.usatoday.com/sports/sagarin/fbt09.htm">Sagarin </a></strong>- Current<br /> <strong><a href="https://www.andersonsports.com/">Anderson/Hester Seattle Times </a></strong>- Current<br /> <strong><a href="https://www.cfrc.com/">Richard Billingsley </a></strong>- Current<br /> <strong><a href="https://www.masseyratings.com/">Kenneth Massey</a></strong> - Current
   </p>
 
   <p>
@@ -81,7 +81,7 @@ tags:
                             <strong><span style="font-weight: normal;"> </span></strong>1. LSU<br /> 2. Alabama<br /> 3. Iowa<br /> 4. Auburn<br /> 5. Wisconsin<br /> 6. Texas<br /> 7. Florida<br /> 8. Boise St<br /> 9. Virginia Tech<br /> 10. Miami - Florida</td>
 
                             <td style="color: #000000; font-size: 11px; cursor: text; margin: 8px;" valign="top">
-                              <strong><a href="http://prwolfe.bol.ucla.edu/cfootball/ratings.htm">Wolfe</a></strong></p>
+                              <strong><a href="https://prwolfe.bol.ucla.edu/cfootball/ratings.htm">Wolfe</a></strong></p>
 
                               <p>
                                 Coming

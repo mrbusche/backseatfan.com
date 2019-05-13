@@ -21,7 +21,7 @@ categories:
   </p>
 
   <p>
-    <a href="http://atlanta.braves.mlb.com/video/index.jsp?mid=200808043251567&#038;c_id=atl" target="blank">Due to copyright issues this video is hosted on mlb.com</a>
+    <a href="https://atlanta.braves.mlb.com/video/index.jsp?mid=200808043251567&#038;c_id=atl" target="blank">Due to copyright issues this video is hosted on mlb.com</a>
   </p>
 
   <p>

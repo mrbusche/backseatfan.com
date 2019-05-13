@@ -23,7 +23,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/new-york/nba/news/story?id=5357340">ESPN</a> was first to report the deal, which cannot be signed until July 8th
+    <a href="https://sports.espn.go.com/new-york/nba/news/story?id=5357340">ESPN</a> was first to report the deal, which cannot be signed until July 8th
   </p>
 
   <p>

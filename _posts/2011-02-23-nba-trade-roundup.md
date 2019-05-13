@@ -38,15 +38,15 @@ tags:
   </div>
 
   <p>
-    <a href="http://sports.espn.go.com/boston/nba/news/story?id=6155082">Boston Celtics</a> trade Kendrick Perkins, Nate Robinson to the Oklahoma City Thunder for Jeff Green, Nenad Krstic, and a 2012 first round pick, and cash.<a href="http://sports.espn.go.com/boston/nba/news/story?id=6155082"></a>
+    <a href="https://sports.espn.go.com/boston/nba/news/story?id=6155082">Boston Celtics</a> trade Kendrick Perkins, Nate Robinson to the Oklahoma City Thunder for Jeff Green, Nenad Krstic, and a 2012 first round pick, and cash.<a href="https://sports.espn.go.com/boston/nba/news/story?id=6155082"></a>
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/boston/nba/news/story?id=6155082">Boston Celetics </a>trade F Luke Harangody and C Semih Erden to the Cleveland Cavaliers for a 2013 second-round draft pick.
+    <a href="https://sports.espn.go.com/boston/nba/news/story?id=6155082">Boston Celetics </a>trade F Luke Harangody and C Semih Erden to the Cleveland Cavaliers for a 2013 second-round draft pick.
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/nba/news/story?id=6152024&campaign=rss&source=NBAHeadlines">Boston Celtics</a> trade a future draft pick to the Sacramento Kings for G/F Marquis Daniels and cash considerations.
+    <a href="https://sports.espn.go.com/nba/news/story?id=6152024&campaign=rss&source=NBAHeadlines">Boston Celtics</a> trade a future draft pick to the Sacramento Kings for G/F Marquis Daniels and cash considerations.
   </p>
 
   <p>
@@ -54,7 +54,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://sports.yahoo.com/nba/news?slug=ycn-7935608">Houston Rockets </a>Trade F Shane Battier and G Ishmael Smith to the Memphis Grizzlies for C Hasheem Thabeet, F DeMarre Carroll and a future first-round draft pick .
+    <a href="https://sports.yahoo.com/nba/news?slug=ycn-7935608">Houston Rockets </a>Trade F Shane Battier and G Ishmael Smith to the Memphis Grizzlies for C Hasheem Thabeet, F DeMarre Carroll and a future first-round draft pick .
   </p>
 
   <p>
@@ -62,7 +62,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://nba.fanhouse.com/2011/02/23/mike-bibby-kirk-hinrich-swap-places-in-hawks-wizard-trade/">Atlanta Hawks</a> trade Mike Bibby, Mo Evans, Jordan Crawford and a 2011 draft pick to Washington Wizards in exchange for Kirk Hinrich and Hilton Armstrong
+    <a href="https://nba.fanhouse.com/2011/02/23/mike-bibby-kirk-hinrich-swap-places-in-hawks-wizard-trade/">Atlanta Hawks</a> trade Mike Bibby, Mo Evans, Jordan Crawford and a 2011 draft pick to Washington Wizards in exchange for Kirk Hinrich and Hilton Armstrong
   </p>
 
   <p>
@@ -74,11 +74,11 @@ tags:
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/new-york/nba/news/story?id=6150419">New Jersey Nets</a> traded PG Devin Harris and PF Derrick Favors to the Utah Jazz for Deron Williams.
+    <a href="https://sports.espn.go.com/new-york/nba/news/story?id=6150419">New Jersey Nets</a> traded PG Devin Harris and PF Derrick Favors to the Utah Jazz for Deron Williams.
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/nba/news/story?id=6148430">Chicago Bulls</a> trade forward James Johnson to the Toronto Raptors for the 2011 first-round draft pick Toronto acquired from the Miami Heat.
+    <a href="https://sports.espn.go.com/nba/news/story?id=6148430">Chicago Bulls</a> trade forward James Johnson to the Toronto Raptors for the 2011 first-round draft pick Toronto acquired from the Miami Heat.
   </p>
 
   <p>

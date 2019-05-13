@@ -22,7 +22,7 @@ tags:
 
 <div class="entry">
   <p>
-    According to <a href="http://bit.ly/cC2yaz ">@Adam_Schefter</a> the Detroit Lions have reached a deal with 1st round pick Ndamukong Suh. That leaves only 2 first rounders left to sign in this years draft class.
+    According to <a href="https://bit.ly/cC2yaz ">@Adam_Schefter</a> the Detroit Lions have reached a deal with 1st round pick Ndamukong Suh. That leaves only 2 first rounders left to sign in this years draft class.
   </p>
 
   <p>

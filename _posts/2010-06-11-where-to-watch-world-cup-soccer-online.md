@@ -31,11 +31,11 @@ tags:
   </p>
 
   <p>
-    <span style="color: #000000;"><a href="http://espn.go.com/espn3/">ESPN3</a> - ESPN will be streaming all 64 games online.</span>
+    <span style="color: #000000;"><a href="https://espn.go.com/espn3/">ESPN3</a> - ESPN will be streaming all 64 games online.</span>
   </p>
 
   <p>
-    <span style="color: #000000;"><a href="http://proxy.espn.go.com/mobile/products/product?id=3242441">ESPN Mobile TV</a> - 56 world cup matches will be streamed to sprint customers on the new HTC EVO smartphone</span>
+    <span style="color: #000000;"><a href="https://proxy.espn.go.com/mobile/products/product?id=3242441">ESPN Mobile TV</a> - 56 world cup matches will be streamed to sprint customers on the new HTC EVO smartphone</span>
   </p>
 
   <p>

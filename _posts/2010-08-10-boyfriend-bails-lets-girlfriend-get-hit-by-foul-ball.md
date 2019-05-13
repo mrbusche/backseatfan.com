@@ -22,6 +22,6 @@ categories:
   </p>
 
   <p>
-    <br /> <a href="http://us.lrd.yahoo.com/_ylt=AgpXLDeS.VEurcJlKR2Im6yrO4d4/SIG=127ufrk7p/**http%3A//houston.astros.mlb.com/video/play.jsp%3Fcontent_id=10798761">Watch the play on MLB.com</a>
+    <br /> <a href="https://us.lrd.yahoo.com/_ylt=AgpXLDeS.VEurcJlKR2Im6yrO4d4/SIG=127ufrk7p/**http%3A//houston.astros.mlb.com/video/play.jsp%3Fcontent_id=10798761">Watch the play on MLB.com</a>
   </p>
 </div>

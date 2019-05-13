@@ -19,7 +19,7 @@ categories:
   </p>
 
   <p>
-    <img alt="" src="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/960/img/photos/2012/12/05/79/ee/Dayton_Alabama_Basketball.J2.JPG" style="float:left;height:450px;margin:10px;width:300px" />The woman&rsquo;s team had better luck in their match against Auburn on 22nd January, as they managed a 51-50 win. However, the success was partly marred by an ugly fight which broke out towards the end of the first half, in which 3 players, Alabama&rsquo;s Breanna Hayden and Meoshonti Knight, as well as the Tiger&rsquo;s Hasina Muhammad, had to be sent off. It is unclear as of yet what exactly caused the fight, but the punches were thrown shortly after a free throw in which Muhammad and Hayden became entangled.
+    <img alt="" src="https://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/960/img/photos/2012/12/05/79/ee/Dayton_Alabama_Basketball.J2.JPG" style="float:left;height:450px;margin:10px;width:300px" />The woman&rsquo;s team had better luck in their match against Auburn on 22nd January, as they managed a 51-50 win. However, the success was partly marred by an ugly fight which broke out towards the end of the first half, in which 3 players, Alabama&rsquo;s Breanna Hayden and Meoshonti Knight, as well as the Tiger&rsquo;s Hasina Muhammad, had to be sent off. It is unclear as of yet what exactly caused the fight, but the punches were thrown shortly after a free throw in which Muhammad and Hayden became entangled.
   </p>
 
   <p>

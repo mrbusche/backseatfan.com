@@ -23,6 +23,6 @@ tags:
   </p>
 
   <p>
-    Watch Joey Votto hit a line drive back to Colorado Rockies Pitcher Aaron Cook, hit him in the leg, and broke his Fibula.  Just turn up your volume, and hear the break.  [via <a href="http://deadspin.com/5634162/watch-and-hear-aaron-cook-fracture-his-fibula">deadspin</a> / <a href="http://mlb.mlb.com/video/play.jsp?content_id=11873811&topic_id=8878968&c_id=mlb">MLB</a>].  If that video goes dead just goto the MLB link, its worth the extra click.
+    Watch Joey Votto hit a line drive back to Colorado Rockies Pitcher Aaron Cook, hit him in the leg, and broke his Fibula.  Just turn up your volume, and hear the break.  [via <a href="https://deadspin.com/5634162/watch-and-hear-aaron-cook-fracture-his-fibula">deadspin</a> / <a href="https://mlb.mlb.com/video/play.jsp?content_id=11873811&topic_id=8878968&c_id=mlb">MLB</a>].  If that video goes dead just goto the MLB link, its worth the extra click.
   </p>
 </div>

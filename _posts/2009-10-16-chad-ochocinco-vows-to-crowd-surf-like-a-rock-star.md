@@ -18,7 +18,7 @@ tags:
 
 <div class="entry">
   <p>
-    Chad Ochocinco <a href="http://twitter.com/OGOchoCinco/status/4909222605">tweeted</a> -
+    Chad Ochocinco <a href="https://twitter.com/OGOchoCinco/status/4909222605">tweeted</a> -
   </p>
 
   <p>

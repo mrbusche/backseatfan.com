@@ -23,10 +23,10 @@ tags:
     Many of you tuned into the World Cup this weekend.  Then many of you tuned out because of the annoying buzz that was coming from your TV.
   </p><figure id="attachment_6182" style="width: 460px" class="wp-caption aligncenter">
 
-  <a href="/images/2010/06/vuvuzela.jpg"><img class="size-full wp-image-6182" title="vuvuzela" src="/images/2010/06/vuvuzela.jpg" alt="" width="460" height="276" srcset="/images/2010/06/vuvuzela.jpg 460w, /images/2010/06/vuvuzela-300x180.jpg 300w" sizes="(max-width: 460px) 100vw, 460px" /></a><figcaption class="wp-caption-text">Please ban the damn vuvuzela</figcaption></figure>
+<a href="/images/2010/06/vuvuzela.jpg"><img class="size-full wp-image-6182" title="vuvuzela" src="/images/2010/06/vuvuzela.jpg" alt="" width="460" height="276" srcset="/images/2010/06/vuvuzela.jpg 460w, /images/2010/06/vuvuzela-300x180.jpg 300w" sizes="(max-width: 460px) 100vw, 460px" /></a><figcaption class="wp-caption-text">Please ban the damn vuvuzela</figcaption></figure>
 
   <p style="text-align: left;">
-    That Annoying Buzz is a <a href="http://en.wikipedia.org/wiki/Vuvuzela">vuvuzela</a>,  an annoying plastic horn that makes you want to rip your hair out.  It is a terrible South African tradition to have these horns constantly "played" during Soccer (football) matches.  Many people want these horns banned; they are loud, annoying, and can actually cause hearing loss.  Even if they don't ban them during the matches, can't they drown them out for the people watching the World Cup on TV?  Maybe put in fake chants to think we hear the crowd.  I don't care, I just don't want to hear these damn horns anymore.  They are ruining the World Cup.
+    That Annoying Buzz is a <a href="https://en.wikipedia.org/wiki/Vuvuzela">vuvuzela</a>,  an annoying plastic horn that makes you want to rip your hair out.  It is a terrible South African tradition to have these horns constantly "played" during Soccer (football) matches.  Many people want these horns banned; they are loud, annoying, and can actually cause hearing loss.  Even if they don't ban them during the matches, can't they drown them out for the people watching the World Cup on TV?  Maybe put in fake chants to think we hear the crowd.  I don't care, I just don't want to hear these damn horns anymore.  They are ruining the World Cup.
   </p>
 
   <p style="text-align: left;">

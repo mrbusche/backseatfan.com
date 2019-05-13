@@ -22,7 +22,7 @@ tags:
   </p>
 
   <p>
-    Boom! That's a <a href="http://en.wikipedia.org/wiki/Turducken">Turducken</a>!
+    Boom! That's a <a href="https://en.wikipedia.org/wiki/Turducken">Turducken</a>!
   </p>
 
   <p>

@@ -12,7 +12,7 @@ image: /images/2010/09/bigben.jpg
 categories:
   - Daily Spin
 tags:
-  - "#bsf"
+  - '#bsf'
   - Ben Roethlisberger
   - Daily Spin
   - Dan Snyder
@@ -27,7 +27,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://sports.bodog.com/sports-betting/football-player-props.jsp">Super Bowl Prop Bets!</a> For entertainment purposes only, of course. [via <a href="http://sports.bodog.com/sports-betting/football-player-props.jsp">BoDog</a>]
+    <a href="https://sports.bodog.com/sports-betting/football-player-props.jsp">Super Bowl Prop Bets!</a> For entertainment purposes only, of course. [via <a href="https://sports.bodog.com/sports-betting/football-player-props.jsp">BoDog</a>]
   </p>
 
   <p>
@@ -35,7 +35,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://collegefootballtalk.nbcsports.com/2011/02/03/iowa-hospital-fires-three-after-privacy-breach-involving-players/">University of Iowa Hospital fires 3 employees</a> for breaching patient privacy of three football players [via <a href="http://collegefootballtalk.nbcsports.com/2011/02/03/iowa-hospital-fires-three-after-privacy-breach-involving-players/">CFT</a>]
+    <a href="https://collegefootballtalk.nbcsports.com/2011/02/03/iowa-hospital-fires-three-after-privacy-breach-involving-players/">University of Iowa Hospital fires 3 employees</a> for breaching patient privacy of three football players [via <a href="https://collegefootballtalk.nbcsports.com/2011/02/03/iowa-hospital-fires-three-after-privacy-breach-involving-players/">CFT</a>]
   </p>
 
   <p>
@@ -60,13 +60,14 @@ tags:
 
   <div style="background-color:#000000;width:520px;">
     <div style="padding:4px;">
-      <embed src="http://media.mtvnservices.com/mgid:cms:video:onionsportsnetwork.com:372922" width="512" height="288" type="application/x-shockwave-flash" allowFullScreen="true" allowScriptAccess="always" base="." flashVars="">
+      <embed src="https://media.mtvnservices.com/mgid:cms:video:onionsportsnetwork.com:372922" width="512" height="288" type="application/x-shockwave-flash" allowFullScreen="true" allowScriptAccess="always" base="." flashVars="">
       </embed></p>
 
       <p style="text-align:left;background-color:#FFFFFF;padding:4px;margin-top:4px;margin-bottom:0px;font-family:Arial, Helvetica, sans-serif;font-size:12px;">
-        <b><a href="http://bit.ly/esPlav">Onion SportsDome</a></b>
+        <b><a href="https://bit.ly/esPlav">Onion SportsDome</a></b>
       </p>
     </div>
+
   </div>
 
   <p>

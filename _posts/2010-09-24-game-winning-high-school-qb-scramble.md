@@ -22,5 +22,5 @@ tags:
     <br /> This is a pretty nice game winning scramble by high school quarterback Craig Billington of Genoa-Kingston (Ill.) High School. Although I think it is mostly bad tackling, it is still pretty amazing that he got through all of those tackles.  Plus, he won the game so it makes it that much better.</div>
 
     <div>
-      Via <a href="http://rivals.yahoo.com/highschool/blog/prep_rally/post/Illinois-QB-s-all-time-great-scramble-earns-game?urn=highschool-271871">Yahoo Sports</a> - Thanks David for the tip
+      Via <a href="https://rivals.yahoo.com/highschool/blog/prep_rally/post/Illinois-QB-s-all-time-great-scramble-earns-game?urn=highschool-271871">Yahoo Sports</a> - Thanks David for the tip
     </div></div>

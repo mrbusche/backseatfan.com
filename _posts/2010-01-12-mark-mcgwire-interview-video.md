@@ -22,6 +22,6 @@ tags:
   </p>
 
   <p>
-    Here is an excerpt from the Mark McGwire Interview with Bob Costas. <a href="http://mlb.mlb.com/video/play.jsp?content_id=7148421&#038;topic_id=7417714">Watch the full interview here from MLB.com</a>.  It's 45 minutes long, so some of you might want to just stick with the Video above.
+    Here is an excerpt from the Mark McGwire Interview with Bob Costas. <a href="https://mlb.mlb.com/video/play.jsp?content_id=7148421&#038;topic_id=7417714">Watch the full interview here from MLB.com</a>.  It's 45 minutes long, so some of you might want to just stick with the Video above.
   </p>
 </div>

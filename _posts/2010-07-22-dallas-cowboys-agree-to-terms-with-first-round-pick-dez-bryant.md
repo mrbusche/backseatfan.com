@@ -21,7 +21,7 @@ tags:
 
 <div class="entry">
   <p>
-    According to ESPN's <a href="http://twitter.com/Adam_Schefter/statuses/19291029648">Adam Schefter</a> Dez Bryant has agreed to a five-year $11.8 million deal that includes $8.5 million guaranteed. Bryant is the first <a href="https://backseatfan.com/2010/06/2010-nfl-draft-first-round-pick-rookie-signing-status/">1st round pick</a> to agree to terms. According to <a href="http://twitter.com/adbrandt/status/19293909427">Andrew Brandt</a> of the National Football Post, the deal has no 2nd year option bonus, the guaranteed money is all in form of signing bonus.
+    According to ESPN's <a href="https://twitter.com/Adam_Schefter/statuses/19291029648">Adam Schefter</a> Dez Bryant has agreed to a five-year $11.8 million deal that includes $8.5 million guaranteed. Bryant is the first <a href="https://backseatfan.com/2010/06/2010-nfl-draft-first-round-pick-rookie-signing-status/">1st round pick</a> to agree to terms. According to <a href="https://twitter.com/adbrandt/status/19293909427">Andrew Brandt</a> of the National Football Post, the deal has no 2nd year option bonus, the guaranteed money is all in form of signing bonus.
   </p>
 
   <p>

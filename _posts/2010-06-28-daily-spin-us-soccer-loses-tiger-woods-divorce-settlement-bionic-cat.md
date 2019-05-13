@@ -1,6 +1,6 @@
 ---
 id: 6506
-title: "Daily Spin:  US Soccer Loses, Tiger Woods Divorce Settlement, Bionic Cat"
+title: 'Daily Spin:  US Soccer Loses, Tiger Woods Divorce Settlement, Bionic Cat'
 date: 2010-06-28T07:43:11+00:00
 author: Ryan M.
 layout: post
@@ -39,7 +39,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/nfl/news/story?id=5333971">Brain Trauma found in Chris Henry</a>? I have a feeling that the commish is going to investigate concussions a little more. [<a href="http://sports.espn.go.com/nfl/news/story?id=5333971">via ESPN</a>]
+    <a href="https://sports.espn.go.com/nfl/news/story?id=5333971">Brain Trauma found in Chris Henry</a>? I have a feeling that the commish is going to investigate concussions a little more. [<a href="https://sports.espn.go.com/nfl/news/story?id=5333971">via ESPN</a>]
   </p>
 
   <p>

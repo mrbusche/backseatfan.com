@@ -26,7 +26,7 @@ tags:
   </p>
 
   <p>
-    The legacy of <a href="http://espn.go.com/mens-college-basketball/">NCAA college basketball</a> (USA) can be marked back to the International Training School by YMCA, which is known today as Springfield College in Massachusettes. Physical Education Instructor James Naismith can be called the pioneer of introducing basketball as a sport in the school. In 1891, Naismith was given the difficult task of training the athletes and shaping them up without causing them any injury. On 21st December, 1891, the game was first played on the college grounds.
+    The legacy of <a href="https://espn.go.com/mens-college-basketball/">NCAA college basketball</a> (USA) can be marked back to the International Training School by YMCA, which is known today as Springfield College in Massachusettes. Physical Education Instructor James Naismith can be called the pioneer of introducing basketball as a sport in the school. In 1891, Naismith was given the difficult task of training the athletes and shaping them up without causing them any injury. On 21st December, 1891, the game was first played on the college grounds.
   </p>
 
   <p>

@@ -1,6 +1,6 @@
 ---
 id: 2580
-title: "MLB Offseason Trades 2009 - 2010"
+title: 'MLB Offseason Trades 2009 - 2010'
 date: 2009-11-11T07:21:38+00:00
 author: Matt B.
 layout: post
@@ -29,7 +29,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://kansascity.royals.mlb.com/news/press_releases/press_release.jsp?ymd=20100402&content_id=9054562&vkey=pr_kc&fext=.jsp&c_id=kc">Texas Rangers traded Luis Mendoza to Kansas City Royals for cash considerations</a>
+    <a href="https://kansascity.royals.mlb.com/news/press_releases/press_release.jsp?ymd=20100402&content_id=9054562&vkey=pr_kc&fext=.jsp&c_id=kc">Texas Rangers traded Luis Mendoza to Kansas City Royals for cash considerations</a>
   </p>
 
   <p>
@@ -37,7 +37,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://content.usatoday.com/communities/dailypitch/post/2010/04/cardinals-trade-julio-lugo-to-orioles/1">St Louis Cardinals trade INF Julio Lugo to Baltimore Orioles for a player to be named or cash considerations</a>
+    <a href="https://content.usatoday.com/communities/dailypitch/post/2010/04/cardinals-trade-julio-lugo-to-orioles/1">St Louis Cardinals trade INF Julio Lugo to Baltimore Orioles for a player to be named or cash considerations</a>
   </p>
 
   <p>
@@ -81,7 +81,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://hardballtalk.nbcsports.com/2010/03/the-yankees-trade-edwar-ramirez-to-the-rangers.html.php">New York Yankees traded RHP Edwar Ramirez to Texas Rangers for cash considerations</a>
+    <a href="https://hardballtalk.nbcsports.com/2010/03/the-yankees-trade-edwar-ramirez-to-the-rangers.html.php">New York Yankees traded RHP Edwar Ramirez to Texas Rangers for cash considerations</a>
   </p>
 
   <p>
@@ -97,7 +97,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://nbcsports.msnbc.com/id/35184115/ns/sports-player_news/">Oakland Athletics trade INF Aaron Miles and player or cash to Cincinnati Reds for OF Willy Taveras and INF Adam Rosales</a>
+    <a href="https://nbcsports.msnbc.com/id/35184115/ns/sports-player_news/">Oakland Athletics trade INF Aaron Miles and player or cash to Cincinnati Reds for OF Willy Taveras and INF Adam Rosales</a>
   </p>
 
   <p>
@@ -153,15 +153,15 @@ tags:
   </p>
 
   <p>
-    <a href="http://blog.seattlepi.com/baseball/archives/190343.asp">Seattle Mariners trade OF Bill Hall and a player to be named to the Boston Red Sox for 1B Casey Kotchman</a>
+    <a href="https://blog.seattlepi.com/baseball/archives/190343.asp">Seattle Mariners trade OF Bill Hall and a player to be named to the Boston Red Sox for 1B Casey Kotchman</a>
   </p>
 
   <p>
-    12/21/2009<br /> <a href="http://sportsillustrated.cnn.com/2009/baseball/mlb/12/22/vazquez/index.html"></a>
+    12/21/2009<br /> <a href="https://sportsillustrated.cnn.com/2009/baseball/mlb/12/22/vazquez/index.html"></a>
   </p>
 
   <p>
-    <a href="http://sportsillustrated.cnn.com/2009/baseball/mlb/12/22/vazquez/index.html">Atlanta Braves trade LHP Boone Logan and RHP Javier Vazquez to New York Yankees for RHP Arodys Vizcaino, CF Melky Cabrera, LHP Michael Dunn, and cash</a>
+    <a href="https://sportsillustrated.cnn.com/2009/baseball/mlb/12/22/vazquez/index.html">Atlanta Braves trade LHP Boone Logan and RHP Javier Vazquez to New York Yankees for RHP Arodys Vizcaino, CF Melky Cabrera, LHP Michael Dunn, and cash</a>
   </p>
 
   <p>
@@ -173,11 +173,11 @@ tags:
   </p>
 
   <p>
-    12/18/2009<br /> <a href="http://sports.espn.go.com/chicago/mlb/news/story?id=4754761"> </a>
+    12/18/2009<br /> <a href="https://sports.espn.go.com/chicago/mlb/news/story?id=4754761"> </a>
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/chicago/mlb/news/story?id=4754761">Seattle Mariners traded SP Carlos Silva and cash to the Chicago Cubs for OF Milton Bradley</a>
+    <a href="https://sports.espn.go.com/chicago/mlb/news/story?id=4754761">Seattle Mariners traded SP Carlos Silva and cash to the Chicago Cubs for OF Milton Bradley</a>
   </p>
 
   <p>
@@ -197,19 +197,19 @@ tags:
   </p>
 
   <p>
-    12/13/2009<br /> <a href="http://blogs2.startribune.com/blogs/neal/2009/12/12/righthander-chris-province-joins-twins/"> </a>
+    12/13/2009<br /> <a href="https://blogs2.startribune.com/blogs/neal/2009/12/12/righthander-chris-province-joins-twins/"> </a>
   </p>
 
   <p>
-    <a href="http://blogs2.startribune.com/blogs/neal/2009/12/12/righthander-chris-province-joins-twins/">Boston Red Sox traded RHP Chris Province to Minnesota Twins</a>
+    <a href="https://blogs2.startribune.com/blogs/neal/2009/12/12/righthander-chris-province-joins-twins/">Boston Red Sox traded RHP Chris Province to Minnesota Twins</a>
   </p>
 
   <p>
-    12/10/2009<br /> <a href="http://sports.espn.go.com/mlb/news/story?id=4730636&campaign=rss&source=twitter&ex_cid=Twitter_espn_4730636"></a>
+    12/10/2009<br /> <a href="https://sports.espn.go.com/mlb/news/story?id=4730636&campaign=rss&source=twitter&ex_cid=Twitter_espn_4730636"></a>
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/mlb/news/story?id=4730636&campaign=rss&source=twitter&ex_cid=Twitter_espn_4730636">Atlanta Braves trade RP Rafael Soriano to Tampa Bay Rays for Jesse Chavez</a><br /> <a href="https://www.mlbtraderumors.com/2009/12/red-sox-acquire-boof-bonser.html">Minnesota Twins trade P Boof Bonzer to Boston Red Sox for a player to be named</a><br /> <a href="http://sports.espn.go.com/mlb/news/story?id=4730311">Boston Red Sox reached agreement to trade 3B Mike Lowell to Texas Rangers for C Max Ramirez</a>
+    <a href="https://sports.espn.go.com/mlb/news/story?id=4730636&campaign=rss&source=twitter&ex_cid=Twitter_espn_4730636">Atlanta Braves trade RP Rafael Soriano to Tampa Bay Rays for Jesse Chavez</a><br /> <a href="https://www.mlbtraderumors.com/2009/12/red-sox-acquire-boof-bonser.html">Minnesota Twins trade P Boof Bonzer to Boston Red Sox for a player to be named</a><br /> <a href="https://sports.espn.go.com/mlb/news/story?id=4730311">Boston Red Sox reached agreement to trade 3B Mike Lowell to Texas Rangers for C Max Ramirez</a>
   </p>
 
   <p>
@@ -217,7 +217,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/mlb/news/story?id=4728817">Florida Marlins traded RP Matt Lindstrom to the Houston Astros</a><br /> <a href="http://sports.espn.go.com/dallas/mlb/news/story?id=4728975">Baltimore Orioles traded RP Chris Ray and a player to be named to the Texas Rangers for SP Kevin Millwood</a>
+    <a href="https://sports.espn.go.com/mlb/news/story?id=4728817">Florida Marlins traded RP Matt Lindstrom to the Houston Astros</a><br /> <a href="https://sports.espn.go.com/dallas/mlb/news/story?id=4728975">Baltimore Orioles traded RP Chris Ray and a player to be named to the Texas Rangers for SP Kevin Millwood</a>
   </p>
 
   <p>

@@ -26,6 +26,6 @@ tags:
   </p>
 
   <p>
-    Saints win 31 - 28 - Heres the <a href="http://scores.espn.go.com/nfl/boxscore?gameId=300124018">box score</a>
+    Saints win 31 - 28 - Heres the <a href="https://scores.espn.go.com/nfl/boxscore?gameId=300124018">box score</a>
   </p>
 </div>

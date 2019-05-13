@@ -18,7 +18,7 @@ tags:
 
 <div class="entry">
   <p>
-    <a href="http://twitter.com/jareddudley619">Jared Dudley on Twitter</a> announced today:
+    <a href="https://twitter.com/jareddudley619">Jared Dudley on Twitter</a> announced today:
   </p>
 
   <p style="padding-left: 30px;">

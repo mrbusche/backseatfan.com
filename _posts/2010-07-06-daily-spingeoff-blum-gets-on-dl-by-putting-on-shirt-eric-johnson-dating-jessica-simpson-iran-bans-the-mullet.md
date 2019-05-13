@@ -1,6 +1,6 @@
 ---
 id: 6637
-title: "Daily Spin: Geoff Blum gets on DL by putting on shirt, Eric Johnson dating Jessica Simpson, Iran Bans the Mullet"
+title: 'Daily Spin: Geoff Blum gets on DL by putting on shirt, Eric Johnson dating Jessica Simpson, Iran Bans the Mullet'
 date: 2010-07-06T13:33:52+00:00
 author: Ryan M.
 layout: post
@@ -30,7 +30,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://sports.yahoo.com/mlb/blog/big_league_stew/post/Geoff-Blum-lands-on-15-day-DL-with-shirt-wearing?urn=mlb,253694">Geoff Blum lands on 15-day DL</a> by putting on his shirt?  Blum is 37 years old, he probably won't be in the league much longer.  I guess he just needs to stretch a little before getting dressed?  [via <a href="http://sports.yahoo.com/mlb/blog/big_league_stew/post/Geoff-Blum-lands-on-15-day-DL-with-shirt-wearing?urn=mlb,253694">Yahoo Sports</a>]
+    <a href="https://sports.yahoo.com/mlb/blog/big_league_stew/post/Geoff-Blum-lands-on-15-day-DL-with-shirt-wearing?urn=mlb,253694">Geoff Blum lands on 15-day DL</a> by putting on his shirt?  Blum is 37 years old, he probably won't be in the league much longer.  I guess he just needs to stretch a little before getting dressed?  [via <a href="https://sports.yahoo.com/mlb/blog/big_league_stew/post/Geoff-Blum-lands-on-15-day-DL-with-shirt-wearing?urn=mlb,253694">Yahoo Sports</a>]
   </p>
 
   <p>
@@ -38,7 +38,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://blogs.forbes.com/sportsmoney/2010/07/lebron-james-what-the-knicks-told-lebron-new-york-and-make-billion-dollars/">New York Knicks PowerPoint Presentation</a> to LeBron James was leaked to Forbes?  Really?  You need a PowerPoint?  Just throw him his max money, give him surrounding players, tell him he will win championships, become the biggest player ever, and rename MSG to LBJ. [ via <a href="http://blogs.forbes.com/sportsmoney/2010/07/lebron-james-what-the-knicks-told-lebron-new-york-and-make-billion-dollars/">Forbes</a>]
+    <a href="https://blogs.forbes.com/sportsmoney/2010/07/lebron-james-what-the-knicks-told-lebron-new-york-and-make-billion-dollars/">New York Knicks PowerPoint Presentation</a> to LeBron James was leaked to Forbes?  Really?  You need a PowerPoint?  Just throw him his max money, give him surrounding players, tell him he will win championships, become the biggest player ever, and rename MSG to LBJ. [ via <a href="https://blogs.forbes.com/sportsmoney/2010/07/lebron-james-what-the-knicks-told-lebron-new-york-and-make-billion-dollars/">Forbes</a>]
   </p>
 
   <p>

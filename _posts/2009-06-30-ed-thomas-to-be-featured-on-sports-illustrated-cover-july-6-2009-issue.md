@@ -21,7 +21,7 @@ categories:
   </p>
 
   <p>
-    Here is a link to the SI article: "<a href="http://sportsillustrated.cnn.com/vault/article/magazine/MAG1157377/index.htm">He was the Rock that this community was built on</a>" Warning: I wouldn't read this article if you're at work, unless you're comfortable shedding a few tears at work.
+    Here is a link to the SI article: "<a href="https://sportsillustrated.cnn.com/vault/article/magazine/MAG1157377/index.htm">He was the Rock that this community was built on</a>" Warning: I wouldn't read this article if you're at work, unless you're comfortable shedding a few tears at work.
   </p>
 
   <p>

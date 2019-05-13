@@ -17,7 +17,7 @@ categories:
   - NFL Draft 2011
   - NFL News
 tags:
-  - "#bsf"
+  - '#bsf'
   - 2011 draft
   - 2011 nfl draft
   - early entry
@@ -70,7 +70,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/ncf/news/story?id=5883306">12/4/2010</a>
+        <a href="https://sports.espn.go.com/ncf/news/story?id=5883306">12/4/2010</a>
       </td>
     </tr>
 
@@ -92,7 +92,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/los-angeles/ncf/news/story?id=5920054">12/14/2010</a>
+        <a href="https://sports.espn.go.com/los-angeles/ncf/news/story?id=5920054">12/14/2010</a>
       </td>
     </tr>
 
@@ -114,7 +114,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/los-angeles/ncf/news/story?id=5920054">12/14/2010</a>
+        <a href="https://sports.espn.go.com/los-angeles/ncf/news/story?id=5920054">12/14/2010</a>
       </td>
     </tr>
 
@@ -136,7 +136,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://espn.go.com/blog/big12/post/_/id/23821/texas-cb-aaron-williams-headed-to-nfl">12/30/2010</a>
+        <a href="https://espn.go.com/blog/big12/post/_/id/23821/texas-cb-aaron-williams-headed-to-nfl">12/30/2010</a>
       </td>
     </tr>
 
@@ -158,7 +158,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/nfl/draft2011/news/story?id=5968909&campaign=rss&source=NCFHeadlines">12/30/2010</a>
+        <a href="https://sports.espn.go.com/nfl/draft2011/news/story?id=5968909&campaign=rss&source=NCFHeadlines">12/30/2010</a>
       </td>
     </tr>
 
@@ -202,7 +202,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/nfl/draft2011/news/story?id=5985219">1/3/2011</a>
+        <a href="https://sports.espn.go.com/nfl/draft2011/news/story?id=5985219">1/3/2011</a>
       </td>
     </tr>
 
@@ -224,7 +224,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/nfl/draft2011/news/story?id=5985332">1/3/2011</a>
+        <a href="https://sports.espn.go.com/nfl/draft2011/news/story?id=5985332">1/3/2011</a>
       </td>
     </tr>
 
@@ -246,7 +246,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://articles.latimes.com/2011/jan/03/sports/la-sp-0104-akeem-ayers-ucla-20110104">1/3/2011</a>
+        <a href="https://articles.latimes.com/2011/jan/03/sports/la-sp-0104-akeem-ayers-ucla-20110104">1/3/2011</a>
       </td>
     </tr>
 
@@ -312,7 +312,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://clemsontigers.cstv.com/sports/m-footbl/spec-rel/010511aaa.html">1/5/2011</a>
+        <a href="https://clemsontigers.cstv.com/sports/m-footbl/spec-rel/010511aaa.html">1/5/2011</a>
       </td>
     </tr>
 
@@ -334,7 +334,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://espn.go.com/blog/bigten/post/_/id/22152/j-j-watts-rapid-rise-takes-him-to-draft">1/6/2011</a>
+        <a href="https://espn.go.com/blog/bigten/post/_/id/22152/j-j-watts-rapid-rise-takes-him-to-draft">1/6/2011</a>
       </td>
     </tr>
 
@@ -356,7 +356,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/ncf/news/story?id=5996836">1/6/2011</a>
+        <a href="https://sports.espn.go.com/ncf/news/story?id=5996836">1/6/2011</a>
       </td>
     </tr>
 
@@ -378,7 +378,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/ncf/news/story?id=5996836">1/6/2011</a>
+        <a href="https://sports.espn.go.com/ncf/news/story?id=5996836">1/6/2011</a>
       </td>
     </tr>
 
@@ -422,7 +422,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://nbcsports.msnbc.com/id/40963464/ns/sports-player_news/">1/7/2011</a>
+        <a href="https://nbcsports.msnbc.com/id/40963464/ns/sports-player_news/">1/7/2011</a>
       </td>
     </tr>
 
@@ -488,7 +488,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://espn.go.com/blog/big12/post/_/id/24218/missouri-de-aldon-smith-enters-nfl-draft">1/7/2011</a>
+        <a href="https://espn.go.com/blog/big12/post/_/id/24218/missouri-de-aldon-smith-enters-nfl-draft">1/7/2011</a>
       </td>
     </tr>
 
@@ -532,7 +532,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://blogs.ajc.com/uga-sports-blog/2011/01/09/a-j-green-makes-it-official-enters-nfl-draft/">1/9/2011</a>
+        <a href="https://blogs.ajc.com/uga-sports-blog/2011/01/09/a-j-green-makes-it-official-enters-nfl-draft/">1/9/2011</a>
       </td>
     </tr>
 
@@ -554,7 +554,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/nfl/draft2011/news/story?id=6005454&campaign=rss&source=NCFHeadlines">1/9/2011</a>
+        <a href="https://sports.espn.go.com/nfl/draft2011/news/story?id=6005454&campaign=rss&source=NCFHeadlines">1/9/2011</a>
       </td>
     </tr>
 
@@ -576,7 +576,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sportsillustrated.cnn.com/2011/football/ncaa/wires/01/09/2060.ap.fbc.lsu.peterson.0141/">1/9/2011</a>
+        <a href="https://sportsillustrated.cnn.com/2011/football/ncaa/wires/01/09/2060.ap.fbc.lsu.peterson.0141/">1/9/2011</a>
       </td>
     </tr>
 
@@ -1309,6 +1309,7 @@ tags:
       <td>
       </td>
     </tr>
+
   </table>
 
   <p>
@@ -1378,7 +1379,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/ncf/news/story?id=5995754">1/6/2011</a>
+        <a href="https://sports.espn.go.com/ncf/news/story?id=5995754">1/6/2011</a>
       </td>
     </tr>
 
@@ -1400,7 +1401,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://espn.go.com/blog/big12/post/_/id/24188/ryan-broyles-says-one-more-year-at-ou">1/6/2011</a>
+        <a href="https://espn.go.com/blog/big12/post/_/id/24188/ryan-broyles-says-one-more-year-at-ou">1/6/2011</a>
       </td>
     </tr>
 
@@ -1444,7 +1445,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/ncf/news/story?id=6007514">1/10/2011</a>
+        <a href="https://sports.espn.go.com/ncf/news/story?id=6007514">1/10/2011</a>
       </td>
     </tr>
 
@@ -1466,7 +1467,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://espn.go.com/blog/ncfnation/post/_/id/37839/no-nfl-draft-for-miamis-forston-spence">1/10/2011</a>
+        <a href="https://espn.go.com/blog/ncfnation/post/_/id/37839/no-nfl-draft-for-miamis-forston-spence">1/10/2011</a>
       </td>
     </tr>
 
@@ -1488,7 +1489,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://espn.go.com/blog/ncfnation/post/_/id/37839/no-nfl-draft-for-miamis-forston-spence">1/10/2011</a>
+        <a href="https://espn.go.com/blog/ncfnation/post/_/id/37839/no-nfl-draft-for-miamis-forston-spence">1/10/2011</a>
       </td>
     </tr>
 
@@ -1579,9 +1580,10 @@ tags:
         1/15/2011
       </td>
     </tr>
+
   </table>
 
   <p>
-    *ESPN originally reported that Janoris Jenkins would <a href="http://sports.espn.go.com/nfl/draft2011/news/story?id=5997329">enter the NFL Draft</a>
+    *ESPN originally reported that Janoris Jenkins would <a href="https://sports.espn.go.com/nfl/draft2011/news/story?id=5997329">enter the NFL Draft</a>
   </p>
 </div>

@@ -40,7 +40,7 @@ categories:
   </p>
 
   <p>
-    http://en.wikipedia.org/wiki/Fantasy_football_(Association)
+    https://en.wikipedia.org/wiki/Fantasy_football_(Association)
   </p>
 
   <p>

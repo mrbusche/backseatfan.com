@@ -30,7 +30,7 @@ categories:
   </p>
 
   <p>
-    The catch was good enough for Cruz to get a <a href="http://twitter.com/KingJames/status/21367213750">shoutout on twitter</a> from LeBron James, "Victor Cruz going nuts on the Jets tonight on <a title="#MNF" rel="nofollow" href="http://twitter.com/search?q=%23MNF">#MNF</a>. Undrafted rookie from UMass. He's gonna have a job this year for sure," James tweeted.
+    The catch was good enough for Cruz to get a <a href="https://twitter.com/KingJames/status/21367213750">shoutout on twitter</a> from LeBron James, "Victor Cruz going nuts on the Jets tonight on <a title="#MNF" rel="nofollow" href="https://twitter.com/search?q=%23MNF">#MNF</a>. Undrafted rookie from UMass. He's gonna have a job this year for sure," James tweeted.
   </p>
 
   <p>

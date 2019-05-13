@@ -13,7 +13,7 @@ categories:
 
 <div class="entry">
   <p>
-    <a href="http://twitter.com/sj39">Steven Jackson</a> tweeted earlier this evening about a question that keeps popping up by his followers, Should I draft you in my fantasy football league? Here is Jackson's response.
+    <a href="https://twitter.com/sj39">Steven Jackson</a> tweeted earlier this evening about a question that keeps popping up by his followers, Should I draft you in my fantasy football league? Here is Jackson's response.
   </p>
 
   <p>

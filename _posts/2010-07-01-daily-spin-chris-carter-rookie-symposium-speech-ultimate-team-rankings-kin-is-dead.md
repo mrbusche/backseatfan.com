@@ -1,6 +1,6 @@
 ---
 id: 6561
-title: "Daily Spin: Cris Carter Rookie Symposium Speech, Ultimate Team Rankings,  Kin is Dead"
+title: 'Daily Spin: Cris Carter Rookie Symposium Speech, Ultimate Team Rankings,  Kin is Dead'
 date: 2010-07-01T07:29:56+00:00
 author: Ryan M.
 layout: post
@@ -30,7 +30,7 @@ tags:
   </p>
 
   <p>
-    ESPN The Magazine:  <a href="http://espn.go.com/sportsnation/teamrankings#table">Ultimate Team Rankings</a> - Saints top the list, baseball clubs seem to be favored since they are so inexpensive to goto?  Unless you are a Yankees Fan.  [<a href="http://espn.go.com/sportsnation/teamrankings#table">via ESPN</a>]
+    ESPN The Magazine:  <a href="https://espn.go.com/sportsnation/teamrankings#table">Ultimate Team Rankings</a> - Saints top the list, baseball clubs seem to be favored since they are so inexpensive to goto?  Unless you are a Yankees Fan.  [<a href="https://espn.go.com/sportsnation/teamrankings#table">via ESPN</a>]
   </p>
 
   <p>
@@ -42,7 +42,7 @@ tags:
   </p>
 
   <p>
-    NBA Free Agency Started last Night? <a href="http://sports.espn.go.com/nba/news/story?page=FreeAgency-100630">ESPN has there predictions</a>?  The World will stand still until  LeBron James is signed, hopefully it will be soon I'm sick of hearing about it. [via <a href="http://sports.espn.go.com/nba/news/story?page=FreeAgency-100630">ESPN</a>]
+    NBA Free Agency Started last Night? <a href="https://sports.espn.go.com/nba/news/story?page=FreeAgency-100630">ESPN has there predictions</a>?  The World will stand still until  LeBron James is signed, hopefully it will be soon I'm sick of hearing about it. [via <a href="https://sports.espn.go.com/nba/news/story?page=FreeAgency-100630">ESPN</a>]
   </p>
 
   <p>
@@ -100,6 +100,7 @@ tags:
         </table>
       </td>
     </tr>
+
   </table>
 
   <p>

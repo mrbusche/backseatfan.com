@@ -14,7 +14,7 @@ categories:
 
 <div class="entry">
   <p>
-    Marshall and the Dolphins reached agreement Wednesday on a four-year, $47.5 million contract extension that includes $24 million in guaranteed money, according to a <a href="http://sports.espn.go.com/nfl/draft10/news/story?id=5085644">league source</a>. The deal includes close to $29 million in the first three years of the contract and makes Marshall the highest paid receiver in NFL history. Larry Fitzgerald previously had the richest deal of any receiver, averaging $10 million per season.
+    Marshall and the Dolphins reached agreement Wednesday on a four-year, $47.5 million contract extension that includes $24 million in guaranteed money, according to a <a href="https://sports.espn.go.com/nfl/draft10/news/story?id=5085644">league source</a>. The deal includes close to $29 million in the first three years of the contract and makes Marshall the highest paid receiver in NFL history. Larry Fitzgerald previously had the richest deal of any receiver, averaging $10 million per season.
   </p>
 
   <p>

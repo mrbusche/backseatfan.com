@@ -23,7 +23,7 @@ tags:
   </p>
 
   <p>
-    Greg Bensel, the Saints vice president of communications <a href="http://twitter.com/GregBensel/status/19877099624">confirmed</a> this on his twitter account last Thursday night.
+    Greg Bensel, the Saints vice president of communications <a href="https://twitter.com/GregBensel/status/19877099624">confirmed</a> this on his twitter account last Thursday night.
   </p>
 
   <p>

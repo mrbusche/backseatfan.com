@@ -1,6 +1,6 @@
 ---
 id: 6682
-title: "Daily Spin: Ray Allen Resigns with Celtics, World Cup Finals Are Set, New Beavis and Butt-Head"
+title: 'Daily Spin: Ray Allen Resigns with Celtics, World Cup Finals Are Set, New Beavis and Butt-Head'
 date: 2010-07-08T08:25:41+00:00
 author: Ryan M.
 layout: post
@@ -27,27 +27,27 @@ tags:
   </p>
 
   <p>
-    <a href="http://msn.foxsports.com/nba/story/report-man-suing-lebron-over-paternity-claim-070810">Leicester Bryce Stovell is suing LeBron James</a> for 4 million dollars, claiming that he is Lebron'sd father?  Oh and when he "made" LeBron James, Stovell was 29, and LeBron's mom would be 15.  Could he get counter sued for being a pedophile?  [via <a href="http://msn.foxsports.com/nba/story/report-man-suing-lebron-over-paternity-claim-070810">Fox Sports</a>]
+    <a href="https://msn.foxsports.com/nba/story/report-man-suing-lebron-over-paternity-claim-070810">Leicester Bryce Stovell is suing LeBron James</a> for 4 million dollars, claiming that he is Lebron'sd father?  Oh and when he "made" LeBron James, Stovell was 29, and LeBron's mom would be 15.  Could he get counter sued for being a pedophile?  [via <a href="https://msn.foxsports.com/nba/story/report-man-suing-lebron-over-paternity-claim-070810">Fox Sports</a>]
   </p>
 
   <p>
-    <a href="http://sports.yahoo.com/nba/news;_ylt=AmxnFq_lz3eH_pDBueoF6JQ5nYcB?slug=ap-celtics-allen">Celtics resign Ray Allen</a> for 2 year $20 Million deal?  The Celtics have 1 or 2 years left for making a run at it still, but they will have trouble making the finals when LeBron lands on a team with actual supporting players. Oh and the Heat or Magic are going to make the Finals instead anyway.  [<a href="http://sports.yahoo.com/nba/news;_ylt=AmxnFq_lz3eH_pDBueoF6JQ5nYcB?slug=ap-celtics-allen">Yahoo Sports</a>]
+    <a href="https://sports.yahoo.com/nba/news;_ylt=AmxnFq_lz3eH_pDBueoF6JQ5nYcB?slug=ap-celtics-allen">Celtics resign Ray Allen</a> for 2 year $20 Million deal?  The Celtics have 1 or 2 years left for making a run at it still, but they will have trouble making the finals when LeBron lands on a team with actual supporting players. Oh and the Heat or Magic are going to make the Finals instead anyway.  [<a href="https://sports.yahoo.com/nba/news;_ylt=AmxnFq_lz3eH_pDBueoF6JQ5nYcB?slug=ap-celtics-allen">Yahoo Sports</a>]
   </p>
 
   <p>
-    <a href="http://sportsillustrated.cnn.com/2010/football/nfl/07/07/jets-ferguson.ap/index.html?xid=si_nfl">D'Brickashaw Ferguson signs</a> a six-year  $60 million extension with the Jets?  Mark Sanchez just got a lot better for the next six years.  [via <a href="http://sportsillustrated.cnn.com/2010/football/nfl/07/07/jets-ferguson.ap/index.html?xid=si_nfl">SI</a>]
+    <a href="https://sportsillustrated.cnn.com/2010/football/nfl/07/07/jets-ferguson.ap/index.html?xid=si_nfl">D'Brickashaw Ferguson signs</a> a six-year  $60 million extension with the Jets?  Mark Sanchez just got a lot better for the next six years.  [via <a href="https://sportsillustrated.cnn.com/2010/football/nfl/07/07/jets-ferguson.ap/index.html?xid=si_nfl">SI</a>]
   </p>
 
   <p>
-    <a href="http://bleacherreport.com/articles/416106-predicting-the-first-loss-of-2010-for-each-of-cfbs-top-25-teams?utm_source=facebook.com&utm_medium=referral&utm_campaign=share#page/1">Predicting the first loss</a> of 2010 for each college football team in the top 25?  This is a great article, especially since the Iowa Hawkeyes are "Not Applicable", meaning undefeated season.  Seriously though, the Hawkeyes are going to be crazy this year.  Go Hawks!  [via <a href="http://bleacherreport.com/articles/416106-predicting-the-first-loss-of-2010-for-each-of-cfbs-top-25-teams?utm_source=facebook.com&utm_medium=referral&utm_campaign=share#page/1">Bleacher Report</a>]
+    <a href="https://bleacherreport.com/articles/416106-predicting-the-first-loss-of-2010-for-each-of-cfbs-top-25-teams?utm_source=facebook.com&utm_medium=referral&utm_campaign=share#page/1">Predicting the first loss</a> of 2010 for each college football team in the top 25?  This is a great article, especially since the Iowa Hawkeyes are "Not Applicable", meaning undefeated season.  Seriously though, the Hawkeyes are going to be crazy this year.  Go Hawks!  [via <a href="https://bleacherreport.com/articles/416106-predicting-the-first-loss-of-2010-for-each-of-cfbs-top-25-teams?utm_source=facebook.com&utm_medium=referral&utm_campaign=share#page/1">Bleacher Report</a>]
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/nfl/news/story?id=5362371">Vick was in a confrontation</a> prior to shooting?  He got his second chance, this proves he is just and idiot. [via <a href="http://sports.espn.go.com/nfl/news/story?id=5362371">ESPN</a>]
+    <a href="https://sports.espn.go.com/nfl/news/story?id=5362371">Vick was in a confrontation</a> prior to shooting?  He got his second chance, this proves he is just and idiot. [via <a href="https://sports.espn.go.com/nfl/news/story?id=5362371">ESPN</a>]
   </p>
 
   <p>
-    <a href="http://thebiglead.com/index.php/2010/07/07/tim-floyds-first-utep-move-package-deal/">Tim Floyd gets package deal</a> at UTEP, two players and one assistant coach? You think he would have learned his lesson at USC? [via <a href="http://thebiglead.com/index.php/2010/07/07/tim-floyds-first-utep-move-package-deal/">The Big Lead</a>]
+    <a href="https://thebiglead.com/index.php/2010/07/07/tim-floyds-first-utep-move-package-deal/">Tim Floyd gets package deal</a> at UTEP, two players and one assistant coach? You think he would have learned his lesson at USC? [via <a href="https://thebiglead.com/index.php/2010/07/07/tim-floyds-first-utep-move-package-deal/">The Big Lead</a>]
   </p>
 
   <p>

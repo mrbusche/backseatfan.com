@@ -18,11 +18,11 @@ categories:
   </p>
 
   <p>
-    As you all know MLB.com doesn't allow their videos to be embedded and they take down anything on youtube, so <a href="http://mlb.mlb.com/news/article.jsp?ymd=20100928&content_id=15192390&vkey=recap&fext=.jsp&c_id=mlb">click here for the link</a>.
+    As you all know MLB.com doesn't allow their videos to be embedded and they take down anything on youtube, so <a href="https://mlb.mlb.com/news/article.jsp?ymd=20100928&content_id=15192390&vkey=recap&fext=.jsp&c_id=mlb">click here for the link</a>.
   </p>
 
   <p>
-    Eric Hinske and Brooks Conrad provided clutch hits in the Braves 3-1 victory over the Marlins Tuesday night. Conrad hit a <a href="http://mlb.mlb.com/video/play.jsp?content_id=12544047&topic_id=8879214&c_id=mlb">triple to deep center</a> in which CF Cameron Maybin was injured.
+    Eric Hinske and Brooks Conrad provided clutch hits in the Braves 3-1 victory over the Marlins Tuesday night. Conrad hit a <a href="https://mlb.mlb.com/video/play.jsp?content_id=12544047&topic_id=8879214&c_id=mlb">triple to deep center</a> in which CF Cameron Maybin was injured.
   </p>
 
   <p>

@@ -46,5 +46,5 @@ tags:
 
   <p style="text-align: center;">
     <p>
-      [via <a href="http://profootballtalk.nbcsports.com/2010/03/23/tebows-pre-wonderlic-prayer-request-falls-flat/">Pro Football Talk</a>]
+      [via <a href="https://profootballtalk.nbcsports.com/2010/03/23/tebows-pre-wonderlic-prayer-request-falls-flat/">Pro Football Talk</a>]
     </p></div>

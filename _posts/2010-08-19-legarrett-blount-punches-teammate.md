@@ -50,7 +50,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://kdrv.com/page/185356">For slightly better video quality go here</a>
+    <a href="https://kdrv.com/page/185356">For slightly better video quality go here</a>
   </p>
 
   <p>

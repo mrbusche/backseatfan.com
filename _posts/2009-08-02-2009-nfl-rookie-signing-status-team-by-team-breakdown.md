@@ -1,6 +1,6 @@
 ---
 id: 889
-title: "2009 NFL Rookie Signing Status - Team-By-Team Breakdown"
+title: '2009 NFL Rookie Signing Status - Team-By-Team Breakdown'
 date: 2009-08-02T17:52:31+00:00
 author: Matt B.
 layout: post
@@ -17,7 +17,7 @@ categories:
   </p>
 
   <p>
-    <a href="http://twitter.com/backseatfan">Follow us on Twitter!</a>
+    <a href="https://twitter.com/backseatfan">Follow us on Twitter!</a>
   </p>
 
   <p>
@@ -53,7 +53,7 @@ categories:
   </p>
 
   <p>
-    Buffalo Bills<br /> 11. Aaron Maybin, DE, Penn State<a href="http://sports.espn.go.com/nfl/trainingcamp09/news/story?id=4413437">5 years $ undisclosed<br /> </a>28. Eric Wood, OC, Louisville 5 years $ 13M<br /> 42. Jairus Byrd, CB, Oregon 4 years $4.2M; $2.4M G<br /> 51. Andy Levitre, G, Oregon State 4 years $ undisclosed<br /> 121. Shawn Nelson, TE, Missouri 4 years $ undisclosed<br /> 147. Nic Harris, S, Oklahoma Terms undisclosed<br /> 183. Cary Harris, CB, USC 4 years $ undisclosed<br /> 220. Ellis Lankster, DB, West Virginia 4 years $1.8M; $59K SB
+    Buffalo Bills<br /> 11. Aaron Maybin, DE, Penn State<a href="https://sports.espn.go.com/nfl/trainingcamp09/news/story?id=4413437">5 years $ undisclosed<br /> </a>28. Eric Wood, OC, Louisville 5 years $ 13M<br /> 42. Jairus Byrd, CB, Oregon 4 years $4.2M; $2.4M G<br /> 51. Andy Levitre, G, Oregon State 4 years $ undisclosed<br /> 121. Shawn Nelson, TE, Missouri 4 years $ undisclosed<br /> 147. Nic Harris, S, Oklahoma Terms undisclosed<br /> 183. Cary Harris, CB, USC 4 years $ undisclosed<br /> 220. Ellis Lankster, DB, West Virginia 4 years $1.8M; $59K SB
   </p>
 
   <p>
@@ -97,7 +97,7 @@ categories:
   </p>
 
   <p>
-    Jacksonville Jaguars<br /> 8. Eugene Monroe, OT, Virginia<a style="color: #cc0000;" href="http://sports.espn.go.com/nfl/trainingcamp09/news/story?id=4399837">5 years $35.4M; 19.2M G</a><br /> 39. Eben Britton, OT, Arizona4 years terms undisclosed<br /> 72. Terrance Knighton, DT, Temple 4 years $ undisclosed<br /> 73. Derek Cox, CB, William & Mary 4 years, terms undisclosed<br /> 107. Mike Thomas, WR, Arizona 4 years $2.26M; $507,450 SB<br /> 144. Jarett Dillard, WR, Rice 4 years $1.942M; $192,300 SB<br /> 180. Zach Miller, TE, Nebraska-Omaha 4 years, terms undisclosed<br /> 250. Rashad Jennings, RB, Liberty 4 years $1.78M; $38K SB<br /> 253. Tiquan Underwood, WR, Rutgers 4-years, terms undisclosed
+    Jacksonville Jaguars<br /> 8. Eugene Monroe, OT, Virginia<a style="color: #cc0000;" href="https://sports.espn.go.com/nfl/trainingcamp09/news/story?id=4399837">5 years $35.4M; 19.2M G</a><br /> 39. Eben Britton, OT, Arizona4 years terms undisclosed<br /> 72. Terrance Knighton, DT, Temple 4 years $ undisclosed<br /> 73. Derek Cox, CB, William & Mary 4 years, terms undisclosed<br /> 107. Mike Thomas, WR, Arizona 4 years $2.26M; $507,450 SB<br /> 144. Jarett Dillard, WR, Rice 4 years $1.942M; $192,300 SB<br /> 180. Zach Miller, TE, Nebraska-Omaha 4 years, terms undisclosed<br /> 250. Rashad Jennings, RB, Liberty 4 years $1.78M; $38K SB<br /> 253. Tiquan Underwood, WR, Rutgers 4-years, terms undisclosed
   </p>
 
   <p>
@@ -157,7 +157,7 @@ categories:
   </p>
 
   <p>
-    Seattle Seahawks<br /> 4. Seattle - Aaron Curry, LB, Wake Forest<a href="http://blog.seattlepi.com/seattlesports/archives/175824.asp">6 years $60M $34M G</a><br /> 49. Max Unger, OC, Oregon 4 years $3.7M; $1.95M G<br /> 91. Deon Butler, WR, Penn State 4 years $2.43M; $680,750 SB<br /> 178. Mike Teel, QB, Rutgers 4 years $1.864M; $114K SB<br /> 245. Courtney Greene, S,Rutgers 4 years $1.792M; $42,650 SB<br /> 247. Nick Reed, DE, Oregon 4 years $1.7916M; $41,600 SB<br /> 248. Cameron Morrah, TE, California 4 years $1.79M; $40,560 SB
+    Seattle Seahawks<br /> 4. Seattle - Aaron Curry, LB, Wake Forest<a href="https://blog.seattlepi.com/seattlesports/archives/175824.asp">6 years $60M $34M G</a><br /> 49. Max Unger, OC, Oregon 4 years $3.7M; $1.95M G<br /> 91. Deon Butler, WR, Penn State 4 years $2.43M; $680,750 SB<br /> 178. Mike Teel, QB, Rutgers 4 years $1.864M; $114K SB<br /> 245. Courtney Greene, S,Rutgers 4 years $1.792M; $42,650 SB<br /> 247. Nick Reed, DE, Oregon 4 years $1.7916M; $41,600 SB<br /> 248. Cameron Morrah, TE, California 4 years $1.79M; $40,560 SB
   </p>
 
   <p>

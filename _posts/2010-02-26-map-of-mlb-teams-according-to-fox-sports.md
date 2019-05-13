@@ -24,6 +24,6 @@ tags:
   </p>
 
   <p>
-    Via [<a href="http://deadspin.com/5481216/fox-sports-needs-a-geography-lesson">Deadspin</a> & <a href="http://msn.foxsports.com/mlb/story/rosenthal-realignment-proposal-022510">Fox</a>]
+    Via [<a href="https://deadspin.com/5481216/fox-sports-needs-a-geography-lesson">Deadspin</a> & <a href="https://msn.foxsports.com/mlb/story/rosenthal-realignment-proposal-022510">Fox</a>]
   </p>
 </div>

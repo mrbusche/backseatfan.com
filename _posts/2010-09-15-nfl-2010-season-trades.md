@@ -11,7 +11,7 @@ ply_custom:
 categories:
   - NFL
 tags:
-  - "2010"
+  - '2010'
   - 2010 NFL Trades
   - mark clayton
   - NFL
@@ -25,7 +25,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://profootballtalk.nbcsports.com/2010/10/13/eagles-trade-mike-bell-to-cleveland-for-jerome-harrison/">Cleveland Browns</a> traded RB Jerome Harrison to Philadelphia Eagles for RB Mike Bell.
+    <a href="https://profootballtalk.nbcsports.com/2010/10/13/eagles-trade-mike-bell-to-cleveland-for-jerome-harrison/">Cleveland Browns</a> traded RB Jerome Harrison to Philadelphia Eagles for RB Mike Bell.
   </p>
 
   <p>
@@ -45,7 +45,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://msn.foxsports.com/nfl/story/Marshawn-Lynch-traded-to-Seattle-Seahawks-from-Buffalo-Bills">Buffalo Bills</a> traded RB Marshawn Lynch to Seattle Seahawks for a fourth-round pick in the 2011 draft and a conditional (5th or 6th) round pick in the 2012 draft
+    <a href="https://msn.foxsports.com/nfl/story/Marshawn-Lynch-traded-to-Seattle-Seahawks-from-Buffalo-Bills">Buffalo Bills</a> traded RB Marshawn Lynch to Seattle Seahawks for a fourth-round pick in the 2011 draft and a conditional (5th or 6th) round pick in the 2012 draft
   </p>
 
   <p>

@@ -46,6 +46,6 @@ tags:
   </p>
 
   <p>
-    <strong>Update</strong>: <a href="http://sports.espn.go.com/ncaa/news/story?id=5298238">Utah Officially Joins the <del datetime="2010-06-17T19:51:18+00:00">Pac-10</del> Pac-12</a>
+    <strong>Update</strong>: <a href="https://sports.espn.go.com/ncaa/news/story?id=5298238">Utah Officially Joins the <del datetime="2010-06-17T19:51:18+00:00">Pac-10</del> Pac-12</a>
   </p>
 </div>

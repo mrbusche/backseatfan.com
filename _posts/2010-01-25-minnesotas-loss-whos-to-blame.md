@@ -68,7 +68,7 @@ tags:
   </p>
 
   <p>
-    Now, I'm not sure this was the special teams coaches decision, (he may have been put in for his tackling), but why in the world is Cedric Griffin playing special teams? With an injured Antoine Winfield, the last player we need playing (and getting hurt) on special teams in Cedric Griffin. Hisabsencefrom OT was a big factor and now <a href="http://profootballtalk.nbcsports.com/2010/01/25/vikings-fear-cedric-griffin-has-torn-acl/">reports are coming in that he has a torn ACL</a>.
+    Now, I'm not sure this was the special teams coaches decision, (he may have been put in for his tackling), but why in the world is Cedric Griffin playing special teams? With an injured Antoine Winfield, the last player we need playing (and getting hurt) on special teams in Cedric Griffin. Hisabsencefrom OT was a big factor and now <a href="https://profootballtalk.nbcsports.com/2010/01/25/vikings-fear-cedric-griffin-has-torn-acl/">reports are coming in that he has a torn ACL</a>.
   </p>
 
   <p>
@@ -100,6 +100,6 @@ tags:
   </p>
 
   <p>
-    There is a little blame for Favre, a little blame for the WRs and RBs, a little blame on the officiating, special teams coach and the overtime rules, but most of the blame is on Brad Childress and he will probably blame the kicker or the punter. Or as <a href="http://profootballtalk.nbcsports.com/2010/01/25/childress-says-tahi-was-twelfth-man/">profootballtalk is reporting</a>, Childress is singling outNaufahu Tahi as 12th man on the Vikings 3rd down play at the end of the 4th quarter.
+    There is a little blame for Favre, a little blame for the WRs and RBs, a little blame on the officiating, special teams coach and the overtime rules, but most of the blame is on Brad Childress and he will probably blame the kicker or the punter. Or as <a href="https://profootballtalk.nbcsports.com/2010/01/25/childress-says-tahi-was-twelfth-man/">profootballtalk is reporting</a>, Childress is singling outNaufahu Tahi as 12th man on the Vikings 3rd down play at the end of the 4th quarter.
   </p>
 </div>

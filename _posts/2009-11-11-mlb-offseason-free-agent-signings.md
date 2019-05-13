@@ -50,7 +50,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/mlb/news/story?id=4843249">signed by Brewers</a>
+        <a href="https://sports.espn.go.com/mlb/news/story?id=4843249">signed by Brewers</a>
       </td>
 
       <td>
@@ -92,7 +92,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://mlb.mlb.com/news/press_releases/press_release.jsp?ymd=20100127&content_id=7975128&vkey=pr_chc&fext=.jsp&c_id=chc">signed by Cubs</a>
+        <a href="https://mlb.mlb.com/news/press_releases/press_release.jsp?ymd=20100127&content_id=7975128&vkey=pr_chc&fext=.jsp&c_id=chc">signed by Cubs</a>
       </td>
 
       <td>
@@ -113,7 +113,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://ballhype.com/story/washington-nationals-sign-eric-bruntlett-josh/">signed by Nationals</a>
+        <a href="https://ballhype.com/story/washington-nationals-sign-eric-bruntlett-josh/">signed by Nationals</a>
       </td>
 
       <td>
@@ -184,7 +184,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/mlb/news/story?id=4749617">signed by Orioles</a>
+        <a href="https://sports.espn.go.com/mlb/news/story?id=4749617">signed by Orioles</a>
       </td>
 
       <td>
@@ -227,7 +227,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/mlb/news/story?id=4647417">resigned by Braves</a>
+        <a href="https://sports.espn.go.com/mlb/news/story?id=4647417">resigned by Braves</a>
       </td>
 
       <td>
@@ -249,7 +249,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/mlb/news/story?id=4826433">signed by Diamondbacks</a>
+        <a href="https://sports.espn.go.com/mlb/news/story?id=4826433">signed by Diamondbacks</a>
       </td>
 
       <td>
@@ -291,7 +291,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/mlb/news/story?id=4717127">accepted arbitration</a>
+        <a href="https://sports.espn.go.com/mlb/news/story?id=4717127">accepted arbitration</a>
       </td>
 
       <td>
@@ -318,7 +318,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://bleacherreport.com/articles/317757-report-phillies-danys-baez-agree-to-two-year-contract">signed by Phillies</a>
+        <a href="https://bleacherreport.com/articles/317757-report-phillies-danys-baez-agree-to-two-year-contract">signed by Phillies</a>
       </td>
 
       <td>
@@ -339,7 +339,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://en.wikipedia.org/wiki/Brian_Bass">signed by Pirates</a>
+        <a href="https://en.wikipedia.org/wiki/Brian_Bass">signed by Pirates</a>
       </td>
 
       <td>
@@ -360,7 +360,7 @@ tags:
       </td>
 
       <td>
-        <a href="https://www.mlbtraderumors.com/2010/01/orioles-reach-agreement-with-mark-hendrickson.htmlhttp://baltimore.orioles.mlb.com/news/article.jsp?ymd=20100209&content_id=8043714&vkey=news_bal&fext=.jsp&c_id=bal">resigned by Orioles</a>
+        <a href="https://www.mlbtraderumors.com/2010/01/orioles-reach-agreement-with-mark-hendrickson.htmlhttps://baltimore.orioles.mlb.com/news/article.jsp?ymd=20100209&content_id=8043714&vkey=news_bal&fext=.jsp&c_id=bal">resigned by Orioles</a>
       </td>
 
       <td>
@@ -381,7 +381,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://fantasybaseball.usatoday.com/content/player.asp?sport=mlb&id=3055">resigned by Orioles</a>
+        <a href="https://fantasybaseball.usatoday.com/content/player.asp?sport=mlb&id=3055">resigned by Orioles</a>
       </td>
 
       <td>
@@ -430,7 +430,7 @@ tags:
       </td>
 
       <td>
-        s<a href="http://sports.espn.go.com/mlb/news/story?id=4768236">igned by Royals</a>
+        s<a href="https://sports.espn.go.com/mlb/news/story?id=4768236">igned by Royals</a>
       </td>
 
       <td>
@@ -513,7 +513,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/boston/mlb/news/story?id=4691694">signed by Blue Jays</a>
+        <a href="https://sports.espn.go.com/boston/mlb/news/story?id=4691694">signed by Blue Jays</a>
       </td>
 
       <td>
@@ -534,7 +534,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://atlanta.braves.mlb.com/news/press_releases/press_release.jsp?ymd=20091203&content_id=7750584&vkey=pr_atl&fext=.jsp&c_id=atl">signed by Braves</a>
+        <a href="https://atlanta.braves.mlb.com/news/press_releases/press_release.jsp?ymd=20091203&content_id=7750584&vkey=pr_atl&fext=.jsp&c_id=atl">signed by Braves</a>
       </td>
 
       <td>
@@ -555,7 +555,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://pittsburgh.pirates.mlb.com/news/press_releases/press_release.jsp?ymd=20091218&content_id=7830206&vkey=pr_pit&fext=.jsp&c_id=pit">signed by Pirates</a>
+        <a href="https://pittsburgh.pirates.mlb.com/news/press_releases/press_release.jsp?ymd=20091218&content_id=7830206&vkey=pr_pit&fext=.jsp&c_id=pit">signed by Pirates</a>
       </td>
 
       <td>
@@ -577,7 +577,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/mlb/news/story?id=4705811">signed by Braves</a>
+        <a href="https://sports.espn.go.com/mlb/news/story?id=4705811">signed by Braves</a>
       </td>
 
       <td>
@@ -598,7 +598,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://fullcountpitch.com/2010/01/06/mariners-sign-chris-woodward-to-minor-league-contract/">signed by Mariners</a>
+        <a href="https://fullcountpitch.com/2010/01/06/mariners-sign-chris-woodward-to-minor-league-contract/">signed by Mariners</a>
       </td>
 
       <td>
@@ -646,7 +646,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/mlb/news/story?id=4866762">signed by Brewers</a>
+        <a href="https://sports.espn.go.com/mlb/news/story?id=4866762">signed by Brewers</a>
       </td>
 
       <td>
@@ -688,7 +688,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://chicagopressrelease.com/press-releases/chicago-cubs-left-handed-pitcher-john-grabow-agree-to-terms-on-two-year-contract">resigned by Cubs</a>
+        <a href="https://chicagopressrelease.com/press-releases/chicago-cubs-left-handed-pitcher-john-grabow-agree-to-terms-on-two-year-contract">resigned by Cubs</a>
       </td>
 
       <td>
@@ -732,7 +732,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/dallas/mlb/news/story?id=4728983">signed by Rangers</a>
+        <a href="https://sports.espn.go.com/dallas/mlb/news/story?id=4728983">signed by Rangers</a>
       </td>
 
       <td>
@@ -823,7 +823,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://mlb.mlb.com/news/article.jsp?ymd=20100121&content_id=7946886&vkey=news_mlb&fext=.jsp&c_id=mlb">signed by Pirates</a>
+        <a href="https://mlb.mlb.com/news/article.jsp?ymd=20100121&content_id=7946886&vkey=news_mlb&fext=.jsp&c_id=mlb">signed by Pirates</a>
       </td>
 
       <td>
@@ -864,7 +864,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/mlb/news/story?id=4807676&campaign=rss&source=twitter&ex_cid=Twitter_espn_4807676">signed by Royals</a>
+        <a href="https://sports.espn.go.com/mlb/news/story?id=4807676&campaign=rss&source=twitter&ex_cid=Twitter_espn_4807676">signed by Royals</a>
       </td>
 
       <td>
@@ -891,7 +891,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/mlb/news/story?id=4936254">resigned by Reds</a>
+        <a href="https://sports.espn.go.com/mlb/news/story?id=4936254">resigned by Reds</a>
       </td>
 
       <td>
@@ -939,7 +939,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/mlb/news/story?id=4752083">signed by Dodgers</a>
+        <a href="https://sports.espn.go.com/mlb/news/story?id=4752083">signed by Dodgers</a>
       </td>
 
       <td>
@@ -1072,7 +1072,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://twitter.com/mlbtraderumors/statuses/10977902236">resigned by Rockies</a>
+        <a href="https://twitter.com/mlbtraderumors/statuses/10977902236">resigned by Rockies</a>
       </td>
 
       <td>
@@ -1157,7 +1157,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://blogs.denverpost.com/rockies/2010/01/29/turnbow-passes-on-rockies-offer-will-sign-elsewhere/">signed by Mets</a>
+        <a href="https://blogs.denverpost.com/rockies/2010/01/29/turnbow-passes-on-rockies-offer-will-sign-elsewhere/">signed by Mets</a>
       </td>
 
       <td>
@@ -1263,7 +1263,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/mlb/news/story?id=4890453">signed by Padres</a>
+        <a href="https://sports.espn.go.com/mlb/news/story?id=4890453">signed by Padres</a>
       </td>
 
       <td>
@@ -1290,7 +1290,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/mlb/news/story?id=4723297">resigned by Tigers</a>
+        <a href="https://sports.espn.go.com/mlb/news/story?id=4723297">resigned by Tigers</a>
       </td>
 
       <td>
@@ -1333,7 +1333,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://twitter.com/Ken_Rosenthal/statuses/6521686549">signed by Astros</a>
+        <a href="https://twitter.com/Ken_Rosenthal/statuses/6521686549">signed by Astros</a>
       </td>
 
       <td>
@@ -1355,7 +1355,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/mlb/news/story?id=4709838">signed by Phillies</a>
+        <a href="https://sports.espn.go.com/mlb/news/story?id=4709838">signed by Phillies</a>
       </td>
 
       <td>
@@ -1423,7 +1423,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://twitter.com/Ken_Rosenthal/status/8562605716">signed by Dodgers</a>
+        <a href="https://twitter.com/Ken_Rosenthal/status/8562605716">signed by Dodgers</a>
       </td>
 
       <td>
@@ -1466,7 +1466,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/mlb/news/story?id=4831913">signed by Pirates</a>
+        <a href="https://sports.espn.go.com/mlb/news/story?id=4831913">signed by Pirates</a>
       </td>
 
       <td>
@@ -1616,7 +1616,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://mlb.mlb.com/news/article.jsp?ymd=20091216&content_id=7816876&vkey=news_mlb&fext=.jsp&c_id=mlb">signed by Brewers</a>
+        <a href="https://mlb.mlb.com/news/article.jsp?ymd=20091216&content_id=7816876&vkey=news_mlb&fext=.jsp&c_id=mlb">signed by Brewers</a>
       </td>
 
       <td>
@@ -1637,7 +1637,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://blog.taragana.com/sports/2009/12/14/houston-astros-keep-outfielder-jason-michaels-with-800000-1-year-deal-56287/">resigned by Astros</a>
+        <a href="https://blog.taragana.com/sports/2009/12/14/houston-astros-keep-outfielder-jason-michaels-with-800000-1-year-deal-56287/">resigned by Astros</a>
       </td>
 
       <td>
@@ -1659,7 +1659,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://msn.foxsports.com/mlb/story/miguel-tejada-baltimore-orioles-012310">signed by Orioles</a>
+        <a href="https://msn.foxsports.com/mlb/story/miguel-tejada-baltimore-orioles-012310">signed by Orioles</a>
       </td>
 
       <td>
@@ -1681,7 +1681,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/mlb/news/story?id=4827606">signed by Tigers</a>
+        <a href="https://sports.espn.go.com/mlb/news/story?id=4827606">signed by Tigers</a>
       </td>
 
       <td>
@@ -1729,7 +1729,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/mlb/news/story?id=4738924">signed by Blue Jays</a>
+        <a href="https://sports.espn.go.com/mlb/news/story?id=4738924">signed by Blue Jays</a>
       </td>
 
       <td>
@@ -1771,7 +1771,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/mlb/news/story?id=4758681">signed by Athletics</a>
+        <a href="https://sports.espn.go.com/mlb/news/story?id=4758681">signed by Athletics</a>
       </td>
 
       <td>
@@ -1793,7 +1793,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/mlb/news/story?id=4796147">signed by Rockies</a>
+        <a href="https://sports.espn.go.com/mlb/news/story?id=4796147">signed by Rockies</a>
       </td>
 
       <td>
@@ -1841,7 +1841,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://fromthedugout.freedomblogging.com/2010/01/22/jose-arredondo-joins-reds/44567/">signed by Reds</a>
+        <a href="https://fromthedugout.freedomblogging.com/2010/01/22/jose-arredondo-joins-reds/44567/">signed by Reds</a>
       </td>
 
       <td>
@@ -1883,7 +1883,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://fwix.com/nyc/article/c20815ae56/the_kelvim_escobar_signing">signed by Mets</a>
+        <a href="https://fwix.com/nyc/article/c20815ae56/the_kelvim_escobar_signing">signed by Mets</a>
       </td>
 
       <td>
@@ -1904,7 +1904,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/mlb/news/story?id=4725678">signed by Mariners</a>
+        <a href="https://sports.espn.go.com/mlb/news/story?id=4725678">signed by Mariners</a>
       </td>
 
       <td>
@@ -1946,7 +1946,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/boston/mlb/news/story?id=4741437">signed by Red Sox</a>
+        <a href="https://sports.espn.go.com/boston/mlb/news/story?id=4741437">signed by Red Sox</a>
       </td>
 
       <td>
@@ -1988,7 +1988,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://fullcountpitch.com/2009/12/22/rangers-sign-free-agent-lhp-darren-oliver-to-one-year-contract-with-option-for-2011/">signed by Rangers</a>
+        <a href="https://fullcountpitch.com/2009/12/22/rangers-sign-free-agent-lhp-darren-oliver-to-one-year-contract-with-option-for-2011/">signed by Rangers</a>
       </td>
 
       <td>
@@ -2079,7 +2079,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://bleacherreport.com/articles/296585-report-phillies-to-sign-juan-castro">signed by Phillies</a>
+        <a href="https://bleacherreport.com/articles/296585-report-phillies-to-sign-juan-castro">signed by Phillies</a>
       </td>
 
       <td>
@@ -2101,7 +2101,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://arizona.diamondbacks.mlb.com/news/press_releases/press_release.jsp?ymd=20090129&content_id=3781906&vkey=pr_ari&fext=.jsp&c_id=ari">signed by Diamondbacks</a>
+        <a href="https://arizona.diamondbacks.mlb.com/news/press_releases/press_release.jsp?ymd=20090129&content_id=3781906&vkey=pr_ari&fext=.jsp&c_id=ari">signed by Diamondbacks</a>
       </td>
 
       <td>
@@ -2123,7 +2123,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://msn.foxsports.com/mlb/story/orlando-hudson-minnesota-twins-020410">signed by Twins</a>
+        <a href="https://msn.foxsports.com/mlb/story/orlando-hudson-minnesota-twins-020410">signed by Twins</a>
       </td>
 
       <td>
@@ -2165,7 +2165,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/mlb/news/story?id=4752083">resigned by Dodgers</a>
+        <a href="https://sports.espn.go.com/mlb/news/story?id=4752083">resigned by Dodgers</a>
       </td>
 
       <td>
@@ -2250,7 +2250,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/los-angeles/mlb/news/story?id=4846181">resigned by Dodgers</a>
+        <a href="https://sports.espn.go.com/los-angeles/mlb/news/story?id=4846181">resigned by Dodgers</a>
       </td>
 
       <td>
@@ -2291,7 +2291,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/los-angeles/mlb/news/story?id=4846181">signed by Twins</a>
+        <a href="https://sports.espn.go.com/los-angeles/mlb/news/story?id=4846181">signed by Twins</a>
       </td>
 
       <td>
@@ -2312,7 +2312,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/los-angeles/mlb/news/story?id=4882355">resigned by Dodgers</a>
+        <a href="https://sports.espn.go.com/los-angeles/mlb/news/story?id=4882355">resigned by Dodgers</a>
       </td>
 
       <td>
@@ -2334,7 +2334,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/mlb/news/story?id=4727757">signed by Brewers</a>
+        <a href="https://sports.espn.go.com/mlb/news/story?id=4727757">signed by Brewers</a>
       </td>
 
       <td>
@@ -2362,7 +2362,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sportsillustrated.cnn.com/2009/baseball/mlb/12/16/redsox.cameron.ap/index.html">signed by Red Sox</a>
+        <a href="https://sportsillustrated.cnn.com/2009/baseball/mlb/12/16/redsox.cameron.ap/index.html">signed by Red Sox</a>
       </td>
 
       <td>
@@ -2425,7 +2425,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://fantasy.ballhype.com/story/adammccalvy-brewers-re-signed-rhp-mark-difelice-to-a/">resigned by Brewers</a>
+        <a href="https://fantasy.ballhype.com/story/adammccalvy-brewers-re-signed-rhp-mark-difelice-to-a/">resigned by Brewers</a>
       </td>
 
       <td>
@@ -2447,7 +2447,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://bleacherreport.com/articles/309473-late-to-the-party-on-the-jason-kendall-signing">signed by Royals</a>
+        <a href="https://bleacherreport.com/articles/309473-late-to-the-party-on-the-jason-kendall-signing">signed by Royals</a>
       </td>
 
       <td>
@@ -2489,7 +2489,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/mlb/news/story?id=4950505">signed by Cardinals</a>
+        <a href="https://sports.espn.go.com/mlb/news/story?id=4950505">signed by Cardinals</a>
       </td>
 
       <td>
@@ -2531,7 +2531,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://fullcountpitch.com/2009/12/09/mariners-sign-corey-patterson-to-minor-league-contract/">signed by Mariners</a>
+        <a href="https://fullcountpitch.com/2009/12/09/mariners-sign-corey-patterson-to-minor-league-contract/">signed by Mariners</a>
       </td>
 
       <td>
@@ -2642,7 +2642,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/mlb/news/story?id=4874353">signed by Reds</a>
+        <a href="https://sports.espn.go.com/mlb/news/story?id=4874353">signed by Reds</a>
       </td>
 
       <td>
@@ -2752,7 +2752,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://americaspasttime86.blogspot.com/2009/12/lance-broadway-signed-minor-league.html">signed by Blue Jays</a>
+        <a href="https://americaspasttime86.blogspot.com/2009/12/lance-broadway-signed-minor-league.html">signed by Blue Jays</a>
       </td>
 
       <td>
@@ -2773,7 +2773,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://newyork.mets.mlb.com/news/press_releases/press_release.jsp?ymd=20091130&content_id=7731462&vkey=pr_nym&fext=.jsp&c_id=nym">resigned by Mets</a>
+        <a href="https://newyork.mets.mlb.com/news/press_releases/press_release.jsp?ymd=20091130&content_id=7731462&vkey=pr_nym&fext=.jsp&c_id=nym">resigned by Mets</a>
       </td>
 
       <td>
@@ -2896,7 +2896,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://americaspasttime86.blogspot.com/2010/01/jeremy-reed-signed-minor-league.html">signed by Blue Jays</a>
+        <a href="https://americaspasttime86.blogspot.com/2010/01/jeremy-reed-signed-minor-league.html">signed by Blue Jays</a>
       </td>
 
       <td>
@@ -2917,7 +2917,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/mlb/news/story?id=4703725">signed by Phillies</a>
+        <a href="https://sports.espn.go.com/mlb/news/story?id=4703725">signed by Phillies</a>
       </td>
 
       <td>
@@ -2978,7 +2978,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://newyork.mets.mlb.com/news/press_releases/press_release.jsp?ymd=20100129&content_id=7997586&vkey=pr_nym&fext=.jsp&c_id=nym">resigned by Mets</a>
+        <a href="https://newyork.mets.mlb.com/news/press_releases/press_release.jsp?ymd=20100129&content_id=7997586&vkey=pr_nym&fext=.jsp&c_id=nym">resigned by Mets</a>
       </td>
 
       <td>
@@ -3006,7 +3006,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/mlb/news/story?id=4931560&campaign=rss&source=twitter&ex_cid=Twitter_espn_4931560">signed by Tigers</a>
+        <a href="https://sports.espn.go.com/mlb/news/story?id=4931560&campaign=rss&source=twitter&ex_cid=Twitter_espn_4931560">signed by Tigers</a>
       </td>
 
       <td>
@@ -3048,7 +3048,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://bases.nbcsports.com/2010/01/no-the-braves-will-not-be-signing-johnny-damon.html.php">signed by Braves</a>
+        <a href="https://bases.nbcsports.com/2010/01/no-the-braves-will-not-be-signing-johnny-damon.html.php">signed by Braves</a>
       </td>
 
       <td>
@@ -3090,7 +3090,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://mlb.mlb.com/news/article.jsp?ymd=20100219&content_id=8098540&vkey=news_mlb&fext=.jsp&c_id=mlb">signed by Blue Jays</a>
+        <a href="https://mlb.mlb.com/news/article.jsp?ymd=20100219&content_id=8098540&vkey=news_mlb&fext=.jsp&c_id=mlb">signed by Blue Jays</a>
       </td>
 
       <td>
@@ -3112,7 +3112,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sportsillustrated.cnn.com/2010/baseball/mlb/01/26/cubs.nady/index.html">signed by Cubs</a>
+        <a href="https://sportsillustrated.cnn.com/2010/baseball/mlb/01/26/cubs.nady/index.html">signed by Cubs</a>
       </td>
 
       <td>
@@ -3134,7 +3134,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/mlb/news/story?id=4727385">resigned by Yankees</a>
+        <a href="https://sports.espn.go.com/mlb/news/story?id=4727385">resigned by Yankees</a>
       </td>
 
       <td>
@@ -3155,7 +3155,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/mlb/news/story?id=4918836">signed by Nationals</a>
+        <a href="https://sports.espn.go.com/mlb/news/story?id=4918836">signed by Nationals</a>
       </td>
 
       <td>
@@ -3182,7 +3182,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/mlb/news/story?id=4731283">signed by Pirates</a>
+        <a href="https://sports.espn.go.com/mlb/news/story?id=4731283">signed by Pirates</a>
       </td>
 
       <td>
@@ -3246,7 +3246,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/boston/mlb/news/story?id=4981701">retired</a>
+        <a href="https://sports.espn.go.com/boston/mlb/news/story?id=4981701">retired</a>
       </td>
 
       <td>
@@ -3355,7 +3355,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://ca.sports.yahoo.com/mlb/news?slug=ap-twins-condrey">signed by Twins</a>
+        <a href="https://ca.sports.yahoo.com/mlb/news?slug=ap-twins-condrey">signed by Twins</a>
       </td>
 
       <td>
@@ -3438,7 +3438,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/mlb/news/story?id=4809540">signed by Astros</a>
+        <a href="https://sports.espn.go.com/mlb/news/story?id=4809540">signed by Astros</a>
       </td>
 
       <td>
@@ -3481,7 +3481,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://blog.taragana.com/sports/2010/01/23/matt-stairs-padres-agree-to-minor-league-deal-68510/">signed by Padres</a>
+        <a href="https://blog.taragana.com/sports/2010/01/23/matt-stairs-padres-agree-to-minor-league-deal-68510/">signed by Padres</a>
       </td>
 
       <td>
@@ -3508,7 +3508,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sportsillustrated.cnn.com/2009/baseball/mlb/12/24/capps.nationals.ap/index.html">signed by Nationals</a>
+        <a href="https://sportsillustrated.cnn.com/2009/baseball/mlb/12/24/capps.nationals.ap/index.html">signed by Nationals</a>
       </td>
 
       <td>
@@ -3557,7 +3557,7 @@ tags:
       </td>
 
       <td>
-        <a href="https://www.mlbtraderumors.com/2010/02/dodgers-sign-brian-giles.html">signed by Dodgers</a>/<a href="http://latimesblogs.latimes.com/dodgers/2010/03/brian-giles-the-dodger-experiment-comes-to-a-close-with-his-retirement.html">Retired</a>
+        <a href="https://www.mlbtraderumors.com/2010/02/dodgers-sign-brian-giles.html">signed by Dodgers</a>/<a href="https://latimesblogs.latimes.com/dodgers/2010/03/brian-giles-the-dodger-experiment-comes-to-a-close-with-his-retirement.html">Retired</a>
       </td>
 
       <td>
@@ -3599,7 +3599,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://mlb.mlb.com/news/article.jsp?ymd=20100107&content_id=7889874&vkey=news_mlb&fext=.jsp&c_id=mlb">signed by Padres</a>
+        <a href="https://mlb.mlb.com/news/article.jsp?ymd=20100107&content_id=7889874&vkey=news_mlb&fext=.jsp&c_id=mlb">signed by Padres</a>
       </td>
 
       <td>
@@ -3646,7 +3646,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/mlb/news/story?id=4877106">signed by Mariners</a>
+        <a href="https://sports.espn.go.com/mlb/news/story?id=4877106">signed by Mariners</a>
       </td>
 
       <td>
@@ -3690,7 +3690,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/mlb/news/story?id=4799462">retired</a>
+        <a href="https://sports.espn.go.com/mlb/news/story?id=4799462">retired</a>
       </td>
 
       <td>
@@ -3712,7 +3712,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/mlb/news/story?id=4840141">resigned by Giants</a>
+        <a href="https://sports.espn.go.com/mlb/news/story?id=4840141">resigned by Giants</a>
       </td>
 
       <td>
@@ -3733,7 +3733,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/mlb/news/story?id=4723282">signed by Cardinals</a>
+        <a href="https://sports.espn.go.com/mlb/news/story?id=4723282">signed by Cardinals</a>
       </td>
 
       <td>
@@ -3776,7 +3776,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://nbcsports.msnbc.com/id/35105725/ns/sports-player_news/">signed by Yankees</a>
+        <a href="https://nbcsports.msnbc.com/id/35105725/ns/sports-player_news/">signed by Yankees</a>
       </td>
 
       <td>
@@ -3825,7 +3825,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://seattletimes.nwsource.com/html/mariners/2010996285_mari06.html">signed by Mariners</a>
+        <a href="https://seattletimes.nwsource.com/html/mariners/2010996285_mari06.html">signed by Mariners</a>
       </td>
 
       <td>
@@ -3847,7 +3847,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/boston/mlb/news/story?id=4795915">signed by Red Sox</a>
+        <a href="https://sports.espn.go.com/boston/mlb/news/story?id=4795915">signed by Red Sox</a>
       </td>
 
       <td>
@@ -3868,7 +3868,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://nbcsports.msnbc.com/id/35484616/ns/sports-player_news/">signed by Indians</a>
+        <a href="https://nbcsports.msnbc.com/id/35484616/ns/sports-player_news/">signed by Indians</a>
       </td>
 
       <td>
@@ -3889,7 +3889,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://nbcsports.msnbc.com/id/35413198/ns/sports-player_news/">signed by Rangers</a>
+        <a href="https://nbcsports.msnbc.com/id/35413198/ns/sports-player_news/">signed by Rangers</a>
       </td>
 
       <td>
@@ -3910,7 +3910,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://seattletimes.nwsource.com/html/marinersblog/2010540916_ryan_langerhans_gets_one-year.html">resigned by Mariners</a>
+        <a href="https://seattletimes.nwsource.com/html/marinersblog/2010540916_ryan_langerhans_gets_one-year.html">resigned by Mariners</a>
       </td>
 
       <td>
@@ -3953,7 +3953,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://seattletimes.nwsource.com/html/mariners/2010270314_mari14.html">resigned by Mariners</a>
+        <a href="https://seattletimes.nwsource.com/html/mariners/2010270314_mari14.html">resigned by Mariners</a>
       </td>
 
       <td>
@@ -3980,7 +3980,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/mlb/news/story?id=4848252">signed by Royals</a>
+        <a href="https://sports.espn.go.com/mlb/news/story?id=4848252">signed by Royals</a>
       </td>
 
       <td>
@@ -4001,7 +4001,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/mlb/news/story?id=4776911">signed by Giants</a>
+        <a href="https://sports.espn.go.com/mlb/news/story?id=4776911">signed by Giants</a>
       </td>
 
       <td>
@@ -4022,7 +4022,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/mlb/news/story?id=4767894">signed by Braves</a>
+        <a href="https://sports.espn.go.com/mlb/news/story?id=4767894">signed by Braves</a>
       </td>
 
       <td>
@@ -4043,7 +4043,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://content.usatoday.com/communities/dailypitch/post/2010/02/rangers-void-greenes-contract/1">contract voided</a>, still FA
+        <a href="https://content.usatoday.com/communities/dailypitch/post/2010/02/rangers-void-greenes-contract/1">contract voided</a>, still FA
       </td>
 
       <td>
@@ -4064,7 +4064,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/mlb/news/story?id=4799313">resigned by Cardinals</a>
+        <a href="https://sports.espn.go.com/mlb/news/story?id=4799313">resigned by Cardinals</a>
       </td>
 
       <td>
@@ -4106,7 +4106,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/los-angeles/mlb/news/story?id=4843796">signed by Angels</a>
+        <a href="https://sports.espn.go.com/los-angeles/mlb/news/story?id=4843796">signed by Angels</a>
       </td>
 
       <td>
@@ -4232,7 +4232,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://twitter.com/Ken_Rosenthal/status/8520802670">signed by Red Sox</a>
+        <a href="https://twitter.com/Ken_Rosenthal/status/8520802670">signed by Red Sox</a>
       </td>
 
       <td>
@@ -4337,7 +4337,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/mlb/news/story?id=4714028">signed by Brewers</a>
+        <a href="https://sports.espn.go.com/mlb/news/story?id=4714028">signed by Brewers</a>
       </td>
 
       <td>
@@ -4407,7 +4407,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/chicago/mlb/news/story?id=4785125">signed by Cubs</a>
+        <a href="https://sports.espn.go.com/chicago/mlb/news/story?id=4785125">signed by Cubs</a>
       </td>
 
       <td>
@@ -4449,7 +4449,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/chicago/mlb/news/story?id=4689589">signed by White Sox</a>
+        <a href="https://sports.espn.go.com/chicago/mlb/news/story?id=4689589">signed by White Sox</a>
       </td>
 
       <td>
@@ -4471,7 +4471,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/mlb/news/story?id=4723927">signed by Nationals</a>
+        <a href="https://sports.espn.go.com/mlb/news/story?id=4723927">signed by Nationals</a>
       </td>
 
       <td>
@@ -4520,7 +4520,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/mlb/news/story?id=4931241">signed by Mets</a>
+        <a href="https://sports.espn.go.com/mlb/news/story?id=4931241">signed by Mets</a>
       </td>
 
       <td>
@@ -4562,7 +4562,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://toronto.bluejays.mlb.com/news/press_releases/press_release.jsp?ymd=20091125&content_id=7719764&vkey=pr_tor&fext=.jsp&c_id=tor">resigned by Blue Jays</a>
+        <a href="https://toronto.bluejays.mlb.com/news/press_releases/press_release.jsp?ymd=20091125&content_id=7719764&vkey=pr_tor&fext=.jsp&c_id=tor">resigned by Blue Jays</a>
       </td>
 
       <td>
@@ -4605,7 +4605,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/boston/mlb/news/story?id=4711874">signed by Red Sox</a>
+        <a href="https://sports.espn.go.com/boston/mlb/news/story?id=4711874">signed by Red Sox</a>
       </td>
 
       <td>
@@ -4632,7 +4632,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://seattletimes.nwsource.com/html/marinersblog/2010615806_mariners_sign_josh_bard_chad_c.html">signed by Mariners</a>
+        <a href="https://seattletimes.nwsource.com/html/marinersblog/2010615806_mariners_sign_josh_bard_chad_c.html">signed by Mariners</a>
       </td>
 
       <td>
@@ -4737,7 +4737,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://mlb.mlb.com/news/article.jsp?ymd=20100217&content_id=8087358&vkey=news_mlb&fext=.jsp&c_id=mlb">resigned by Nationals</a>
+        <a href="https://mlb.mlb.com/news/article.jsp?ymd=20100217&content_id=8087358&vkey=news_mlb&fext=.jsp&c_id=mlb">resigned by Nationals</a>
       </td>
 
       <td>
@@ -4758,7 +4758,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://bleacherreport.com/articles/365988-big-d-retires">retired</a>
+        <a href="https://bleacherreport.com/articles/365988-big-d-retires">retired</a>
       </td>
 
       <td>
@@ -4806,7 +4806,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/mlb/news/story?id=4813486">signed by Reds</a>
+        <a href="https://sports.espn.go.com/mlb/news/story?id=4813486">signed by Reds</a>
       </td>
 
       <td>
@@ -4881,7 +4881,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://fantasy.ballhype.com/story/rays-ink-1b-johnson-to-1-year-contract-dan-johnson-1b/">signed by Rays</a>
+        <a href="https://fantasy.ballhype.com/story/rays-ink-1b-johnson-to-1-year-contract-dan-johnson-1b/">signed by Rays</a>
       </td>
 
       <td>
@@ -4902,7 +4902,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://hardballtalk.nbcsports.com/2010/01/rangers-take-5-million-gamble-on-colby-lewis-return-from-japan.html.php">signed by Rangers</a>
+        <a href="https://hardballtalk.nbcsports.com/2010/01/rangers-take-5-million-gamble-on-colby-lewis-return-from-japan.html.php">signed by Rangers</a>
       </td>
 
       <td>
@@ -4929,7 +4929,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://mlb.mlb.com/news/article.jsp?ymd=20100118&content_id=7933102&vkey=news_mlb&fext=.jsp&c_id=mlb">signed by Rangers</a>
+        <a href="https://mlb.mlb.com/news/article.jsp?ymd=20100118&content_id=7933102&vkey=news_mlb&fext=.jsp&c_id=mlb">signed by Rangers</a>
       </td>
 
       <td>
@@ -4956,7 +4956,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://frugaltraveler.blogs.nytimes.com/2010/02/16/click-it-and-ticket-booking-a-flight-the-frugal-way/">signed by Dodgers</a>
+        <a href="https://frugaltraveler.blogs.nytimes.com/2010/02/16/click-it-and-ticket-booking-a-flight-the-frugal-way/">signed by Dodgers</a>
       </td>
 
       <td>
@@ -4977,7 +4977,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://fullcountpitch.com/2010/01/12/indians-sign-mark-grudzielanek/">signed by Indians</a>
+        <a href="https://fullcountpitch.com/2010/01/12/indians-sign-mark-grudzielanek/">signed by Indians</a>
       </td>
 
       <td>
@@ -5047,6 +5047,7 @@ tags:
         2/23/2010
       </td>
     </tr>
+
   </table>
 
   <p>

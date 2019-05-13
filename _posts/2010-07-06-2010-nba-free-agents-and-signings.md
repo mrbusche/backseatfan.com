@@ -67,7 +67,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/nba/news/story?id=5368003">Sign/trade with Heat (6 years, $110.1M)</a>
+        <a href="https://sports.espn.go.com/nba/news/story?id=5368003">Sign/trade with Heat (6 years, $110.1M)</a>
       </td>
     </tr>
 
@@ -89,7 +89,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/nba/news/story?id=5368003">Signed with Heat (6 years, $107.5M)</a>
+        <a href="https://sports.espn.go.com/nba/news/story?id=5368003">Signed with Heat (6 years, $107.5M)</a>
       </td>
     </tr>
 
@@ -111,7 +111,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/nba/news/story?id=5368003">Sign/trade with Heat (6 years, $110.1M)</a>
+        <a href="https://sports.espn.go.com/nba/news/story?id=5368003">Sign/trade with Heat (6 years, $110.1M)</a>
       </td>
     </tr>
 
@@ -133,7 +133,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sportsillustrated.cnn.com/2010/writers/chris_mannix/07/05/pierce.nowitzki.free.agency/">Signed with Mavericks (4 years, $80M)</a>
+        <a href="https://sportsillustrated.cnn.com/2010/writers/chris_mannix/07/05/pierce.nowitzki.free.agency/">Signed with Mavericks (4 years, $80M)</a>
       </td>
     </tr>
 
@@ -221,7 +221,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/chicago/nba/news/story?id=5361792">Signed with Bulls (5 years, $80M)</a>
+        <a href="https://sports.espn.go.com/chicago/nba/news/story?id=5361792">Signed with Bulls (5 years, $80M)</a>
       </td>
     </tr>
 
@@ -243,7 +243,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www2.timesdispatch.com/sports/2010/jul/10/NBAN10-ar-287213/">Sign/trade to Warriors (6 years, $80M)</a>
+        <a href="https://www2.timesdispatch.com/sports/2010/jul/10/NBAN10-ar-287213/">Sign/trade to Warriors (6 years, $80M)</a>
       </td>
     </tr>
 
@@ -265,7 +265,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sportsillustrated.cnn.com/2010/writers/chris_mannix/07/05/pierce.nowitzki.free.agency/">Signed contract with Celtics (4 years, $61 M)</a>
+        <a href="https://sportsillustrated.cnn.com/2010/writers/chris_mannix/07/05/pierce.nowitzki.free.agency/">Signed contract with Celtics (4 years, $61 M)</a>
       </td>
     </tr>
 
@@ -331,7 +331,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/nba/news/story?id=5349332">Accepts terms with Bucks (5 years, $39 M)</a>
+        <a href="https://sports.espn.go.com/nba/news/story?id=5349332">Accepts terms with Bucks (5 years, $39 M)</a>
       </td>
     </tr>
 
@@ -353,7 +353,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/nba/news/story?id=5367718">Signed with Bobcats (5 years, $40M)</a>
+        <a href="https://sports.espn.go.com/nba/news/story?id=5367718">Signed with Bobcats (5 years, $40M)</a>
       </td>
     </tr>
 
@@ -419,7 +419,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/chicago/nba/news/story?id=5368470">Signed offer sheet from Bulls (3 years, $20M)</a>
+        <a href="https://sports.espn.go.com/chicago/nba/news/story?id=5368470">Signed offer sheet from Bulls (3 years, $20M)</a>
       </td>
     </tr>
 
@@ -441,7 +441,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://probasketballtalk.nbcsports.com/2010/07/jermaine-oneal-nears-a-deal-with-the-boston-celtics.php">Signed with Celtics (2 years, $12M)</a>
+        <a href="https://probasketballtalk.nbcsports.com/2010/07/jermaine-oneal-nears-a-deal-with-the-boston-celtics.php">Signed with Celtics (2 years, $12M)</a>
       </td>
     </tr>
 
@@ -463,7 +463,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://bleacherreport.com/articles/417354-nba-free-agency-drew-gooden-and-john-salmons-sign-with-the-bucks">Signed with Bucks (5 years, $32 M)</a>
+        <a href="https://bleacherreport.com/articles/417354-nba-free-agency-drew-gooden-and-john-salmons-sign-with-the-bucks">Signed with Bucks (5 years, $32 M)</a>
       </td>
     </tr>
 
@@ -485,7 +485,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://nba.fanhouse.com/2010/07/08/heat-offer-mike-miller-5-year-deal-confident-lebron/">Signed with Heat (5 years, $30M)</a>
+        <a href="https://nba.fanhouse.com/2010/07/08/heat-offer-mike-miller-5-year-deal-confident-lebron/">Signed with Heat (5 years, $30M)</a>
       </td>
     </tr>
 
@@ -507,7 +507,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://valleyofthesuns.com/2010/07/09/home-is-where-the-heart-is-for-channing-frye/">Signed with Suns (5 years, $32 M)</a>
+        <a href="https://valleyofthesuns.com/2010/07/09/home-is-where-the-heart-is-for-channing-frye/">Signed with Suns (5 years, $32 M)</a>
       </td>
     </tr>
 
@@ -529,7 +529,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://bleacherreport.com/articles/418233-kleiza-signs-raptors-offer-sheet">Signed offer sheet from Raptors (4 yeras, $18M)</a>
+        <a href="https://bleacherreport.com/articles/418233-kleiza-signs-raptors-offer-sheet">Signed offer sheet from Raptors (4 yeras, $18M)</a>
       </td>
     </tr>
 
@@ -573,7 +573,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://lakersblog.latimes.com/lakersblog/2010/07/lakers-sign-steve-blake.html">Signed with Lakers (4 years, $16M)</a>
+        <a href="https://lakersblog.latimes.com/lakersblog/2010/07/lakers-sign-steve-blake.html">Signed with Lakers (4 years, $16M)</a>
       </td>
     </tr>
 
@@ -595,7 +595,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/los-angeles/nba/columns/story?id=5366060">Signed with Clippers (2 years, $8M)</a>
+        <a href="https://sports.espn.go.com/los-angeles/nba/columns/story?id=5366060">Signed with Clippers (2 years, $8M)</a>
       </td>
     </tr>
 
@@ -617,7 +617,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://bleacherreport.com/articles/418146-bulls-and-suns-complete-sign-and-trade">Signed with Suns (4 years, $18 M)</a>
+        <a href="https://bleacherreport.com/articles/418146-bulls-and-suns-complete-sign-and-trade">Signed with Suns (4 years, $18 M)</a>
       </td>
     </tr>
 
@@ -727,7 +727,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.yahoo.com/nba/blog/ball_dont_lie/post/Al-Harrington-to-the-Nuggets-Ridnour-signs-with?urn=nba,256216">Signed with Nuggets (5 years, $34M)</a>
+        <a href="https://sports.yahoo.com/nba/blog/ball_dont_lie/post/Al-Harrington-to-the-Nuggets-Ridnour-signs-with?urn=nba,256216">Signed with Nuggets (5 years, $34M)</a>
       </td>
     </tr>
 
@@ -771,7 +771,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.yahoo.com/nba/blog/ball_dont_lie/post/Al-Harrington-to-the-Nuggets-Ridnour-signs-with?urn=nba,256216">Signed with TWolves (4 years, $16M)</a>
+        <a href="https://sports.yahoo.com/nba/blog/ball_dont_lie/post/Al-Harrington-to-the-Nuggets-Ridnour-signs-with?urn=nba,256216">Signed with TWolves (4 years, $16M)</a>
       </td>
     </tr>
 
@@ -815,7 +815,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://lakersblog.latimes.com/lakersblog/2010/07/jordan-farmar-said-sunday-that-he-has-gotten-an-offer-from-the-new-jersey-nets-but-he-hasnt-signed-a-contract-yet--farmar.html">Signed with Nets (3 years, $12M)</a>
+        <a href="https://lakersblog.latimes.com/lakersblog/2010/07/jordan-farmar-said-sunday-that-he-has-gotten-an-offer-from-the-new-jersey-nets-but-he-hasnt-signed-a-contract-yet--farmar.html">Signed with Nets (3 years, $12M)</a>
       </td>
     </tr>
 
@@ -837,7 +837,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://dc.sbnation.com/2010/7/14/1569663/shaun-livingston-bobcats-signs-contract-wizards-free-agent">Signed with Bobcats (2 years, $7M)</a>
+        <a href="https://dc.sbnation.com/2010/7/14/1569663/shaun-livingston-bobcats-signs-contract-wizards-free-agent">Signed with Bobcats (2 years, $7M)</a>
       </td>
     </tr>
 
@@ -881,7 +881,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://nba.fanhouse.com/2010/07/14/portland-bound-matthews-surprised-jazz-didnt-match/">Signed offer sheet with Blazers (5 years, $34M)</a>
+        <a href="https://nba.fanhouse.com/2010/07/14/portland-bound-matthews-surprised-jazz-didnt-match/">Signed offer sheet with Blazers (5 years, $34M)</a>
       </td>
     </tr>
 
@@ -903,7 +903,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/chicago/nba/news/story?id=5367796">Signed with Bulls (3 years, $15M)</a>
+        <a href="https://sports.espn.go.com/chicago/nba/news/story?id=5367796">Signed with Bulls (3 years, $15M)</a>
       </td>
     </tr>
 
@@ -925,7 +925,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://nba.fanhouse.com/2010/07/16/ronnie-brewer-to-join-the-bulls/">Signed with Bulls (3 years, $12.5M)</a>
+        <a href="https://nba.fanhouse.com/2010/07/16/ronnie-brewer-to-join-the-bulls/">Signed with Bulls (3 years, $12.5M)</a>
       </td>
     </tr>
 
@@ -969,7 +969,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/nba/news/story?id=5398896">Signed with Spurs (4 years, $39M)</a>
+        <a href="https://sports.espn.go.com/nba/news/story?id=5398896">Signed with Spurs (4 years, $39M)</a>
       </td>
     </tr>
 
@@ -991,7 +991,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/nba/news/story?id=5396492">Signed with Rockets (3 years, $15M)</a>
+        <a href="https://sports.espn.go.com/nba/news/story?id=5396492">Signed with Rockets (3 years, $15M)</a>
       </td>
     </tr>
 
@@ -1011,7 +1011,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/nba/news/story?id=5396136">Signed with Heat (1 year, $1.4M)</a>
+        <a href="https://sports.espn.go.com/nba/news/story?id=5396136">Signed with Heat (1 year, $1.4M)</a>
       </td>
     </tr>
 
@@ -1033,7 +1033,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/los-angeles/nba/news/story?id=5403111">Signed with Lakers (2 years, $3.6M)</a>
+        <a href="https://sports.espn.go.com/los-angeles/nba/news/story?id=5403111">Signed with Lakers (2 years, $3.6M)</a>
       </td>
     </tr>
 
@@ -1053,7 +1053,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/nba/news/story?id=5390603">Signed with Heat (1 year, $1M)</a>
+        <a href="https://sports.espn.go.com/nba/news/story?id=5390603">Signed with Heat (1 year, $1M)</a>
       </td>
     </tr>
 
@@ -1073,7 +1073,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/boston/nba/news/story?id=5411781">Signed with celtics (1 year, $2.5M)</a>
+        <a href="https://sports.espn.go.com/boston/nba/news/story?id=5411781">Signed with celtics (1 year, $2.5M)</a>
       </td>
     </tr>
 
@@ -1093,7 +1093,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/los-angeles/nba/news/story?id=5393615">Signed with Cavs</a>
+        <a href="https://sports.espn.go.com/los-angeles/nba/news/story?id=5393615">Signed with Cavs</a>
       </td>
     </tr>
 
@@ -1135,7 +1135,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/boston/nba/news/story?id=5438003">Signed with Celtics</a>
+        <a href="https://sports.espn.go.com/boston/nba/news/story?id=5438003">Signed with Celtics</a>
       </td>
     </tr>
 
@@ -1368,5 +1368,6 @@ tags:
         Unrestricted free agent
       </td>
     </tr>
+
   </table>
 </div>

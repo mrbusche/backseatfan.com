@@ -17,7 +17,7 @@ tags:
 
 <div class="entry">
   <p>
-    Profootballtalk.com has an <a href="http://profootballtalk.nbcsports.com/2010/12/01/andre-johnson-suspension-wouldnt-have-kept-him-off-the-field-on-thursday/">excellent article</a> on why Andre Johnson still would have played on Thursday, even if he were suspended for <a href="https://backseatfan.com/2010/11/andre-johnson-fight/">fighting on Sunday</a>.
+    Profootballtalk.com has an <a href="https://profootballtalk.nbcsports.com/2010/12/01/andre-johnson-suspension-wouldnt-have-kept-him-off-the-field-on-thursday/">excellent article</a> on why Andre Johnson still would have played on Thursday, even if he were suspended for <a href="https://backseatfan.com/2010/11/andre-johnson-fight/">fighting on Sunday</a>.
   </p>
 
   <p>

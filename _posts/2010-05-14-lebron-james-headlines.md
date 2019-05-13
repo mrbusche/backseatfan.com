@@ -21,7 +21,7 @@ tags:
   </p>
 
   <p>
-    New York Post - <a href="http://newyorkpost.com/p/sports/knicks/ouster_may_make_TtsgQ8KAZsq6Z8nB7CiQWP">Bring on The King</a><br /> LA Times - <a href="https://www.latimes.com/sports/la-sp-celtics-cavaliers-20100514,0,2642179.story">Celtics send Cavaliers — and LeBron James? — packing</a><br /> New York Times - <a href="https://www.nytimes.com/2010/05/14/sports/basketball/14celtics.html?ref=sports">Cavs’ Run Ends; Uncertainty Starts</a><br /> ESPN.com - <a href="http://espn.go.com/nba/dailydime/_/page/dime-100513/daily-dime">Over ? And Out?</a><br /> The Star Ledger - <a href="https://www.nj.com/knicks/index.ssf/2010/05/politi_no_reason_for_new_york.html">Politi: LeBron James is not worth Knicks groveling over</a>
+    New York Post - <a href="https://newyorkpost.com/p/sports/knicks/ouster_may_make_TtsgQ8KAZsq6Z8nB7CiQWP">Bring on The King</a><br /> LA Times - <a href="https://www.latimes.com/sports/la-sp-celtics-cavaliers-20100514,0,2642179.story">Celtics send Cavaliers — and LeBron James? — packing</a><br /> New York Times - <a href="https://www.nytimes.com/2010/05/14/sports/basketball/14celtics.html?ref=sports">Cavs’ Run Ends; Uncertainty Starts</a><br /> ESPN.com - <a href="https://espn.go.com/nba/dailydime/_/page/dime-100513/daily-dime">Over ? And Out?</a><br /> The Star Ledger - <a href="https://www.nj.com/knicks/index.ssf/2010/05/politi_no_reason_for_new_york.html">Politi: LeBron James is not worth Knicks groveling over</a>
   </p>
 
   <p>

@@ -31,7 +31,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://blogmaverick.com/2010/08/05/chasing-the-rangers/">Mark Cuban's thoughts on going after the Texas Rangers</a>? Cuban always has a few good things to say, I can't wait until he finally gets a MLB team?[via <a href="http://blogmaverick.com/2010/08/05/chasing-the-rangers/">Blog Maverick</a>]
+    <a href="https://blogmaverick.com/2010/08/05/chasing-the-rangers/">Mark Cuban's thoughts on going after the Texas Rangers</a>? Cuban always has a few good things to say, I can't wait until he finally gets a MLB team?[via <a href="https://blogmaverick.com/2010/08/05/chasing-the-rangers/">Blog Maverick</a>]
   </p>
 
   <p>
