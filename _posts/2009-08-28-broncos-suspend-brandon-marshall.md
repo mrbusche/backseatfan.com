@@ -21,11 +21,11 @@ tags:
   </p>
 
   <p>
-    According to ESPNs <a href="http://twitter.com/Adam_Schefter/status/3603881869">Adam Schefter</a>, Marshall will only be suspended for the rest of the preseason. If he shows better judgement during that time he could then return for the regular season opener.
+    According to ESPNs <a href="https://twitter.com/Adam_Schefter/status/3603881869">Adam Schefter</a>, Marshall will only be suspended for the rest of the preseason. If he shows better judgement during that time he could then return for the regular season opener.
   </p>
 
   <p>
-    Marshall was <a href="http://espn.go.com/video/clip?id=4428180&categoryid=2378529">interviewed </a>by ESPN's Trey Wingo Thursday night and Marshall said he was not trying to force a trade through his insubordination. He said he was frustrated with the situation and he lost it during practice. On Thursday we posted a link to the<a href="https://backseatfan.com/index.php/2009/08/brandon-marshall-is-an-idiot/">video </a>of Marshall dogging it at practice and that's putting it lightly. Acting like a complete idiot would be more accurate.
+    Marshall was <a href="https://espn.go.com/video/clip?id=4428180&categoryid=2378529">interviewed </a>by ESPN's Trey Wingo Thursday night and Marshall said he was not trying to force a trade through his insubordination. He said he was frustrated with the situation and he lost it during practice. On Thursday we posted a link to the<a href="https://backseatfan.com/index.php/2009/08/brandon-marshall-is-an-idiot/">video </a>of Marshall dogging it at practice and that's putting it lightly. Acting like a complete idiot would be more accurate.
   </p>
 
   <p>
@@ -33,7 +33,7 @@ tags:
   </p>
 
   <p>
-    It's good to see McDaniels doing his best to prevent the Broncos from turning into the Raiders or the Bengals and taking care of this situation. The last thing the first year coach needs is more distractions. It would be nice if someone who is more famous than Marshall could talk some sense into him like<a href="http://content.usatoday.com/communities/thehuddle/index/2009/07/denzel-washington-to-chad-ochocinco-straighten-up-and-stop-fussin.html"> Denzel Washington</a> did with Chad OchoCinco.
+    It's good to see McDaniels doing his best to prevent the Broncos from turning into the Raiders or the Bengals and taking care of this situation. The last thing the first year coach needs is more distractions. It would be nice if someone who is more famous than Marshall could talk some sense into him like<a href="https://content.usatoday.com/communities/thehuddle/index/2009/07/denzel-washington-to-chad-ochocinco-straighten-up-and-stop-fussin.html"> Denzel Washington</a> did with Chad OchoCinco.
   </p>
 
   <p>

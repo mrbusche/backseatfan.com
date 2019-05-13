@@ -44,11 +44,11 @@ tags:
   </p>
 
   <p>
-    <a href="http://msn.foxsports.com/golf/story/Louis-Oosthuizen-wins-British-Open-in-rout-71810">Louis Oosthuizen won the  British Open</a>? Who? Once balls start rolling off the greens because of the wind it is anyone's game?  [via <a href="http://msn.foxsports.com/golf/story/Louis-Oosthuizen-wins-British-Open-in-rout-71810">Fox Sports</a>]
+    <a href="https://msn.foxsports.com/golf/story/Louis-Oosthuizen-wins-British-Open-in-rout-71810">Louis Oosthuizen won the  British Open</a>? Who? Once balls start rolling off the greens because of the wind it is anyone's game?  [via <a href="https://msn.foxsports.com/golf/story/Louis-Oosthuizen-wins-British-Open-in-rout-71810">Fox Sports</a>]
   </p>
 
   <p>
-    <a href="http://espn.go.com/espn/page2/index?id=5392552">James Gammon</a>, the Coach in the movie 'Major League' died Friday?  I guess this ruins the chances of Major League 4 coming out? RIP Coach? [via <a href="http://espn.go.com/espn/page2/index?id=5392552">ESPN</a>]
+    <a href="https://espn.go.com/espn/page2/index?id=5392552">James Gammon</a>, the Coach in the movie 'Major League' died Friday?  I guess this ruins the chances of Major League 4 coming out? RIP Coach? [via <a href="https://espn.go.com/espn/page2/index?id=5392552">ESPN</a>]
   </p>
 
   <p>

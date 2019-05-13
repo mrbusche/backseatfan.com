@@ -310,7 +310,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://bleacherreport.com/articles/470369-atlanta-falcons-place-rb-jerious-norwood-on-injured-reserve">knee injury</a>
+        <a href="https://bleacherreport.com/articles/470369-atlanta-falcons-place-rb-jerious-norwood-on-injured-reserve">knee injury</a>
       </td>
     </tr>
 
@@ -652,7 +652,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://blogs.buffalobills.com/2010/07/22/klopfenstein-to-i-r/"> undisclosed ailment</a>
+        <a href="https://blogs.buffalobills.com/2010/07/22/klopfenstein-to-i-r/"> undisclosed ailment</a>
       </td>
     </tr>
 
@@ -3432,7 +3432,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://miamiherald.typepad.com/dolphins_in_depth/2010/07/merling-out-for-year-marcus-spears-next.html">Achilles injury</a>
+        <a href="https://miamiherald.typepad.com/dolphins_in_depth/2010/07/merling-out-for-year-marcus-spears-next.html">Achilles injury</a>
       </td>
     </tr>
 
@@ -3989,7 +3989,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/new-york/nfl/news/story?id=5327381">broken left leg</a>
+        <a href="https://sports.espn.go.com/new-york/nfl/news/story?id=5327381">broken left leg</a>
       </td>
     </tr>
 
@@ -4423,7 +4423,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/06/01/eagles-say-marlin-jackson-ruptured-an-achilles-tendon/">ruptured right Achilles</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/06/01/eagles-say-marlin-jackson-ruptured-an-achilles-tendon/">ruptured right Achilles</a>
       </td>
     </tr>
 
@@ -4553,7 +4553,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://nbcsports.msnbc.com/id/37995610/ns/sports-player_news/">torn Achilles tendon</a>
+        <a href="https://nbcsports.msnbc.com/id/37995610/ns/sports-player_news/">torn Achilles tendon</a>
       </td>
     </tr>
 
@@ -5713,7 +5713,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/07/30/skins-officially-add-trent-williams-put-mike-williams-on-nfi-list/">blood clots</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/07/30/skins-officially-add-trent-williams-put-mike-williams-on-nfi-list/">blood clots</a>
       </td>
     </tr>
 
@@ -5803,5 +5803,6 @@ tags:
       <td>
       </td>
     </tr>
+
   </table>
 </div>

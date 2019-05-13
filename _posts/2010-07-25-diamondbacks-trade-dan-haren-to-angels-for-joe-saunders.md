@@ -24,7 +24,7 @@ categories:
   </p>
 
   <p>
-    According to <a href="http://twitter.com/nickpiecoro/status/19525646315">Nick Piecoro</a> of the Arizona Republic, the PTBNL is a top prospect, but is not OF Mike Trout.
+    According to <a href="https://twitter.com/nickpiecoro/status/19525646315">Nick Piecoro</a> of the Arizona Republic, the PTBNL is a top prospect, but is not OF Mike Trout.
   </p>
 
   <p>

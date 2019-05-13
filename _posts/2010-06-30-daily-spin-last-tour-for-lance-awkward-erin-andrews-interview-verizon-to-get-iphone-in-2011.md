@@ -1,6 +1,6 @@
 ---
 id: 6539
-title: "Daily Spin: Last Tour for Lance, Awkward Erin Andrews Interview, Verizon to get iPhone in 2011"
+title: 'Daily Spin: Last Tour for Lance, Awkward Erin Andrews Interview, Verizon to get iPhone in 2011'
 date: 2010-06-30T07:37:08+00:00
 author: Ryan M.
 layout: post
@@ -32,7 +32,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/dallas/nba/news/story?id=5339661">Dirk Nowitzki opts out</a> of his contract with the Mavs?  Can the Suns snatch another Maverick?  I hope so. [via <a href="http://sports.espn.go.com/dallas/nba/news/story?id=5339661">ESPN</a>]
+    <a href="https://sports.espn.go.com/dallas/nba/news/story?id=5339661">Dirk Nowitzki opts out</a> of his contract with the Mavs?  Can the Suns snatch another Maverick?  I hope so. [via <a href="https://sports.espn.go.com/dallas/nba/news/story?id=5339661">ESPN</a>]
   </p>
 
   <p>

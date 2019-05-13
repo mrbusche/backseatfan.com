@@ -34,7 +34,7 @@ tags:
   </p>
 
   <p>
-    Tweet them at <a href="http://twitter.com/sportsnation">@SportsNation</a> and check out their interactive site on <a href="http://espn.go.com/sportsnation/">ESPN.com</a>.
+    Tweet them at <a href="https://twitter.com/sportsnation">@SportsNation</a> and check out their interactive site on <a href="https://espn.go.com/sportsnation/">ESPN.com</a>.
   </p>
 
   <p>

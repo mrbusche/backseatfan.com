@@ -51,7 +51,7 @@ categories:
   </p>
 
   <p>
-    A few very good sport games are those by Ladbrokes Sports: football, horse racing, tennis, golf, cricket, volleyball, basketball and all the other sports along with last minute up-to-dated info on athletes, matches, competitions, sport markets, teams and bet opportunity for those who don&rsquo;t simply want to <a href="http://games.ladbrokes.com/en/games/virtual-sports">play virtual sports</a> but look for something more thrilling and lively.
+    A few very good sport games are those by Ladbrokes Sports: football, horse racing, tennis, golf, cricket, volleyball, basketball and all the other sports along with last minute up-to-dated info on athletes, matches, competitions, sport markets, teams and bet opportunity for those who don&rsquo;t simply want to <a href="https://games.ladbrokes.com/en/games/virtual-sports">play virtual sports</a> but look for something more thrilling and lively.
   </p>
 
   <p>
@@ -63,7 +63,7 @@ categories:
   </p>
 
   <p>
-    <img alt="" src="http://content.adzz.comhttps://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRUb4syiAj5XgjtZOKy8la2quGZRTI_f7hyTJUqptOQCf8R9pBN" />
+    <img alt="" src="https://content.adzz.comhttps://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRUb4syiAj5XgjtZOKy8la2quGZRTI_f7hyTJUqptOQCf8R9pBN" />
   </p>
 
   <p>

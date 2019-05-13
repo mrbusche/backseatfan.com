@@ -39,6 +39,6 @@ tags:
   </p>
 
   <p>
-    via <a href="http://sports.espn.go.com/ncaa/news/story?id=5276064">[ESPN</a>]
+    via <a href="https://sports.espn.go.com/ncaa/news/story?id=5276064">[ESPN</a>]
   </p>
 </div>

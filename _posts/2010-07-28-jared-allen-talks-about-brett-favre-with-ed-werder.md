@@ -50,6 +50,6 @@ tags:
   </blockquote>
 
   <p>
-    I don't think Favre will forget about that one.<br /> [via <a href="http://espn.com">ESPN</a>]
+    I don't think Favre will forget about that one.<br /> [via <a href="https://espn.com">ESPN</a>]
   </p>
 </div>

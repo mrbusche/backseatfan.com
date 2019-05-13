@@ -20,6 +20,6 @@ tags:
   </p>
 
   <p>
-    Really funny interview, props to the <a href="http://thedirty.com/">TheDirty.com</a> for making it.
+    Really funny interview, props to the <a href="https://thedirty.com/">TheDirty.com</a> for making it.
   </p>
 </div>

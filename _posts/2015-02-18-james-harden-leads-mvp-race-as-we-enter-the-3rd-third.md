@@ -19,7 +19,7 @@ hide_post_image:
 unlink_post_image:
   - default
 builder_switch_frontend:
-  - "0"
+  - '0'
 categories:
   - NBA
 ---
@@ -34,7 +34,7 @@ categories:
   </p>
 
   <p>
-    Anthony Davis has made the leap this season into one of the best players in the league, putting up an insane 2.74 blocks per game along with 24.5 PPG and 10.3 RPG, but the lack of another star on the Pelicans will hurt their playoff chances and it's <a href="http://probasketballtalk.nbcsports.com/2014/10/29/anthony-davis-has-zero-chance-of-winning-mvp-this-season/">unlikely a player on a non playoff team will win MVP</a> even if he is putting up the best <a href="http://insider.espn.go.com/nba/hollinger/statistics">PER</a> in recent memory
+    Anthony Davis has made the leap this season into one of the best players in the league, putting up an insane 2.74 blocks per game along with 24.5 PPG and 10.3 RPG, but the lack of another star on the Pelicans will hurt their playoff chances and it's <a href="https://probasketballtalk.nbcsports.com/2014/10/29/anthony-davis-has-zero-chance-of-winning-mvp-this-season/">unlikely a player on a non playoff team will win MVP</a> even if he is putting up the best <a href="https://insider.espn.go.com/nba/hollinger/statistics">PER</a> in recent memory
   </p>
 
   <p>

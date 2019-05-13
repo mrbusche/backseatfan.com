@@ -32,7 +32,7 @@ tags:
   </p>
 
   <p>
-    Many people loved the offseason signing of Andrea Bargnani, but he hasn't meshed well with the team thus far and without Tyson Chandler to anchor the defense this team is a long shot for 30 wins. If I were a betting man I'd be placing a decent amount on <a href="http://topbet.eu/sportsbook/nba">NBA betting at Topbet.eu</a> on the under for New York Knicks season win totals. The Knicks cannot compete this year with this roster and if the Knicks want to compete in 2014 they need to find someone willing to take on Amar'e Stoudemire's atrocious contract and it's probably going to take dumping Iman Shumpert and probably Tim Hardaway, Jr as well.
+    Many people loved the offseason signing of Andrea Bargnani, but he hasn't meshed well with the team thus far and without Tyson Chandler to anchor the defense this team is a long shot for 30 wins. If I were a betting man I'd be placing a decent amount on <a href="https://topbet.eu/sportsbook/nba">NBA betting at Topbet.eu</a> on the under for New York Knicks season win totals. The Knicks cannot compete this year with this roster and if the Knicks want to compete in 2014 they need to find someone willing to take on Amar'e Stoudemire's atrocious contract and it's probably going to take dumping Iman Shumpert and probably Tim Hardaway, Jr as well.
   </p>
 
   <p>

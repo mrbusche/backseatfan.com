@@ -1,6 +1,6 @@
 ---
 id: 6662
-title: "Daily Spin: Kevin Durant Signs Extension, Del Negro is Clippers New Coach, Lindsay Lohan gets 90 days in Jail"
+title: 'Daily Spin: Kevin Durant Signs Extension, Del Negro is Clippers New Coach, Lindsay Lohan gets 90 days in Jail'
 date: 2010-07-07T09:13:24+00:00
 author: Ryan M.
 layout: post
@@ -49,7 +49,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://online.wsj.com/article/SB10001424052748704535004575349194158032512.html?mod=WSJ_0_0_WP_2506_RIGHTTopCarousel_1">Back up running backs</a> who averaged more the starters?  There were 5 in total last year, but 4/5 of the backups are going to be ahead of the former starter on the depth chart this year.  But this does give a fairly good case for the 2 headed monster. [via <a href="http://online.wsj.com/article/SB10001424052748704535004575349194158032512.html?mod=WSJ_0_0_WP_2506_RIGHTTopCarousel_1">WSJ</a>]
+    <a href="https://online.wsj.com/article/SB10001424052748704535004575349194158032512.html?mod=WSJ_0_0_WP_2506_RIGHTTopCarousel_1">Back up running backs</a> who averaged more the starters?  There were 5 in total last year, but 4/5 of the backups are going to be ahead of the former starter on the depth chart this year.  But this does give a fairly good case for the 2 headed monster. [via <a href="https://online.wsj.com/article/SB10001424052748704535004575349194158032512.html?mod=WSJ_0_0_WP_2506_RIGHTTopCarousel_1">WSJ</a>]
   </p>
 
   <p>

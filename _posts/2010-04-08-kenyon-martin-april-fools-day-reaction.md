@@ -20,12 +20,12 @@ enclosure:
     audio/mpeg
 
   - |
-    http://tmz.vo.llnwd.net/o28/newsdesk/tmz_audio/040710_kenyon_martin_dirty.mp3
+    https://tmz.vo.llnwd.net/o28/newsdesk/tmz_audio/040710_kenyon_martin_dirty.mp3
     879853
     audio/mpeg
 
   - |
-    http://tmz.vo.llnwd.net/o28/newsdesk/tmz_audio/040710_kenyon_martin_clean.mp3
+    https://tmz.vo.llnwd.net/o28/newsdesk/tmz_audio/040710_kenyon_martin_clean.mp3
     879853
     audio/mpeg
 
@@ -43,11 +43,11 @@ tags:
   </p>
 
   <p>
-    <a href="http://tmz.vo.llnwd.net/o28/newsdesk/tmz_audio/040710_kenyon_martin_dirty.mp3">Kenyon Martin Dirty</a> |  <a href="/images/2010/04/kenyon_martin_dirty.mp3">(Martin Dirty Backup</a>) - Backup in case the other link gets moved or shut down
+    <a href="https://tmz.vo.llnwd.net/o28/newsdesk/tmz_audio/040710_kenyon_martin_dirty.mp3">Kenyon Martin Dirty</a> |  <a href="/images/2010/04/kenyon_martin_dirty.mp3">(Martin Dirty Backup</a>) - Backup in case the other link gets moved or shut down
   </p>
 
   <p>
-    <a href="http://tmz.vo.llnwd.net/o28/newsdesk/tmz_audio/040710_kenyon_martin_clean.mp3">Kenyon Martin Clean</a> |  <a href="/images/2010/04/040710_kenyon_martin_clean.mp3">(Martin Clean Backup</a>) - Backup in case the other link gets moved or shut down
+    <a href="https://tmz.vo.llnwd.net/o28/newsdesk/tmz_audio/040710_kenyon_martin_clean.mp3">Kenyon Martin Clean</a> |  <a href="/images/2010/04/040710_kenyon_martin_clean.mp3">(Martin Clean Backup</a>) - Backup in case the other link gets moved or shut down
   </p>
 
   <p>

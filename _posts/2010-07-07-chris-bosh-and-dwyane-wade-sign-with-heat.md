@@ -31,6 +31,6 @@ tags:
   </p>
 
   <p>
-    [via <a href="http://sports.espn.go.com/nba/news/story?id=5360134">ESPN</a>]
+    [via <a href="https://sports.espn.go.com/nba/news/story?id=5360134">ESPN</a>]
   </p>
 </div>

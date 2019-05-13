@@ -26,10 +26,10 @@ tags:
   </p>
 
   <p>
-    <a href="http://twitpic.com/cjv4ez"><img class="aligncenter size-full wp-image-10546" alt="cellphone" src="/images/2013/04/cellphone.jpg" width="360" height="640" srcset="/images/2013/04/cellphone.jpg 360w, /images/2013/04/cellphone-168x300.jpg 168w" sizes="(max-width: 360px) 100vw, 360px" /></a>
+    <a href="https://twitpic.com/cjv4ez"><img class="aligncenter size-full wp-image-10546" alt="cellphone" src="/images/2013/04/cellphone.jpg" width="360" height="640" srcset="/images/2013/04/cellphone.jpg 360w, /images/2013/04/cellphone-168x300.jpg 168w" sizes="(max-width: 360px) 100vw, 360px" /></a>
   </p>
 
   <p>
-    <a href="http://twitpic.com/cjv4hz"><img class="aligncenter size-full wp-image-10549" alt="cellphone2" src="/images/2013/04/cellphone2.jpg" width="600" height="337" srcset="/images/2013/04/cellphone2.jpg 600w, /images/2013/04/cellphone2-300x168.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a>
+    <a href="https://twitpic.com/cjv4hz"><img class="aligncenter size-full wp-image-10549" alt="cellphone2" src="/images/2013/04/cellphone2.jpg" width="600" height="337" srcset="/images/2013/04/cellphone2.jpg 600w, /images/2013/04/cellphone2-300x168.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a>
   </p>
 </div>

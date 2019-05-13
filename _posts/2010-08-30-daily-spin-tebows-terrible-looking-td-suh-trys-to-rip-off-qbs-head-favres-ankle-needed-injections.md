@@ -12,7 +12,7 @@ image: /images/2010/08/broncostebow.jpg
 categories:
   - Daily Spin
 tags:
-  - "#bsf"
+  - '#bsf'
   - Antonio Bryant
   - Brett Favre
   - Daily Spin
@@ -27,15 +27,15 @@ tags:
   </p>
 
   <p>
-    <a href="http://sportsillustrated.cnn.com/2010/writers/peter_king/08/29/mmqb/1.html">Favre's Ankle needed injections after Saturday's performance</a>? I don't know if <a href="https://backseatfan.com/2010/02/brett-favre-injury-pictures/">Favre's ankle</a> is going to hold up through the entire year.  It's only preseason and he already has to inject it with crap.  He hasn't even gone through a whole game yet, it doesn't look good for the Vikings? [via <a href="http://sportsillustrated.cnn.com/2010/writers/peter_king/08/29/mmqb/1.html">MMQB</a>]
+    <a href="https://sportsillustrated.cnn.com/2010/writers/peter_king/08/29/mmqb/1.html">Favre's Ankle needed injections after Saturday's performance</a>? I don't know if <a href="https://backseatfan.com/2010/02/brett-favre-injury-pictures/">Favre's ankle</a> is going to hold up through the entire year.  It's only preseason and he already has to inject it with crap.  He hasn't even gone through a whole game yet, it doesn't look good for the Vikings? [via <a href="https://sportsillustrated.cnn.com/2010/writers/peter_king/08/29/mmqb/1.html">MMQB</a>]
   </p>
 
   <p>
-    <a href="http://news.cincinnati.com/article/20100829/SPT02/308290023/Bryant-fired-wants-a-payday">Antonio Bryant was cut from the Bengals</a>… He is going to get paid a ton of money ($8 Million) for not playing? [via <a href="http://news.cincinnati.com/article/20100829/SPT02/308290023/Bryant-fired-wants-a-payday">Cincinnati Enquirer</a>]
+    <a href="https://news.cincinnati.com/article/20100829/SPT02/308290023/Bryant-fired-wants-a-payday">Antonio Bryant was cut from the Bengals</a>… He is going to get paid a ton of money ($8 Million) for not playing? [via <a href="https://news.cincinnati.com/article/20100829/SPT02/308290023/Bryant-fired-wants-a-payday">Cincinnati Enquirer</a>]
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/mlb/news/story?id=5512659">Clemons pleads not guilty to lying to Congress</a>. Looks like he just lied again, Clemons could face up to 30 years in prison? [via <a href="http://sports.espn.go.com/mlb/news/story?id=5512659">ESPN</a>]
+    <a href="https://sports.espn.go.com/mlb/news/story?id=5512659">Clemons pleads not guilty to lying to Congress</a>. Looks like he just lied again, Clemons could face up to 30 years in prison? [via <a href="https://sports.espn.go.com/mlb/news/story?id=5512659">ESPN</a>]
   </p>
 
   <p>
@@ -43,7 +43,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://articles.chicagotribune.com/2010-08-29/sports/ct-spt-0830-rogers-manny--20100829_1_white-sox-red-sox-daniel-hudson">Manny Ramirez is headed to the Chicago White Sox</a>? He will need to resign somewhere after this year, too bad the Dodgers didn't sign him to that massive contract he was asking for back in the day. Then they would never be able to unload him on someone else?  [via <a href="http://articles.chicagotribune.com/2010-08-29/sports/ct-spt-0830-rogers-manny--20100829_1_white-sox-red-sox-daniel-hudson">Chicago Tribune</a>]
+    <a href="https://articles.chicagotribune.com/2010-08-29/sports/ct-spt-0830-rogers-manny--20100829_1_white-sox-red-sox-daniel-hudson">Manny Ramirez is headed to the Chicago White Sox</a>? He will need to resign somewhere after this year, too bad the Dodgers didn't sign him to that massive contract he was asking for back in the day. Then they would never be able to unload him on someone else?  [via <a href="https://articles.chicagotribune.com/2010-08-29/sports/ct-spt-0830-rogers-manny--20100829_1_white-sox-red-sox-daniel-hudson">Chicago Tribune</a>]
   </p>
 
   <p>

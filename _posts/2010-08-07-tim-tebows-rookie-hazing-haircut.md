@@ -29,6 +29,6 @@ tags:
   </p>
 
   <p>
-    <a href="http://twitter.com/THEREAL_LENDALE/status/20580313708">Pic via Lendale White's Twitter</a>
+    <a href="https://twitter.com/THEREAL_LENDALE/status/20580313708">Pic via Lendale White's Twitter</a>
   </p>
 </div>

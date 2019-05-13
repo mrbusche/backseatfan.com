@@ -1,6 +1,6 @@
 ---
 id: 9849
-title: "2011 NBA Draft Early Entries - Underclassmen"
+title: '2011 NBA Draft Early Entries - Underclassmen'
 date: 2011-03-25T17:41:34+00:00
 author: Matt B.
 layout: post
@@ -72,7 +72,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://content.usatoday.com/communities/campusrivalry/post/2011/04/missouris-laurence-bowers-kim-english-to-test-nba-waters/1">April 4</a>
+        <a href="https://content.usatoday.com/communities/campusrivalry/post/2011/04/missouris-laurence-bowers-kim-english-to-test-nba-waters/1">April 4</a>
       </td>
     </tr>
 
@@ -98,7 +98,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/nba/draft2011/news/story?id=6404279">April 21</a>
+        <a href="https://sports.espn.go.com/nba/draft2011/news/story?id=6404279">April 21</a>
       </td>
     </tr>
 
@@ -123,7 +123,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://blog.seattlepi.com/seattlesports/2011/04/15/wsus-deangelo-casto-will-leave-school-declare-for-nba-draft/">April 15</a>
+        <a href="https://blog.seattlepi.com/seattlesports/2011/04/15/wsus-deangelo-casto-will-leave-school-declare-for-nba-draft/">April 15</a>
       </td>
     </tr>
 
@@ -149,7 +149,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://content.usatoday.com/communities/campusrivalry/post/2011/04/missouris-laurence-bowers-kim-english-to-test-nba-waters/1"></a>
+        <a href="https://content.usatoday.com/communities/campusrivalry/post/2011/04/missouris-laurence-bowers-kim-english-to-test-nba-waters/1"></a>
       </td>
     </tr>
 
@@ -175,7 +175,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://content.usatoday.com/communities/campusrivalry/post/2011/04/missouris-laurence-bowers-kim-english-to-test-nba-waters/1">April 4</a>
+        <a href="https://content.usatoday.com/communities/campusrivalry/post/2011/04/missouris-laurence-bowers-kim-english-to-test-nba-waters/1">April 4</a>
       </td>
     </tr>
 
@@ -277,7 +277,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/nba/draft2011/news/story?id=6408508">April 22</a>
+        <a href="https://sports.espn.go.com/nba/draft2011/news/story?id=6408508">April 22</a>
       </td>
     </tr>
 
@@ -353,7 +353,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/los-angeles/ncb/news/story?id=6267807">March 28</a>
+        <a href="https://sports.espn.go.com/los-angeles/ncb/news/story?id=6267807">March 28</a>
       </td>
     </tr>
 
@@ -379,7 +379,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/los-angeles/ncb/news/story?id=6267807"></a>
+        <a href="https://sports.espn.go.com/los-angeles/ncb/news/story?id=6267807"></a>
       </td>
     </tr>
 
@@ -431,7 +431,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sportsillustrated.cnn.com/2011/basketball/ncaa/wires/03/30/2060.ap.bkc.boston.college.jackson.nba.0138/">March 30</a>
+        <a href="https://sportsillustrated.cnn.com/2011/basketball/ncaa/wires/03/30/2060.ap.bkc.boston.college.jackson.nba.0138/">March 30</a>
       </td>
     </tr>
 
@@ -457,7 +457,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sportsillustrated.cnn.com/2011/basketball/ncaa/wires/03/30/2060.ap.bkc.boston.college.jackson.nba.0138/"></a>
+        <a href="https://sportsillustrated.cnn.com/2011/basketball/ncaa/wires/03/30/2060.ap.bkc.boston.college.jackson.nba.0138/"></a>
       </td>
     </tr>
 
@@ -533,7 +533,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://abcnews.go.com/Sports/wireStory?id=13417582">April 20</a>
+        <a href="https://abcnews.go.com/Sports/wireStory?id=13417582">April 20</a>
       </td>
     </tr>
 
@@ -558,7 +558,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/nba/draft2011/news/story?id=6408508">April 22</a>
+        <a href="https://sports.espn.go.com/nba/draft2011/news/story?id=6408508">April 22</a>
       </td>
     </tr>
 
@@ -584,7 +584,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://abcnews.go.com/Sports/wireStory?id=13417582">April 20</a>
+        <a href="https://abcnews.go.com/Sports/wireStory?id=13417582">April 20</a>
       </td>
     </tr>
 
@@ -610,7 +610,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/los-angeles/ncb/news/story?id=6267807"></a><a href="http://sports.espn.go.com/los-angeles/ncb/news/story?id=6267807">March 28</a>
+        <a href="https://sports.espn.go.com/los-angeles/ncb/news/story?id=6267807"></a><a href="https://sports.espn.go.com/los-angeles/ncb/news/story?id=6267807">March 28</a>
       </td>
     </tr>
 
@@ -688,7 +688,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://abcnews.go.com/Sports/wireStory?id=13417582">April 20</a>
+        <a href="https://abcnews.go.com/Sports/wireStory?id=13417582">April 20</a>
       </td>
     </tr>
 
@@ -740,7 +740,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://annarbor.com/sports/um-basketball/michigan-guard-darius-morris-to-test-nba-draft-waters-not-hire-an-agent/">March 26</a>
+        <a href="https://annarbor.com/sports/um-basketball/michigan-guard-darius-morris-to-test-nba-draft-waters-not-hire-an-agent/">March 26</a>
       </td>
     </tr>
 
@@ -818,7 +818,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/chicago/ncb/news/story?id=6296996">April 6</a>
+        <a href="https://sports.espn.go.com/chicago/ncb/news/story?id=6296996">April 6</a>
       </td>
     </tr>
 
@@ -844,7 +844,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/chicago/ncb/news/story?id=6296996"></a>
+        <a href="https://sports.espn.go.com/chicago/ncb/news/story?id=6296996"></a>
       </td>
     </tr>
 
@@ -1048,7 +1048,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/nba/draft2011/news/story?id=6410478">April 22</a>
+        <a href="https://sports.espn.go.com/nba/draft2011/news/story?id=6410478">April 22</a>
       </td>
     </tr>
 
@@ -1074,7 +1074,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://seattletimes.nwsource.com/html/cougars/2014808741_thompson19.html">April 18</a>
+        <a href="https://seattletimes.nwsource.com/html/cougars/2014808741_thompson19.html">April 18</a>
       </td>
     </tr>
 
@@ -1125,7 +1125,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://latimesblogs.latimes.com/sports_blog/2011/03/usc-basketball-nikola-vucevic-announces-hell-enter-his-name-in-the-nba-draft-will-sign-with-agent.html">March 25</a>
+        <a href="https://latimesblogs.latimes.com/sports_blog/2011/03/usc-basketball-nikola-vucevic-announces-hell-enter-his-name-in-the-nba-draft-will-sign-with-agent.html">March 25</a>
       </td>
     </tr>
 
@@ -1151,7 +1151,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/ncb/news/story?id=6331070">April 10</a>
+        <a href="https://sports.espn.go.com/ncb/news/story?id=6331070">April 10</a>
       </td>
     </tr>
 
@@ -1177,7 +1177,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/ncb/news/story?id=6331070"></a>
+        <a href="https://sports.espn.go.com/ncb/news/story?id=6331070"></a>
       </td>
     </tr>
 
@@ -1203,9 +1203,10 @@ tags:
       </td>
 
       <td>
-        <a href="http://weblogs.baltimoresun.com/sports/college/maryland_terps/blog/2011/03/williams_files_paperwork_for_draft_wont_sign_with_agent.html">March 29</a>
+        <a href="https://weblogs.baltimoresun.com/sports/college/maryland_terps/blog/2011/03/williams_files_paperwork_for_draft_wont_sign_with_agent.html">March 29</a>
       </td>
     </tr>
+
   </table>
 
   <p>
@@ -1346,7 +1347,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/ncb/news/story?id=6260339"></a><a href="http://tarheelblue.cstv.com/sports/m-baskbl/spec-rel/040611aab.html">April 6</a>
+        <a href="https://sports.espn.go.com/ncb/news/story?id=6260339"></a><a href="https://tarheelblue.cstv.com/sports/m-baskbl/spec-rel/040611aab.html">April 6</a>
       </td>
     </tr>
 
@@ -1368,7 +1369,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://tarheelblue.cstv.com/sports/m-baskbl/spec-rel/040611aab.html"></a>
+        <a href="https://tarheelblue.cstv.com/sports/m-baskbl/spec-rel/040611aab.html"></a>
       </td>
     </tr>
 
@@ -1433,7 +1434,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://tarheelblue.cstv.com/sports/m-baskbl/spec-rel/040611aab.html"></a><a href="https://www.kake.com/sports/headlines/Robinson_Taylor_To_Remain_At_Kansas_119352179.html?ref=179">April 6</a>
+        <a href="https://tarheelblue.cstv.com/sports/m-baskbl/spec-rel/040611aab.html"></a><a href="https://www.kake.com/sports/headlines/Robinson_Taylor_To_Remain_At_Kansas_119352179.html?ref=179">April 6</a>
       </td>
     </tr>
 
@@ -1477,7 +1478,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/ncb/news/story?id=6260339">March 25</a>
+        <a href="https://sports.espn.go.com/ncb/news/story?id=6260339">March 25</a>
       </td>
     </tr>
 
@@ -1565,9 +1566,10 @@ tags:
       </td>
 
       <td>
-        <a href="http://tarheelblue.cstv.com/sports/m-baskbl/spec-rel/040611aab.html">April 6</a>
+        <a href="https://tarheelblue.cstv.com/sports/m-baskbl/spec-rel/040611aab.html">April 6</a>
       </td>
     </tr>
+
   </table>
 
   <p>

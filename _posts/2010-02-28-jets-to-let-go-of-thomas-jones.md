@@ -17,7 +17,7 @@ tags:
 
 <div class="entry">
   <p>
-    According to <a href="http://sports.espn.go.com/nfl/news/story?id=4952941">ESPN</a>, the New York Jets are going to let Thomas Jones become a free agent. Jones rushed for 1,402 yards and 14 touchdowns on 331 carries last season. But he is 31, and who knows if he can keep it up next season, plus Shonn Greene is a beast. Shonn Greene did great during the playoffs, a lot better than Thomas Jones, so I can see why the Jets see Jones as disposable. Also the Jets will be getting a healthy Leon Washington back this season, who will spell Shonn Greene, no need to keep 3 great running backs on one roster.
+    According to <a href="https://sports.espn.go.com/nfl/news/story?id=4952941">ESPN</a>, the New York Jets are going to let Thomas Jones become a free agent. Jones rushed for 1,402 yards and 14 touchdowns on 331 carries last season. But he is 31, and who knows if he can keep it up next season, plus Shonn Greene is a beast. Shonn Greene did great during the playoffs, a lot better than Thomas Jones, so I can see why the Jets see Jones as disposable. Also the Jets will be getting a healthy Leon Washington back this season, who will spell Shonn Greene, no need to keep 3 great running backs on one roster.
   </p>
 
   <p>
@@ -33,6 +33,6 @@ tags:
   </p>
 
   <p>
-    via [<a href="http://sports.espn.go.com/nfl/news/story?id=4952941">ESPN</a>]
+    via [<a href="https://sports.espn.go.com/nfl/news/story?id=4952941">ESPN</a>]
   </p>
 </div>

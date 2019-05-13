@@ -38,7 +38,7 @@ tags:
   </p>
 
   <p>
-    Kyle Orton, the "starting" QB for the Broncos is one of the lowest paid QBs in the league,  <a href="http://content.usatoday.com/sports/football/nfl/salaries/playerdetail.aspx?player=3885">last year he made ~ $1M</a>.  Anyone feel like Tim Tebow will  start this year?<a href="http://articles.sun-sentinel.com/2009-07-31/sports/0907310053_1_vontae-davis-signings-miami-dolphins"><br /> </a>
+    Kyle Orton, the "starting" QB for the Broncos is one of the lowest paid QBs in the league,  <a href="https://content.usatoday.com/sports/football/nfl/salaries/playerdetail.aspx?player=3885">last year he made ~ $1M</a>.  Anyone feel like Tim Tebow will  start this year?<a href="https://articles.sun-sentinel.com/2009-07-31/sports/0907310053_1_vontae-davis-signings-miami-dolphins"><br /> </a>
   </p>
 
   <p>

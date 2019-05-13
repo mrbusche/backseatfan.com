@@ -1,6 +1,6 @@
 ---
 id: 2604
-title: "ESPN Radio - Too Many Commercials"
+title: 'ESPN Radio - Too Many Commercials'
 date: 2009-11-14T09:17:39+00:00
 author: Ryan M.
 layout: post
@@ -31,7 +31,7 @@ tags:
   </div>
 
   <p>
-    I think I have a love hate relationship with ESPN Radio. For the most part I like the content on ESPN Radio, I just can't stand the format. I'm not really an <a href="http://msn.foxsports.com/writer/Jay-Glazer-FOXSports.com-Senior-NFL-Writer?authorId=228">ESPN hater</a>, I go there multiple times everyday. I just can't stand the crazy amount of commercials they play on the Radio.
+    I think I have a love hate relationship with ESPN Radio. For the most part I like the content on ESPN Radio, I just can't stand the format. I'm not really an <a href="https://msn.foxsports.com/writer/Jay-Glazer-FOXSports.com-Senior-NFL-Writer?authorId=228">ESPN hater</a>, I go there multiple times everyday. I just can't stand the crazy amount of commercials they play on the Radio.
   </p>
 
   <p>
@@ -60,11 +60,11 @@ tags:
     </p>
 
     <p>
-      They also market that you can download <a href="http://espn.go.com/espnradio/podcast/">podcasts</a> from this great App, well you can download them off <a href="http://itunes.apple.com/artist/espn/id127434126" target="_blank">iTunes for free</a>.
+      They also market that you can download <a href="https://espn.go.com/espnradio/podcast/">podcasts</a> from this great App, well you can download them off <a href="https://itunes.apple.com/artist/espn/id127434126" target="_blank">iTunes for free</a>.
     </p>
 
     <p>
-      The only Sports talk show I can recommend is the Dan Patrick Show, there aren't that many commercials on there, <a href="http://sportsillustrated.cnn.com/danpatrick/streamingaudio/" target="_blank">great content</a>, and he has a<a href="http://itunes.apple.com/us/app/the-dan-patrick-show/id335849417?mt=8"> free iPhone app</a>. Plus he is pretty much better than all the shows on ESPN Radio.
+      The only Sports talk show I can recommend is the Dan Patrick Show, there aren't that many commercials on there, <a href="https://sportsillustrated.cnn.com/danpatrick/streamingaudio/" target="_blank">great content</a>, and he has a<a href="https://itunes.apple.com/us/app/the-dan-patrick-show/id335849417?mt=8"> free iPhone app</a>. Plus he is pretty much better than all the shows on ESPN Radio.
     </p>
 
     <p>

@@ -1,6 +1,6 @@
 ---
 id: 8442
-title: "Daily Spin: Reggie Bush to Lose Heisman, Dan Hampton Apologizes for Katrina Comments, Houshmandzadeh signs with Ravens"
+title: 'Daily Spin: Reggie Bush to Lose Heisman, Dan Hampton Apologizes for Katrina Comments, Houshmandzadeh signs with Ravens'
 date: 2010-09-07T07:44:00+00:00
 author: Ryan M.
 layout: post
@@ -10,7 +10,7 @@ image: /images/2010/09/ReggieBushheisman.jpg
 categories:
   - Daily Spin
 tags:
-  - "#bsf"
+  - '#bsf'
   - Baltimore Ravens
   - Boise State
   - dan hampton
@@ -21,7 +21,7 @@ tags:
 
 <div class="entry">
   <p>
-    <a href="http://rivals.yahoo.com/ncaa/football/news?slug=ys-bushheisman090710">Reggie Bush to his Heisman trophy revoked</a>, no one else will get it.  This is the way it should be, no need to pass on an old Heisman to someone else.  No one should want it anyway. [ via <a href="http://rivals.yahoo.com/ncaa/football/news?slug=ys-bushheisman090710">Yahoo Sports</a>]
+    <a href="https://rivals.yahoo.com/ncaa/football/news?slug=ys-bushheisman090710">Reggie Bush to his Heisman trophy revoked</a>, no one else will get it.  This is the way it should be, no need to pass on an old Heisman to someone else.  No one should want it anyway. [ via <a href="https://rivals.yahoo.com/ncaa/football/news?slug=ys-bushheisman090710">Yahoo Sports</a>]
   </p>
 
   <p>
@@ -33,7 +33,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://content.usatoday.com/communities/thehuddle/post/2010/09/tj-houshmandzadeh-ray-lewis-recruiting-him-to-ravens-to-help-win-super-bowl/1?loc=interstitialskip">T.J. Houshmandzadeh was lured to the Ravens by Ray Lewis</a>?  This is a good move for both Housh and the Ravens.  Why not add another weapon?  It is a slow risk move, and he can help the team win.  The Ravens are at the top of my list to make the Super Bowl, must be at the top for Housh as well? [ via <a href="http://content.usatoday.com/communities/thehuddle/post/2010/09/tj-houshmandzadeh-ray-lewis-recruiting-him-to-ravens-to-help-win-super-bowl/1?loc=interstitialskip">USA Today</a>]
+    <a href="https://content.usatoday.com/communities/thehuddle/post/2010/09/tj-houshmandzadeh-ray-lewis-recruiting-him-to-ravens-to-help-win-super-bowl/1?loc=interstitialskip">T.J. Houshmandzadeh was lured to the Ravens by Ray Lewis</a>?  This is a good move for both Housh and the Ravens.  Why not add another weapon?  It is a slow risk move, and he can help the team win.  The Ravens are at the top of my list to make the Super Bowl, must be at the top for Housh as well? [ via <a href="https://content.usatoday.com/communities/thehuddle/post/2010/09/tj-houshmandzadeh-ray-lewis-recruiting-him-to-ravens-to-help-win-super-bowl/1?loc=interstitialskip">USA Today</a>]
   </p>
 
   <p>

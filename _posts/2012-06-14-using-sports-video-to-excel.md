@@ -15,7 +15,7 @@ categories:
   </p>
 
   <p>
-    <img alt="" src="http://content.adzz.comhttps://c2.staticflickr.com/6/5040/5877883915_9691046b72_b.jpg" />
+    <img alt="" src="https://content.adzz.comhttps://c2.staticflickr.com/6/5040/5877883915_9691046b72_b.jpg" />
   </p>
 
   <p>

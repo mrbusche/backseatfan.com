@@ -41,6 +41,6 @@ tags:
   </p>
 
   <p>
-    <a href="http://deadspin.com/5588801/last-nights-winner-the-ugly+ass-lebron-james-pendants-sense-of-self+worth?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+deadspin%2Ffull+%28Deadspin%29&utm_content=Google+Feedfetcher">Deadspin has the Pendants side of the Story</a>
+    <a href="https://deadspin.com/5588801/last-nights-winner-the-ugly+ass-lebron-james-pendants-sense-of-self+worth?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+deadspin%2Ffull+%28Deadspin%29&utm_content=Google+Feedfetcher">Deadspin has the Pendants side of the Story</a>
   </p>
 </div>

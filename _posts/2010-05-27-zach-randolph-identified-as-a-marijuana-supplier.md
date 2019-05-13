@@ -18,7 +18,7 @@ categories:
   </p>
 
   <p>
-    But like they say, you can't teach an old dog how to not get in trouble with the law. <a href="http://us.lrd.yahoo.com/_ylt=AlXaRReO1e7eDILgfR9Sb5zYrYZ4/SIG=11s8m6bji/**http%3A//www.theindychannel.com/news/23686810/detail.html">According to Indianapolis 6News' Jack Rinehart</a>, Randolph's latest misstep might be a big one.
+    But like they say, you can't teach an old dog how to not get in trouble with the law. <a href="https://us.lrd.yahoo.com/_ylt=AlXaRReO1e7eDILgfR9Sb5zYrYZ4/SIG=11s8m6bji/**http%3A//www.theindychannel.com/news/23686810/detail.html">According to Indianapolis 6News' Jack Rinehart</a>, Randolph's latest misstep might be a big one.
   </p>
 
   <blockquote>

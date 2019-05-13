@@ -19,7 +19,7 @@ tags:
 
 <div class="entry">
   <p>
-    The New York Giants have signed first round draft pick Jason Pierre-Paul to a <a href="http://twitter.com/Adam_Schefter/statuses/20028495690">five-year contract</a>.
+    The New York Giants have signed first round draft pick Jason Pierre-Paul to a <a href="https://twitter.com/Adam_Schefter/statuses/20028495690">five-year contract</a>.
   </p>
 
   <p>

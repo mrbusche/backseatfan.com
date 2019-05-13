@@ -23,7 +23,7 @@ tags:
   </p>
 
   <p>
-    Jay Glazer is reporting it's a <a href="http://twitter.com/Jay_Glazer/statuses/20008430896">5 year deal</a> worth up to $63.5 million with $35 million in guarantees.
+    Jay Glazer is reporting it's a <a href="https://twitter.com/Jay_Glazer/statuses/20008430896">5 year deal</a> worth up to $63.5 million with $35 million in guarantees.
   </p>
 
   <p>

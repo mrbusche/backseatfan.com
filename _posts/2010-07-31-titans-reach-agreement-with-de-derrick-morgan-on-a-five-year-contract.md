@@ -14,7 +14,7 @@ categories:
 
 <div class="entry">
   <p>
-    ESPN's Adam Schefter is reporting that Titans have <a href="http://twitter.com/Adam_Schefter/statuses/20030509935">reached an agreement </a>with DE Derrick Morgan the 16th overall pick in this year's draft.
+    ESPN's Adam Schefter is reporting that Titans have <a href="https://twitter.com/Adam_Schefter/statuses/20030509935">reached an agreement </a>with DE Derrick Morgan the 16th overall pick in this year's draft.
   </p>
 
   <p>

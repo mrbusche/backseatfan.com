@@ -29,6 +29,6 @@ tags:
   </p>
 
   <p>
-    via [<a href="http://news.yahoo.com/s/ap/us_lightning_strikes_jesus_statue">Yahoo Sports</a>]
+    via [<a href="https://news.yahoo.com/s/ap/us_lightning_strikes_jesus_statue">Yahoo Sports</a>]
   </p>
 </div>

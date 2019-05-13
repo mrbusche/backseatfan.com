@@ -27,7 +27,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://games.espn.go.com/bowlmania/en/group?groupID=28467">Join the backseatfan.com College Bowl Mania Group!</a>
+    <a href="https://games.espn.go.com/bowlmania/en/group?groupID=28467">Join the backseatfan.com College Bowl Mania Group!</a>
   </p>
 
   <table border="1" cellspacing="1" cellpadding="2" width="680">

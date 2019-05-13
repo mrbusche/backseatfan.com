@@ -11,7 +11,7 @@ thumb:
 categories:
   - NFL Draft 2010
 tags:
-  - "2010"
+  - '2010'
   - mock draft
   - NFL Draft
 ---
@@ -351,9 +351,10 @@ tags:
         Sergio Kindle, LB
       </td>
     </tr>
+
   </table>
 
   <p>
-    <span style="text-decoration: underline;">Websites we are featured on:</span><br /> <a href="http://dcprosportsreport.com/nfl.html">DC Pro Sports Report Mock Draft DB</a><br /> <a href="https://www.footballfanspot.com/nflmockdraftdatabase.htm">Football Fan Spot Mock Draft DB</a><br /> <a href="https://www.hailredskins.com/MockDraft.htm">hailRedskins.com</a>
+    <span style="text-decoration: underline;">Websites we are featured on:</span><br /> <a href="https://dcprosportsreport.com/nfl.html">DC Pro Sports Report Mock Draft DB</a><br /> <a href="https://www.footballfanspot.com/nflmockdraftdatabase.htm">Football Fan Spot Mock Draft DB</a><br /> <a href="https://www.hailredskins.com/MockDraft.htm">hailRedskins.com</a>
   </p>
 </div>

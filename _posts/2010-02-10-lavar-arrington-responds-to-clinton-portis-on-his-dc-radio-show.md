@@ -50,6 +50,6 @@ tags:
   </p>
 
   <p>
-    <a href="http://voices.washingtonpost.com/dcsportsbog/2010/02/lavar_arrington_responds_to_cl.html">Get the Transcripts here</a>
+    <a href="https://voices.washingtonpost.com/dcsportsbog/2010/02/lavar_arrington_responds_to_cl.html">Get the Transcripts here</a>
   </p>
 </div>

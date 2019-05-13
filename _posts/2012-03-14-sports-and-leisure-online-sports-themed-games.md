@@ -1,6 +1,6 @@
 ---
 id: 10780
-title: "Sports And Leisure: Online Sports-Themed Games"
+title: 'Sports And Leisure: Online Sports-Themed Games'
 date: 2012-03-14T11:45:40+00:00
 layout: post
 guid: https://backseatfan.com/2012/03/sports-and-leisure-online-sports-themed-games/
@@ -16,7 +16,7 @@ categories:
   </p>
 
   <p>
-    What kind of persons do you believe would normally play sports themed games? According to a study performed by Abe Stein of the Game Lab at the <a href="http://web.mit.edu/">Massachusetts Institute of Technology</a>, it would appear that the overwhelming majority of sports games players are white and male. Ages? Between 18 and 24. What else do these passionate sports gamers like to keep themselves entertained with when they are not elbow deep in a football themed game of slots online? Shooters and action games. Oh, and of course RPGs. Any surprises so far? Here's one &ndash; more than 80 percent of the subjects reported never playing games on social media sites like FB! Did you see that one coming?
+    What kind of persons do you believe would normally play sports themed games? According to a study performed by Abe Stein of the Game Lab at the <a href="https://web.mit.edu/">Massachusetts Institute of Technology</a>, it would appear that the overwhelming majority of sports games players are white and male. Ages? Between 18 and 24. What else do these passionate sports gamers like to keep themselves entertained with when they are not elbow deep in a football themed game of slots online? Shooters and action games. Oh, and of course RPGs. Any surprises so far? Here's one &ndash; more than 80 percent of the subjects reported never playing games on social media sites like FB! Did you see that one coming?
   </p>
 
   <h2>
@@ -55,5 +55,6 @@ categories:
         Many players also like to engage in interesting conversations on their gaming techniques, results, best outcomes, and favorite games they like to play. Socializing around a sports topic and adding the gaming thrill to it is another strong argument.
       </p>
     </li>
+
   </ul>
 </div>

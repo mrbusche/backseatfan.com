@@ -31,6 +31,6 @@ tags:
   </p>
 
   <p>
-    Head over to <a href="http://mlb.mlb.com/news/article.jsp?ymd=20100812&content_id=13374814&vkey=recap&fext=.jsp&c_id=mlb">MLB.com</a> for the non-embedable highlight video
+    Head over to <a href="https://mlb.mlb.com/news/article.jsp?ymd=20100812&content_id=13374814&vkey=recap&fext=.jsp&c_id=mlb">MLB.com</a> for the non-embedable highlight video
   </p>
 </div>

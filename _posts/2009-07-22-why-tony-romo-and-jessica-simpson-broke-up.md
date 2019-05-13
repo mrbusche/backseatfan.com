@@ -15,7 +15,7 @@ tags:
 
 <div class="entry">
   <p>
-    No one is reporting why Tony Romo and Jessica Simpson broke up, but Colin Cowherd of the <a href="http://sports.espn.go.com/espnradio/show?showId=theherd">Thundering Herd</a> radio show has his own theory, which I believe to be very accurate.
+    No one is reporting why Tony Romo and Jessica Simpson broke up, but Colin Cowherd of the <a href="https://sports.espn.go.com/espnradio/show?showId=theherd">Thundering Herd</a> radio show has his own theory, which I believe to be very accurate.
   </p>
 
   <p>
@@ -43,6 +43,6 @@ tags:
   </p>
 
   <p>
-    You can download this segment from the <a href="http://insider.espn.go.com/insider/radio/archive?name=herd_podcast">ESPN Radio PodCenter page</a>
+    You can download this segment from the <a href="https://insider.espn.go.com/insider/radio/archive?name=herd_podcast">ESPN Radio PodCenter page</a>
   </p>
 </div>

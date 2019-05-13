@@ -29,7 +29,7 @@ tags:
   </p>
 
   <p>
-    Mike Reis of ESPNBoston.com was the first to <a href="http://sports.espn.go.com/boston/nfl/news/story?id=5416241">report the signing</a>.
+    Mike Reis of ESPNBoston.com was the first to <a href="https://sports.espn.go.com/boston/nfl/news/story?id=5416241">report the signing</a>.
   </p>
 
   <p>

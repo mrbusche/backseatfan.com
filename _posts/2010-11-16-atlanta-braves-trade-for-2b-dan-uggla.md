@@ -27,10 +27,10 @@ tags:
   </p>
 
   <p>
-    Martin Prado will move to 3B full-time as Chipper Jones recovers from knee surgery and/or spends some time in left field if necessary, according to <a href="http://twitter.com/#!/Ken_Rosenthal/statuses/4665630624055296">Ken Rosenthal</a>.
+    Martin Prado will move to 3B full-time as Chipper Jones recovers from knee surgery and/or spends some time in left field if necessary, according to <a href="https://twitter.com/#!/Ken_Rosenthal/statuses/4665630624055296">Ken Rosenthal</a>.
   </p>
 
   <p>
-    The Tigers, Blue Jays and Cardinals were also suitors for Uggla, but it appears the super utility ability of Infante may have been the best the Marlins were offered. The first person to report the finalization of the deal was<a href="http://twitter.com/#!/jcrasnick/statuses/4663337744867329"> ESPN's Jerry Crasnick</a>.
+    The Tigers, Blue Jays and Cardinals were also suitors for Uggla, but it appears the super utility ability of Infante may have been the best the Marlins were offered. The first person to report the finalization of the deal was<a href="https://twitter.com/#!/jcrasnick/statuses/4663337744867329"> ESPN's Jerry Crasnick</a>.
   </p>
 </div>

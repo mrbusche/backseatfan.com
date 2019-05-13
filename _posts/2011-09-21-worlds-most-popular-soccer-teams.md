@@ -48,7 +48,7 @@ categories:
   </p>
 
   <p>
-    Both games are available at Ladbrokes Games, the world&rsquo;s top gaming company, at the page <a href="http://games.ladbrokes.com/en/games/slots/Bejeweled-2">http://games.ladbrokes.com/en/games/slots/Bejeweled-2</a> .
+    Both games are available at Ladbrokes Games, the world&rsquo;s top gaming company, at the page <a href="https://games.ladbrokes.com/en/games/slots/Bejeweled-2">https://games.ladbrokes.com/en/games/slots/Bejeweled-2</a> .
   </p>
 
   <p>

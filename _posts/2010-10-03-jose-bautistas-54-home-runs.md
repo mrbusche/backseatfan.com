@@ -21,7 +21,7 @@ tags:
 
 <div class="entry">
   <p>
-    MLB.com has <a href="http://toronto.bluejays.mlb.com/video/play.jsp?content_id=12404949&topic_id=8877962&c_id=tor">put together a video</a> showing each of Jose Bautista's 54 home runs this season. It's remarkable that his first opposite field home run is his most recent this year.
+    MLB.com has <a href="https://toronto.bluejays.mlb.com/video/play.jsp?content_id=12404949&topic_id=8877962&c_id=tor">put together a video</a> showing each of Jose Bautista's 54 home runs this season. It's remarkable that his first opposite field home run is his most recent this year.
   </p>
 
   <p>

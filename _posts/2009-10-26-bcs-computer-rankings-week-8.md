@@ -1,6 +1,6 @@
 ---
 id: 2355
-title: "BCS Computer Rankings - Week 8"
+title: 'BCS Computer Rankings - Week 8'
 date: 2009-10-26T06:55:10+00:00
 author: Ryan M.
 layout: post
@@ -34,11 +34,11 @@ tags:
   </p>
 
   <p>
-    1.  <strong><a href="http://espn.go.com/college-football/rankings/_/poll/5">Harris Interactive Poll</a></strong>
+    1.  <strong><a href="https://espn.go.com/college-football/rankings/_/poll/5">Harris Interactive Poll</a></strong>
   </p>
 
   <p>
-    2.  <strong><a href="http://espn.go.com/college-football/rankings/_/poll/2">Coaches Poll</a></strong>
+    2.  <strong><a href="https://espn.go.com/college-football/rankings/_/poll/2">Coaches Poll</a></strong>
   </p>
 
   <p>
@@ -46,7 +46,7 @@ tags:
   </p>
 
   <p>
-    <strong><a href="http://prwolfe.bol.ucla.edu/cfootball/ratings.htm">Peter Wolfe</a></strong><br /> <a href="https://www.colleyrankings.com/"><strong>Wes Colley</strong></a><br /> <strong><a href="https://www.usatoday.com/sports/sagarin/fbt09.htm">Sagarin</a></strong><br /> <strong><a href="https://www.andersonsports.com/">Anderson/Hester Seattle Times</a></strong><br /> <strong><a href="https://www.cfrc.com/">Richard Billingsley</a></strong><br /> <strong><a href="https://www.masseyratings.com/">Kenneth Massey</a></strong>
+    <strong><a href="https://prwolfe.bol.ucla.edu/cfootball/ratings.htm">Peter Wolfe</a></strong><br /> <a href="https://www.colleyrankings.com/"><strong>Wes Colley</strong></a><br /> <strong><a href="https://www.usatoday.com/sports/sagarin/fbt09.htm">Sagarin</a></strong><br /> <strong><a href="https://www.andersonsports.com/">Anderson/Hester Seattle Times</a></strong><br /> <strong><a href="https://www.cfrc.com/">Richard Billingsley</a></strong><br /> <strong><a href="https://www.masseyratings.com/">Kenneth Massey</a></strong>
   </p>
 
   <p>
@@ -95,7 +95,7 @@ tags:
                             1.  Iowa<br /> 2.  Florida<br /> 3.  Alabama<br /> 4.  TCU<br /> 5.  Texas<br /> 6.  Cincinnati<br /> 7.  LSU<br /> 8.  USC<br /> 9.  Oregon<br /> 10. Boise State</td>
 
                             <td style="color: #000000; font-size: 11px; cursor: text; margin: 8px;" valign="top">
-                              <strong><a href="http://prwolfe.bol.ucla.edu/cfootball/ratings.htm">Wolfe</a></strong></p>
+                              <strong><a href="https://prwolfe.bol.ucla.edu/cfootball/ratings.htm">Wolfe</a></strong></p>
 
                               <p>
                                 1.  Iowa<br /> 2.  Florida<br /> 3.  Alabama<br /> 4.  TCU<br /> 5.  Cincinnati<br /> 6.  Texas<br /> 7.  Oregon<br /> 8.  Boise State<br /> 9.  USC<br /> 10. LSU</td> </tr> </tbody> </table>

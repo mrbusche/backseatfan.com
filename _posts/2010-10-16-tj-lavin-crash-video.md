@@ -21,7 +21,7 @@ tags:
   </p>
 
   <p>
-    There was an update posted to <a href="http://twitter.com/#!/tjlavin/status/27375986283">TJ's twitter account</a> yesterday afternoon.
+    There was an update posted to <a href="https://twitter.com/#!/tjlavin/status/27375986283">TJ's twitter account</a> yesterday afternoon.
   </p>
 
   <p>

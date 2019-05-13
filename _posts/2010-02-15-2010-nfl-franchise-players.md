@@ -86,7 +86,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://twitter.com/Adam_Schefter/statuses/9546528624">$7 million</a>
+        <a href="https://twitter.com/Adam_Schefter/statuses/9546528624">$7 million</a>
       </td>
 
       <td>
@@ -108,7 +108,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://twitter.com/Adam_Schefter/status/9594107827">$7 million</a>
+        <a href="https://twitter.com/Adam_Schefter/status/9594107827">$7 million</a>
       </td>
 
       <td>
@@ -130,7 +130,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://nbcsports.msnbc.com/id/35566020/ns/sports-player_news/">$12.398 million</a>
+        <a href="https://nbcsports.msnbc.com/id/35566020/ns/sports-player_news/">$12.398 million</a>
       </td>
 
       <td>
@@ -152,7 +152,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://seattletimes.nwsource.com/html/seahawks/2011178420_mare25.html">$2.814 million</a>
+        <a href="https://seattletimes.nwsource.com/html/seahawks/2011178420_mare25.html">$2.814 million</a>
       </td>
 
       <td>
@@ -181,5 +181,6 @@ tags:
         2/25/2010
       </td>
     </tr>
+
   </table>
 </div>

@@ -1,6 +1,6 @@
 ---
 id: 6519
-title: "Daily Spin:  FIFA Reconsiders Instant Replay, Strasburg loses again, Russian Spy Ring Caught"
+title: 'Daily Spin:  FIFA Reconsiders Instant Replay, Strasburg loses again, Russian Spy Ring Caught'
 date: 2010-06-29T09:40:00+00:00
 author: Ryan M.
 layout: post
@@ -26,7 +26,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://soccernet.espn.go.com/world-cup/story/_/id/5338733/ce/us/sepp-blatter-says-fifa-reopen-file-replay">FIFA realizes they screwed up</a>, apologizes to England and will reconsider using instant replay for goals? US is still screwed on the offsides calls.  [via <a href="http://soccernet.espn.go.com/world-cup/story/_/id/5338733/ce/us/sepp-blatter-says-fifa-reopen-file-replay">ESPN / AP</a>]
+    <a href="https://soccernet.espn.go.com/world-cup/story/_/id/5338733/ce/us/sepp-blatter-says-fifa-reopen-file-replay">FIFA realizes they screwed up</a>, apologizes to England and will reconsider using instant replay for goals? US is still screwed on the offsides calls.  [via <a href="https://soccernet.espn.go.com/world-cup/story/_/id/5338733/ce/us/sepp-blatter-says-fifa-reopen-file-replay">ESPN / AP</a>]
   </p>
 
   <p>
@@ -38,11 +38,11 @@ tags:
   </p>
 
   <p>
-    <a href="http://miamiherald.typepad.com/sedano-says/2010/06/wade-lbj-bosh-summit-didnt-happen-in-miami.html">Miami Herald Reports: </a> Dwyane Wade, LeBron James and Chris Bosh summit never happened?  Looks like someone just got fired from ESPN? But a free agent summit would be pretty awesome.  [via  <a href="http://miamiherald.typepad.com/sedano-says/2010/06/wade-lbj-bosh-summit-didnt-happen-in-miami.html">Miami Herald</a>]
+    <a href="https://miamiherald.typepad.com/sedano-says/2010/06/wade-lbj-bosh-summit-didnt-happen-in-miami.html">Miami Herald Reports: </a> Dwyane Wade, LeBron James and Chris Bosh summit never happened?  Looks like someone just got fired from ESPN? But a free agent summit would be pretty awesome.  [via  <a href="https://miamiherald.typepad.com/sedano-says/2010/06/wade-lbj-bosh-summit-didnt-happen-in-miami.html">Miami Herald</a>]
   </p>
 
   <p>
-    <a href="http://content.usatoday.com/communities/dailypitch/post/2010/06/nationals-not-giving-stephen-strasburg-run-support/1">Stephen Strasburg loses again</a>, with no help from his teammates?  Hard to win when you get no run support [via <a href="http://content.usatoday.com/communities/dailypitch/post/2010/06/nationals-not-giving-stephen-strasburg-run-support/1">USA Today</a>]
+    <a href="https://content.usatoday.com/communities/dailypitch/post/2010/06/nationals-not-giving-stephen-strasburg-run-support/1">Stephen Strasburg loses again</a>, with no help from his teammates?  Hard to win when you get no run support [via <a href="https://content.usatoday.com/communities/dailypitch/post/2010/06/nationals-not-giving-stephen-strasburg-run-support/1">USA Today</a>]
   </p>
 
   <p>

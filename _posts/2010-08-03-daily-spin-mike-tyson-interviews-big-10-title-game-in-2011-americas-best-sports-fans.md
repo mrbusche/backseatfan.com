@@ -31,11 +31,11 @@ tags:
   </p>
 
   <p>
-    <a href="http://sportsillustrated.cnn.com/2010/mma/boxing/07/28/tyson.interview/index.html">Mike Tyson Interview with Sports Illustrated</a>?  Why are <a href="https://www.details.com/culture-trends/news-and-politics/201008/interview-boxing-mike-tyson">crazy Mike Tyson interviews</a> coming out lately?  Not to mention he was doing the movie<a href="http://sportsradiointerviews.com/2010/08/02/mike-tyson-on-the-hangover-i-was-doing-that-to-supply-my-drug-habit/"> 'The Hangover' for drug money</a>? Is he really coming clean or just trying to make more money?  Either way, they are fantastic? [via <a href="http://sportsillustrated.cnn.com/2010/mma/boxing/07/28/tyson.interview/index.html">SI.com</a> / <a href="http://sportsradiointerviews.com/2010/08/02/mike-tyson-on-the-hangover-i-was-doing-that-to-supply-my-drug-habit/">Sports Radio Interviews</a>]
+    <a href="https://sportsillustrated.cnn.com/2010/mma/boxing/07/28/tyson.interview/index.html">Mike Tyson Interview with Sports Illustrated</a>?  Why are <a href="https://www.details.com/culture-trends/news-and-politics/201008/interview-boxing-mike-tyson">crazy Mike Tyson interviews</a> coming out lately?  Not to mention he was doing the movie<a href="https://sportsradiointerviews.com/2010/08/02/mike-tyson-on-the-hangover-i-was-doing-that-to-supply-my-drug-habit/"> 'The Hangover' for drug money</a>? Is he really coming clean or just trying to make more money?  Either way, they are fantastic? [via <a href="https://sportsillustrated.cnn.com/2010/mma/boxing/07/28/tyson.interview/index.html">SI.com</a> / <a href="https://sportsradiointerviews.com/2010/08/02/mike-tyson-on-the-hangover-i-was-doing-that-to-supply-my-drug-habit/">Sports Radio Interviews</a>]
   </p>
 
   <p>
-    <a href="http://content.usatoday.com/communities/campusrivalry/post/2010/08/big-ten-set-for-title-game-next-year-nine-game-schedule-in-future/1">Big 10 set to have title game in 2011</a>, plus 9 conference games?  I can't wait to have a true champion in a Big 10 season, I have been waiting for this to happen for so long.  I was just expecting ND and not Nebraska?  Now all they need to do is find out a new name for the conference, and figure out how they are going to divide this sucker up so Iowa can win it all?  [via <a href="http://content.usatoday.com/communities/campusrivalry/post/2010/08/big-ten-set-for-title-game-next-year-nine-game-schedule-in-future/1">USA Today</a>]
+    <a href="https://content.usatoday.com/communities/campusrivalry/post/2010/08/big-ten-set-for-title-game-next-year-nine-game-schedule-in-future/1">Big 10 set to have title game in 2011</a>, plus 9 conference games?  I can't wait to have a true champion in a Big 10 season, I have been waiting for this to happen for so long.  I was just expecting ND and not Nebraska?  Now all they need to do is find out a new name for the conference, and figure out how they are going to divide this sucker up so Iowa can win it all?  [via <a href="https://content.usatoday.com/communities/campusrivalry/post/2010/08/big-ten-set-for-title-game-next-year-nine-game-schedule-in-future/1">USA Today</a>]
   </p>
 
   <p>
@@ -43,11 +43,11 @@ tags:
   </p>
 
   <p>
-    <a href="http://thebiglead.com/index.php/2010/08/03/chaos-at-yahoo-sports/">Chaos at Yahoo Sports?</a> Is the #1 Sports site going to go down in  a ball of fire? [via <a href="http://thebiglead.com/index.php/2010/08/03/chaos-at-yahoo-sports/">The Big Lead</a>]
+    <a href="https://thebiglead.com/index.php/2010/08/03/chaos-at-yahoo-sports/">Chaos at Yahoo Sports?</a> Is the #1 Sports site going to go down in  a ball of fire? [via <a href="https://thebiglead.com/index.php/2010/08/03/chaos-at-yahoo-sports/">The Big Lead</a>]
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/nfl/news/story?id=5434356">Johnny Jolly may avoid jail tim</a>e with a plea deal? Even if he avoids jail time he will still be suspended from the NFL, possibly more than one year?  Plus he will be in the witness protection program for ratting out whoever is above him? [via <a href="http://sports.espn.go.com/nfl/news/story?id=5434356">ESPN</a>]
+    <a href="https://sports.espn.go.com/nfl/news/story?id=5434356">Johnny Jolly may avoid jail tim</a>e with a plea deal? Even if he avoids jail time he will still be suspended from the NFL, possibly more than one year?  Plus he will be in the witness protection program for ratting out whoever is above him? [via <a href="https://sports.espn.go.com/nfl/news/story?id=5434356">ESPN</a>]
   </p>
 
   <p>

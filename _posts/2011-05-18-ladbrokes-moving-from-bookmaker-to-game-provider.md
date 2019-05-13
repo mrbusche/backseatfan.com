@@ -44,7 +44,7 @@ categories:
   </p>
 
   <p>
-    Currently, one of the most remarkable news in the Ladbrokes Casino environment is represented by the newest Cleopatra slot game by Ladbrokes. You can view and play this wonderful new version of the classic game on <a href="http://games.ladbrokes.com/en/games/slots/cleopatra">http://games.ladbrokes.com/en/games/slots/cleopatra</a> .
+    Currently, one of the most remarkable news in the Ladbrokes Casino environment is represented by the newest Cleopatra slot game by Ladbrokes. You can view and play this wonderful new version of the classic game on <a href="https://games.ladbrokes.com/en/games/slots/cleopatra">https://games.ladbrokes.com/en/games/slots/cleopatra</a> .
   </p>
 
   <h2>

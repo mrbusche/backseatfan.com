@@ -23,7 +23,7 @@ categories:
   </p>
 
   <p>
-    ESPN's award-winning primetime newsmagazine<a href="http://sports.espn.go.com/broadband/video/clip?id=null&categoryid=3060647" target="_blank"><em> E:60</em></a> will revisit the town of Parkersburg, Iowa, in the episode airing Tuesday, Aug. 25, at 7 p.m. ET. Parkersburg was the scene earlier this year when beloved high school football coach Ed Thomas was shot and killed by one of his former players, and the school is now preparing to launch its 2009 football campaign.
+    ESPN's award-winning primetime newsmagazine<a href="https://sports.espn.go.com/broadband/video/clip?id=null&categoryid=3060647" target="_blank"><em> E:60</em></a> will revisit the town of Parkersburg, Iowa, in the episode airing Tuesday, Aug. 25, at 7 p.m. ET. Parkersburg was the scene earlier this year when beloved high school football coach Ed Thomas was shot and killed by one of his former players, and the school is now preparing to launch its 2009 football campaign.
   </p>
 
   <p>

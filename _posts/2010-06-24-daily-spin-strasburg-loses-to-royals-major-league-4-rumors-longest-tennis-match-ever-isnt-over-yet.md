@@ -28,7 +28,7 @@ tags:
   </p>
 
   <p>
-    USA WINS!!! Qualifies for next round in World Cup soccer!!  Algeria loses and <a href="http://g.sports.yahoo.com/soccer/world-cup/news/algeria-star-slaps-female-reporter--fbintl_ro-algeria062310.html">a player slaps a female reporter</a> across the face? [ <a href="http://g.sports.yahoo.com/soccer/world-cup/news/algeria-star-slaps-female-reporter--fbintl_ro-algeria062310.html">via Yahoo Sports</a>]
+    USA WINS!!! Qualifies for next round in World Cup soccer!!  Algeria loses and <a href="https://g.sports.yahoo.com/soccer/world-cup/news/algeria-star-slaps-female-reporter--fbintl_ro-algeria062310.html">a player slaps a female reporter</a> across the face? [ <a href="https://g.sports.yahoo.com/soccer/world-cup/news/algeria-star-slaps-female-reporter--fbintl_ro-algeria062310.html">via Yahoo Sports</a>]
   </p>
 
   <p>
@@ -40,11 +40,11 @@ tags:
   </p>
 
   <p>
-    John Isner and Nicolas Mahut played in the <a href="http://sports.espn.go.com/sports/tennis/wimbledon10/news/story?id=5319726">longest match in tennis history</a> which has lasted 10 hours? The match was suspended because of darkness at 59-59 in the fifth set.  They will resume play today. USA soccer stole the thunder from this match, because that is just ridiculous.  [via <a href="http://sports.espn.go.com/sports/tennis/wimbledon10/news/story?id=5319726">ESPN</a>]
+    John Isner and Nicolas Mahut played in the <a href="https://sports.espn.go.com/sports/tennis/wimbledon10/news/story?id=5319726">longest match in tennis history</a> which has lasted 10 hours? The match was suspended because of darkness at 59-59 in the fifth set.  They will resume play today. USA soccer stole the thunder from this match, because that is just ridiculous.  [via <a href="https://sports.espn.go.com/sports/tennis/wimbledon10/news/story?id=5319726">ESPN</a>]
   </p>
 
   <p>
-    Stephen Strasburg's rookie card is up to <a href="http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=200485213281#ht_536wt_1139">$113,201.00 on eBay</a>. Wouldn't it just be cheaper to buy a bunch of baseball card packs, or an entire box? Don't they do that anymore? [ via <a href="http://lastangryfan.com/2010/06/100000-for-a-stephen-strasburg-card-100000-for-a-stephen-strasburg-card/">Last Angry Fan</a>]
+    Stephen Strasburg's rookie card is up to <a href="https://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=200485213281#ht_536wt_1139">$113,201.00 on eBay</a>. Wouldn't it just be cheaper to buy a bunch of baseball card packs, or an entire box? Don't they do that anymore? [ via <a href="https://lastangryfan.com/2010/06/100000-for-a-stephen-strasburg-card-100000-for-a-stephen-strasburg-card/">Last Angry Fan</a>]
   </p>
 
   <p>

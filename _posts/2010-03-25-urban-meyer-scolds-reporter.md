@@ -32,7 +32,7 @@ tags:
   </blockquote>
 
   <p>
-    Meyer was reacting to a story posted on the <a href="http://blogs.orlandosentinel.com/sports_college_uf/2010/03/florida-gators-wr-deonte-thompson-sounds-happy-to-usher-in-post-tebow-era.html">Orlando Sentinel's Web site</a> following Monday's practice. Deonte Thompson was asked what the biggest difference was between Tebow and Brantley. Heres what was written:
+    Meyer was reacting to a story posted on the <a href="https://blogs.orlandosentinel.com/sports_college_uf/2010/03/florida-gators-wr-deonte-thompson-sounds-happy-to-usher-in-post-tebow-era.html">Orlando Sentinel's Web site</a> following Monday's practice. Deonte Thompson was asked what the biggest difference was between Tebow and Brantley. Heres what was written:
   </p>
 
   <blockquote>

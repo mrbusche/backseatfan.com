@@ -34,7 +34,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://games.espn.go.com/bowlmania/en/entry?entryID=617089">Matt</a>
+        <a href="https://games.espn.go.com/bowlmania/en/entry?entryID=617089">Matt</a>
       </td>
     </tr>
 

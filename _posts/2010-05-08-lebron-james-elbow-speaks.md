@@ -26,6 +26,6 @@ tags:
   </p>
 
   <p>
-    [<a href="http://blogs.thescore.com/tbj/">The Basketball Jones</a>]
+    [<a href="https://blogs.thescore.com/tbj/">The Basketball Jones</a>]
   </p>
 </div>

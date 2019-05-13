@@ -12,7 +12,7 @@ categories:
 
 <div class="entry">
   <p>
-    <a href="http://wcco.com/vikings/brett.favre.minnesota.2.1133319.html">WCCO-TV</a> is reporting that QB Brett Favre is expected to sign with the Vikings today.
+    <a href="https://wcco.com/vikings/brett.favre.minnesota.2.1133319.html">WCCO-TV</a> is reporting that QB Brett Favre is expected to sign with the Vikings today.
   </p>
 
   <p>
@@ -28,7 +28,7 @@ categories:
   </p>
 
   <p>
-    A <a href="http://sports.espn.go.com/nfl/news/story?id=4406963">source close</a> to Brett Favre said the quarterback, pending a physical, will sign a contract with the Minnesota Vikings for between $10 million to $12 million, according to ESPN senior NFL analyst Chris Mortensen.
+    A <a href="https://sports.espn.go.com/nfl/news/story?id=4406963">source close</a> to Brett Favre said the quarterback, pending a physical, will sign a contract with the Minnesota Vikings for between $10 million to $12 million, according to ESPN senior NFL analyst Chris Mortensen.
   </p>
 
   <p>

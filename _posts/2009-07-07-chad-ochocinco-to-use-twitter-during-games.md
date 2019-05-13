@@ -16,7 +16,7 @@ tags:
 
 <div class="entry">
   <p>
-    Chad OchoCinco <a href="http://twitter.com/ogochocinco">@OGOchoCinco</a> has told KGOW Radio (Houston) that <a href="http://content.usatoday.com/communities/gameon/index/2009/07/ochocinco-planning-to-tweet-during-games.html">he will use twitter during games</a>.
+    Chad OchoCinco <a href="https://twitter.com/ogochocinco">@OGOchoCinco</a> has told KGOW Radio (Houston) that <a href="https://content.usatoday.com/communities/gameon/index/2009/07/ochocinco-planning-to-tweet-during-games.html">he will use twitter during games</a>.
   </p>
 
   <p>

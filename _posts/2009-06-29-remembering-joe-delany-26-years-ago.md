@@ -36,7 +36,7 @@ categories:
   </p>
 
   <p>
-    <a href="http://sportsillustrated.cnn.com/vault/article/magazine/MAG1121456/index.htm">Frank Deford wrote a magnificent article for the November 7th, 1983, edition of Sports Illustrated</a>
+    <a href="https://sportsillustrated.cnn.com/vault/article/magazine/MAG1121456/index.htm">Frank Deford wrote a magnificent article for the November 7th, 1983, edition of Sports Illustrated</a>
   </p>
 
   <p>
@@ -48,6 +48,6 @@ categories:
   </p>
 
   <p>
-    Sources: <a href="https://www.arrowheadpride.com/2009/6/29/928757/kansas-city-chiefs-rb-joe-delaney">Arrowhead Pride</a> and <a href="http://sportsillustrated.cnn.com/vault/article/magazine/MAG1121456/index.htm">Sports Illustrated Archive</a>
+    Sources: <a href="https://www.arrowheadpride.com/2009/6/29/928757/kansas-city-chiefs-rb-joe-delaney">Arrowhead Pride</a> and <a href="https://sportsillustrated.cnn.com/vault/article/magazine/MAG1121456/index.htm">Sports Illustrated Archive</a>
   </p>
 </div>

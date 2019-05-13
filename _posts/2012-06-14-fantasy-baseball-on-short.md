@@ -1,6 +1,6 @@
 ---
 id: 10658
-title: "<!--:en-->Fantasy Baseball On Short<!--:-->"
+title: '<!--:en-->Fantasy Baseball On Short<!--:-->'
 date: 2012-06-14T00:12:10+00:00
 layout: post
 guid: https://backseatfan.com/2012/06/fantasy-baseball-on-short/
@@ -15,7 +15,7 @@ categories:
   </p>
 
   <p>
-    For those of you who are passionate about <a href="http://baseball.fantasysports.yahoo.com/">fantasy baseball</a>, this piece is going to discuss some of the main aspects of the sport. First of all, fantasy baseball is a sport in which participants manage a roster made of baseball players that come from Major Leagues of baseball. Secondly, it is one of the most popular fantasy sports game played on the planet. Participants need to use real life statistics belonging to players in order to score points against their competitors.&nbsp; The fast paced action and high degree of difficulty turn the game into one of the most pleasant ones as well.
+    For those of you who are passionate about <a href="https://baseball.fantasysports.yahoo.com/">fantasy baseball</a>, this piece is going to discuss some of the main aspects of the sport. First of all, fantasy baseball is a sport in which participants manage a roster made of baseball players that come from Major Leagues of baseball. Secondly, it is one of the most popular fantasy sports game played on the planet. Participants need to use real life statistics belonging to players in order to score points against their competitors.&nbsp; The fast paced action and high degree of difficulty turn the game into one of the most pleasant ones as well.
   </p>
 
   <p>
@@ -63,7 +63,7 @@ categories:
   </p>
 
   <p>
-    <img alt="" src="http://1.bp.blogspot.com/-2knBC-9-4DM/TVRm8IVOv2I/AAAAAAAAIkM/sYycwZnpIgM/s400/Fantasy%2BBaseball.jpg" />
+    <img alt="" src="https://1.bp.blogspot.com/-2knBC-9-4DM/TVRm8IVOv2I/AAAAAAAAIkM/sYycwZnpIgM/s400/Fantasy%2BBaseball.jpg" />
   </p>
 
   <p>

@@ -12,7 +12,7 @@ categories:
 
 <div class="entry">
   <p>
-    1. Alex Rodriguez - <a href="http://sportsillustrated.cnn.com/2009/baseball/mlb/02/07/alex-rodriguez-steroids/">Sports Illustrated</a>
+    1. Alex Rodriguez - <a href="https://sportsillustrated.cnn.com/2009/baseball/mlb/02/07/alex-rodriguez-steroids/">Sports Illustrated</a>
   </p>
 
   <p>
@@ -24,7 +24,7 @@ categories:
   </p>
 
   <p>
-    4. Sammy Sosa - <a href="http://sports.espn.go.com/mlb/news/story?id=4264062">ESPN</a>
+    4. Sammy Sosa - <a href="https://sports.espn.go.com/mlb/news/story?id=4264062">ESPN</a>
   </p>
 
   <p>
@@ -32,11 +32,11 @@ categories:
   </p>
 
   <p>
-    6. David Segui - <a href="http://sports.espn.go.com/mlb/news/story?id=3098571">ESPN</a>
+    6. David Segui - <a href="https://sports.espn.go.com/mlb/news/story?id=3098571">ESPN</a>
   </p>
 
   <p>
-    7. Bronson Arroyo - <a href="http://sports.espn.go.com/mlb/news/story?id=4368436">Arroyo not surprised if he's on 2003 test list </a>- Not officially on the list - Bronson Arroyo believes that Andro might have been laced with steroids.
+    7. Bronson Arroyo - <a href="https://sports.espn.go.com/mlb/news/story?id=4368436">Arroyo not surprised if he's on 2003 test list </a>- Not officially on the list - Bronson Arroyo believes that Andro might have been laced with steroids.
   </p>
 
   <p>

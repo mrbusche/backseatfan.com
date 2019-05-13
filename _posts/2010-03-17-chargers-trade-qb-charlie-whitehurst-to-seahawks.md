@@ -19,7 +19,7 @@ tags:
 
 <div class="entry">
   <p>
-    The San Diego Chargers agreed to<a href="http://espn.go.com/blog/nfcwest/post/_/id/15707/seahawks-betting-big-on-whitehurst"> trade QB Charlie Whitehurst </a>to the Seattle Seahawks for a 3rd round pick in 2011 and a swap of picks in 2010. In the exchange of 2nd round picks the Chargers receive the 40th overall choice while the Seahawks receive the 60th overall choice.
+    The San Diego Chargers agreed to<a href="https://espn.go.com/blog/nfcwest/post/_/id/15707/seahawks-betting-big-on-whitehurst"> trade QB Charlie Whitehurst </a>to the Seattle Seahawks for a 3rd round pick in 2011 and a swap of picks in 2010. In the exchange of 2nd round picks the Chargers receive the 40th overall choice while the Seahawks receive the 60th overall choice.
   </p>
 
   <p>

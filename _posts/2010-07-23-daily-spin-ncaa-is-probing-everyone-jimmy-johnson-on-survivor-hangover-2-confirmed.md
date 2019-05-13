@@ -1,6 +1,6 @@
 ---
 id: 7219
-title: "Daily Spin: NCAA is Probing Everyone, Jimmy Johnson on Survivor, Hangover 2 Confirmed"
+title: 'Daily Spin: NCAA is Probing Everyone, Jimmy Johnson on Survivor, Hangover 2 Confirmed'
 date: 2010-07-23T13:11:04+00:00
 author: Ryan M.
 layout: post
@@ -30,7 +30,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://sportsillustrated.cnn.com/2010/writers/tim_marchman/07/22/underhyped.players/index.html?eref=sihp">Least hyped players in baseball</a>?  Yes, there are two Royals players on the list, I couldn't be prouder? [via <a href="http://sportsillustrated.cnn.com/2010/writers/tim_marchman/07/22/underhyped.players/index.html?eref=sihp">SI</a>]
+    <a href="https://sportsillustrated.cnn.com/2010/writers/tim_marchman/07/22/underhyped.players/index.html?eref=sihp">Least hyped players in baseball</a>?  Yes, there are two Royals players on the list, I couldn't be prouder? [via <a href="https://sportsillustrated.cnn.com/2010/writers/tim_marchman/07/22/underhyped.players/index.html?eref=sihp">SI</a>]
   </p>
 
   <p>
@@ -42,7 +42,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/dallas/nfl/news/story?id=5397434">Former Cowboys Coach Jimmy Johnson to be on Survivor</a>? Really? Survivor?  Can't you just get a part time job or something? How much money do you owe people?  Maybe you could be a consultant for a team, something other than survivor? [via <a href="http://sports.espn.go.com/dallas/nfl/news/story?id=5397434">ESPN</a>]
+    <a href="https://sports.espn.go.com/dallas/nfl/news/story?id=5397434">Former Cowboys Coach Jimmy Johnson to be on Survivor</a>? Really? Survivor?  Can't you just get a part time job or something? How much money do you owe people?  Maybe you could be a consultant for a team, something other than survivor? [via <a href="https://sports.espn.go.com/dallas/nfl/news/story?id=5397434">ESPN</a>]
   </p>
 
   <p>

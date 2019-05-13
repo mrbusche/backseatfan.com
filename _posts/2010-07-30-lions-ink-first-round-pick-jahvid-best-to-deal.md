@@ -19,7 +19,7 @@ tags:
 
 <div class="entry">
   <p>
-    The Detroit Lions have signed first round pick Jahvid Best to a <a href="http://profootballtalk.nbcsports.com/2010/07/30/lions-get-one-of-their-first-rounders-under-contract/">5 year, $9.8 million deal</a>.
+    The Detroit Lions have signed first round pick Jahvid Best to a <a href="https://profootballtalk.nbcsports.com/2010/07/30/lions-get-one-of-their-first-rounders-under-contract/">5 year, $9.8 million deal</a>.
   </p>
 
   <p>

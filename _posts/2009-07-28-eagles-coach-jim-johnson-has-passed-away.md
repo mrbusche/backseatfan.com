@@ -12,7 +12,7 @@ categories:
 
 <div class="entry">
   <p>
-    Adam Caplan has posted on his <a href="http://twitter.com/caplannfl">twitter</a>
+    Adam Caplan has posted on his <a href="https://twitter.com/caplannfl">twitter</a>
   </p>
 
   <p>
@@ -55,5 +55,6 @@ categories:
     Philadelphia and the NFL have not only lost a great coach, they have lost a great man.RIP Jim.
   </p><figure id="attachment_765" style="width: 200px" class="wp-caption aligncenter">
 
-  <img class="size-medium wp-image-765" title="Jim Johnson" src="/images/2009/07/johnson-200x300.jpg" alt="RIP Jim Johnson" width="200" height="300" srcset="/images/2009/07/johnson-200x300.jpg 200w, /images/2009/07/johnson.jpg 340w" sizes="(max-width: 200px) 100vw, 200px" /><figcaption class="wp-caption-text">RIP Jim Johnson</figcaption></figure>
+<img class="size-medium wp-image-765" title="Jim Johnson" src="/images/2009/07/johnson-200x300.jpg" alt="RIP Jim Johnson" width="200" height="300" srcset="/images/2009/07/johnson-200x300.jpg 200w, /images/2009/07/johnson.jpg 340w" sizes="(max-width: 200px) 100vw, 200px" /><figcaption class="wp-caption-text">RIP Jim Johnson</figcaption></figure>
+
 </div>

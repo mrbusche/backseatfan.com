@@ -32,7 +32,7 @@ tags:
   </p>
 
   <p>
-    3. <strong>Norv Turner - San Diego Chargers </strong>- <a href="http://twitter.com/Adam_Schefter/status/4992590524">Adam Schefter</a> posed this question "Just wondering: How can a team with LaDainian Tomlinson and Darren Sproles be ranked 32nd in the league in rushing?" Well the answer is simple, Norv Turner is your head coach.He's doing one of the worst coaching jobs in football, with some of the best players. He should have ran away with the division this year, but is probably going to be battling for 2nd place.<span style="text-decoration: line-through;"> If </span><span style="text-decoration: line-through;">they</span> <span style="text-decoration: line-through;">lose </span> The Chargers lostto Denver this week, they are now 3 back in the loss column, and only 6 games into the season.
+    3. <strong>Norv Turner - San Diego Chargers </strong>- <a href="https://twitter.com/Adam_Schefter/status/4992590524">Adam Schefter</a> posed this question "Just wondering: How can a team with LaDainian Tomlinson and Darren Sproles be ranked 32nd in the league in rushing?" Well the answer is simple, Norv Turner is your head coach.He's doing one of the worst coaching jobs in football, with some of the best players. He should have ran away with the division this year, but is probably going to be battling for 2nd place.<span style="text-decoration: line-through;"> If </span><span style="text-decoration: line-through;">they</span> <span style="text-decoration: line-through;">lose </span> The Chargers lostto Denver this week, they are now 3 back in the loss column, and only 6 games into the season.
   </p>
 
   <p>

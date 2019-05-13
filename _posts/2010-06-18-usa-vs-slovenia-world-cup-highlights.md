@@ -27,6 +27,6 @@ categories:
   </p>
 
   <p>
-    <a href="http://espn.go.com/video/clip?id=5301919">You can see the highlights directly from ESPN.com</a>
+    <a href="https://espn.go.com/video/clip?id=5301919">You can see the highlights directly from ESPN.com</a>
   </p>
 </div>

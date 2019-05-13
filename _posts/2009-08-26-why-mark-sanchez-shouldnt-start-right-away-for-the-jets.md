@@ -15,7 +15,7 @@ tags:
 
 <div class="entry">
   <p>
-    In light of the recent news that Mark Sanchez will be the <a href="http://sports.espn.go.com/nfl/trainingcamp09/news/story?id=4423136">opening game starter</a> for the New York Jets I thought I should give my take on why he should not be the opening game starter.
+    In light of the recent news that Mark Sanchez will be the <a href="https://sports.espn.go.com/nfl/trainingcamp09/news/story?id=4423136">opening game starter</a> for the New York Jets I thought I should give my take on why he should not be the opening game starter.
   </p>
 
   <p>

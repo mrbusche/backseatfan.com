@@ -20,7 +20,7 @@ tags:
 
 <div class="entry">
   <p>
-    According to <a href="http://twitter.com/SI_JonHeyman/status/6673019520">Sport's Illustrateds Jon Heyman</a> Roy Halladay has been traded to the Philadelphia Phillies in a 3 way deal with the Seattle Mariners and Toronto Blue Jays.
+    According to <a href="https://twitter.com/SI_JonHeyman/status/6673019520">Sport's Illustrateds Jon Heyman</a> Roy Halladay has been traded to the Philadelphia Phillies in a 3 way deal with the Seattle Mariners and Toronto Blue Jays.
   </p>
 
   <p>
@@ -36,7 +36,7 @@ tags:
   </p>
 
   <p>
-    <span><span><a href="http://twitter.com/jonmorosi/statuses/6674641214">According to Jon Morosi</a> Phillippe Aumont (from SEA) and M. Taylor (from PHI) among players heading to TOR. </span></span>
+    <span><span><a href="https://twitter.com/jonmorosi/statuses/6674641214">According to Jon Morosi</a> Phillippe Aumont (from SEA) and M. Taylor (from PHI) among players heading to TOR. </span></span>
   </p>
 
   <p>

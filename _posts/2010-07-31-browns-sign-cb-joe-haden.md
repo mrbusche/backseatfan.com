@@ -21,7 +21,7 @@ tags:
 
 <div class="entry">
   <p>
-    The Cleveland Browns have signed first round draft pick Joe Haden to a 5 year $50 million (max value) deal with $26 million guaranteed. Included in the $26 million guaranteed is a <a href="http://twitter.com/JasonLaCanfora/statuses/20005737780">$12 million signing bonus</a>.
+    The Cleveland Browns have signed first round draft pick Joe Haden to a 5 year $50 million (max value) deal with $26 million guaranteed. Included in the $26 million guaranteed is a <a href="https://twitter.com/JasonLaCanfora/statuses/20005737780">$12 million signing bonus</a>.
   </p>
 
   <p>

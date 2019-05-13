@@ -42,7 +42,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://mlb.fanhouse.com/2010/08/31/mets-trade-jeff-francoeur-to-rangers/">New York Mets</a> traded OF Jeff Francoeur to the Texas Rangers for INF Joaquin Arias
+    <a href="https://mlb.fanhouse.com/2010/08/31/mets-trade-jeff-francoeur-to-rangers/">New York Mets</a> traded OF Jeff Francoeur to the Texas Rangers for INF Joaquin Arias
   </p>
 
   <p>
@@ -50,7 +50,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/mlb/news/story?id=5483786">New York Mets</a> traded C Rod Barajas to the L.A. Dodgers for cash consideration.
+    <a href="https://sports.espn.go.com/mlb/news/story?id=5483786">New York Mets</a> traded C Rod Barajas to the L.A. Dodgers for cash consideration.
   </p>
 
   <p>
@@ -98,7 +98,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/mlb/news/story?id=5449338">Cincinnati Reds</a> traded OF Chris Dickerson to Milwaukee for OF Jim Edmonds.
+    <a href="https://sports.espn.go.com/mlb/news/story?id=5449338">Cincinnati Reds</a> traded OF Chris Dickerson to Milwaukee for OF Jim Edmonds.
   </p>
 
   <p>
@@ -106,7 +106,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://seattletimes.nwsource.com/html/localnews/2012535474_maritrade05.html">Seattle Mariners</a> traded Mike Sweeney to Philadelphia Phillies for a player to be named or cash considerations
+    <a href="https://seattletimes.nwsource.com/html/localnews/2012535474_maritrade05.html">Seattle Mariners</a> traded Mike Sweeney to Philadelphia Phillies for a player to be named or cash considerations
   </p>
 
   <p>
@@ -114,7 +114,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://bleacherreport.com/articles/427845-mlb-trade-rumors-marlins-acquire-lefty-will-ohman-from-baltimore">Baltimore Orioles</a> traded LHP Will Ohman to Florida for RHP Rick VandenHurk
+    <a href="https://bleacherreport.com/articles/427845-mlb-trade-rumors-marlins-acquire-lefty-will-ohman-from-baltimore">Baltimore Orioles</a> traded LHP Will Ohman to Florida for RHP Rick VandenHurk
   </p>
 
   <p>
@@ -126,11 +126,11 @@ tags:
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/mlb/news/story?id=5426165">Cleveland Indians</a> traded RHP Jake Westbrook and cash to St. Louis for San Diego RHP Corey Kluber
+    <a href="https://sports.espn.go.com/mlb/news/story?id=5426165">Cleveland Indians</a> traded RHP Jake Westbrook and cash to St. Louis for San Diego RHP Corey Kluber
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/mlb/news/story?id=5426623">Kansas City Royals</a> acquired LHP Tim Collins, RHP Jesse Chavez and OF Gregor Blanco from Atlanta for OF Rick Ankiel, RHP Kyle Farnsworth and cash
+    <a href="https://sports.espn.go.com/mlb/news/story?id=5426623">Kansas City Royals</a> acquired LHP Tim Collins, RHP Jesse Chavez and OF Gregor Blanco from Atlanta for OF Rick Ankiel, RHP Kyle Farnsworth and cash
   </p>
 
   <p>
@@ -142,15 +142,15 @@ tags:
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/mlb/news/story?id=5426004">Tampa Bay Rays</a> acquired RHP Chad Qualls from Arizona for a player to be named
+    <a href="https://sports.espn.go.com/mlb/news/story?id=5426004">Tampa Bay Rays</a> acquired RHP Chad Qualls from Arizona for a player to be named
   </p>
 
   <p>
-    <a href="http://rangersblog.dallasnews.com/archives/2010/08/rangers-complete-jarrod-saltal.html">Texas Rangers</a> acquired RHP Roman Mendez, 1B Chris McGuiness, a player to be named and cash considerations from Boston for C Jarrod Saltalamacchia.
+    <a href="https://rangersblog.dallasnews.com/archives/2010/08/rangers-complete-jarrod-saltal.html">Texas Rangers</a> acquired RHP Roman Mendez, 1B Chris McGuiness, a player to be named and cash considerations from Boston for C Jarrod Saltalamacchia.
   </p>
 
   <p>
-    <a href="http://voices.washingtonpost.com/nationalsjournal/2010/07/nationals_trade_cristian_guzma.html">Washington Nationals</a> acquired RHP Ryan Tatusko and RHP Tanner Roark from Texas for INF Cristian Guzman.
+    <a href="https://voices.washingtonpost.com/nationalsjournal/2010/07/nationals_trade_cristian_guzma.html">Washington Nationals</a> acquired RHP Ryan Tatusko and RHP Tanner Roark from Texas for INF Cristian Guzman.
   </p>
 
   <p>
@@ -166,7 +166,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/dallas/mlb/news/story?id=5421166">Florida Marlins</a> traded 3B Jorge Cantu to Texas for RHP Evan Reed and RHP Omar Poveda.
+    <a href="https://sports.espn.go.com/dallas/mlb/news/story?id=5421166">Florida Marlins</a> traded 3B Jorge Cantu to Texas for RHP Evan Reed and RHP Omar Poveda.
   </p>
 
   <p>
@@ -174,11 +174,11 @@ tags:
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/mlb/news/story?id=5421810">Minnesota Twins</a> acquired RHP Matt Capps and cash from the Washington Nationals in exchange for C Wilson Ramos and LHP Joe Testa.
+    <a href="https://sports.espn.go.com/mlb/news/story?id=5421810">Minnesota Twins</a> acquired RHP Matt Capps and cash from the Washington Nationals in exchange for C Wilson Ramos and LHP Joe Testa.
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/mlb/news/story?id=5420095">Philadelphia Phillies</a> traded LHP J.A. Happ, OF Anthony Gose and SS Jonathan Villar to Houston for RHP Roy Oswalt and cash considerations.
+    <a href="https://sports.espn.go.com/mlb/news/story?id=5420095">Philadelphia Phillies</a> traded LHP J.A. Happ, OF Anthony Gose and SS Jonathan Villar to Houston for RHP Roy Oswalt and cash considerations.
   </p>
 
   <p>
@@ -194,7 +194,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://bleacherreport.com/articles/425610-mlb-trade-dan-haren-trade-to-los-angeles-angels-for-joe-saunders-junk">Arizona Diamondbacks</a> traded RHP Dan Haren to the Anaheim Angels for RHP Rafael Rodriguez, LHP Joe Saunders, LHP Patrick Corbin and a player to be named.
+    <a href="https://bleacherreport.com/articles/425610-mlb-trade-dan-haren-trade-to-los-angeles-angels-for-joe-saunders-junk">Arizona Diamondbacks</a> traded RHP Dan Haren to the Anaheim Angels for RHP Rafael Rodriguez, LHP Joe Saunders, LHP Patrick Corbin and a player to be named.
   </p>
 
   <p>
@@ -202,7 +202,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://kansascity.sbnation.com/2010/7/22/1583078/alberto-callaspo-trade-royals-angels-sean-osullivan">Kanas City Royals</a> trade INF Alberto Callaspo to Los Angeles Angels for P Sean O'Sullivan and P Will smith
+    <a href="https://kansascity.sbnation.com/2010/7/22/1583078/alberto-callaspo-trade-royals-angels-sean-osullivan">Kanas City Royals</a> trade INF Alberto Callaspo to Los Angeles Angels for P Sean O'Sullivan and P Will smith
   </p>
 
   <p>
@@ -218,7 +218,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://insider.espn.go.com/mlb/insider/news/story?id=5368164">Seattle Mariners</a> traded LHP Cliff Lee and RHP Mark Lowe to Texas for 1B Justin Smoak, RHP Blake Beavan, RHP Josh Lueke, and INF Matt Lawson.
+    <a href="https://insider.espn.go.com/mlb/insider/news/story?id=5368164">Seattle Mariners</a> traded LHP Cliff Lee and RHP Mark Lowe to Texas for 1B Justin Smoak, RHP Blake Beavan, RHP Josh Lueke, and INF Matt Lawson.
   </p>
 
   <p>
@@ -246,7 +246,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/dallas/mlb/news/story?id=5344813">Texas Rangers</a> traded RHP Chris Ray and RHP Michael Main to San Francisco for C Bengie Molina and cash
+    <a href="https://sports.espn.go.com/dallas/mlb/news/story?id=5344813">Texas Rangers</a> traded RHP Chris Ray and RHP Michael Main to San Francisco for C Bengie Molina and cash
   </p>
 
   <p>
@@ -254,7 +254,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://seattletimes.nwsource.com/html/mariners/2012218306_branyan27.html">Cleveland Indians</a> traded 1B Russell Branyan to Seattle for OF Ezequiel Carrera and SS Juan Diaz and a player to be named.
+    <a href="https://seattletimes.nwsource.com/html/mariners/2012218306_branyan27.html">Cleveland Indians</a> traded 1B Russell Branyan to Seattle for OF Ezequiel Carrera and SS Juan Diaz and a player to be named.
   </p>
 
   <p>
@@ -262,7 +262,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://hardballtalk.nbcsports.com/as-give-up-on-jake-fox-trade-him-to-orioles-for-ross-wolf.php">Oakland Athletics</a> traded 1B Jake Fox to Baltimore Orioles for RHP Ross Wolf
+    <a href="https://hardballtalk.nbcsports.com/as-give-up-on-jake-fox-trade-him-to-orioles-for-ross-wolf.php">Oakland Athletics</a> traded 1B Jake Fox to Baltimore Orioles for RHP Ross Wolf
   </p>
 
   <p>
@@ -302,7 +302,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://content.usatoday.com/communities/dailypitch/post/2010/06/dontrelle-willis-out-with-the-detroit-tigers-might-not-be-out-of-chances/1">Arizona Diamondbacks</a> acquired LHP Dontrelle Willis and cash considerations from Detroit for RHP Billy Buckner.
+    <a href="https://content.usatoday.com/communities/dailypitch/post/2010/06/dontrelle-willis-out-with-the-detroit-tigers-might-not-be-out-of-chances/1">Arizona Diamondbacks</a> acquired LHP Dontrelle Willis and cash considerations from Detroit for RHP Billy Buckner.
   </p>
 
   <p>
@@ -310,7 +310,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://hardballtalk.nbcsports.com/2010/05/indians-trade-saul-rivera-to-the-dbacks-bob-howry-released.html.php">Arizona Diamondbacks</a> acquired RHP Saul Rivera from Cleveland for cash considerations
+    <a href="https://hardballtalk.nbcsports.com/2010/05/indians-trade-saul-rivera-to-the-dbacks-bob-howry-released.html.php">Arizona Diamondbacks</a> acquired RHP Saul Rivera from Cleveland for cash considerations
   </p>
 
   <p>

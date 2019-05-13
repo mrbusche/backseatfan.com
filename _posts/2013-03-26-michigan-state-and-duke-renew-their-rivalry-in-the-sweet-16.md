@@ -20,7 +20,7 @@ tags:
   </p>
 
   <p>
-    Considering Izzo is 1-6 against Coach Kryzyzewski in his career, I'm not sure many would consider this among <a href="http://topbet.eu/collegebasketball/rivalries/index.html">NCAA Basketball All-Time Top Rivalries</a>, but Coach Izzo is 1-1 against Coach K in the tournament. In 2005 Michigan State upset number 1 seed Duke as a 5 seed, but lost in the Final Four to Duke in 1999 who lost in the title game to the Jim Calhoun coached Huskies of Connecticut.
+    Considering Izzo is 1-6 against Coach Kryzyzewski in his career, I'm not sure many would consider this among <a href="https://topbet.eu/collegebasketball/rivalries/index.html">NCAA Basketball All-Time Top Rivalries</a>, but Coach Izzo is 1-1 against Coach K in the tournament. In 2005 Michigan State upset number 1 seed Duke as a 5 seed, but lost in the Final Four to Duke in 1999 who lost in the title game to the Jim Calhoun coached Huskies of Connecticut.
   </p>
 
   <p>

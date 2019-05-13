@@ -32,10 +32,10 @@ tags:
   </p>
 
   <p>
-    The Panthers have been mentioned as possible contenders for his services, but SI's <a href="http://twitter.com/SI_PeterKing/status/22924914872">Peter King points ou</a>t that Brandon LaFell is much better than we think he is.
+    The Panthers have been mentioned as possible contenders for his services, but SI's <a href="https://twitter.com/SI_PeterKing/status/22924914872">Peter King points ou</a>t that Brandon LaFell is much better than we think he is.
   </p>
 
   <p>
-    Chad OchocCinco tweeted that he would gladly have <a href="http://twitter.com/OGOchoCinco/status/22931027216">Housh back on the Bengals</a>. The Bengals actually have good WR depth already with Chad, Terrell Owens, Jordan Shipley, Jerome Simpson and Andre Caldwell. I don't see room for Housh on the Bengals this year.
+    Chad OchocCinco tweeted that he would gladly have <a href="https://twitter.com/OGOchoCinco/status/22931027216">Housh back on the Bengals</a>. The Bengals actually have good WR depth already with Chad, Terrell Owens, Jordan Shipley, Jerome Simpson and Andre Caldwell. I don't see room for Housh on the Bengals this year.
   </p>
 </div>

@@ -26,7 +26,7 @@ tags:
   </p>
 
   <p>
-    Adam Schefter of ESPN reports the <a href="http://sports.espn.go.com/nfl/news/story?id=5427695">contract is worth $21.1 million</a> over 5 years with $12.32 million guaranteed.
+    Adam Schefter of ESPN reports the <a href="https://sports.espn.go.com/nfl/news/story?id=5427695">contract is worth $21.1 million</a> over 5 years with $12.32 million guaranteed.
   </p>
 
   <p>

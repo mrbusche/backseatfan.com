@@ -32,7 +32,7 @@ categories:
 
 <div class="entry">
   <p dir="ltr">
-    <img title="Turns out this guy is still good at football." alt="Turns out this guy is still good at football." src="http://tjsullivan.com/wp-content/uploads/2012/12/manning.jpg" width="600" height="417" />
+    <img title="Turns out this guy is still good at football." alt="Turns out this guy is still good at football." src="https://tjsullivan.com/wp-content/uploads/2012/12/manning.jpg" width="600" height="417" />
   </p>
 
   <p dir="ltr">

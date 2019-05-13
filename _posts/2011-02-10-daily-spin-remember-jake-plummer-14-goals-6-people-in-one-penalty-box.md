@@ -1,6 +1,6 @@
 ---
 id: 9596
-title: "Daily Spin: Remember Jake Plummer, 14 goals, 6 people in one Penalty box"
+title: 'Daily Spin: Remember Jake Plummer, 14 goals, 6 people in one Penalty box'
 date: 2011-02-10T06:55:20+00:00
 author: Ryan M.
 layout: post
@@ -26,15 +26,15 @@ tags:
   </p>
 
   <p>
-    <a href="http://sportsillustrated.cnn.com/vault/article/magazine/MAG1181772/index/index.htm">Jake Plummer steps away from the NFL to play Handball (via SI</a><a href="http://sportsillustrated.cnn.com/vault/article/magazine/MAG1181772/index/index.htm">)</a>
+    <a href="https://sportsillustrated.cnn.com/vault/article/magazine/MAG1181772/index/index.htm">Jake Plummer steps away from the NFL to play Handball (via SI</a><a href="https://sportsillustrated.cnn.com/vault/article/magazine/MAG1181772/index/index.htm">)</a>
   </p>
 
   <p>
-    <a href="http://blogs.dallasobserver.com/unfairpark/2011/02/man_that_was_quick_the_first_l.php">Seatless Super Bowl ticket holders are suing Jerry Jones and the NFL  (via Dallas Observer)</a>
+    <a href="https://blogs.dallasobserver.com/unfairpark/2011/02/man_that_was_quick_the_first_l.php">Seatless Super Bowl ticket holders are suing Jerry Jones and the NFL  (via Dallas Observer)</a>
   </p>
 
   <p>
-    <a href="http://sports.yahoo.com/nba/recap;_ylt=AjRfDQAehAmmKwds6DvtQ7W8vLYF?gid=2011020905">Cleveland Cavaliers are terrible, they broke the NBA losing streak record (via Yahoo! Sports)</a>
+    <a href="https://sports.yahoo.com/nba/recap;_ylt=AjRfDQAehAmmKwds6DvtQ7W8vLYF?gid=2011020905">Cleveland Cavaliers are terrible, they broke the NBA losing streak record (via Yahoo! Sports)</a>
   </p>
 
   <p>

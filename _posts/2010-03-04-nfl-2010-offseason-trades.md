@@ -13,7 +13,7 @@ ply_custom:
 categories:
   - NFL
 tags:
-  - "2010"
+  - '2010'
   - NFL
   - NFL Trades
   - Offseason
@@ -42,11 +42,11 @@ tags:
   </p>
 
   <p>
-    <a href="http://prod.www.nfl.com/news/story/09000d5d81a3e2cb/article/cowboys-trade-crayton-to-chargers-acquire-seventhround-pick">Dallas Cowboys traded WR Patrick Crayton to San Diego Chargers for 7th-round pick.</a>
+    <a href="https://prod.www.nfl.com/news/story/09000d5d81a3e2cb/article/cowboys-trade-crayton-to-chargers-acquire-seventhround-pick">Dallas Cowboys traded WR Patrick Crayton to San Diego Chargers for 7th-round pick.</a>
   </p>
 
   <p>
-    <a href="http://nbcsports.msnbc.com/id/38995166/ns/sports-player_news/">Arizona Cardinals traded guard Reggie Wells to Philadelphia Eagles in exchange for a 6th-round pick.</a>
+    <a href="https://nbcsports.msnbc.com/id/38995166/ns/sports-player_news/">Arizona Cardinals traded guard Reggie Wells to Philadelphia Eagles in exchange for a 6th-round pick.</a>
   </p>
 
   <p>
@@ -54,7 +54,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://sports.yahoo.com/nfl/blog/shutdown_corner/post/Ravens-trade-for-Seahawks-CB-Josh-Wilson?urn=nfl-266523">Baltimore Ravens trade a conditional fifth-round pick to Seattle Seahawks for CB Josh Wilson.</a>
+    <a href="https://sports.yahoo.com/nfl/blog/shutdown_corner/post/Ravens-trade-for-Seahawks-CB-Josh-Wilson?urn=nfl-266523">Baltimore Ravens trade a conditional fifth-round pick to Seattle Seahawks for CB Josh Wilson.</a>
   </p>
 
   <p>
@@ -66,7 +66,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://voices.washingtonpost.com/redskinsinsider/running-backs/redskins-trade-dennis-morris-t.html">Washington Redskins trade TE/FB Dennis Morris to St Louis Rams for an undisclosed player/pick.</a>
+    <a href="https://voices.washingtonpost.com/redskinsinsider/running-backs/redskins-trade-dennis-morris-t.html">Washington Redskins trade TE/FB Dennis Morris to St Louis Rams for an undisclosed player/pick.</a>
   </p>
 
   <p>
@@ -74,7 +74,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://bleacherreport.com/articles/443405-miami-dolphins-trade-wide-receiver-greg-camarillo-to-minnesota-vikings">Minnesota Vikings traded CB Benny Sapp to Miami for WR Greg Camarillo.</a>
+    <a href="https://bleacherreport.com/articles/443405-miami-dolphins-trade-wide-receiver-greg-camarillo-to-minnesota-vikings">Minnesota Vikings traded CB Benny Sapp to Miami for WR Greg Camarillo.</a>
   </p>
 
   <p>
@@ -122,7 +122,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://content.usatoday.com/communities/thehuddle/post/2010/06/49ers-trade-wr-isaac-bruce-to-rams-so-he-can-retire-with-original-team/1">San Francisco 49ers traded WR Isaac Bruce to St. Louis Rams</a>
+    <a href="https://content.usatoday.com/communities/thehuddle/post/2010/06/49ers-trade-wr-isaac-bruce-to-rams-so-he-can-retire-with-original-team/1">San Francisco 49ers traded WR Isaac Bruce to St. Louis Rams</a>
   </p>
 
   <p>
@@ -130,7 +130,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://content.usatoday.com/communities/thehuddle/post/2010/05/rams-trade-ot-alex-barron-to-cowboys-for-lb-bobby-carpenter/1">St. Louis Rams trade LB Bobby Carpenter to Dallas Cowboys for OT Alex Barron</a>
+    <a href="https://content.usatoday.com/communities/thehuddle/post/2010/05/rams-trade-ot-alex-barron-to-cowboys-for-lb-bobby-carpenter/1">St. Louis Rams trade LB Bobby Carpenter to Dallas Cowboys for OT Alex Barron</a>
   </p>
 
   <p>
@@ -138,7 +138,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://blogs.suntimes.com/bears/2010/04/payne_traded_to_rams_for_draft.html">Bears traded safety Kevin Payne to the St. Louis Rams for an undisclosed 2010 draft pick (7th rounder if he makes the team)</a>
+    <a href="https://blogs.suntimes.com/bears/2010/04/payne_traded_to_rams_for_draft.html">Bears traded safety Kevin Payne to the St. Louis Rams for an undisclosed 2010 draft pick (7th rounder if he makes the team)</a>
   </p>
 
   <p>
@@ -146,7 +146,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/chicago/nfl/news/story?id=5139992">Carolina Panthers Trade S Chris Harris to Chicago Bears for LB Jamar Williams</a>
+    <a href="https://sports.espn.go.com/chicago/nfl/news/story?id=5139992">Carolina Panthers Trade S Chris Harris to Chicago Bears for LB Jamar Williams</a>
   </p>
 
   <p>
@@ -162,11 +162,11 @@ tags:
   </p>
 
   <p>
-    <a href="http://msn.foxsports.com/nfl/story/pittsburgh-steelers-tampa-bay-buccaneers-byron-leftwich-trade-042010">Pittsburgh Steelers acquired QB Byron Leftwich from the Tampa Bay Buccaneers for a seventh-round draft pick.</a>
+    <a href="https://msn.foxsports.com/nfl/story/pittsburgh-steelers-tampa-bay-buccaneers-byron-leftwich-trade-042010">Pittsburgh Steelers acquired QB Byron Leftwich from the Tampa Bay Buccaneers for a seventh-round draft pick.</a>
   </p>
 
   <p>
-    <a href="http://content.usatoday.com/communities/thehuddle/post/2010/04/rams-trade-former-first-round-pick-adam-carriker-to-redskins/1">St. Louis Rams Traded DT Adam Carriker to Washington for an undisclosed draft pick.</a>
+    <a href="https://content.usatoday.com/communities/thehuddle/post/2010/04/rams-trade-former-first-round-pick-adam-carriker-to-redskins/1">St. Louis Rams Traded DT Adam Carriker to Washington for an undisclosed draft pick.</a>
   </p>
 
   <p>
@@ -174,7 +174,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://profootballtalk.nbcsports.com/2010/04/19/three-way-trade-sends-tony-scheffler-to-detroit-ernie-sims-to-philly/">Philadelphia Eagles traded a 2010 fifth-round draft pick to Denver, who will send TE Tony Scheffler and a 2010 seventh-round draft pick to Detroit, who will send LB Ernie Sims to the Eagles.</a>
+    <a href="https://profootballtalk.nbcsports.com/2010/04/19/three-way-trade-sends-tony-scheffler-to-detroit-ernie-sims-to-philly/">Philadelphia Eagles traded a 2010 fifth-round draft pick to Denver, who will send TE Tony Scheffler and a 2010 seventh-round draft pick to Detroit, who will send LB Ernie Sims to the Eagles.</a>
   </p>
 
   <p>
@@ -182,7 +182,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/nfl/news/story?id=5099673">Miami Dolphins traded Ted Ginn Jr. to the San Francisco 49ers for a fifth round pick in 2010 (145th overall)</a>
+    <a href="https://sports.espn.go.com/nfl/news/story?id=5099673">Miami Dolphins traded Ted Ginn Jr. to the San Francisco 49ers for a fifth round pick in 2010 (145th overall)</a>
   </p>
 
   <p>
@@ -198,7 +198,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/new-york/nfl/news/story?id=5077088">Pittsburgh Steelers trade WR Santonio Holmes to New York Jets for a 2010 5th round pick</a>
+    <a href="https://sports.espn.go.com/new-york/nfl/news/story?id=5077088">Pittsburgh Steelers trade WR Santonio Holmes to New York Jets for a 2010 5th round pick</a>
   </p>
 
   <p>
@@ -206,7 +206,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://blog.seattlepi.com/football/archives/200664.asp">Seattle Seahawks trade G Rob Sims to Detroit Lions for a 5th round pick</a>
+    <a href="https://blog.seattlepi.com/football/archives/200664.asp">Seattle Seahawks trade G Rob Sims to Detroit Lions for a 5th round pick</a>
   </p>
 
   <p>
@@ -214,7 +214,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/nfl/news/story?id=5055346">Philadelphia Eagles trade QB Donovan McNabb to Washington Redskins for 2010 2nd round pick and a 3rd or 4th round pick in 2011</a>
+    <a href="https://sports.espn.go.com/nfl/news/story?id=5055346">Philadelphia Eagles trade QB Donovan McNabb to Washington Redskins for 2010 2nd round pick and a 3rd or 4th round pick in 2011</a>
   </p>
 
   <p>
@@ -222,7 +222,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/nfl/news/story?id=5050119">Cleveland Browns acquire CB Sheldon Brown, LB Chris Gocong from Philadelphia Eagles for LB Alex Hall, 4th and 5th round picks</a>
+    <a href="https://sports.espn.go.com/nfl/news/story?id=5050119">Cleveland Browns acquire CB Sheldon Brown, LB Chris Gocong from Philadelphia Eagles for LB Alex Hall, 4th and 5th round picks</a>
   </p>
 
   <p>
@@ -238,7 +238,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://seattletimes.nwsource.com/html/seahawksblog/2011361461_report_seahawks_21.html">Seattle Seahawks trade DE Darryl Tapp to Philadelphia Eagles for LB Chris Clemons and a fourth-round pick</a>
+    <a href="https://seattletimes.nwsource.com/html/seahawksblog/2011361461_report_seahawks_21.html">Seattle Seahawks trade DE Darryl Tapp to Philadelphia Eagles for LB Chris Clemons and a fourth-round pick</a>
   </p>
 
   <p>
@@ -246,11 +246,11 @@ tags:
   </p>
 
   <p>
-    <a href="http://profootballtalk.nbcsports.com/2010/03/14/49ers-trade-shaun-hill-to-lions/">San Francisco 49ers trade QB Shaun Hill to Detroit Lions for 2010 7th round pick</a>
+    <a href="https://profootballtalk.nbcsports.com/2010/03/14/49ers-trade-shaun-hill-to-lions/">San Francisco 49ers trade QB Shaun Hill to Detroit Lions for 2010 7th round pick</a>
   </p>
 
   <p>
-    <a href="http://content.usatoday.com/communities/thehuddle/post/2010/03/cleveland-browns-trade-qb-brady-quinn-to-denver-broncos/1">Denver Broncos trade FB Peyton Hillis, 2011 6th round pick, conditional pick to Cleveland Browns for QB Brady Quinn</a>
+    <a href="https://content.usatoday.com/communities/thehuddle/post/2010/03/cleveland-browns-trade-qb-brady-quinn-to-denver-broncos/1">Denver Broncos trade FB Peyton Hillis, 2011 6th round pick, conditional pick to Cleveland Browns for QB Brady Quinn</a>
   </p>
 
   <p>
@@ -274,7 +274,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://sports.gather.com/viewArticle.action?articleId=281474978091383">Philadelphia Eagles trade WR Reggie Brown to Tampa Bay Buccaneers for 6th round pick in 2011</a>
+    <a href="https://sports.gather.com/viewArticle.action?articleId=281474978091383">Philadelphia Eagles trade WR Reggie Brown to Tampa Bay Buccaneers for 6th round pick in 2011</a>
   </p>
 
   <p>
@@ -290,7 +290,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/nfl/news/story?id=4970057">Arizona Cardinals trade WR Anquan Boldin and 2010 5th round pick to Baltimore Ravens for 3rd, 4th round picks in 2010</a>
+    <a href="https://sports.espn.go.com/nfl/news/story?id=4970057">Arizona Cardinals trade WR Anquan Boldin and 2010 5th round pick to Baltimore Ravens for 3rd, 4th round picks in 2010</a>
   </p>
 
   <p>
@@ -298,10 +298,10 @@ tags:
   </p>
 
   <p>
-    <a href="http://profootballtalk.nbcsports.com/2010/03/04/antonio-cromartie-is-headed-to-the-jets/">San Diego Chargers trade CB Antonio Cromartie to New York Jets for a 3rd round pick in 2011</a>
+    <a href="https://profootballtalk.nbcsports.com/2010/03/04/antonio-cromartie-is-headed-to-the-jets/">San Diego Chargers trade CB Antonio Cromartie to New York Jets for a 3rd round pick in 2011</a>
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/nfl/news/story?id=4967021">Cleveland Browns trade DT Corey Williams to Detroit Lions for a late round draft pick (unannounced)</a>
+    <a href="https://sports.espn.go.com/nfl/news/story?id=4967021">Cleveland Browns trade DT Corey Williams to Detroit Lions for a late round draft pick (unannounced)</a>
   </p>
 </div>

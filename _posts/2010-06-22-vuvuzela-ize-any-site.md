@@ -22,10 +22,10 @@ tags:
   </p>
 
   <p>
-    Use <a href="http://bit.ly">bit.ly</a> to mess with your friends and co workers.
+    Use <a href="https://bit.ly">bit.ly</a> to mess with your friends and co workers.
   </p>
 
   <p>
-    <a href="http://bit.ly/a3PKSj">bit.ly/a3PKSj</a> is the link for Backseat Fan, you they won't know what hit them until they click on it and feel the deafening B flat of the Vuvuzela!
+    <a href="https://bit.ly/a3PKSj">bit.ly/a3PKSj</a> is the link for Backseat Fan, you they won't know what hit them until they click on it and feel the deafening B flat of the Vuvuzela!
   </p>
 </div>

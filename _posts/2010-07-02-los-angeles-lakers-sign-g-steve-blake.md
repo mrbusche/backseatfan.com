@@ -21,7 +21,7 @@ tags:
 
 <div class="entry">
   <p>
-    Steve Blake has agreed to a four-year contract with the Los Angeles Lakers according to<a href="http://twitter.com/JohnCanzanoBFT/status/17604108306"> The Oregonian</a>'s John Canzano.
+    Steve Blake has agreed to a four-year contract with the Los Angeles Lakers according to<a href="https://twitter.com/JohnCanzanoBFT/status/17604108306"> The Oregonian</a>'s John Canzano.
   </p>
 
   <p>

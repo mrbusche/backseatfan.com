@@ -26,7 +26,7 @@ tags:
   </p>
 
   <p>
-    An excerpt of the video can be found below. For the full interview check out this <a href="http://deadspin.com/5859530/i-enjoy-young-people-sandusky-thinks-it-over-tells-bob-costas-hes-not-sexually-attracted-to-young-boys">great post from deadspin</a>.
+    An excerpt of the video can be found below. For the full interview check out this <a href="https://deadspin.com/5859530/i-enjoy-young-people-sandusky-thinks-it-over-tells-bob-costas-hes-not-sexually-attracted-to-young-boys">great post from deadspin</a>.
   </p>
 
   <p>

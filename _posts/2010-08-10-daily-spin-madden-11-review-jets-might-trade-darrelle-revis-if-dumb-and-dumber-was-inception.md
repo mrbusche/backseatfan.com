@@ -1,6 +1,6 @@
 ---
 id: 7989
-title: "Daily Spin: Madden 11 Review, Jets might trade Darrelle Revis, If Dumb and Dumber was Inception"
+title: 'Daily Spin: Madden 11 Review, Jets might trade Darrelle Revis, If Dumb and Dumber was Inception'
 date: 2010-08-10T19:46:29+00:00
 author: Ryan M.
 layout: post
@@ -26,15 +26,15 @@ tags:
 
 <div class="entry">
   <p>
-    <a href="http://profootballtalk.nbcsports.com/2010/08/10/jets-acknowledge-they-discussed-trading-darrelle-revis/">Jets are thinking about trading Darrelle Revis</a>?  I guess if you don't want to pay the man then you might as well trade him.  You can get a first rounder for him, and maybe another corner in return?   [via <a href="http://profootballtalk.nbcsports.com/2010/08/10/jets-acknowledge-they-discussed-trading-darrelle-revis/">PFT</a>]
+    <a href="https://profootballtalk.nbcsports.com/2010/08/10/jets-acknowledge-they-discussed-trading-darrelle-revis/">Jets are thinking about trading Darrelle Revis</a>?  I guess if you don't want to pay the man then you might as well trade him.  You can get a first rounder for him, and maybe another corner in return?   [via <a href="https://profootballtalk.nbcsports.com/2010/08/10/jets-acknowledge-they-discussed-trading-darrelle-revis/">PFT</a>]
   </p>
 
   <p>
-    Nationals right-hander <a href="http://sports.yahoo.com/mlb/news;_ylt=ArSJt5uUelUv28hcFQ1OQWA5nYcB?slug=ap-nationals-strasburg">Stephen Strasburg gave up six runs</a> tonight after coming back from the DL?  Chances that he get's shut down for the year are 78.2%? [via <a href="http://sports.yahoo.com/mlb/news;_ylt=ArSJt5uUelUv28hcFQ1OQWA5nYcB?slug=ap-nationals-strasburg">Yahoo Sports</a>]
+    Nationals right-hander <a href="https://sports.yahoo.com/mlb/news;_ylt=ArSJt5uUelUv28hcFQ1OQWA5nYcB?slug=ap-nationals-strasburg">Stephen Strasburg gave up six runs</a> tonight after coming back from the DL?  Chances that he get's shut down for the year are 78.2%? [via <a href="https://sports.yahoo.com/mlb/news;_ylt=ArSJt5uUelUv28hcFQ1OQWA5nYcB?slug=ap-nationals-strasburg">Yahoo Sports</a>]
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/nba/news/story?id=5451434">Tracy McGrady signed a 1 year deal with the Piston</a>?  That's a weird place to sign, you would think he would want to try to sign with a contender?  If he wanted to goto a terrible team he should have went to the Cavs and been a savior? [via <a href="http://sports.espn.go.com/nba/news/story?id=5451434">ESPN</a>]
+    <a href="https://sports.espn.go.com/nba/news/story?id=5451434">Tracy McGrady signed a 1 year deal with the Piston</a>?  That's a weird place to sign, you would think he would want to try to sign with a contender?  If he wanted to goto a terrible team he should have went to the Cavs and been a savior? [via <a href="https://sports.espn.go.com/nba/news/story?id=5451434">ESPN</a>]
   </p>
 
   <p>
@@ -42,7 +42,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://ps3.ign.com/articles/111/1111135p1.html">Madden 11 Review</a>? Madden 11 came out today, I have yet to pick up my copy, so I guess I will be playing the demo again tonight.  We did giveaway a copy, because well, that's just the sort of guys we are? [via <a href="http://ps3.ign.com/articles/111/1111135p1.html">IGN</a>]
+    <a href="https://ps3.ign.com/articles/111/1111135p1.html">Madden 11 Review</a>? Madden 11 came out today, I have yet to pick up my copy, so I guess I will be playing the demo again tonight.  We did giveaway a copy, because well, that's just the sort of guys we are? [via <a href="https://ps3.ign.com/articles/111/1111135p1.html">IGN</a>]
   </p>
 
   <p>

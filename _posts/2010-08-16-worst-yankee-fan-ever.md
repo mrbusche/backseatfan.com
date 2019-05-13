@@ -26,6 +26,6 @@ tags:
   </p>
 
   <p>
-    [via <a href="http://deadspin.com/5612847/big-yankees-fan-inspired-by-katy-perry-humiliates-a-franchise">deadspin</a>/<a href="https://www.myyesnetwork.com/fanoftheyear/go/video/view?vid_id=1273268">YES Network</a>]
+    [via <a href="https://deadspin.com/5612847/big-yankees-fan-inspired-by-katy-perry-humiliates-a-franchise">deadspin</a>/<a href="https://www.myyesnetwork.com/fanoftheyear/go/video/view?vid_id=1273268">YES Network</a>]
   </p>
 </div>

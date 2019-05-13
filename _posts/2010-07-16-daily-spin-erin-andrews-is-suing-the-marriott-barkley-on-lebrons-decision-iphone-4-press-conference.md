@@ -27,15 +27,15 @@ tags:
 
 <div class="entry">
   <p>
-    Charles Barkley Voices his opinion on LeBron James' Decision? Barkley's insight is always the best. [via <a href="http://sportsradiointerviews.com/2010/07/15/barkley-wouldnt-have-chased-championship-at-age-25/">Sports Radio Interview</a>]
+    Charles Barkley Voices his opinion on LeBron James' Decision? Barkley's insight is always the best. [via <a href="https://sportsradiointerviews.com/2010/07/15/barkley-wouldnt-have-chased-championship-at-age-25/">Sports Radio Interview</a>]
   </p>
 
   <p>
-    Dwyane Wade defending LeBron, saying he didn't quit? It would be weird if Wade didn't defend LeBron? [via <a href="http://sports.espn.go.com/nba/news/story?id=5384202">ESPN</a>]
+    Dwyane Wade defending LeBron, saying he didn't quit? It would be weird if Wade didn't defend LeBron? [via <a href="https://sports.espn.go.com/nba/news/story?id=5384202">ESPN</a>]
   </p>
 
   <p>
-    The 2010 Orange Bowl – Iowa vs. Georgia Tech – almost had as many TV viewers as the MLB All-Star game?  The population of Iowa is roughly <a href="https://www.google.com/publicdata?ds=uspopulation&met=population&idim=state:19000&dl=en&hl=en&q=number+of+people+in+iowa">3 million</a>? 10 Million people tuned in for the Orange Bowl? I blame Georgia Tech.  [via <a href="http://gazetteonline.com/blogs/the-hlog/2010/07/15/2010-orange-bowl-almost-as-widely-seen-as-2010-baseball-all-star-game?utm_source=twitterfeed&utm_medium=twitter" target="_blank">Gazette Online</a>]
+    The 2010 Orange Bowl – Iowa vs. Georgia Tech – almost had as many TV viewers as the MLB All-Star game?  The population of Iowa is roughly <a href="https://www.google.com/publicdata?ds=uspopulation&met=population&idim=state:19000&dl=en&hl=en&q=number+of+people+in+iowa">3 million</a>? 10 Million people tuned in for the Orange Bowl? I blame Georgia Tech.  [via <a href="https://gazetteonline.com/blogs/the-hlog/2010/07/15/2010-orange-bowl-almost-as-widely-seen-as-2010-baseball-all-star-game?utm_source=twitterfeed&utm_medium=twitter" target="_blank">Gazette Online</a>]
   </p>
 
   <p>
@@ -43,11 +43,11 @@ tags:
   </p>
 
   <p>
-    <a href="http://sportsillustrated.cnn.com/multimedia/photo_gallery/1007/nfl.2010.season.new.qb-wr.combos/content.1.html?eref=sihp">11 New QB - Reiceiving Combos</a> for the 2010 Season? I am looking forward to Henne and Marshall, they should be able to get the Fins going? [via <a href="http://sportsillustrated.cnn.com/multimedia/photo_gallery/1007/nfl.2010.season.new.qb-wr.combos/content.1.html?eref=sihp">SI.com</a>]
+    <a href="https://sportsillustrated.cnn.com/multimedia/photo_gallery/1007/nfl.2010.season.new.qb-wr.combos/content.1.html?eref=sihp">11 New QB - Reiceiving Combos</a> for the 2010 Season? I am looking forward to Henne and Marshall, they should be able to get the Fins going? [via <a href="https://sportsillustrated.cnn.com/multimedia/photo_gallery/1007/nfl.2010.season.new.qb-wr.combos/content.1.html?eref=sihp">SI.com</a>]
   </p>
 
   <p>
-    <a href="http://voices.washingtonpost.com/local-breaking-news/dc/mild-earthquake-felt-across-re.html?hpid=dynamiclead">Washington DC Had an Earthquake</a> Last Night? Weird earthquakes don't normally happen in DC? What year is it 2010?  OMG we only have a year and half until 2012!!! [via <a href="http://voices.washingtonpost.com/local-breaking-news/dc/mild-earthquake-felt-across-re.html?hpid=dynamiclead">Washington Post</a>]
+    <a href="https://voices.washingtonpost.com/local-breaking-news/dc/mild-earthquake-felt-across-re.html?hpid=dynamiclead">Washington DC Had an Earthquake</a> Last Night? Weird earthquakes don't normally happen in DC? What year is it 2010?  OMG we only have a year and half until 2012!!! [via <a href="https://voices.washingtonpost.com/local-breaking-news/dc/mild-earthquake-felt-across-re.html?hpid=dynamiclead">Washington Post</a>]
   </p>
 
   <p>

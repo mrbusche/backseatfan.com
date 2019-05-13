@@ -44,8 +44,9 @@ tags:
   <p>
     Here is a quick interview with Dirk Nowitzki and a behind the scenes look at the Cleveland Show:
 
-    <embed src="http://c.brightcove.com/services/viewer/federated_f8/1545148137" bgcolor="#FFFFFF" flashVars="videoId=785135660001&#038;playerId=1545148137&#038;viewerSecureGatewayURL=https://console.brightcove.com/services/amfgateway&#038;servicesURL=http://services.brightcove.com/services&#038;cdnURL=http://admin.brightcove.com&#038;domain=embed&#038;autoStart=false&#038;" base="http://admin.brightcove.com" name="flashObj" width="326" height="292" seamlesstabbing="false" type="application/x-shockwave-flash" swLiveConnect="true" pluginspage="https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">
+    <embed src="https://c.brightcove.com/services/viewer/federated_f8/1545148137" bgcolor="#FFFFFF" flashVars="videoId=785135660001&#038;playerId=1545148137&#038;viewerSecureGatewayURL=https://console.brightcove.com/services/amfgateway&#038;servicesURL=https://services.brightcove.com/services&#038;cdnURL=https://admin.brightcove.com&#038;domain=embed&#038;autoStart=false&#038;" base="https://admin.brightcove.com" name="flashObj" width="326" height="292" seamlesstabbing="false" type="application/x-shockwave-flash" swLiveConnect="true" pluginspage="https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">
     </embed>Here is a short clip from the Cleveland Show featuring the NBA All-Stars:
+
   </p>
 
   <p>

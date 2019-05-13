@@ -11,7 +11,7 @@ categories:
 
 <div class="entry">
   <p>
-    It&rsquo;s not impossible to earn a nice living off <a href="http://casinogambling.about.com/od/strategyandsystems/a/Five-Top-Casino-Gambling-Tips.htm">gambling</a> or sports betting &ndash; but it&rsquo;s not a piece of cake either. When surrounded by bookmakers and sports analysts making nice money while compiling odds, many punters are tempted to enter this alluring universe as well. Luckily, there are several alternatives worth looking into, ranging from programmers who can create betting apps or gaming machine manufacturers.
+    It&rsquo;s not impossible to earn a nice living off <a href="https://casinogambling.about.com/od/strategyandsystems/a/Five-Top-Casino-Gambling-Tips.htm">gambling</a> or sports betting &ndash; but it&rsquo;s not a piece of cake either. When surrounded by bookmakers and sports analysts making nice money while compiling odds, many punters are tempted to enter this alluring universe as well. Luckily, there are several alternatives worth looking into, ranging from programmers who can create betting apps or gaming machine manufacturers.
   </p>
 
   <p>

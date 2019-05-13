@@ -65,6 +65,6 @@ tags:
   </p>
 
   <p>
-    I am keeping an eye on <a href="http://twitter.com/lancearmstrong">Lance Armstrong's Twitter</a> to see if anything good comes up.
+    I am keeping an eye on <a href="https://twitter.com/lancearmstrong">Lance Armstrong's Twitter</a> to see if anything good comes up.
   </p>
 </div>

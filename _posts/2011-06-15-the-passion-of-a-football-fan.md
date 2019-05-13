@@ -1,6 +1,6 @@
 ---
 id: 10663
-title: "<!--:en-->The Passion of a Football Fan<!--:-->"
+title: '<!--:en-->The Passion of a Football Fan<!--:-->'
 date: 2011-06-15T13:55:02+00:00
 layout: post
 guid: https://backseatfan.com/2011/06/the-passion-of-a-football-fan/
@@ -15,7 +15,7 @@ categories:
   </p>
 
   <p>
-    <img alt="" src="http://news.xinhuanet.com/english/2008-06/18/xinsrc_0220605180754656212634.jpg" style="font-size:13px;line-height:1.6em" />
+    <img alt="" src="https://news.xinhuanet.com/english/2008-06/18/xinsrc_0220605180754656212634.jpg" style="font-size:13px;line-height:1.6em" />
   </p>
 
   <p>

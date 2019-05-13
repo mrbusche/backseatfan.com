@@ -20,7 +20,7 @@ tags:
 
 <div class="entry">
   <p>
-    Earlier today <a href="http://twitter.com/bleacherreport">Bleacher Report</a> published an article title <a href="http://webcache.googleusercontent.com/search?q=cache:http://bleacherreport.com/articles/1320164-los-angeles-dodgers-vin-scully-must-retire-now">Vin Scully Must Retire Now</a>. I'm not a person who reads Bleacher Report, but it was in the news recently for being acquired for <a href="http://gigaom.com/2012/08/06/bleacher-reports-and-the-evolution-of-the-content-farm/">$175 million</a>! Who knew that writing up short two paragraphs articles on the days big news was worth so much money?
+    Earlier today <a href="https://twitter.com/bleacherreport">Bleacher Report</a> published an article title <a href="https://webcache.googleusercontent.com/search?q=cache:https://bleacherreport.com/articles/1320164-los-angeles-dodgers-vin-scully-must-retire-now">Vin Scully Must Retire Now</a>. I'm not a person who reads Bleacher Report, but it was in the news recently for being acquired for <a href="https://gigaom.com/2012/08/06/bleacher-reports-and-the-evolution-of-the-content-farm/">$175 million</a>! Who knew that writing up short two paragraphs articles on the days big news was worth so much money?
   </p>
 
   <p>
@@ -28,6 +28,6 @@ tags:
   </p>
 
   <p>
-    Do all of us a favor, never read Bleacher Report again and especially don't click through their 22 page slideshow of "<a href="http://webcache.googleusercontent.com/search?q=cache:http://bleacherreport.com/articles/1286291-fantasy-football-2012-the-20-best-fantasy-football-team-names-of-2012">best fantasy football team names</a>"
+    Do all of us a favor, never read Bleacher Report again and especially don't click through their 22 page slideshow of "<a href="https://webcache.googleusercontent.com/search?q=cache:https://bleacherreport.com/articles/1286291-fantasy-football-2012-the-20-best-fantasy-football-team-names-of-2012">best fantasy football team names</a>"
   </p>
 </div>

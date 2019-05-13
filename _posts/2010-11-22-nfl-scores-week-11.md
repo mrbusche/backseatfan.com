@@ -130,7 +130,7 @@ tags:
 
     <tr>
       <td>
-        <a href="http://espn.go.com/nfl/team/_/name/den/denver-broncos">Denver</a> at <a href="http://espn.go.com/nfl/team/_/name/sd/san-diego-chargers">San Diego</a>
+        <a href="https://espn.go.com/nfl/team/_/name/den/denver-broncos">Denver</a> at <a href="https://espn.go.com/nfl/team/_/name/sd/san-diego-chargers">San Diego</a>
       </td>
 
       <td>

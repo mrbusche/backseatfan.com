@@ -21,7 +21,7 @@ tags:
   </p>
 
   <p>
-    OGOchocinco <a href="http://twitter.com/OGOchoCinco/status/4920590657">wrote </a>-
+    OGOchocinco <a href="https://twitter.com/OGOchoCinco/status/4920590657">wrote </a>-
   </p>
 
   <p>
@@ -29,7 +29,7 @@ tags:
   </p>
 
   <p>
-    It also <a href="http://twitter.com/OGOchoCinco/status/4920609674">appears</a> they will be giving away the tickets they purchased.
+    It also <a href="https://twitter.com/OGOchoCinco/status/4920609674">appears</a> they will be giving away the tickets they purchased.
   </p>
 
   <p>

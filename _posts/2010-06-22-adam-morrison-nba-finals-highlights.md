@@ -30,6 +30,6 @@ tags:
   </p>
 
   <p>
-    via [<a href="http://sportsillustrated.cnn.com/2010/extramustard/hotclicks/06/22/melissa-satta-did-ty-lawson-mysterious-tweet-about-kim-kardashian/index.html">hot clicks</a>]
+    via [<a href="https://sportsillustrated.cnn.com/2010/extramustard/hotclicks/06/22/melissa-satta-did-ty-lawson-mysterious-tweet-about-kim-kardashian/index.html">hot clicks</a>]
   </p>
 </div>

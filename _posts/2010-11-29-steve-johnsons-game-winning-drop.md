@@ -29,6 +29,6 @@ tags:
   </p>
 
   <p>
-    But give Steve Johnson some credit, he is doing awesome this year and shouldn't be so hard on <a href="http://twitter.com/StevieJohnson13/status/9006757670031360">himself/God</a>. Stevie should just catch with his hands and not his chest. Not blame God for not helping him catch the ball. Has God ever helped the Bills? Ala Super Bowl [<a href="http://en.wikipedia.org/wiki/Super_Bowl_XXV">XXV</a>], [<a href="http://en.wikipedia.org/wiki/Super_Bowl_XXVI">XXVI</a>], [<a href="http://en.wikipedia.org/wiki/Super_Bowl_XXVII">XXVII</a>], [<a href="http://en.wikipedia.org/wiki/Super_Bowl_XXVIII">XXVIII</a>]?
+    But give Steve Johnson some credit, he is doing awesome this year and shouldn't be so hard on <a href="https://twitter.com/StevieJohnson13/status/9006757670031360">himself/God</a>. Stevie should just catch with his hands and not his chest. Not blame God for not helping him catch the ball. Has God ever helped the Bills? Ala Super Bowl [<a href="https://en.wikipedia.org/wiki/Super_Bowl_XXV">XXV</a>], [<a href="https://en.wikipedia.org/wiki/Super_Bowl_XXVI">XXVI</a>], [<a href="https://en.wikipedia.org/wiki/Super_Bowl_XXVII">XXVII</a>], [<a href="https://en.wikipedia.org/wiki/Super_Bowl_XXVIII">XXVIII</a>]?
   </p>
 </div>

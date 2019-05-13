@@ -30,6 +30,6 @@ tags:
   </p>
 
   <p>
-    You can read the full story at <a href="http://gazetteonline.com/local-news/2010/01/12/stowaway-cat-hitches-80-mile-ride-with-tipton-family">gazetteonline.com</a>
+    You can read the full story at <a href="https://gazetteonline.com/local-news/2010/01/12/stowaway-cat-hitches-80-mile-ride-with-tipton-family">gazetteonline.com</a>
   </p>
 </div>

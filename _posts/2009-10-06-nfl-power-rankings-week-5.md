@@ -410,7 +410,7 @@ tags:
       </td>
 
       <td width="405">
-        <span style="font-size: small;"><span style="font-family: arial,helvetica,sans-serif;">I spent 120 bucks on a BBQ Grill that didn't work, I was upset. Can't imagine how Oak must feel about Russell via <a href="http://twitter.com/MoveTheSticks/status/4616400166">MoveTheSticks</a></span></span>
+        <span style="font-size: small;"><span style="font-family: arial,helvetica,sans-serif;">I spent 120 bucks on a BBQ Grill that didn't work, I was upset. Can't imagine how Oak must feel about Russell via <a href="https://twitter.com/MoveTheSticks/status/4616400166">MoveTheSticks</a></span></span>
       </td>
     </tr>
 

@@ -63,7 +63,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://miami.247sports.com/Article/Forston-Streeter-Enter-NFL-Draft-51834">12/5/2011</a>
+        <a href="https://miami.247sports.com/Article/Forston-Streeter-Enter-NFL-Draft-51834">12/5/2011</a>
       </td>
     </tr>
 
@@ -85,7 +85,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://miami.247sports.com/Article/Forston-Streeter-Enter-NFL-Draft-51834">12/5/2011</a>
+        <a href="https://miami.247sports.com/Article/Forston-Streeter-Enter-NFL-Draft-51834">12/5/2011</a>
       </td>
     </tr>
 
@@ -107,7 +107,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://espn.go.com/nfl/story/_/id/7328638/2012-nfl-draft-justin-blackmon-oklahoma-state-cowboys-plans-declare-draft">12/7/2011</a>
+        <a href="https://espn.go.com/nfl/story/_/id/7328638/2012-nfl-draft-justin-blackmon-oklahoma-state-cowboys-plans-declare-draft">12/7/2011</a>
       </td>
     </tr>
 
@@ -129,7 +129,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://espn.go.com/nfl/draft2012/story/_/id/7345641/miami-hurricanes-rb-lamar-miller-leaving-early-nfl-draft">12/12/2011</a>
+        <a href="https://espn.go.com/nfl/draft2012/story/_/id/7345641/miami-hurricanes-rb-lamar-miller-leaving-early-nfl-draft">12/12/2011</a>
       </td>
     </tr>
 
@@ -151,7 +151,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://espn.go.com/nfl/draft2012/story/_/id/7353835/2012-nfl-draft-lamichael-james-oregon-ducks-reportedly-declare-draft">12/14/2011</a>
+        <a href="https://espn.go.com/nfl/draft2012/story/_/id/7353835/2012-nfl-draft-lamichael-james-oregon-ducks-reportedly-declare-draft">12/14/2011</a>
       </td>
     </tr>
 
@@ -239,8 +239,9 @@ tags:
       </td>
 
       <td>
-        <a href="http://espn.go.com/los-angeles/ncf/story/_/id/7360629/sources-usc-nick-perry-agent-headed-nfl">12/16/2011</a>
+        <a href="https://espn.go.com/los-angeles/ncf/story/_/id/7360629/sources-usc-nick-perry-agent-headed-nfl">12/16/2011</a>
       </td>
     </tr>
+
   </table>
 </div>

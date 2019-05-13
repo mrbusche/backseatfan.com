@@ -12,7 +12,7 @@ categories:
 
 <div class="entry">
   <p>
-    According to reports by <a href="http://sports.espn.go.com/nfl/news/story?id=4306275">espn.com</a> former Tennessee Titans QB Steve McNair has been found dead of an apparent gunshot wound.
+    According to reports by <a href="https://sports.espn.go.com/nfl/news/story?id=4306275">espn.com</a> former Tennessee Titans QB Steve McNair has been found dead of an apparent gunshot wound.
   </p>
 
   <p>
@@ -40,10 +40,10 @@ categories:
   </p>
 
   <p>
-    <span><strong><a title="mark schlereth" href="http://twitter.com/markschlereth"></a></strong><span> <a href="http://twitter.com/markschlereth">@markschlereth</a>Just got home to the nwes of Steve McNair's death. My heart breaks for him and his family and the woman involved. People please PRAY!</span></span>
+    <span><strong><a title="mark schlereth" href="https://twitter.com/markschlereth"></a></strong><span> <a href="https://twitter.com/markschlereth">@markschlereth</a>Just got home to the nwes of Steve McNair's death. My heart breaks for him and his family and the woman involved. People please PRAY!</span></span>
   </p>
 
   <p>
-    <span><span><a href="http://twitter.com/SI_PeterKing">@SI_PeterKing</a> Two thoughts on Steve McNair: One of the classiest gentlemen I have covered. Never an excuse after a bad day. Guts of a burglar.</span></span>
+    <span><span><a href="https://twitter.com/SI_PeterKing">@SI_PeterKing</a> Two thoughts on Steve McNair: One of the classiest gentlemen I have covered. Never an excuse after a bad day. Guts of a burglar.</span></span>
   </p>
 </div>

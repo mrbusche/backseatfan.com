@@ -21,6 +21,6 @@ categories:
   </p>
 
   <p>
-    For a better quality version head on over to <a href="http://deadspin.com/neil-diamond-performed-sweet-caroline-live-at-fenway-476606921">Deadspin</a>.
+    For a better quality version head on over to <a href="https://deadspin.com/neil-diamond-performed-sweet-caroline-live-at-fenway-476606921">Deadspin</a>.
   </p>
 </div>

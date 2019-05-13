@@ -47,6 +47,6 @@ ply_custom:
   </p>
 
   <p>
-    <strong>Tweet us: <a href="http://twitter.com/backseatfan" target="_blank">@backseatfan</a></strong>
+    <strong>Tweet us: <a href="https://twitter.com/backseatfan" target="_blank">@backseatfan</a></strong>
   </p>
 </div>

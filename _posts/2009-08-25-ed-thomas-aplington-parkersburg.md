@@ -19,7 +19,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/espn/e60/news/story?id=4419237">ESPN Article on Parkersburg</a> - New Article on Parkersburg and Ed Thomas on ESPN
+    <a href="https://sports.espn.go.com/espn/e60/news/story?id=4419237">ESPN Article on Parkersburg</a> - New Article on Parkersburg and Ed Thomas on ESPN
   </p>
 
   <p>

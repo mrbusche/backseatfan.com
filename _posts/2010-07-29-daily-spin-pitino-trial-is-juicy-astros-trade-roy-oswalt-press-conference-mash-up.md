@@ -1,6 +1,6 @@
 ---
 id: 7451
-title: "Daily Spin: Pitino Trial is Juicy, Astros Trade Roy Oswalt, Press Conference Mash Up"
+title: 'Daily Spin: Pitino Trial is Juicy, Astros Trade Roy Oswalt, Press Conference Mash Up'
 date: 2010-07-29T10:19:08+00:00
 author: Ryan M.
 layout: post
@@ -30,23 +30,23 @@ tags:
   </p>
 
   <p>
-    <a href="http://sports.yahoo.com/nfl/rumors/post/Titans-QB-Young-not-facing-penalty?urn=nfl-258932">Vince Young will not be suspended</a> for fight in strip club? No suspension for defending  the Longhorns, against NFL policy I guess? [via <a href="http://sports.yahoo.com/nfl/rumors/post/Titans-QB-Young-not-facing-penalty?urn=nfl-258932">Yahoo Sports</a>]
+    <a href="https://sports.yahoo.com/nfl/rumors/post/Titans-QB-Young-not-facing-penalty?urn=nfl-258932">Vince Young will not be suspended</a> for fight in strip club? No suspension for defending  the Longhorns, against NFL policy I guess? [via <a href="https://sports.yahoo.com/nfl/rumors/post/Titans-QB-Young-not-facing-penalty?urn=nfl-258932">Yahoo Sports</a>]
   </p>
 
   <p>
-    <a href="http://content.usatoday.com/communities/dailypitch/post/2010/07/phillies-and-astros-agree-on-trade-await-roy-oswalts-approval-/1">Houston Astros Trade Roy Oswalt</a> to the Philadelphia Phillies for J.A. Happ, right-hander Vance Worley and two young pitchers [via <a href="http://content.usatoday.com/communities/dailypitch/post/2010/07/phillies-and-astros-agree-on-trade-await-roy-oswalts-approval-/1">USA Today</a>]
+    <a href="https://content.usatoday.com/communities/dailypitch/post/2010/07/phillies-and-astros-agree-on-trade-await-roy-oswalts-approval-/1">Houston Astros Trade Roy Oswalt</a> to the Philadelphia Phillies for J.A. Happ, right-hander Vance Worley and two young pitchers [via <a href="https://content.usatoday.com/communities/dailypitch/post/2010/07/phillies-and-astros-agree-on-trade-await-roy-oswalts-approval-/1">USA Today</a>]
   </p>
 
   <p>
-    <a href="http://twitter.com/KySportsRadio">Rick Pitino's Extortion Trial is entertaining</a>? No need to read long stories in newspapers, just read Kentucky Sports Radio tweets?  Ridiculous. [via <a href="http://twitter.com/KySportsRadio">Matt Jones Twitter</a>]
+    <a href="https://twitter.com/KySportsRadio">Rick Pitino's Extortion Trial is entertaining</a>? No need to read long stories in newspapers, just read Kentucky Sports Radio tweets?  Ridiculous. [via <a href="https://twitter.com/KySportsRadio">Matt Jones Twitter</a>]
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/nfl/news/story?id=5418271">Antonio Gates signs 5 year extension</a> with the Chargers? This makes him the highest paid TE ever, and he deserves it he is their #1 receiver? [via <a href="http://sports.espn.go.com/nfl/news/story?id=5418271">ESPN</a>]
+    <a href="https://sports.espn.go.com/nfl/news/story?id=5418271">Antonio Gates signs 5 year extension</a> with the Chargers? This makes him the highest paid TE ever, and he deserves it he is their #1 receiver? [via <a href="https://sports.espn.go.com/nfl/news/story?id=5418271">ESPN</a>]
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/nfl/news/story?id=5417778">Tim Tebow wants to be paid</a> more than Dez Bryant?  I can only hope that he holds out for part of the season? [via <a href="http://sports.espn.go.com/nfl/news/story?id=5417778">ESPN</a>]
+    <a href="https://sports.espn.go.com/nfl/news/story?id=5417778">Tim Tebow wants to be paid</a> more than Dez Bryant?  I can only hope that he holds out for part of the season? [via <a href="https://sports.espn.go.com/nfl/news/story?id=5417778">ESPN</a>]
   </p>
 
   <p>

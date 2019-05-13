@@ -34,6 +34,6 @@ tags:
   </p>
 
   <p>
-    Video via [<a href="http://chriscooley47.blogspot.com/2010/06/condiment-row.html">The Cooley Zone</a>]
+    Video via [<a href="https://chriscooley47.blogspot.com/2010/06/condiment-row.html">The Cooley Zone</a>]
   </p>
 </div>

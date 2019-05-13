@@ -1,6 +1,6 @@
 ---
 id: 7120
-title: "Daily Spin: Top Paid American Athletes, NFL Agents are Pimps, Skateboarding Turtle"
+title: 'Daily Spin: Top Paid American Athletes, NFL Agents are Pimps, Skateboarding Turtle'
 date: 2010-07-22T20:50:40+00:00
 author: Ryan M.
 layout: post
@@ -31,7 +31,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://sportsillustrated.cnn.com/specials/fortunate50-2010/?eref=sihp">Top Paid American Athletes</a>? Tiger is still on top, Rookies shouldn't even be on the list, but they are there because of their giant rookie contracts?  [via <a href="http://sportsillustrated.cnn.com/specials/fortunate50-2010/?eref=sihp">SI.com</a>]
+    <a href="https://sportsillustrated.cnn.com/specials/fortunate50-2010/?eref=sihp">Top Paid American Athletes</a>? Tiger is still on top, Rookies shouldn't even be on the list, but they are there because of their giant rookie contracts?  [via <a href="https://sportsillustrated.cnn.com/specials/fortunate50-2010/?eref=sihp">SI.com</a>]
   </p>
 
   <p>
@@ -39,7 +39,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/ncb/columns/story?columnist=oneil_dana&id=5398415">20 NCAA basketball coaches anonymously talk </a>about what's wrong with college basketball? Turns out the Big 10 is the cleanest and the SEC is the dirties conference? [via <a href="http://sports.espn.go.com/ncb/columns/story?columnist=oneil_dana&id=5398415">ESPN</a>]
+    <a href="https://sports.espn.go.com/ncb/columns/story?columnist=oneil_dana&id=5398415">20 NCAA basketball coaches anonymously talk </a>about what's wrong with college basketball? Turns out the Big 10 is the cleanest and the SEC is the dirties conference? [via <a href="https://sports.espn.go.com/ncb/columns/story?columnist=oneil_dana&id=5398415">ESPN</a>]
   </p>
 
   <p>
@@ -47,7 +47,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://ncaafootball.fanhouse.com/2010/07/22/nick-saban-owes-pimps-an-apology/">Nick Saban compares NFL agents to pimps</a>.. Some think that gives pimps a bad name, I think they are probably about equal?  [via <a href="http://ncaafootball.fanhouse.com/2010/07/22/nick-saban-owes-pimps-an-apology/">Fanhouse</a>]
+    <a href="https://ncaafootball.fanhouse.com/2010/07/22/nick-saban-owes-pimps-an-apology/">Nick Saban compares NFL agents to pimps</a>.. Some think that gives pimps a bad name, I think they are probably about equal?  [via <a href="https://ncaafootball.fanhouse.com/2010/07/22/nick-saban-owes-pimps-an-apology/">Fanhouse</a>]
   </p>
 
   <p>

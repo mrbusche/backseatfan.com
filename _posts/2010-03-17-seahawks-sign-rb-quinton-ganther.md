@@ -17,7 +17,7 @@ tags:
 
 <div class="entry">
   <p>
-    David Canter, Quinton Ganther's agent announced via his <a href="http://twitter.com/davidcanter/statuses/10651599443">twitter feed</a> that the Seahawks have signed the former Redskins running  back.
+    David Canter, Quinton Ganther's agent announced via his <a href="https://twitter.com/davidcanter/statuses/10651599443">twitter feed</a> that the Seahawks have signed the former Redskins running  back.
   </p>
 
   <p>

@@ -18,7 +18,7 @@ tags:
 
 <div class="entry">
   <p>
-    According to <a href="http://twitter.com/mortreport/statuses/14458029551">Chris Mortensen</a> Brett Favre had ankle surgery this morning in Gulf Breeze, FL. Performed by Dr. James Andrews.
+    According to <a href="https://twitter.com/mortreport/statuses/14458029551">Chris Mortensen</a> Brett Favre had ankle surgery this morning in Gulf Breeze, FL. Performed by Dr. James Andrews.
   </p>
 
   <p>

@@ -25,7 +25,7 @@ tags:
   </p>
 
   <p>
-    Buffalo Bills - Fired - entire coaching staff<br /> <strong>Buffalo Bills - <a href="http://sports.espn.go.com/nfl/news/story?id=4838361">Hired </a>- Chan Gailey - Head Coach / Offensive Coordinator</strong>
+    Buffalo Bills - Fired - entire coaching staff<br /> <strong>Buffalo Bills - <a href="https://sports.espn.go.com/nfl/news/story?id=4838361">Hired </a>- Chan Gailey - Head Coach / Offensive Coordinator</strong>
   </p>
 
   <p>

@@ -34,11 +34,11 @@ tags:
   </p>
 
   <p>
-    12/26/10:  Ravens LB Sergio Kindle is <a href="http://profootballtalk.nbcsports.com/2010/12/26/ravens-sergio-kindle-arrested-for-dui/">arrested for DUI</a>.
+    12/26/10:  Ravens LB Sergio Kindle is <a href="https://profootballtalk.nbcsports.com/2010/12/26/ravens-sergio-kindle-arrested-for-dui/">arrested for DUI</a>.
   </p>
 
   <p>
-    12/20/10:  Broncos LB Kevin Alexander is arrested for <a href="http://sports.espn.go.com/nfl/news/story?id=5940794">assault and battery</a>.
+    12/20/10:  Broncos LB Kevin Alexander is arrested for <a href="https://sports.espn.go.com/nfl/news/story?id=5940794">assault and battery</a>.
   </p>
 
   <p>
@@ -66,7 +66,7 @@ tags:
   </p>
 
   <p>
-    10/23/2010:  Buccaneers TE Jerramy Stevens is arrested for <a href="http://nfl.fanhouse.com/2010/10/24/jerramy-stevens-arrested-on-drug-charges/">felony possession of cannabis with intent to distribute, felony possession of cannabis, and misdemeanor possession of drug paraphernalia</a>.
+    10/23/2010:  Buccaneers TE Jerramy Stevens is arrested for <a href="https://nfl.fanhouse.com/2010/10/24/jerramy-stevens-arrested-on-drug-charges/">felony possession of cannabis with intent to distribute, felony possession of cannabis, and misdemeanor possession of drug paraphernalia</a>.
   </p>
 
   <p>
@@ -74,11 +74,11 @@ tags:
   </p>
 
   <p>
-    10/5/10: Panthers WR Dwayne Jarrett arrested for <a href="http://profootballtalk.nbcsports.com/2010/10/05/panthers-cut-dwayne-jarrett/">driving while impaired</a>.
+    10/5/10: Panthers WR Dwayne Jarrett arrested for <a href="https://profootballtalk.nbcsports.com/2010/10/05/panthers-cut-dwayne-jarrett/">driving while impaired</a>.
   </p>
 
   <p>
-    9/21/10:  Jets WR Braylon Edwards <a href="http://sports.espn.go.com/new-york/nfl/news/story?id=5601080">arrested for DUI</a>.
+    9/21/10:  Jets WR Braylon Edwards <a href="https://sports.espn.go.com/new-york/nfl/news/story?id=5601080">arrested for DUI</a>.
   </p>
 
   <p>
@@ -90,7 +90,7 @@ tags:
   </p>
 
   <p>
-    8/30/10:  Bucs assistant defensive line coach Chris Mosley is <a href="http://arrestnation.wordpress.com/2010/09/01/chris-mosley-arrested/">arrested for DUI</a>.
+    8/30/10:  Bucs assistant defensive line coach Chris Mosley is <a href="https://arrestnation.wordpress.com/2010/09/01/chris-mosley-arrested/">arrested for DUI</a>.
   </p>
 
   <p>
@@ -106,11 +106,11 @@ tags:
   </p>
 
   <p>
-    7/24/10:  Rams CB Jerome Murphy is arrested for <a href="http://gridironfans.com/forums/latest-nfl-headlines/135067-rams-cb-jerome-murphy-arrested-no-valid.html">driving without a valid license</a>.
+    7/24/10:  Rams CB Jerome Murphy is arrested for <a href="https://gridironfans.com/forums/latest-nfl-headlines/135067-rams-cb-jerome-murphy-arrested-no-valid.html">driving without a valid license</a>.
   </p>
 
   <p>
-    7/19/10:  Falcons DT Jonathan Babineaux pleads no contest to<a href="http://sports.espn.go.com/nfl/news/story?id=4733925"> marijuana possession</a>.
+    7/19/10:  Falcons DT Jonathan Babineaux pleads no contest to<a href="https://sports.espn.go.com/nfl/news/story?id=4733925"> marijuana possession</a>.
   </p>
 
   <p>
@@ -118,11 +118,11 @@ tags:
   </p>
 
   <p>
-    7/5/2010: JaMarcus Russell Free Agent (Former Raider) QB  <a href="http://sports.espn.go.com/nfl/news/story?id=5356585">arrested for possession of controlled substance (Codeine)</a>.
+    7/5/2010: JaMarcus Russell Free Agent (Former Raider) QB  <a href="https://sports.espn.go.com/nfl/news/story?id=5356585">arrested for possession of controlled substance (Codeine)</a>.
   </p>
 
   <p>
-    7/3/2010: Seahawks RB Quinton Ganther is <a href="http://seattletimes.nwsource.com/html/seahawks/2012274696_hawk04.html">arrested for DUI</a>.
+    7/3/2010: Seahawks RB Quinton Ganther is <a href="https://seattletimes.nwsource.com/html/seahawks/2012274696_hawk04.html">arrested for DUI</a>.
   </p>
 
   <div id="_mcePaste">
@@ -134,7 +134,7 @@ tags:
   </p>
 
   <p>
-    6/16/2010:  Titans DE Derrick Morgan is arrested for <a href="http://gridironfans.com/forums/latest-nfl-headlines/133164-titans-top-pick-de-derrick-morgan-arrested.html">speeding and driving with an expired license</a>.
+    6/16/2010:  Titans DE Derrick Morgan is arrested for <a href="https://gridironfans.com/forums/latest-nfl-headlines/133164-titans-top-pick-de-derrick-morgan-arrested.html">speeding and driving with an expired license</a>.
   </p>
 
   <p>
@@ -142,7 +142,7 @@ tags:
   </p>
 
   <p>
-    5/26/2010: Dolphins DE Phillip Merling is arrested for <a href="http://nfl.fanhouse.com/2010/05/27/dolphins-de-phillip-merling-arrested/">aggravated battery</a>.
+    5/26/2010: Dolphins DE Phillip Merling is arrested for <a href="https://nfl.fanhouse.com/2010/05/27/dolphins-de-phillip-merling-arrested/">aggravated battery</a>.
   </p>
 
   <p>
@@ -158,11 +158,11 @@ tags:
   </p>
 
   <p>
-    5/4/2010:  Bengals WR Maurice Purify is arrested for <a href="http://gridironfans.com/forums/latest-nfl-headlines/130095-bengals-wr-maurice-purify-arrested-disorderly-conduct.html">disorderly conduct</a>.
+    5/4/2010:  Bengals WR Maurice Purify is arrested for <a href="https://gridironfans.com/forums/latest-nfl-headlines/130095-bengals-wr-maurice-purify-arrested-disorderly-conduct.html">disorderly conduct</a>.
   </p>
 
   <p>
-    4/30/2010:  Chargers WR Vincent Jackson pleads guilty to knowingly <a href="http://profootballtalk.nbcsports.com/2010/05/01/another-guilty-plea-for-vincent-jackson/">driving with a suspended license</a>.
+    4/30/2010:  Chargers WR Vincent Jackson pleads guilty to knowingly <a href="https://profootballtalk.nbcsports.com/2010/05/01/another-guilty-plea-for-vincent-jackson/">driving with a suspended license</a>.
   </p>
 
   <p>
@@ -170,7 +170,7 @@ tags:
   </p>
 
   <p>
-    4/17/2010:  Browns RB Chris Jennings is arrested for <a href="http://blog.cleveland.com/metro/2010/04/browns_running_back_arrested.html">suspicion of assault</a>.
+    4/17/2010:  Browns RB Chris Jennings is arrested for <a href="https://blog.cleveland.com/metro/2010/04/browns_running_back_arrested.html">suspicion of assault</a>.
   </p>
 
   <p>
@@ -178,11 +178,11 @@ tags:
   </p>
 
   <p>
-    4/1/2010: Browns DT Shaun Rogers is arrested for <a href="http://sports.espn.go.com/nfl/news/story?id=5048219">possession of a weapon</a>.
+    4/1/2010: Browns DT Shaun Rogers is arrested for <a href="https://sports.espn.go.com/nfl/news/story?id=5048219">possession of a weapon</a>.
   </p>
 
   <p>
-    4/1/2010: Seahawks LB Leroy Hill pleads guilty to <a href="http://seattletimes.nwsource.com/html/seahawks/2011499406_hawk02.html?prmid=related_stories_section">marijuana possession</a>.
+    4/1/2010: Seahawks LB Leroy Hill pleads guilty to <a href="https://seattletimes.nwsource.com/html/seahawks/2011499406_hawk02.html?prmid=related_stories_section">marijuana possession</a>.
   </p>
 
   <p>
@@ -198,15 +198,15 @@ tags:
   </p>
 
   <p>
-    3/13/10: Packers TE Spencer Havner is arrested for <a href="http://cheeseheadtv.com/blog/spencer-havner-arrested-for-dui">DUI</a>. (His agents have denied that he was charged.)
+    3/13/10: Packers TE Spencer Havner is arrested for <a href="https://cheeseheadtv.com/blog/spencer-havner-arrested-for-dui">DUI</a>. (His agents have denied that he was charged.)
   </p>
 
   <p>
-    2/23/10: Chargers WR Vincent Jackson pleads guilty to <a href="http://sports.espn.go.com/nfl/news/story?id=3814251">DUI charges</a>.
+    2/23/10: Chargers WR Vincent Jackson pleads guilty to <a href="https://sports.espn.go.com/nfl/news/story?id=3814251">DUI charges</a>.
   </p>
 
   <p>
-    2/20/10: Dolphins CB Will Allen is arrested for <a href="http://content.usatoday.com/communities/thehuddle/post/2010/02/dolphins-will-allen-arrested-for-dui-second-such-nfl-arrest-in-two-days/1">DUI</a>.
+    2/20/10: Dolphins CB Will Allen is arrested for <a href="https://content.usatoday.com/communities/thehuddle/post/2010/02/dolphins-will-allen-arrested-for-dui-second-such-nfl-arrest-in-two-days/1">DUI</a>.
   </p>
 
   <p>
@@ -214,11 +214,11 @@ tags:
   </p>
 
   <p>
-    2/7/10: Dolphins DE Tony McDaniel is arrested for <a href="http://celebrifi.com/gossip/Miami-Dolphins-Tackle-Tony-McDaniel-Arrested-for-Domestic-Violence-1503954.html">misdemeanor battery</a>.
+    2/7/10: Dolphins DE Tony McDaniel is arrested for <a href="https://celebrifi.com/gossip/Miami-Dolphins-Tackle-Tony-McDaniel-Arrested-for-Domestic-Violence-1503954.html">misdemeanor battery</a>.
   </p>
 
   <p>
-    2/2/10: Cowboys FB Deon Anderson is arrested for <a href="http://sports.espn.go.com/dallas/nfl/news/story?id=4881623">traffic warrants and brandishing a weapon</a>.
+    2/2/10: Cowboys FB Deon Anderson is arrested for <a href="https://sports.espn.go.com/dallas/nfl/news/story?id=4881623">traffic warrants and brandishing a weapon</a>.
   </p>
 
   <p>
@@ -230,7 +230,7 @@ tags:
   </p>
 
   <p>
-    1/18/10: Redskins G Chad Rinehart is arrested for <a href="http://nfl.fanhouse.com/2010/01/19/redskins-chad-rinehart-arrested-for-public-intoxication/">public intoxication</a>.
+    1/18/10: Redskins G Chad Rinehart is arrested for <a href="https://nfl.fanhouse.com/2010/01/19/redskins-chad-rinehart-arrested-for-public-intoxication/">public intoxication</a>.
   </p>
 
   <p>
@@ -238,22 +238,22 @@ tags:
   </p>
 
   <p>
-    1/15/10: Titans WR Kenny Britt is arrested for <a href="http://backporch.fanhouse.com/2010/01/19/kenny-britt-arrested-owed-state-of-new-jersey-865/">outstanding traffic tickets</a>.
+    1/15/10: Titans WR Kenny Britt is arrested for <a href="https://backporch.fanhouse.com/2010/01/19/kenny-britt-arrested-owed-state-of-new-jersey-865/">outstanding traffic tickets</a>.
   </p>
 
   <p>
-    1/15/10: Former Bears DT Dusty Dvoracek is arrested for <a href="http://newsok.com/football-player-dusty-dvoracek-arrested-in-norman/article/3432791">public intoxication, assault and battery, and interference with an official process</a>.
+    1/15/10: Former Bears DT Dusty Dvoracek is arrested for <a href="https://newsok.com/football-player-dusty-dvoracek-arrested-in-norman/article/3432791">public intoxication, assault and battery, and interference with an official process</a>.
   </p>
 
   <p>
-    1/12/10: Jets WR Braylon Edwards pleads no contest to <a href="http://profootballtalk.nbcsports.com/2010/01/13/braylons-no-contest-plea-likely-will-trigger-a-one-game-suspension/">assault charges</a>.
+    1/12/10: Jets WR Braylon Edwards pleads no contest to <a href="https://profootballtalk.nbcsports.com/2010/01/13/braylons-no-contest-plea-likely-will-trigger-a-one-game-suspension/">assault charges</a>.
   </p>
 
   <p>
-    1/10/10: Bucs S Jermaine Phillips is arrested for <a href="http://blogs.tampabay.com/bucs/2010/01/bucs-safety-jermaine-phillips-arrested-for-domestic-battery.html">felony domestic battery by strangulation</a>.
+    1/10/10: Bucs S Jermaine Phillips is arrested for <a href="https://blogs.tampabay.com/bucs/2010/01/bucs-safety-jermaine-phillips-arrested-for-domestic-battery.html">felony domestic battery by strangulation</a>.
   </p>
 
   <p>
-    1/1/10: Colts WR Taj Smith is arrested for <a href="http://abcnews.go.com/Sports/wireStory?id=9465904">DUI</a>.
+    1/1/10: Colts WR Taj Smith is arrested for <a href="https://abcnews.go.com/Sports/wireStory?id=9465904">DUI</a>.
   </p>
 </div>

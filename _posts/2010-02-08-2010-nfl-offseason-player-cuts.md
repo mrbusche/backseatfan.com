@@ -13,7 +13,7 @@ ply_custom:
 categories:
   - NFL
 tags:
-  - "2010"
+  - '2010'
   - Cuts
   - NFL
   - Offseason
@@ -86,7 +86,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootball.scout.com/2/945048.html">2/8/2010</a>
+        <a href="https://profootball.scout.com/2/945048.html">2/8/2010</a>
       </td>
     </tr>
 
@@ -103,7 +103,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://twitter.com/Adam_Schefter/statuses/10582409847">3/16/2010</a>
+        <a href="https://twitter.com/Adam_Schefter/statuses/10582409847">3/16/2010</a>
       </td>
     </tr>
 
@@ -120,7 +120,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootball.scout.com/2/945048.html">2/8/2010</a>
+        <a href="https://profootball.scout.com/2/945048.html">2/8/2010</a>
       </td>
     </tr>
 
@@ -160,7 +160,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://fantasy.ballhype.com/article/ravens_cut_fourth_year_man_sypniewski_quinn_sypniewski/">2/17/2010</a>
+        <a href="https://fantasy.ballhype.com/article/ravens_cut_fourth_year_man_sypniewski_quinn_sypniewski/">2/17/2010</a>
       </td>
     </tr>
 
@@ -432,7 +432,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/03/01/bears-cut-orlando-pace/">3/2/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/03/01/bears-cut-orlando-pace/">3/2/2010</a>
       </td>
     </tr>
 
@@ -466,7 +466,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://twitter.com/Adam_Schefter/statuses/10588980987">3/16/2010</a>
+        <a href="https://twitter.com/Adam_Schefter/statuses/10588980987">3/16/2010</a>
       </td>
     </tr>
 
@@ -483,7 +483,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://blogs.suntimes.com/bears/2010/03/bears_release_nathan_vasher.html">3/17/2010</a>
+        <a href="https://blogs.suntimes.com/bears/2010/03/bears_release_nathan_vasher.html">3/17/2010</a>
       </td>
     </tr>
 
@@ -546,7 +546,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/nfl/news/story?id=4898382&campaign=rss&source=twitter&ex_cid=Twitter_espn_4898382">2/8/2010</a>
+        <a href="https://sports.espn.go.com/nfl/news/story?id=4898382&campaign=rss&source=twitter&ex_cid=Twitter_espn_4898382">2/8/2010</a>
       </td>
     </tr>
 
@@ -649,7 +649,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/02/23/broncos-release-wiegmann-jordan/">2/23/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/02/23/broncos-release-wiegmann-jordan/">2/23/2010</a>
       </td>
     </tr>
 
@@ -666,7 +666,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/02/23/broncos-release-wiegmann-jordan/">2/23/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/02/23/broncos-release-wiegmann-jordan/">2/23/2010</a>
       </td>
     </tr>
 
@@ -934,7 +934,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/02/11/jaguars-release-holt-thomas-meier/">2/11/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/02/11/jaguars-release-holt-thomas-meier/">2/11/2010</a>
       </td>
     </tr>
 
@@ -951,7 +951,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/02/11/jaguars-release-holt-thomas-meier/">2/11/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/02/11/jaguars-release-holt-thomas-meier/">2/11/2010</a>
       </td>
     </tr>
 
@@ -968,7 +968,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/02/11/jaguars-release-holt-thomas-meier/">2/11/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/02/11/jaguars-release-holt-thomas-meier/">2/11/2010</a>
       </td>
     </tr>
 
@@ -991,7 +991,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/02/08/chiefs-waive-two-linebackers/">2/8/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/02/08/chiefs-waive-two-linebackers/">2/8/2010</a>
       </td>
     </tr>
 
@@ -1008,7 +1008,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/02/08/chiefs-waive-two-linebackers/">2/8/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/02/08/chiefs-waive-two-linebackers/">2/8/2010</a>
       </td>
     </tr>
 
@@ -1082,7 +1082,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootball.scout.com/2/945048.html">2/10/2010</a>
+        <a href="https://profootball.scout.com/2/945048.html">2/10/2010</a>
       </td>
     </tr>
 
@@ -1248,7 +1248,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/02/11/giants-cut-ties-with-antonio-pierce/">2/10/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/02/11/giants-cut-ties-with-antonio-pierce/">2/10/2010</a>
       </td>
     </tr>
 
@@ -1470,7 +1470,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/03/17/eagles-drop-shawn-andrews/">3/17/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/03/17/eagles-drop-shawn-andrews/">3/17/2010</a>
       </td>
     </tr>
 
@@ -1487,7 +1487,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/03/18/eagles-release-darren-howard/">3/18/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/03/18/eagles-release-darren-howard/">3/18/2010</a>
       </td>
     </tr>
 
@@ -1504,7 +1504,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://twitter.com/Adam_Schefter/statuses/10689307104">3/18/2010</a>
+        <a href="https://twitter.com/Adam_Schefter/statuses/10689307104">3/18/2010</a>
       </td>
     </tr>
 
@@ -1539,7 +1539,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/nfl/news/story?id=4936783">2/22/2010</a>
+        <a href="https://sports.espn.go.com/nfl/news/story?id=4936783">2/22/2010</a>
       </td>
     </tr>
 
@@ -1596,7 +1596,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://twitter.com/Adam_Schefter/statuses/10543743680">3/15/2010</a>
+        <a href="https://twitter.com/Adam_Schefter/statuses/10543743680">3/15/2010</a>
       </td>
     </tr>
 
@@ -1613,7 +1613,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://twitter.com/Adam_Schefter/statuses/10543743680">3/15/2010</a>
+        <a href="https://twitter.com/Adam_Schefter/statuses/10543743680">3/15/2010</a>
       </td>
     </tr>
 
@@ -1929,5 +1929,6 @@ tags:
         3/5/2010
       </td>
     </tr>
+
   </table>
 </div>

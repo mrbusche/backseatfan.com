@@ -19,7 +19,7 @@ tags:
 
 <div class="entry">
   <p>
-    According to <a href="http://twitter.com/Jay_Glazer/statuses/19851731028">Jay Glazer of FOX</a>, first round pick Sean Weatherspoon has signed with the Atlanta Falcons.  The University of Missouri Linebacker was the 19th overall pick in the 2010 NFL draft.  All 7 of the Atlanta Falcons draft picks have now been signed.
+    According to <a href="https://twitter.com/Jay_Glazer/statuses/19851731028">Jay Glazer of FOX</a>, first round pick Sean Weatherspoon has signed with the Atlanta Falcons.  The University of Missouri Linebacker was the 19th overall pick in the 2010 NFL draft.  All 7 of the Atlanta Falcons draft picks have now been signed.
   </p>
 
   <p>

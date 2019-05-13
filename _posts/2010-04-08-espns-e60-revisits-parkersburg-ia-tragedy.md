@@ -24,7 +24,7 @@ tags:
   </p>
 
   <p>
-    If you missed the episode catch it <a href="http://espn.go.com/video/clip?id=5082690">here</a>
+    If you missed the episode catch it <a href="https://espn.go.com/video/clip?id=5082690">here</a>
   </p>
 
   <p>
@@ -39,7 +39,7 @@ tags:
   </p>
 
   <p>
-    ESPN's award-winning primetime newsmagazine <a href="http://sports.espn.go.com/broadband/video/clip?id=null&categoryid=3060647" target="_blank"><em>E:60</em></a><em> </em>will air exclusive interviews relating to a high school sports tragedy in Parkersburg, Iowa, in the episode airing Tuesday, April 13, at 7 p.m. ET.
+    ESPN's award-winning primetime newsmagazine <a href="https://sports.espn.go.com/broadband/video/clip?id=null&categoryid=3060647" target="_blank"><em>E:60</em></a><em> </em>will air exclusive interviews relating to a high school sports tragedy in Parkersburg, Iowa, in the episode airing Tuesday, April 13, at 7 p.m. ET.
   </p>
 
   <p>

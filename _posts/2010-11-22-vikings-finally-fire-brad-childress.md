@@ -25,7 +25,7 @@ tags:
   </p>
 
   <p>
-    Jay Glazer of FOX Sports was the <a href="http://twitter.com/Jay_Glazer/status/6755156213366784">first to report</a> the news and the Vikings have since confirmed the news.
+    Jay Glazer of FOX Sports was the <a href="https://twitter.com/Jay_Glazer/status/6755156213366784">first to report</a> the news and the Vikings have since confirmed the news.
   </p>
 
   <p>

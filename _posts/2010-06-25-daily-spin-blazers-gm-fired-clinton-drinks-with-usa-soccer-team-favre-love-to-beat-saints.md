@@ -1,6 +1,6 @@
 ---
 id: 6464
-title: "Daily Spin: Blazers GM Fired, Clinton Drinks with USA Soccer Team, Favre love to beat Saints"
+title: 'Daily Spin: Blazers GM Fired, Clinton Drinks with USA Soccer Team, Favre love to beat Saints'
 date: 2010-06-25T08:38:21+00:00
 author: Ryan M.
 layout: post
@@ -27,11 +27,11 @@ tags:
   </p>
 
   <p>
-    <a href="http://twitpic.com/1zl4j1">Bill Clinton Drinking with Bocanegra</a> after the big win over Algeria?  Makes me proud to be an American [via <a href="http://twitpic.com/1zl4j1">@lukewinn</a>]
+    <a href="https://twitpic.com/1zl4j1">Bill Clinton Drinking with Bocanegra</a> after the big win over Algeria?  Makes me proud to be an American [via <a href="https://twitpic.com/1zl4j1">@lukewinn</a>]
   </p>
 
   <p>
-    Portland Trail<a href="http://sports.espn.go.com/nba/news/story?id=5325352"> Blazers fired their GM</a> before the Draft, yet het still ran the draft. [via <a href="http://sports.espn.go.com/nba/news/story?id=5325352">ESPN</a>]
+    Portland Trail<a href="https://sports.espn.go.com/nba/news/story?id=5325352"> Blazers fired their GM</a> before the Draft, yet het still ran the draft. [via <a href="https://sports.espn.go.com/nba/news/story?id=5325352">ESPN</a>]
   </p>
 
   <p>

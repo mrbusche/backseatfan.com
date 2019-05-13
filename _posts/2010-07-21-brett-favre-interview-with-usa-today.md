@@ -21,7 +21,7 @@ tags:
   <figure id="attachment_7091" style="width: 536px" class="wp-caption alignnone"><a href="/images/2010/07/25210010308_Giants_at_Vikings.jpg"><img class="size-full wp-image-7091  " title="Brett Favre" src="/images/2010/07/25210010308_Giants_at_Vikings-e1279734899491.jpg" alt="" width="536" height="296" srcset="/images/2010/07/25210010308_Giants_at_Vikings-e1279734899491.jpg 596w, /images/2010/07/25210010308_Giants_at_Vikings-e1279734899491-300x165.jpg 300w" sizes="(max-width: 536px) 100vw, 536px" /></a><figcaption class="wp-caption-text">Image by Icon SMI</figcaption></figure>
 
   <p>
-    Brett Favre recently had an <a href="http://content.usatoday.com/communities/thehuddle/post/2010/07/vikings-qb-brett-favre-no-timetable-ankles-not-where-i-would-like-it-to-be/1">interview with USA Today</a>, I thought I would break down everything Favre says?<br /> <strong>Quote:</strong>
+    Brett Favre recently had an <a href="https://content.usatoday.com/communities/thehuddle/post/2010/07/vikings-qb-brett-favre-no-timetable-ankles-not-where-i-would-like-it-to-be/1">interview with USA Today</a>, I thought I would break down everything Favre says?<br /> <strong>Quote:</strong>
   </p>
 
   <blockquote>
@@ -107,6 +107,6 @@ tags:
   </p>
 
   <p>
-    [via <a href="http://content.usatoday.com/communities/thehuddle/post/2010/07/vikings-qb-brett-favre-no-timetable-ankles-not-where-i-would-like-it-to-be/1">USA Today</a>]
+    [via <a href="https://content.usatoday.com/communities/thehuddle/post/2010/07/vikings-qb-brett-favre-no-timetable-ankles-not-where-i-would-like-it-to-be/1">USA Today</a>]
   </p>
 </div>

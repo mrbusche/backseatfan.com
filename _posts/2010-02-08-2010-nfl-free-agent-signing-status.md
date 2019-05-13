@@ -12,7 +12,7 @@ categories:
   - NFL
   - Videos
 tags:
-  - "2010"
+  - '2010'
   - Free Agents
   - NFL
   - Offseason
@@ -116,7 +116,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://blog.azcardinals.com/2010/03/29/beisel-rfas-re-sign/">3/29/2010</a>
+        <a href="https://blog.azcardinals.com/2010/03/29/beisel-rfas-re-sign/">3/29/2010</a>
       </td>
     </tr>
 
@@ -158,7 +158,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://blog.azcardinals.com/2010/03/29/beisel-rfas-re-sign/">3/29/2010</a>
+        <a href="https://blog.azcardinals.com/2010/03/29/beisel-rfas-re-sign/">3/29/2010</a>
       </td>
     </tr>
 
@@ -180,7 +180,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://ktar.com/?sid=1273296&nid=229">3/12/2010</a>
+        <a href="https://ktar.com/?sid=1273296&nid=229">3/12/2010</a>
       </td>
     </tr>
 
@@ -264,7 +264,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/03/05/dansby-will-be-a-dolphin/">3/5/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/03/05/dansby-will-be-a-dolphin/">3/5/2010</a>
       </td>
     </tr>
 
@@ -347,7 +347,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://twitter.com/Adam_Schefter/statuses/11261574757">3/29/2010</a>
+        <a href="https://twitter.com/Adam_Schefter/statuses/11261574757">3/29/2010</a>
       </td>
     </tr>
 
@@ -389,7 +389,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://blog.azcardinals.com/2010/03/23/signings-and-a-new-wideout/">3/23/2010</a>
+        <a href="https://blog.azcardinals.com/2010/03/23/signings-and-a-new-wideout/">3/23/2010</a>
       </td>
     </tr>
 
@@ -453,7 +453,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/03/05/rolle-gets-five-years-37-million-from-giants/">3/5/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/03/05/rolle-gets-five-years-37-million-from-giants/">3/5/2010</a>
       </td>
     </tr>
 
@@ -475,7 +475,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://blog.azcardinals.com/2010/03/29/beisel-rfas-re-sign/">3/29/2010</a>
+        <a href="https://blog.azcardinals.com/2010/03/29/beisel-rfas-re-sign/">3/29/2010</a>
       </td>
     </tr>
 
@@ -539,7 +539,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://twitter.com/Adam_Schefter/statuses/10310592763">3/11/2010</a>
+        <a href="https://twitter.com/Adam_Schefter/statuses/10310592763">3/11/2010</a>
       </td>
     </tr>
 
@@ -561,7 +561,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://twitter.com/JasonLaCanfora/status/11368138373">3/31/2010</a>
+        <a href="https://twitter.com/JasonLaCanfora/status/11368138373">3/31/2010</a>
       </td>
     </tr>
 
@@ -583,7 +583,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://blog.azcardinals.com/2010/03/29/beisel-rfas-re-sign/">3/29/2010</a>
+        <a href="https://blog.azcardinals.com/2010/03/29/beisel-rfas-re-sign/">3/29/2010</a>
       </td>
     </tr>
 
@@ -692,7 +692,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://espn.go.com/blog/nflnation/post/_/id/19280/redman-staying-with-falcons">3/5/2010</a>
+        <a href="https://espn.go.com/blog/nflnation/post/_/id/19280/redman-staying-with-falcons">3/5/2010</a>
       </td>
     </tr>
 
@@ -803,7 +803,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/03/05/bannan-broncos-agree-to-five-year-deal/">3/5/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/03/05/bannan-broncos-agree-to-five-year-deal/">3/5/2010</a>
       </td>
     </tr>
 
@@ -972,7 +972,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://articles.baltimoresun.com/2010-03-15/sports/bal-mobile-edgarjones-0315_1_ravens-jamison-hensley-davon-drew">3/16/2010</a>
+        <a href="https://articles.baltimoresun.com/2010-03-15/sports/bal-mobile-edgarjones-0315_1_ravens-jamison-hensley-davon-drew">3/16/2010</a>
       </td>
     </tr>
 
@@ -994,7 +994,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sportsrageous.com/news.php?readmore=813">3/10/2010</a>
+        <a href="https://sportsrageous.com/news.php?readmore=813">3/10/2010</a>
       </td>
     </tr>
 
@@ -1078,7 +1078,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/03/12/colts-sign-adam-terry-to-one-year-deal/">3/12/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/03/12/colts-sign-adam-terry-to-one-year-deal/">3/12/2010</a>
       </td>
     </tr>
 
@@ -1187,7 +1187,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://twitter.com/Adam_Schefter/statuses/11269361283">3/29/2010</a>
+        <a href="https://twitter.com/Adam_Schefter/statuses/11269361283">3/29/2010</a>
       </td>
     </tr>
 
@@ -1250,7 +1250,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://twitter.com/Adam_Schefter/statuses/11269361283">3/29/2010</a>
+        <a href="https://twitter.com/Adam_Schefter/statuses/11269361283">3/29/2010</a>
       </td>
     </tr>
 
@@ -1292,7 +1292,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://twitter.com/Adam_Schefter/statuses/11269361283">3/29/2010</a>
+        <a href="https://twitter.com/Adam_Schefter/statuses/11269361283">3/29/2010</a>
       </td>
     </tr>
 
@@ -1314,7 +1314,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://twitter.com/Adam_Schefter/statuses/11269361283">3/29/2010</a>
+        <a href="https://twitter.com/Adam_Schefter/statuses/11269361283">3/29/2010</a>
       </td>
     </tr>
 
@@ -1336,7 +1336,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/03/17/incognito-gets-one-year-deal-from-dolphins/">3/17/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/03/17/incognito-gets-one-year-deal-from-dolphins/">3/17/2010</a>
       </td>
     </tr>
 
@@ -1503,7 +1503,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/nfl/players/profile?playerId=4513">3/5/2010</a>
+        <a href="https://sports.espn.go.com/nfl/players/profile?playerId=4513">3/5/2010</a>
       </td>
     </tr>
 
@@ -1587,7 +1587,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://twitter.com/Adam_Schefter/statuses/11269361283">3/29/2010</a>
+        <a href="https://twitter.com/Adam_Schefter/statuses/11269361283">3/29/2010</a>
       </td>
     </tr>
 
@@ -1609,7 +1609,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://twitter.com/Adam_Schefter/statuses/11269361283">3/29/2010</a>
+        <a href="https://twitter.com/Adam_Schefter/statuses/11269361283">3/29/2010</a>
       </td>
     </tr>
 
@@ -1658,7 +1658,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.yahoo.com/nfl/news?slug=nfp-tyler_brayton_to_sign_with_carolina_html-2010317">3/17/2010</a>
+        <a href="https://sports.yahoo.com/nfl/news?slug=nfp-tyler_brayton_to_sign_with_carolina_html-2010317">3/17/2010</a>
       </td>
     </tr>
 
@@ -1724,7 +1724,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/03/05/rams-finalize-deal-for-aj-feeley/">3/5/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/03/05/rams-finalize-deal-for-aj-feeley/">3/5/2010</a>
       </td>
     </tr>
 
@@ -1873,7 +1873,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://blog.oregonlive.com/nfl/2010/03/quarterback_matt_moore_signs_o.html">3/11/2010</a>
+        <a href="https://blog.oregonlive.com/nfl/2010/03/quarterback_matt_moore_signs_o.html">3/11/2010</a>
       </td>
     </tr>
 
@@ -1916,7 +1916,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://twitter.com/Adam_Schefter/status/10037781460">3/5/2010</a>
+        <a href="https://twitter.com/Adam_Schefter/status/10037781460">3/5/2010</a>
       </td>
     </tr>
 
@@ -2409,7 +2409,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/03/29/bengals-get-five-under-contract/">3/29/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/03/29/bengals-get-five-under-contract/">3/29/2010</a>
       </td>
     </tr>
 
@@ -2431,7 +2431,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://twitter.com/davidcanter/statuses/10944509735">3/23/2010</a>
+        <a href="https://twitter.com/davidcanter/statuses/10944509735">3/23/2010</a>
       </td>
     </tr>
 
@@ -2473,7 +2473,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://voices.washingtonpost.com/redskinsinsider/free-agency/larry-johnson-signs-with-redsk.html">3/12/2010</a>
+        <a href="https://voices.washingtonpost.com/redskinsinsider/free-agency/larry-johnson-signs-with-redsk.html">3/12/2010</a>
       </td>
     </tr>
 
@@ -2601,7 +2601,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/nfl/news/story?id=4992510">3/13/2010</a>
+        <a href="https://sports.espn.go.com/nfl/news/story?id=4992510">3/13/2010</a>
       </td>
     </tr>
 
@@ -2672,7 +2672,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/nfl/news/story?id=5003121">3/17/2010</a>
+        <a href="https://sports.espn.go.com/nfl/news/story?id=5003121">3/17/2010</a>
       </td>
     </tr>
 
@@ -2758,7 +2758,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://blog.azcardinals.com/2010/03/11/o-lineman-hadnot-comes-to-cards/">3/11/2010</a>
+        <a href="https://blog.azcardinals.com/2010/03/11/o-lineman-hadnot-comes-to-cards/">3/11/2010</a>
       </td>
     </tr>
 
@@ -2864,7 +2864,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/03/06/ryan-tucker-announces-his-retirement/">3/6/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/03/06/ryan-tucker-announces-his-retirement/">3/6/2010</a>
       </td>
     </tr>
 
@@ -2886,7 +2886,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://mbd.scout.com/mb.aspx?s=149&f=1547">3/5/2010</a>
+        <a href="https://mbd.scout.com/mb.aspx?s=149&f=1547">3/5/2010</a>
       </td>
     </tr>
 
@@ -3130,7 +3130,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://nfl.fanhouse.com/2010/03/16/bills-sign-andra-davis/">3/16/2010</a>
+        <a href="https://nfl.fanhouse.com/2010/03/16/bills-sign-andra-davis/">3/16/2010</a>
       </td>
     </tr>
 
@@ -3255,7 +3255,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://blogs.denverpost.com/broncos/2010/03/05/broncos-re-sign-hochstein-lloyd/">3/5/2010</a>
+        <a href="https://blogs.denverpost.com/broncos/2010/03/05/broncos-re-sign-hochstein-lloyd/">3/5/2010</a>
       </td>
     </tr>
 
@@ -3380,7 +3380,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://blogs.denverpost.com/broncos/2010/03/05/broncos-re-sign-hochstein-lloyd/">3/5/2010</a>
+        <a href="https://blogs.denverpost.com/broncos/2010/03/05/broncos-re-sign-hochstein-lloyd/">3/5/2010</a>
       </td>
     </tr>
 
@@ -3493,7 +3493,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/03/16/lions-re-sign-copeland-bryan/">3/16/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/03/16/lions-re-sign-copeland-bryan/">3/16/2010</a>
       </td>
     </tr>
 
@@ -3515,7 +3515,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://twitter.com/Adam_Schefter/status/11260901594">3/29/2010</a>
+        <a href="https://twitter.com/Adam_Schefter/status/11260901594">3/29/2010</a>
       </td>
     </tr>
 
@@ -3537,7 +3537,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/03/05/vinny-ciurciu-staying-with-the-lions/">3/5/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/03/05/vinny-ciurciu-staying-with-the-lions/">3/5/2010</a>
       </td>
     </tr>
 
@@ -3746,7 +3746,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/03/06/jon-jansen-re-signs-with-lions/">3/5/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/03/06/jon-jansen-re-signs-with-lions/">3/5/2010</a>
       </td>
     </tr>
 
@@ -3768,7 +3768,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://twitter.com/JohnNiyo/statuses/10575177976">3/16/2010</a>
+        <a href="https://twitter.com/JohnNiyo/statuses/10575177976">3/16/2010</a>
       </td>
     </tr>
 
@@ -3790,7 +3790,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://twitter.com/caplannfl/statuses/11245926514">3/28/2010</a>
+        <a href="https://twitter.com/caplannfl/statuses/11245926514">3/28/2010</a>
       </td>
     </tr>
 
@@ -3838,7 +3838,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://twitter.com/caplannfl/statuses/10618511348">3/17/2010</a>
+        <a href="https://twitter.com/caplannfl/statuses/10618511348">3/17/2010</a>
       </td>
     </tr>
 
@@ -3860,7 +3860,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/03/05/packers-keep-clifton/">3/5/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/03/05/packers-keep-clifton/">3/5/2010</a>
       </td>
     </tr>
 
@@ -3904,7 +3904,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://twitter.com/Adam_Schefter/statuses/10582409847">3/16/2010</a>
+        <a href="https://twitter.com/Adam_Schefter/statuses/10582409847">3/16/2010</a>
       </td>
     </tr>
 
@@ -3946,7 +3946,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/03/07/jags-land-kampman/">3/7/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/03/07/jags-land-kampman/">3/7/2010</a>
       </td>
     </tr>
 
@@ -3968,7 +3968,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/03/29/montgomery-agrees-to-join-vikings/">3/29/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/03/29/montgomery-agrees-to-join-vikings/">3/29/2010</a>
       </td>
     </tr>
 
@@ -4101,7 +4101,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://twitter.com/caplannfl/statuses/11263662401">3/29/2010</a>
+        <a href="https://twitter.com/caplannfl/statuses/11263662401">3/29/2010</a>
       </td>
     </tr>
 
@@ -4163,7 +4163,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://voices.washingtonpost.com/redskinsinsider/redskins-sign-rex-grossman.html">3/17/2010</a>
+        <a href="https://voices.washingtonpost.com/redskinsinsider/redskins-sign-rex-grossman.html">3/17/2010</a>
       </td>
     </tr>
 
@@ -4225,7 +4225,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/03/05/dunta-goes-home-to-georgia/">3/5/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/03/05/dunta-goes-home-to-georgia/">3/5/2010</a>
       </td>
     </tr>
 
@@ -4307,7 +4307,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://twitter.com/McClain_on_NFL/status/10020937913">3/5/2010</a>
+        <a href="https://twitter.com/McClain_on_NFL/status/10020937913">3/5/2010</a>
       </td>
     </tr>
 
@@ -4329,7 +4329,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/03/05/dansby-will-be-a-dolphin/">3/5/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/03/05/dansby-will-be-a-dolphin/">3/5/2010</a>
       </td>
     </tr>
 
@@ -4398,7 +4398,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/03/12/birds-bring-back-hank-baskett/">3/12/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/03/12/birds-bring-back-hank-baskett/">3/12/2010</a>
       </td>
     </tr>
 
@@ -4420,7 +4420,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/03/05/gary-brackett-reaches-five-year-deal-with-colts/">3/5/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/03/05/gary-brackett-reaches-five-year-deal-with-colts/">3/5/2010</a>
       </td>
     </tr>
 
@@ -4526,7 +4526,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://twitter.com/Adam_Schefter/statuses/10588980987">3/16/2010</a>
+        <a href="https://twitter.com/Adam_Schefter/statuses/10588980987">3/16/2010</a>
       </td>
     </tr>
 
@@ -4589,7 +4589,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://chiefsblog.kansascity.com/?q=node/1252">3/16/2010</a>
+        <a href="https://chiefsblog.kansascity.com/?q=node/1252">3/16/2010</a>
       </td>
     </tr>
 
@@ -4771,7 +4771,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/03/06/colts-pick-up-lineman-alleman/">3/5/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/03/06/colts-pick-up-lineman-alleman/">3/5/2010</a>
       </td>
     </tr>
 
@@ -4857,7 +4857,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/03/06/chiefs-keep-copper/">3/5/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/03/06/chiefs-keep-copper/">3/5/2010</a>
       </td>
     </tr>
 
@@ -4922,7 +4922,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://twitter.com/caplannfl/statuses/10962510345">3/23/2010</a>
+        <a href="https://twitter.com/caplannfl/statuses/10962510345">3/23/2010</a>
       </td>
     </tr>
 
@@ -4944,7 +4944,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootball.scout.com/a.z?s=127&p=9&c=2&cid=956547&nid=4307508&fhn=1">3/24/2010</a>
+        <a href="https://profootball.scout.com/a.z?s=127&p=9&c=2&cid=956547&nid=4307508&fhn=1">3/24/2010</a>
       </td>
     </tr>
 
@@ -4987,7 +4987,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://twitter.com/Adam_Schefter/statuses/10321215305">3/11/2010</a>
+        <a href="https://twitter.com/Adam_Schefter/statuses/10321215305">3/11/2010</a>
       </td>
     </tr>
 
@@ -5101,7 +5101,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://cbs4.com/local/jason.ferguson.dolphins.2.1550864.html">3/9/2010</a>
+        <a href="https://cbs4.com/local/jason.ferguson.dolphins.2.1550864.html">3/9/2010</a>
       </td>
     </tr>
 
@@ -5123,7 +5123,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/03/05/broncos-bag-nathan-jones/">3/5/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/03/05/broncos-bag-nathan-jones/">3/5/2010</a>
       </td>
     </tr>
 
@@ -5166,7 +5166,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/03/06/pennington-stays-with-the-dolphins/">3/5/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/03/06/pennington-stays-with-the-dolphins/">3/5/2010</a>
       </td>
     </tr>
 
@@ -5301,7 +5301,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/03/06/artis-hicks-agrees-to-three-year-deal-with-redskins/">3/5/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/03/06/artis-hicks-agrees-to-three-year-deal-with-redskins/">3/5/2010</a>
       </td>
     </tr>
 
@@ -5344,7 +5344,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/02/28/vikings-re-sign-greg-lewis/">3/6/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/02/28/vikings-re-sign-greg-lewis/">3/6/2010</a>
       </td>
     </tr>
 
@@ -5410,7 +5410,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://blogs.suntimes.com/bears/2010/03/taylor_agrees_to_deal_with_bea.html">3/5/2010</a>
+        <a href="https://blogs.suntimes.com/bears/2010/03/taylor_agrees_to_deal_with_bea.html">3/5/2010</a>
       </td>
     </tr>
 
@@ -5460,7 +5460,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://espn.go.com/blog/boston/new-england-patriots/post/_/id/4675736/patriots-reach-extension-with-banta-cain">3/5/2010</a>
+        <a href="https://espn.go.com/blog/boston/new-england-patriots/post/_/id/4675736/patriots-reach-extension-with-banta-cain">3/5/2010</a>
       </td>
     </tr>
 
@@ -5525,7 +5525,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://news.bostonherald.com/blogs/sports/rap_sheet/?p=6398&srvc=home&position=recent">3/10/2010</a>
+        <a href="https://news.bostonherald.com/blogs/sports/rap_sheet/?p=6398&srvc=home&position=recent">3/10/2010</a>
       </td>
     </tr>
 
@@ -5589,7 +5589,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/03/05/patriots-bring-back-stephen-neal/">3/5/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/03/05/patriots-bring-back-stephen-neal/">3/5/2010</a>
       </td>
     </tr>
 
@@ -5633,7 +5633,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://twitter.com/Wilfork75">3/5/2010</a>
+        <a href="https://twitter.com/Wilfork75">3/5/2010</a>
       </td>
     </tr>
 
@@ -5682,7 +5682,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/03/23/mike-bell-is-a-philadelphia-eagle/">3/23/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/03/23/mike-bell-is-a-philadelphia-eagle/">3/23/2010</a>
       </td>
     </tr>
 
@@ -5765,7 +5765,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://twitter.com/caplannfl/statuses/11261823509">3/29/2010</a>
+        <a href="https://twitter.com/caplannfl/statuses/11261823509">3/29/2010</a>
       </td>
     </tr>
 
@@ -5975,7 +5975,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/03/06/saints-keep-pierson-prioleau/">3/5/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/03/06/saints-keep-pierson-prioleau/">3/5/2010</a>
       </td>
     </tr>
 
@@ -6128,7 +6128,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/03/07/carr-agrees-to-terms-with-49ers/">3/7/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/03/07/carr-agrees-to-terms-with-49ers/">3/7/2010</a>
       </td>
     </tr>
 
@@ -6171,7 +6171,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://bleacherreport.com/articles/372128-giants-re-sign-feagles-add-safety-deon-grant">4/1/2010</a>
+        <a href="https://bleacherreport.com/articles/372128-giants-re-sign-feagles-add-safety-deon-grant">4/1/2010</a>
       </td>
     </tr>
 
@@ -6214,7 +6214,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://nflheadlines.info/nfl/rams-sign-cb-kevin-dockery-te-darcy-johnson/">3/22/2010</a>
+        <a href="https://nflheadlines.info/nfl/rams-sign-cb-kevin-dockery-te-darcy-johnson/">3/22/2010</a>
       </td>
     </tr>
 
@@ -6236,7 +6236,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/03/08/rams-reel-in-robbins/">3/8/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/03/08/rams-reel-in-robbins/">3/8/2010</a>
       </td>
     </tr>
 
@@ -6258,7 +6258,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sportsnewsbulletin.com/tollefson-signs-his-tender-dave-tollefson-dl-new-york-giants">3/23/2010</a>
+        <a href="https://sportsnewsbulletin.com/tollefson-signs-his-tender-dave-tollefson-dl-new-york-giants">3/23/2010</a>
       </td>
     </tr>
 
@@ -6280,7 +6280,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://nflheadlines.info/nfl/rams-sign-cb-kevin-dockery-te-darcy-johnson/">3/22/2010</a>
+        <a href="https://nflheadlines.info/nfl/rams-sign-cb-kevin-dockery-te-darcy-johnson/">3/22/2010</a>
       </td>
     </tr>
 
@@ -6348,7 +6348,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://nyjetsfan.com/forum2/index.php?showtopic=31222&pid=298664&st=0&#entry298664&s=c8c9e2384d30d41a2082e7e709df6f24">3/23/2010</a>
+        <a href="https://nyjetsfan.com/forum2/index.php?showtopic=31222&pid=298664&st=0&#entry298664&s=c8c9e2384d30d41a2082e7e709df6f24">3/23/2010</a>
       </td>
     </tr>
 
@@ -6370,7 +6370,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/new-york/nfl/news/story?id=5049805">4/2/2010</a>
+        <a href="https://sports.espn.go.com/new-york/nfl/news/story?id=5049805">4/2/2010</a>
       </td>
     </tr>
 
@@ -6433,7 +6433,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/03/08/source-hartsock-agrees-to-terms/">3/8/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/03/08/source-hartsock-agrees-to-terms/">3/8/2010</a>
       </td>
     </tr>
 
@@ -6476,7 +6476,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://nyjetsfan.com/forum2/index.php?showtopic=31222&pid=298664&st=0&#entry298664&s=c8c9e2384d30d41a2082e7e709df6f24">3/23/2010</a>
+        <a href="https://nyjetsfan.com/forum2/index.php?showtopic=31222&pid=298664&st=0&#entry298664&s=c8c9e2384d30d41a2082e7e709df6f24">3/23/2010</a>
       </td>
     </tr>
 
@@ -6518,7 +6518,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/fantasy/football/ffl/story?id=4981788">3/9/2010</a>
+        <a href="https://sports.espn.go.com/fantasy/football/ffl/story?id=4981788">3/9/2010</a>
       </td>
     </tr>
 
@@ -6540,7 +6540,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://nbcsports.msnbc.com/id/35785901/sports/player_news">3/9/2010</a>
+        <a href="https://nbcsports.msnbc.com/id/35785901/sports/player_news">3/9/2010</a>
       </td>
     </tr>
 
@@ -6584,7 +6584,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://nyjetsfan.com/forum2/index.php?showtopic=31222&pid=298664&st=0&#entry298664&s=c8c9e2384d30d41a2082e7e709df6f24">3/23/2010</a>
+        <a href="https://nyjetsfan.com/forum2/index.php?showtopic=31222&pid=298664&st=0&#entry298664&s=c8c9e2384d30d41a2082e7e709df6f24">3/23/2010</a>
       </td>
     </tr>
 
@@ -6627,7 +6627,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/03/12/chargers-sign-donald-strickland/">3/12/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/03/12/chargers-sign-donald-strickland/">3/12/2010</a>
       </td>
     </tr>
 
@@ -6699,7 +6699,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://twitter.com/bydavidwhite/status/10048737364">3/5/2010</a>
+        <a href="https://twitter.com/bydavidwhite/status/10048737364">3/5/2010</a>
       </td>
     </tr>
 
@@ -6891,7 +6891,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/03/22/william-joseph-returns-to-the-raiders/">3/22/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/03/22/william-joseph-returns-to-the-raiders/">3/22/2010</a>
       </td>
     </tr>
 
@@ -6955,7 +6955,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sportsnewsbulletin.com/raiders-re-sign-gc-chris-morris-chris-morris-c-oakland-raiders">3/16/2010</a>
+        <a href="https://sportsnewsbulletin.com/raiders-re-sign-gc-chris-morris-chris-morris-c-oakland-raiders">3/16/2010</a>
       </td>
     </tr>
 
@@ -7107,7 +7107,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/03/08/avant-agrees-to-five-year-deal-in-philadelphia/">3/8/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/03/08/avant-agrees-to-five-year-deal-in-philadelphia/">3/8/2010</a>
       </td>
     </tr>
 
@@ -7212,7 +7212,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/03/16/bucs-sign-sean-jones/">3/16/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/03/16/bucs-sign-sean-jones/">3/16/2010</a>
       </td>
     </tr>
 
@@ -7234,7 +7234,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/03/22/akeem-jordan-signs-tender/">3/22/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/03/22/akeem-jordan-signs-tender/">3/22/2010</a>
       </td>
     </tr>
 
@@ -7746,7 +7746,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/03/05/alfonso-boone-stays-in-san-diego/">3/5/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/03/05/alfonso-boone-stays-in-san-diego/">3/5/2010</a>
       </td>
     </tr>
 
@@ -7851,7 +7851,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/03/06/osgoods-new-deal-pays-him-3-million-this-year-a-lot-more-based-on-receptions/">3/5/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/03/06/osgoods-new-deal-pays-him-3-million-this-year-a-lot-more-based-on-receptions/">3/5/2010</a>
       </td>
     </tr>
 
@@ -7913,7 +7913,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/03/14/tomlinson-picks-the-jets/">3/14/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/03/14/tomlinson-picks-the-jets/">3/14/2010</a>
       </td>
     </tr>
 
@@ -7957,7 +7957,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/03/05/kris-wilson-stays-with-chargers/">3/5/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/03/05/kris-wilson-stays-with-chargers/">3/5/2010</a>
       </td>
     </tr>
 
@@ -8028,7 +8028,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/03/08/steelers-continue-special-teams-spree-with-battle/">3/8/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/03/08/steelers-continue-special-teams-spree-with-battle/">3/8/2010</a>
       </td>
     </tr>
 
@@ -8133,7 +8133,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/03/15/panthers-pick-up-marcus-hudson/">3/15/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/03/15/panthers-pick-up-marcus-hudson/">3/15/2010</a>
       </td>
     </tr>
 
@@ -8267,7 +8267,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/nfl/news/story?id=4967481">3/5/2010</a>
+        <a href="https://sports.espn.go.com/nfl/news/story?id=4967481">3/5/2010</a>
       </td>
     </tr>
 
@@ -8309,7 +8309,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://bleacherreport.com/articles/372128-giants-re-sign-feagles-add-safety-deon-grant">4/1/2010</a>
+        <a href="https://bleacherreport.com/articles/372128-giants-re-sign-feagles-add-safety-deon-grant">4/1/2010</a>
       </td>
     </tr>
 
@@ -8605,7 +8605,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/03/06/rams-re-sign-craig-dahl/">3/5/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/03/06/rams-re-sign-craig-dahl/">3/5/2010</a>
       </td>
     </tr>
 
@@ -8627,7 +8627,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/03/11/more-details-on-the-daniel-fells-deal/">3/10/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/03/11/more-details-on-the-daniel-fells-deal/">3/10/2010</a>
       </td>
     </tr>
 
@@ -8670,7 +8670,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://nbcsports.msnbc.com/id/35986674/ns/sports-player_news/">3/22/2010</a>
+        <a href="https://nbcsports.msnbc.com/id/35986674/ns/sports-player_news/">3/22/2010</a>
       </td>
     </tr>
 
@@ -8712,7 +8712,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://ktar.com/?nid=229&sid=1274265">3/15/2010</a>
+        <a href="https://ktar.com/?nid=229&sid=1274265">3/15/2010</a>
       </td>
     </tr>
 
@@ -8776,7 +8776,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/03/19/rams-bring-back-massey/">3/19/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/03/19/rams-bring-back-massey/">3/19/2010</a>
       </td>
     </tr>
 
@@ -8889,7 +8889,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/03/08/allen-steelers-make-a-deal/">3/8/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/03/08/allen-steelers-make-a-deal/">3/8/2010</a>
       </td>
     </tr>
 
@@ -8911,7 +8911,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/03/23/redskins-pick-up-bidwell/">3/23/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/03/23/redskins-pick-up-bidwell/">3/23/2010</a>
       </td>
     </tr>
 
@@ -8955,7 +8955,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/nfl/news/story?id=4982988">3/10/2010</a>
+        <a href="https://sports.espn.go.com/nfl/news/story?id=4982988">3/10/2010</a>
       </td>
     </tr>
 
@@ -9021,7 +9021,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://seattletimes.nwsource.com/html/seahawksblog/2011362360_seahawks_add_li.html">3/16/2010</a>
+        <a href="https://seattletimes.nwsource.com/html/seahawksblog/2011362360_seahawks_add_li.html">3/16/2010</a>
       </td>
     </tr>
 
@@ -9257,7 +9257,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://twitter.com/joereedy/statuses/10379767696">3/12/2010</a>
+        <a href="https://twitter.com/joereedy/statuses/10379767696">3/12/2010</a>
       </td>
     </tr>
 
@@ -9299,7 +9299,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/03/12/titans-re-sign-rod-hood/">3/12/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/03/12/titans-re-sign-rod-hood/">3/12/2010</a>
       </td>
     </tr>
 
@@ -9381,7 +9381,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/03/16/scaife-signs-his-tender/">3/16/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/03/16/scaife-signs-his-tender/">3/16/2010</a>
       </td>
     </tr>
 
@@ -9403,7 +9403,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/03/05/schwartz-shows-up-at-vanden-boschs-house/">3/5/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/03/05/schwartz-shows-up-at-vanden-boschs-house/">3/5/2010</a>
       </td>
     </tr>
 
@@ -9451,7 +9451,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://msn.foxsports.com/nfl">3/5/2010</a>
+        <a href="https://msn.foxsports.com/nfl">3/5/2010</a>
       </td>
     </tr>
 
@@ -9536,7 +9536,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://voices.washingtonpost.com/redskinsinsider/phillip-daniels-redskins-agree.html">3/5/2010</a>
+        <a href="https://voices.washingtonpost.com/redskinsinsider/phillip-daniels-redskins-agree.html">3/5/2010</a>
       </td>
     </tr>
 
@@ -9558,7 +9558,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://twitter.com/davidcanter/statuses/10651599443">3/17/2010</a>
+        <a href="https://twitter.com/davidcanter/statuses/10651599443">3/17/2010</a>
       </td>
     </tr>
 
@@ -9642,7 +9642,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/03/05/philip-daniels-returns-to-redskins/">3/5/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/03/05/philip-daniels-returns-to-redskins/">3/5/2010</a>
       </td>
     </tr>
 
@@ -9726,7 +9726,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://espn.go.com/blog/chicago/bears/post/_/id/4664492/bears-sign-fb-williams-to-one-year-deal">3/10/2010</a>
+        <a href="https://espn.go.com/blog/chicago/bears/post/_/id/4664492/bears-sign-fb-williams-to-one-year-deal">3/10/2010</a>
       </td>
     </tr>
 
@@ -9748,7 +9748,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://profootballtalk.nbcsports.com/2010/03/05/redskins-making-moves-on-offensive-line/">3/5/2010</a>
+        <a href="https://profootballtalk.nbcsports.com/2010/03/05/redskins-making-moves-on-offensive-line/">3/5/2010</a>
       </td>
     </tr>
 
@@ -9770,7 +9770,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://gridironfans.com/forums/latest-nfl-headlines/126489-redskins-re-sign-lb-chris-wilson.html">3/26/2010</a>
+        <a href="https://gridironfans.com/forums/latest-nfl-headlines/126489-redskins-re-sign-lb-chris-wilson.html">3/26/2010</a>
       </td>
     </tr>
 
@@ -9813,5 +9813,6 @@ tags:
       <td>
       </td>
     </tr>
+
   </table>
 </div>

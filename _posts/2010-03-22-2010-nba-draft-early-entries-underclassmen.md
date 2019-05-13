@@ -1,6 +1,6 @@
 ---
 id: 4800
-title: "2010 NBA Draft Early Entries - Underclassmen"
+title: '2010 NBA Draft Early Entries - Underclassmen'
 date: 2010-03-22T12:01:14+00:00
 author: Matt B.
 layout: post
@@ -99,7 +99,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://sports.espn.go.com/nba/draft2010/news/story?id=5037979">3/29/2010</a>
+        <a href="https://sports.espn.go.com/nba/draft2010/news/story?id=5037979">3/29/2010</a>
       </td>
     </tr>
 
@@ -514,7 +514,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://seattletimes.nwsource.com/html/seattleuniversity/2011289919_seattleu09.html">3/8/2010</a>
+        <a href="https://seattletimes.nwsource.com/html/seattleuniversity/2011289919_seattleu09.html">3/8/2010</a>
       </td>
     </tr>
 
@@ -540,7 +540,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://dimemag.com/2010/03/paul-george-declares-for-nba-draft-on-twitter/">3/15/2010</a>
+        <a href="https://dimemag.com/2010/03/paul-george-declares-for-nba-draft-on-twitter/">3/15/2010</a>
       </td>
     </tr>
 
@@ -722,7 +722,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://www2.tbo.com/content/2010/mar/23/240300/jones-submits-name-nba-draft/">3/23/2010</a>
+        <a href="https://www2.tbo.com/content/2010/mar/23/240300/jones-submits-name-nba-draft/">3/23/2010</a>
       </td>
     </tr>
 
@@ -774,7 +774,7 @@ tags:
       </td>
 
       <td>
-        <a href="http://bleacherreport.com/articles/367756-sylven-landesberg-reportedly-declaring-for-nba-draft">3/23/2010</a>
+        <a href="https://bleacherreport.com/articles/367756-sylven-landesberg-reportedly-declaring-for-nba-draft">3/23/2010</a>
       </td>
     </tr>
 
@@ -1342,5 +1342,6 @@ tags:
         4/12/2010
       </td>
     </tr>
+
   </table>
 </div>

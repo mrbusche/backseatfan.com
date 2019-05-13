@@ -1,6 +1,6 @@
 ---
 id: 7543
-title: "Daily Spin: MLB Trades, PTI on LeBron James Story, Haynesworth Fails Conditioning? Again"
+title: 'Daily Spin: MLB Trades, PTI on LeBron James Story, Haynesworth Fails Conditioning? Again'
 date: 2010-07-30T14:32:53+00:00
 author: Ryan M.
 layout: post
@@ -35,11 +35,11 @@ tags:
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/mlb/news/story?id=5421810">Nationals trade Matt Capps to Twins</a> for catcher Wilson Ramos and minor league left-hander Joe Testa?  [via <a href="http://sports.espn.go.com/mlb/news/story?id=5421810">ESPN</a>]
+    <a href="https://sports.espn.go.com/mlb/news/story?id=5421810">Nationals trade Matt Capps to Twins</a> for catcher Wilson Ramos and minor league left-hander Joe Testa?  [via <a href="https://sports.espn.go.com/mlb/news/story?id=5421810">ESPN</a>]
   </p>
 
   <p>
-    <a href="http://msn.foxsports.com/mlb/story/Fan-receives-jail-time-for-vomit-assault-at-Phillies-game-073010">Phillies fan gets up to 3 months in jail</a> for assaulting  11 year old girl with his puke? This guy was pretty disgusting, he should also be puked on every day for his punishment? [via <a href="http://msn.foxsports.com/mlb/story/Fan-receives-jail-time-for-vomit-assault-at-Phillies-game-073010">Fox Sports</a>]
+    <a href="https://msn.foxsports.com/mlb/story/Fan-receives-jail-time-for-vomit-assault-at-Phillies-game-073010">Phillies fan gets up to 3 months in jail</a> for assaulting  11 year old girl with his puke? This guy was pretty disgusting, he should also be puked on every day for his punishment? [via <a href="https://msn.foxsports.com/mlb/story/Fan-receives-jail-time-for-vomit-assault-at-Phillies-game-073010">Fox Sports</a>]
   </p>
 
   <p>
@@ -47,7 +47,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://voices.washingtonpost.com/redskinsinsider/albert-haynesworth/albert-haynesworth-apparently.html">Albert Haynesworth failed his conditioning</a> test yesterday? And this morning? <You can go ahead and insert fat joke here> ?  [via <a href="http://voices.washingtonpost.com/redskinsinsider/albert-haynesworth/albert-haynesworth-apparently.html">Washington Post</a>]
+    <a href="https://voices.washingtonpost.com/redskinsinsider/albert-haynesworth/albert-haynesworth-apparently.html">Albert Haynesworth failed his conditioning</a> test yesterday? And this morning? <You can go ahead and insert fat joke here> ?  [via <a href="https://voices.washingtonpost.com/redskinsinsider/albert-haynesworth/albert-haynesworth-apparently.html">Washington Post</a>]
   </p>
 
   <p style="text-align: center;">

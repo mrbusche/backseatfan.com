@@ -26,26 +26,26 @@ categories:
   </p>
 
   <p>
-    <a href="http://twitter.com/ddockett/status/6425786535">Darnell Dockett</a> - <span><span>I want to send a shout outfor Ej henderson, #56 from the vikings, my prayers are with ya homie - he got hurt really bad in tonights game!</span></span>
+    <a href="https://twitter.com/ddockett/status/6425786535">Darnell Dockett</a> - <span><span>I want to send a shout outfor Ej henderson, #56 from the vikings, my prayers are with ya homie - he got hurt really bad in tonights game!</span></span>
   </p>
 
   <p>
-    <span><span><a href="http://twitter.com/Adam_Schefter/status/6428393872">Adam Schefter</a> - </span></span><span><span>For those asking about Vikings LB E.J. Henderson, he fractured his femur, will undergo surgery and will miss the season. Brutal injury..</span></span>
+    <span><span><a href="https://twitter.com/Adam_Schefter/status/6428393872">Adam Schefter</a> - </span></span><span><span>For those asking about Vikings LB E.J. Henderson, he fractured his femur, will undergo surgery and will miss the season. Brutal injury..</span></span>
   </p>
 
   <p>
-    <span><span><a href="http://twitter.com/JuddZulgad/status/6424411450">Judd Zulgad</a> - </span></span><span><span>Chip's story on MLB E.J. Henderson's fractured femur that had players visibly shaken after the Vikings' loss. <a rel="nofollow" href="http://twi.cc/SFMf" target="_blank">http://twi.cc/SFMf</a></span></span>
+    <span><span><a href="https://twitter.com/JuddZulgad/status/6424411450">Judd Zulgad</a> - </span></span><span><span>Chip's story on MLB E.J. Henderson's fractured femur that had players visibly shaken after the Vikings' loss. <a rel="nofollow" href="https://twi.cc/SFMf" target="_blank">https://twi.cc/SFMf</a></span></span>
   </p>
 
   <p>
-    <span><span><a href="http://twitter.com/vshiancoe/status/6424014826">Visanthe Shiancoe</a> - </span></span><span><span>My prayers go out to E.J Henderson and his family. GOD please be with him.. We play an extremely violent sport?</span></span>
+    <span><span><a href="https://twitter.com/vshiancoe/status/6424014826">Visanthe Shiancoe</a> - </span></span><span><span>My prayers go out to E.J Henderson and his family. GOD please be with him.. We play an extremely violent sport?</span></span>
   </p>
 
   <p>
-    <span><span><a href="http://twitter.com/Lfitzgerald11/status/6423387607">Larry Fitzgerald</a> - </span></span><span><span>B4 u guys go 2 sleep please b sure 2 say a prayer 4 EJ Henderson who was hurt pretty badly 2night.God bless him w/ a speedy recovery</span></span>
+    <span><span><a href="https://twitter.com/Lfitzgerald11/status/6423387607">Larry Fitzgerald</a> - </span></span><span><span>B4 u guys go 2 sleep please b sure 2 say a prayer 4 EJ Henderson who was hurt pretty badly 2night.God bless him w/ a speedy recovery</span></span>
   </p>
 
   <p>
-    <span><span><a href="http://twitter.com/fb_outsiders/status/6421427863">Football Outsiders</a> - </span></span><span><span>Poor E.J. Henderson. Just did something some gruesome to his leg a year after he dislocated multiple toes.</span></span>
+    <span><span><a href="https://twitter.com/fb_outsiders/status/6421427863">Football Outsiders</a> - </span></span><span><span>Poor E.J. Henderson. Just did something some gruesome to his leg a year after he dislocated multiple toes.</span></span>
   </p>
 </div>

@@ -1,6 +1,6 @@
 ---
 id: 6738
-title: "Daily Spin: Jeremy Green busted for Child Porn, David Lee to Golden State, Cliff Lee might goto Yankees"
+title: 'Daily Spin: Jeremy Green busted for Child Porn, David Lee to Golden State, Cliff Lee might goto Yankees'
 date: 2010-07-09T13:42:25+00:00
 author: Ryan M.
 layout: post
@@ -44,7 +44,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://seattletimes.nwsource.com/html/marinersblog/2012316589_will_cliff_lee_be_pitching_aga.html">Cliff Lee Might be headed to the Yankees</a> for prospect Jesus Montero and others?  If the deal goes through today, technically he could suit up against the Mariners tonight.  Weird.  [via <a href="http://seattletimes.nwsource.com/html/marinersblog/2012316589_will_cliff_lee_be_pitching_aga.html">Seattle Times</a>]
+    <a href="https://seattletimes.nwsource.com/html/marinersblog/2012316589_will_cliff_lee_be_pitching_aga.html">Cliff Lee Might be headed to the Yankees</a> for prospect Jesus Montero and others?  If the deal goes through today, technically he could suit up against the Mariners tonight.  Weird.  [via <a href="https://seattletimes.nwsource.com/html/marinersblog/2012316589_will_cliff_lee_be_pitching_aga.html">Seattle Times</a>]
   </p>
 
   <p>

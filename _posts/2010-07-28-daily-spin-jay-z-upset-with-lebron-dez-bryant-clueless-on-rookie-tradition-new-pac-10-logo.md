@@ -1,6 +1,6 @@
 ---
 id: 7367
-title: "Daily Spin:  Jay-Z Upset with LeBron, Dez Bryant Clueless on Rookie Tradition, New Pac 10 Logo"
+title: 'Daily Spin:  Jay-Z Upset with LeBron, Dez Bryant Clueless on Rookie Tradition, New Pac 10 Logo'
 date: 2010-07-28T11:07:05+00:00
 author: Ryan M.
 layout: post
@@ -29,7 +29,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://sportsillustrated.cnn.com/2010/football/nfl/07/27/cowboys.ap/index.html?eref=sihp">Dez Bryant Backtracks</a>, says he didn't know about rookie traditions?  I think he realized he didn't want to find 100 lbs of meat in his car? [via <a href="http://sportsillustrated.cnn.com/2010/football/nfl/07/27/cowboys.ap/index.html?eref=sihp">SI.com</a>]
+    <a href="https://sportsillustrated.cnn.com/2010/football/nfl/07/27/cowboys.ap/index.html?eref=sihp">Dez Bryant Backtracks</a>, says he didn't know about rookie traditions?  I think he realized he didn't want to find 100 lbs of meat in his car? [via <a href="https://sportsillustrated.cnn.com/2010/football/nfl/07/27/cowboys.ap/index.html?eref=sihp">SI.com</a>]
   </p>
 
   <p>
@@ -37,7 +37,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://img821.imageshack.us/img821/5829/bloglebronespn.jpg">ESPN yanked this story about LeBron James</a> Earlier Today, it was entitled "<a href="http://img821.imageshack.us/img821/5829/bloglebronespn.jpg">A Kid in King James' Court</a>"? Not sure why they yanked it, it didn't seem that bad? [via<a href="http://bit.ly/9l3QKW "> Sporting News' @ChrisLittmann</a>]
+    <a href="https://img821.imageshack.us/img821/5829/bloglebronespn.jpg">ESPN yanked this story about LeBron James</a> Earlier Today, it was entitled "<a href="https://img821.imageshack.us/img821/5829/bloglebronespn.jpg">A Kid in King James' Court</a>"? Not sure why they yanked it, it didn't seem that bad? [via<a href="https://bit.ly/9l3QKW "> Sporting News' @ChrisLittmann</a>]
   </p>
 
   <p>
@@ -49,7 +49,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://content.usatoday.com/communities/dailypitch/post/2010/07/strasburg-diagnosis-shoulder-inflamation/1">Stephen Strasburg has shoulder inflammation</a>, according to an MRI and X-rays but nothing serious? Miguel Batista pitched instead, it was his first start in 2 years, and he pitched a winning game for the Nationals?  I don't like Batista's quote though, he is anti Iowa.
+    <a href="https://content.usatoday.com/communities/dailypitch/post/2010/07/strasburg-diagnosis-shoulder-inflamation/1">Stephen Strasburg has shoulder inflammation</a>, according to an MRI and X-rays but nothing serious? Miguel Batista pitched instead, it was his first start in 2 years, and he pitched a winning game for the Nationals?  I don't like Batista's quote though, he is anti Iowa.
   </p>
 
   <blockquote>
@@ -59,7 +59,7 @@ tags:
   </blockquote>
 
   <p>
-    I think it's more like imagine if you went to a game where you expected a to see Miss Universe, but instead you saw Miss "65 year old grandma" that thinks shes young and pretty but is really old, wrinkly, and saggy; and should probably realize it is about time to retire?<br /> [via <a href="http://content.usatoday.com/communities/dailypitch/post/2010/07/strasburg-diagnosis-shoulder-inflamation/1">USA Today</a>]
+    I think it's more like imagine if you went to a game where you expected a to see Miss Universe, but instead you saw Miss "65 year old grandma" that thinks shes young and pretty but is really old, wrinkly, and saggy; and should probably realize it is about time to retire?<br /> [via <a href="https://content.usatoday.com/communities/dailypitch/post/2010/07/strasburg-diagnosis-shoulder-inflamation/1">USA Today</a>]
   </p>
 
   <p>

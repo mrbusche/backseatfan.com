@@ -19,11 +19,11 @@ tags:
 
 <div class="entry">
   <p>
-    This was quite the shocker. I read the headlines on <a href="http://profootballtalk.nbcsports.com/2010/04/03/glazer-redskins-among-teams-to-inquire-about-mcnabb/">Pro Football Talk</a> last week that the Redskins inquired about McNabb. I thought to myself, why the hell would they do that, there is no chance in hell that they could get McNabb.
+    This was quite the shocker. I read the headlines on <a href="https://profootballtalk.nbcsports.com/2010/04/03/glazer-redskins-among-teams-to-inquire-about-mcnabb/">Pro Football Talk</a> last week that the Redskins inquired about McNabb. I thought to myself, why the hell would they do that, there is no chance in hell that they could get McNabb.
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/nfl/news/story?id=5055346">They Did</a>.
+    <a href="https://sports.espn.go.com/nfl/news/story?id=5055346">They Did</a>.
   </p>
 
   <p>

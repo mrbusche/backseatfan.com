@@ -22,11 +22,11 @@ tags:
 
 <div class="entry">
   <p>
-    The Carolina Panthers and QB Jimmy Clausen have reached an agreement just in time for the opening of training camp today. Adam Schefter of ESPN reports it is a <a href="http://twitter.com/Adam_Schefter/statuses/19733498690">4 year deal</a>.
+    The Carolina Panthers and QB Jimmy Clausen have reached an agreement just in time for the opening of training camp today. Adam Schefter of ESPN reports it is a <a href="https://twitter.com/Adam_Schefter/statuses/19733498690">4 year deal</a>.
   </p>
 
   <p>
-    Carolina Panthers beat writer Darin Gantt reports the <a href="http://twitter.com/daringantt/status/19736044668">max value of Clausen's deal is $6.3 million</a> if he hits all incentives and escalators. The deal includes $2.533 million in guaranteed money.
+    Carolina Panthers beat writer Darin Gantt reports the <a href="https://twitter.com/daringantt/status/19736044668">max value of Clausen's deal is $6.3 million</a> if he hits all incentives and escalators. The deal includes $2.533 million in guaranteed money.
   </p>
 
   <p>

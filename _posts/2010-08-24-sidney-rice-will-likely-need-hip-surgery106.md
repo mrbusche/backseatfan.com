@@ -17,7 +17,7 @@ categories:
   - NFL
   - NFL News
 tags:
-  - "#bsf"
+  - '#bsf'
   - Minnesota Vikings
   - Sidney Rice
   - surgery
@@ -41,6 +41,6 @@ tags:
   </p>
 
   <p>
-    UPDATE: According to <a href="http://twitter.com/chipscoggins/statuses/21999406230">Chip Scoggins</a> of the Star Tribune Rice had hip surgery today and it 'went well'.
+    UPDATE: According to <a href="https://twitter.com/chipscoggins/statuses/21999406230">Chip Scoggins</a> of the Star Tribune Rice had hip surgery today and it 'went well'.
   </p>
 </div>

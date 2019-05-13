@@ -25,7 +25,7 @@ tags:
   </p>
 
   <p>
-    I now declare myself a Phoenix Suns fan because I went to one game last year.  That's all it takes for me, because it was one game more than I have ever gone to in my entire life. I would really like to get into the NBA, it just seems hard.  I haven't really paid attention to the NBA since <a href="http://i.cdn.turner.com/si/2009/writers/ted_keith/04/08/jordan/michael-jordan-p1.jpg">Michael Jordan was playing</a>, and even then I didn't understand what I was seeing.
+    I now declare myself a Phoenix Suns fan because I went to one game last year.  That's all it takes for me, because it was one game more than I have ever gone to in my entire life. I would really like to get into the NBA, it just seems hard.  I haven't really paid attention to the NBA since <a href="https://i.cdn.turner.com/si/2009/writers/ted_keith/04/08/jordan/michael-jordan-p1.jpg">Michael Jordan was playing</a>, and even then I didn't understand what I was seeing.
   </p>
 
   <p>
@@ -40,7 +40,7 @@ tags:
   </p>
 
   <p>
-    2.  Their season is so damn  long.  I think this is why I love football and don't really pay attention to baseball after the first month.  For some reason I get really excited when baseball starts, I pay attention to stats and records. (<a href="http://sportsillustrated.cnn.com/2009/writers/joe_posnanski/04/28/zack.greinke/index.html">This is also when the Royals have a winning record</a>).  Then eventually I snap out of it because I realize they play 162 games, which is just ridiculous. MLB could probably cut that in half and make the season so much better.
+    2.  Their season is so damn  long.  I think this is why I love football and don't really pay attention to baseball after the first month.  For some reason I get really excited when baseball starts, I pay attention to stats and records. (<a href="https://sportsillustrated.cnn.com/2009/writers/joe_posnanski/04/28/zack.greinke/index.html">This is also when the Royals have a winning record</a>).  Then eventually I snap out of it because I realize they play 162 games, which is just ridiculous. MLB could probably cut that in half and make the season so much better.
   </p>
 
   <p>
@@ -52,22 +52,22 @@ tags:
   </p>
 
   <p>
-    3.  The playoffs for the NBA are horrible.  Why the hell do they play in best of  7 game eliminations?  Probably to earn money.  But other than that? It is stupid.  I can understand baseball, different pitchers rotate in and out, I think that should be shortened too.  But NBA?  Maybe 7 games determines the true winners, but that ruins upset specials, which is the reason why everyone loves March Madness.  I love seeing <a href="http://sportsillustrated.cnn.com/basketball/college/2001/ncaa_tourney/west/news/2001/03/15/hampton_iowastate_ap/">Hampton beat Iowa State</a>, or <a href="https://www.richmondspiders.com/sports/m-baskbl/spec-rel/102005aaj.html">Richmond beating Syracuse</a> (Go Spiders!).  Everyone loves this, right?  Otherwise people wouldn't watch Duke play University of Texas Southwest Christian Southern State A&M Tech.  People want to see <a href="http://sports.espn.go.com/nfl/playoffs07/news/story?id=3228916">David beat Goliath</a>.  Why can't the NBA Get this concept?
+    3.  The playoffs for the NBA are horrible.  Why the hell do they play in best of  7 game eliminations?  Probably to earn money.  But other than that? It is stupid.  I can understand baseball, different pitchers rotate in and out, I think that should be shortened too.  But NBA?  Maybe 7 games determines the true winners, but that ruins upset specials, which is the reason why everyone loves March Madness.  I love seeing <a href="https://sportsillustrated.cnn.com/basketball/college/2001/ncaa_tourney/west/news/2001/03/15/hampton_iowastate_ap/">Hampton beat Iowa State</a>, or <a href="https://www.richmondspiders.com/sports/m-baskbl/spec-rel/102005aaj.html">Richmond beating Syracuse</a> (Go Spiders!).  Everyone loves this, right?  Otherwise people wouldn't watch Duke play University of Texas Southwest Christian Southern State A&M Tech.  People want to see <a href="https://sports.espn.go.com/nfl/playoffs07/news/story?id=3228916">David beat Goliath</a>.  Why can't the NBA Get this concept?
   </p>
 
   <p>
-    They playoffs drag out for almost 3 months, which is just ridiculous.  I don't understand the concept of that, besides money, but maybe they should do a cost benefit analysis of how much money they would make if they had less playoff games. <a href="http://en.wikipedia.org/wiki/National_Basketball_Association_Nielsen_ratings"> People might watch them on TV then</a>.  You could still make a 16 team single elimination last a month.  It could could be must see TV like the NFL playoffs and the  <a href="https://www.nfl.com/superbowl/story?id=09000d5d80e89a4f&template=without-video-with-comments&confirm=true">Super Bowl</a> are. Or maybe the NBA could be just as exciting as the NCAA Tourny is.  The first round could take 1 week, the 2nd round could take 1 week, the 3rd round could be on a weekend, and the Finals could be like the Super Bowl.  It would be perfect.  People would pay attention, care, and probably love to watch it.  <a href="http://cache.boston.com/bonzai-fba/Globe_Photo/2008/04/29/1209470880_2063.jpg">Who the hell is running the NBA</a>?  Why don't they think of these things?!?!
+    They playoffs drag out for almost 3 months, which is just ridiculous.  I don't understand the concept of that, besides money, but maybe they should do a cost benefit analysis of how much money they would make if they had less playoff games. <a href="https://en.wikipedia.org/wiki/National_Basketball_Association_Nielsen_ratings"> People might watch them on TV then</a>.  You could still make a 16 team single elimination last a month.  It could could be must see TV like the NFL playoffs and the  <a href="https://www.nfl.com/superbowl/story?id=09000d5d80e89a4f&template=without-video-with-comments&confirm=true">Super Bowl</a> are. Or maybe the NBA could be just as exciting as the NCAA Tourny is.  The first round could take 1 week, the 2nd round could take 1 week, the 3rd round could be on a weekend, and the Finals could be like the Super Bowl.  It would be perfect.  People would pay attention, care, and probably love to watch it.  <a href="https://cache.boston.com/bonzai-fba/Globe_Photo/2008/04/29/1209470880_2063.jpg">Who the hell is running the NBA</a>?  Why don't they think of these things?!?!
   </p>
 
   <p>
-    Seriously Why wouldn't you want to have fan's and random coworkers of fan's go crazy over <a href="http://assets.espn.go.com/i/ncaa/09womens_bracket_blank.gif">braketology</a>?  It is the one thing where you need know knowledge of the sport to win.  It is always the old lady who picks the <a href="http://blogs.orlandosentinel.com/.a/6a00d83451c3cb69e20115704e3ef3970c-pi">prettiest jerseys</a> that wins.  Always. I know I would pay attention to the NBA more if it the playoffs didn't last three months.
+    Seriously Why wouldn't you want to have fan's and random coworkers of fan's go crazy over <a href="https://assets.espn.go.com/i/ncaa/09womens_bracket_blank.gif">braketology</a>?  It is the one thing where you need know knowledge of the sport to win.  It is always the old lady who picks the <a href="https://blogs.orlandosentinel.com/.a/6a00d83451c3cb69e20115704e3ef3970c-pi">prettiest jerseys</a> that wins.  Always. I know I would pay attention to the NBA more if it the playoffs didn't last three months.
   </p>
 
   <p>
-    Maybe I just solved all the problems in basketball, or maybe they were already known.  If the NBA commissioner was intelligent he would follow the NFL's business model.  They have the most fans and <a href="http://espn.go.com/sportsbusiness/s/forbes.html">make the most money</a>, and have the least games.  Figure it out.
+    Maybe I just solved all the problems in basketball, or maybe they were already known.  If the NBA commissioner was intelligent he would follow the NFL's business model.  They have the most fans and <a href="https://espn.go.com/sportsbusiness/s/forbes.html">make the most money</a>, and have the least games.  Figure it out.
   </p>
 
   <p>
-    I hope I can be a major fan of the NBA someday, but it is pretty hard to get into it.  The Suns are off to a great start, so maybe it will just take a few games for me to get into it.  Or a <a href="/images/2009/11/Bill-Simmons.jpg">new Commissioner</a>, or <a href="http://sports.espn.go.com/espn/page2/story?page=simmons/book/091021">a smart GM</a>.
+    I hope I can be a major fan of the NBA someday, but it is pretty hard to get into it.  The Suns are off to a great start, so maybe it will just take a few games for me to get into it.  Or a <a href="/images/2009/11/Bill-Simmons.jpg">new Commissioner</a>, or <a href="https://sports.espn.go.com/espn/page2/story?page=simmons/book/091021">a smart GM</a>.
   </p>
 </div>

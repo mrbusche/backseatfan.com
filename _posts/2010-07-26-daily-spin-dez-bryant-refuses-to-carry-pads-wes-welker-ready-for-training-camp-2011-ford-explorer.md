@@ -1,6 +1,6 @@
 ---
 id: 7282
-title: "Daily Spin: Dez Bryant Refuses to Carry Pads, Wes Welker Ready for Training Camp, 2011 Ford Explorer"
+title: 'Daily Spin: Dez Bryant Refuses to Carry Pads, Wes Welker Ready for Training Camp, 2011 Ford Explorer'
 date: 2010-07-26T15:34:05+00:00
 author: Ryan M.
 layout: post
@@ -23,11 +23,11 @@ tags:
 
 <div class="entry">
   <p>
-    Cowboys' rookie WR <a href="http://sports.espn.go.com/dallas/nfl/news/story?id=5409306">Dez Bryant refuses to carry Roy Williams pads</a>? Bryant doesn't want to participate in rookie hazing, he thinks that he was drafted to play football, not to carry pads? Everyone rookie does it, apparently Bryant thinks he is better than that, probably because he is going to start ahead of Roy Williams [via <a href="http://sports.espn.go.com/dallas/nfl/news/story?id=5409306">ESPN</a>]
+    Cowboys' rookie WR <a href="https://sports.espn.go.com/dallas/nfl/news/story?id=5409306">Dez Bryant refuses to carry Roy Williams pads</a>? Bryant doesn't want to participate in rookie hazing, he thinks that he was drafted to play football, not to carry pads? Everyone rookie does it, apparently Bryant thinks he is better than that, probably because he is going to start ahead of Roy Williams [via <a href="https://sports.espn.go.com/dallas/nfl/news/story?id=5409306">ESPN</a>]
   </p>
 
   <p>
-    <a href="http://cincinnati.com/blogs/bengals/2010/07/26/offer-made-for-to-decision-expected-in-next-48-hours/">Terrell Owens is rumored to be joining the Bengals or the Rams</a>? TO still has a little juice left in his tank, but do you want to deal with his diva-ness? [via <a href="http://cincinnati.com/blogs/bengals/2010/07/26/offer-made-for-to-decision-expected-in-next-48-hours/">Cincinnati Enquirer</a>]
+    <a href="https://cincinnati.com/blogs/bengals/2010/07/26/offer-made-for-to-decision-expected-in-next-48-hours/">Terrell Owens is rumored to be joining the Bengals or the Rams</a>? TO still has a little juice left in his tank, but do you want to deal with his diva-ness? [via <a href="https://cincinnati.com/blogs/bengals/2010/07/26/offer-made-for-to-decision-expected-in-next-48-hours/">Cincinnati Enquirer</a>]
   </p>
 
   <p>
@@ -39,7 +39,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://sports.yahoo.com/nba/news;_ylt=AkmmWCVTl373BRitUV4FlYA5nYcB?slug=ap-hornets-paul">Chris Paul didn't request a trade in his meeting</a>? Maybe he didn't request it but I am pretty sure the ownership knows he doesn't want to be there, unless they bring in some good players? [via <a href="http://sports.yahoo.com/nba/news;_ylt=AkmmWCVTl373BRitUV4FlYA5nYcB?slug=ap-hornets-paul">Yahoo Sports</a>]
+    <a href="https://sports.yahoo.com/nba/news;_ylt=AkmmWCVTl373BRitUV4FlYA5nYcB?slug=ap-hornets-paul">Chris Paul didn't request a trade in his meeting</a>? Maybe he didn't request it but I am pretty sure the ownership knows he doesn't want to be there, unless they bring in some good players? [via <a href="https://sports.yahoo.com/nba/news;_ylt=AkmmWCVTl373BRitUV4FlYA5nYcB?slug=ap-hornets-paul">Yahoo Sports</a>]
   </p>
 
   <p>

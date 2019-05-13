@@ -25,7 +25,7 @@ tags:
   </p>
 
   <p>
-    According to @<a href="http://twitter.com/Adam_Schefter" target="_blank">Adam_Schefter</a>: T.O.'s incentives: 60 catches - 333k; 100 C - 333k; 900 yds - 333k; 1300 yds - 333k; 10TD-333k; 14TD-333k. Total $2 mil.
+    According to @<a href="https://twitter.com/Adam_Schefter" target="_blank">Adam_Schefter</a>: T.O.'s incentives: 60 catches - 333k; 100 C - 333k; 900 yds - 333k; 1300 yds - 333k; 10TD-333k; 14TD-333k. Total $2 mil.
   </p>
 
   <p>

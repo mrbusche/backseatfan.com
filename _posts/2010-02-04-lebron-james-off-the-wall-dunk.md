@@ -25,6 +25,6 @@ tags:
   </p>
 
   <p>
-    Via [<a href="http://cityleaguehoops.tv/noyork.com/noyork-lebron-james-videos/in-practice-lebron-does-this/">No York</a>] - Devoted to keeping LeBron in Cleveland. They have really cool T-shirts, I just don't want to spend 20 dollars on one. Send one to me and I'll it to support No York in scottsdale!
+    Via [<a href="https://cityleaguehoops.tv/noyork.com/noyork-lebron-james-videos/in-practice-lebron-does-this/">No York</a>] - Devoted to keeping LeBron in Cleveland. They have really cool T-shirts, I just don't want to spend 20 dollars on one. Send one to me and I'll it to support No York in scottsdale!
   </p>
 </div>

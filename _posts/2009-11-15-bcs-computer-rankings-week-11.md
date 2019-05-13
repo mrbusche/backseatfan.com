@@ -1,6 +1,6 @@
 ---
 id: 2629
-title: "BCS Computer Rankings -  Week 11"
+title: 'BCS Computer Rankings -  Week 11'
 date: 2009-11-15T13:00:45+00:00
 author: Ryan M.
 layout: post
@@ -27,11 +27,11 @@ categories:
   </p>
 
   <p>
-    1. <strong><a href="http://espn.go.com/college-football/rankings/_/poll/5">Harris Interactive Poll</a></strong>
+    1. <strong><a href="https://espn.go.com/college-football/rankings/_/poll/5">Harris Interactive Poll</a></strong>
   </p>
 
   <p>
-    2. <strong><a href="http://espn.go.com/college-football/rankings/_/poll/2">Coaches Poll</a></strong>
+    2. <strong><a href="https://espn.go.com/college-football/rankings/_/poll/2">Coaches Poll</a></strong>
   </p>
 
   <p>
@@ -39,7 +39,7 @@ categories:
   </p>
 
   <p>
-    <strong><a href="http://prwolfe.bol.ucla.edu/cfootball/ratings.htm">Peter Wolfe</a></strong><br /> <a href="https://www.colleyrankings.com/"><strong>Wes Colley</strong></a><br /> <strong><a href="https://www.usatoday.com/sports/sagarin/fbt09.htm">Sagarin</a></strong><br /> <strong><a href="https://www.andersonsports.com/">Anderson/Hester Seattle Times</a></strong><br /> <strong><a href="https://www.cfrc.com/">Richard Billingsley</a></strong><br /> <strong><a href="https://www.masseyratings.com/">Kenneth Massey</a></strong>
+    <strong><a href="https://prwolfe.bol.ucla.edu/cfootball/ratings.htm">Peter Wolfe</a></strong><br /> <a href="https://www.colleyrankings.com/"><strong>Wes Colley</strong></a><br /> <strong><a href="https://www.usatoday.com/sports/sagarin/fbt09.htm">Sagarin</a></strong><br /> <strong><a href="https://www.andersonsports.com/">Anderson/Hester Seattle Times</a></strong><br /> <strong><a href="https://www.cfrc.com/">Richard Billingsley</a></strong><br /> <strong><a href="https://www.masseyratings.com/">Kenneth Massey</a></strong>
   </p>
 
   <p>
@@ -79,9 +79,10 @@ categories:
       </td>
 
       <td style="color: #000000; font-size: 11px; cursor: text; margin: 8px;" valign="top">
-        <strong><a href="http://prwolfe.bol.ucla.edu/cfootball/ratings.htm">Wolfe</a></strong><br /> 1. Florida<br /> 2. Cincinnati<br /> 3. Alabama<br /> 4. TCU<br /> 5. Texas<br /> 6. Georgia Tech<br /> 7. Boise State<br /> 8. LSU<br /> 9. Oregon<br /> 10. Pittsburgh
+        <strong><a href="https://prwolfe.bol.ucla.edu/cfootball/ratings.htm">Wolfe</a></strong><br /> 1. Florida<br /> 2. Cincinnati<br /> 3. Alabama<br /> 4. TCU<br /> 5. Texas<br /> 6. Georgia Tech<br /> 7. Boise State<br /> 8. LSU<br /> 9. Oregon<br /> 10. Pittsburgh
       </td>
     </tr>
+
   </table>
 
   <p>

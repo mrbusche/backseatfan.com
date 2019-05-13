@@ -1,6 +1,6 @@
 ---
 id: 6929
-title: "Daily Spin: Brett Favre Still Undecided, Mike Tyson Interview, Ryan Reynolds Green Lantern"
+title: 'Daily Spin: Brett Favre Still Undecided, Mike Tyson Interview, Ryan Reynolds Green Lantern'
 date: 2010-07-15T15:18:13+00:00
 author: Ryan M.
 layout: post
@@ -25,7 +25,7 @@ tags:
 
 <div class="entry">
   <p>
-    Brett Favre still says he<a href="http://nfl.fanhouse.com/2010/07/15/brett-favre-on-2010-i-havent-decided-yet/"> hasn't decided yet</a>? He said he is still injured? That sounds like a good excuse for someone to join the team at the 4th preseason game? [via <a href="http://nfl.fanhouse.com/2010/07/15/brett-favre-on-2010-i-havent-decided-yet/">FanHouse</a>]
+    Brett Favre still says he<a href="https://nfl.fanhouse.com/2010/07/15/brett-favre-on-2010-i-havent-decided-yet/"> hasn't decided yet</a>? He said he is still injured? That sounds like a good excuse for someone to join the team at the 4th preseason game? [via <a href="https://nfl.fanhouse.com/2010/07/15/brett-favre-on-2010-i-havent-decided-yet/">FanHouse</a>]
   </p>
 
   <p>
@@ -37,7 +37,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://espn.go.com/blog/bigten/post/_/id/13762/lambeau-field-wants-big-ten-title-game">Lambeau Field wants the Big Ten title game</a>? I am all for snow bowls and snowy Big 10 title games, but Green Bay?!  It's freaking cold there in December.  Maybe the Big 10 should help Cleveland out and have them host it. [via <a href="http://espn.go.com/blog/bigten/post/_/id/13762/lambeau-field-wants-big-ten-title-game">ESPN</a>]
+    <a href="https://espn.go.com/blog/bigten/post/_/id/13762/lambeau-field-wants-big-ten-title-game">Lambeau Field wants the Big Ten title game</a>? I am all for snow bowls and snowy Big 10 title games, but Green Bay?!  It's freaking cold there in December.  Maybe the Big 10 should help Cleveland out and have them host it. [via <a href="https://espn.go.com/blog/bigten/post/_/id/13762/lambeau-field-wants-big-ten-title-game">ESPN</a>]
   </p>
 
   <p>
@@ -64,6 +64,6 @@ tags:
   </p>
 
   <p>
-    <a href="http://wearesexbob-omb.tumblr.com/post/816269813">Or is he Red Bacon?</a>
+    <a href="https://wearesexbob-omb.tumblr.com/post/816269813">Or is he Red Bacon?</a>
   </p>
 </div>

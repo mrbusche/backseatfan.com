@@ -1,6 +1,6 @@
 ---
 id: 8109
-title: "Daily Spin: Lou Gehrig might not of had Lou Gehrigs Disease, BYU is going Independent, Real vs Fake NFL Superfan"
+title: 'Daily Spin: Lou Gehrig might not of had Lou Gehrigs Disease, BYU is going Independent, Real vs Fake NFL Superfan'
 date: 2010-08-18T07:11:01+00:00
 author: Ryan M.
 layout: post
@@ -33,7 +33,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://content.usatoday.com/communities/campusrivalry/post/2010/08/reports-byu-to-leave-mountain-west-become-an-independent-in-football/1">BYU is going rouge in football</a>, they going to join Notre Dame and be part of the  independent league.  What a cop out.  I hate you Notre Dame. [via <a href="http://content.usatoday.com/communities/campusrivalry/post/2010/08/reports-byu-to-leave-mountain-west-become-an-independent-in-football/1">USA Today</a>]
+    <a href="https://content.usatoday.com/communities/campusrivalry/post/2010/08/reports-byu-to-leave-mountain-west-become-an-independent-in-football/1">BYU is going rouge in football</a>, they going to join Notre Dame and be part of the  independent league.  What a cop out.  I hate you Notre Dame. [via <a href="https://content.usatoday.com/communities/campusrivalry/post/2010/08/reports-byu-to-leave-mountain-west-become-an-independent-in-football/1">USA Today</a>]
   </p>
 
   <p>
@@ -61,7 +61,7 @@ tags:
   </p>
 
   <p>
-    Bobby Thomson, <a href="http://sports.espn.go.com/new-york/mlb/news/story?id=5471194">famous for the shot heard 'round the world</a>, died at the age of 86? One of the best baseball stories ever? [via <a href="http://sports.espn.go.com/new-york/mlb/news/story?id=5471194">ESPN</a>]
+    Bobby Thomson, <a href="https://sports.espn.go.com/new-york/mlb/news/story?id=5471194">famous for the shot heard 'round the world</a>, died at the age of 86? One of the best baseball stories ever? [via <a href="https://sports.espn.go.com/new-york/mlb/news/story?id=5471194">ESPN</a>]
   </p>
 
   <p>

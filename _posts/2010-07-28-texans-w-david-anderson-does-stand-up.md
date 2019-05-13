@@ -27,6 +27,6 @@ tags:
   </p>
 
   <p>
-    [via <a href="http://theoffsiderules.blogspot.com/2010/07/footballs-david-anderson-makes-futbol.html">The Offside Rules</a>]
+    [via <a href="https://theoffsiderules.blogspot.com/2010/07/footballs-david-anderson-makes-futbol.html">The Offside Rules</a>]
   </p>
 </div>

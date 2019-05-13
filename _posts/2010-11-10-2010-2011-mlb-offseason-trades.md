@@ -11,8 +11,8 @@ ply_custom:
 categories:
   - MLB
 tags:
-  - "2010"
-  - "2011"
+  - '2010'
+  - '2011'
   - mlb offseason trades
   - MLB Trades
 ---
@@ -87,7 +87,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://mlb.fanhouse.com/2010/12/09/orioles-to-trade-for-j-j-hardy-brendan-harris-re-sign-koji-ue/">Baltimore Orioles</a> acquired SS J.J. Hardy and INF Brendan Harris from Minnesota for RHP Jim Hoey, RHP Brett Jacobson and cash considerations.
+    <a href="https://mlb.fanhouse.com/2010/12/09/orioles-to-trade-for-j-j-hardy-brendan-harris-re-sign-koji-ue/">Baltimore Orioles</a> acquired SS J.J. Hardy and INF Brendan Harris from Minnesota for RHP Jim Hoey, RHP Brett Jacobson and cash considerations.
   </p>
 
   <p>
@@ -111,7 +111,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://chicago.cbslocal.com/2010/12/03/white-sox-trade-scott-linebrink/">Atlanta Braves</a> acquired RHP Scott Linebrink from the Chicago White Sox for RHP Kyle Cofield.
+    <a href="https://chicago.cbslocal.com/2010/12/03/white-sox-trade-scott-linebrink/">Atlanta Braves</a> acquired RHP Scott Linebrink from the Chicago White Sox for RHP Kyle Cofield.
   </p>
 
   <p>
@@ -123,7 +123,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://articles.latimes.com/2010/nov/30/sports/la-sp-newswire-20101201">St. Louis Cardinals</a> acquired INF Ryan Theriot from the Los Angeles Dodgers for RHP Blake Hawksworth.
+    <a href="https://articles.latimes.com/2010/nov/30/sports/la-sp-newswire-20101201">St. Louis Cardinals</a> acquired INF Ryan Theriot from the Los Angeles Dodgers for RHP Blake Hawksworth.
   </p>
 
   <p>
@@ -131,7 +131,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://sports.espn.go.com/mlb/news/story?id=5821482">Colorado Rockies</a> traded INF Clint Barmes to Houston Astros for RHP Felipe Paulino.
+    <a href="https://sports.espn.go.com/mlb/news/story?id=5821482">Colorado Rockies</a> traded INF Clint Barmes to Houston Astros for RHP Felipe Paulino.
   </p>
 
   <p>
@@ -155,7 +155,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://mlb.fanhouse.com/2010/11/13/cameron-maybin-trade-analysis/">San Diego Padres</a> acquired OF Cameron Maybin from the Florida Marlins for RHP Edward Mujica and RHP Ryan Webb.
+    <a href="https://mlb.fanhouse.com/2010/11/13/cameron-maybin-trade-analysis/">San Diego Padres</a> acquired OF Cameron Maybin from the Florida Marlins for RHP Edward Mujica and RHP Ryan Webb.
   </p>
 
   <p>
@@ -171,7 +171,7 @@ tags:
   </p>
 
   <p>
-    <a href="http://content.usatoday.com/communities/dailypitch/post/2010/11/as-acquire-outfielder-david-dejesus-trade-pitcher-vin-mazzaro-to-royals/1">Oakland Athletics</a> acquire OF David DeJesus from Kansas City Royals for SP Vin Mazzaro, minor league P Justin Marks
+    <a href="https://content.usatoday.com/communities/dailypitch/post/2010/11/as-acquire-outfielder-david-dejesus-trade-pitcher-vin-mazzaro-to-royals/1">Oakland Athletics</a> acquire OF David DeJesus from Kansas City Royals for SP Vin Mazzaro, minor league P Justin Marks
   </p>
 
   <p>
@@ -183,6 +183,6 @@ tags:
   </p>
 
   <p>
-    <a href="http://bleacherreport.com/articles/509929-colorado-rockies-trade-miguel-olivo">Toronto Blue Jays</a> acquired C Miguel Olivo from Colorado for a player to be named or cash considerations and declined the 2011 option on his contract, making him a free agent.
+    <a href="https://bleacherreport.com/articles/509929-colorado-rockies-trade-miguel-olivo">Toronto Blue Jays</a> acquired C Miguel Olivo from Colorado for a player to be named or cash considerations and declined the 2011 option on his contract, making him a free agent.
   </p>
 </div>

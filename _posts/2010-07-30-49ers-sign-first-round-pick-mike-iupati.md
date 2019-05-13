@@ -18,11 +18,11 @@ tags:
 
 <div class="entry">
   <p>
-    The San Francisco 49ers have signed first-round guard Mike Iupati <a href="http://twitter.com/Adam_Schefter/statuses/19925298110">to a five-year deal</a> according to ESPN's Adam Schefter.
+    The San Francisco 49ers have signed first-round guard Mike Iupati <a href="https://twitter.com/Adam_Schefter/statuses/19925298110">to a five-year deal</a> according to ESPN's Adam Schefter.
   </p>
 
   <p>
-    David White of the San Franciso Chronicle is reporting the deal is for <a href="http://twitter.com/bydavidwhite/statuses/19927426135">5 years $18.25 million with $10.8 million guaranteed</a>.
+    David White of the San Franciso Chronicle is reporting the deal is for <a href="https://twitter.com/bydavidwhite/statuses/19927426135">5 years $18.25 million with $10.8 million guaranteed</a>.
   </p>
 
   <p>

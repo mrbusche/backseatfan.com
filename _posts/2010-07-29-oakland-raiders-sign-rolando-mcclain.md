@@ -26,7 +26,7 @@ tags:
   </p>
 
   <p>
-    ESPN.com Insider <a href="http://twitter.com/Adam_Schefter/statuses/19829607517">Adam Schefter is reportin</a>g the deal is 5 years, $40million with $23 million guaranteed. McClain received a 13% increase of <a href="https://backseatfan.com/2009/05/2009-nfl-draft-rookie-signing-status/">last years #8 pick Eugene Monroe</a>, including $3.8M more in guaranteed money.
+    ESPN.com Insider <a href="https://twitter.com/Adam_Schefter/statuses/19829607517">Adam Schefter is reportin</a>g the deal is 5 years, $40million with $23 million guaranteed. McClain received a 13% increase of <a href="https://backseatfan.com/2009/05/2009-nfl-draft-rookie-signing-status/">last years #8 pick Eugene Monroe</a>, including $3.8M more in guaranteed money.
   </p>
 
   <p>
