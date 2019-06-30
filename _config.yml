@@ -47,6 +47,4 @@ description: ""
 #   - vendor/gems/
 #   - vendor/ruby/
 
-jekyll_analytics:
-  GoogleAnalytics:
-    id: UA-9062960-1
+google_analytics: UA-9062960-1
