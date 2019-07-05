@@ -21,15 +21,7 @@ ply_custom:
   </p>
 
   <p>
-    <strong>Email Us:  <a href="mailto:info@backseatfan.com">info@backseatfan.com</a></strong>
-  </p>
-
-  <p>
-    <strong>Email Ryan:  <a href="mailto:ryan@backseatfan.com">Ryan@BackseatFan.com</a><br /> </strong>
-  </p>
-
-  <p>
-    <strong>Email Matt:   <a href="mailto:matt@backseatfan.com">Matt@BackseatFan.com</a><br /> </strong>
+    <strong>Email Us:  <a href="mailto:backseatfan@gmail.com">backseatfan@gmail.com</a></strong>
   </p>
 
   <p>
@@ -40,6 +32,4 @@ ply_custom:
     Or Check us out on TV - We were featured on ESPN's SportsNation as the Site We Like of the day
   </p>
 
-  <p>
-  </p>
 </div>
